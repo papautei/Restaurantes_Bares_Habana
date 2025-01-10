@@ -1,0 +1,137 @@
+{
+    "Name": "Habana Tokio",
+    "Specialty": [
+        "Japonesa"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obrapia entre Bernaza y Villegas",
+        "Coords.": "4JPV+WC"
+    },
+    "Contact": {
+        "Web": "habanatokio",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "59172392"
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Karaoke"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {
+                "Chicken teriyaki": 2400
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Flan": 600,
+                "Kakigori": 800
+            },
+            "Sides": {},
+            "Other": {
+                "Tempura udon": 2000,
+                "Tempura": 2300,
+                "Tempura de camaron": 3000,
+                "Tempura de calamar": 3000,
+                "Sushi mixto": 2750,
+                "Sushi de atun": 1750,
+                "Sushi de salmon": 2100,
+                "Chashu": 1000,
+                "Ramen": 2550,
+                "Ramen de camaron": 3000,
+                "Takoyaki": 1000,
+                "Yakitori": 2400,
+                "Tonkatsu": 2750,
+                "Karaage": 2400,
+                "Katsudon": 2850,
+                "Katsudon oyakudan": 2800,
+                "Yakisoba": 2750,
+                "Yakisoba de camaron": 3100,
+                "Yakisoba de calamar": 3100,
+                "Yakisoba de mariscos": 3100,
+                "Combo de habana tokio": 3900,
+                "Sashimi salmon": 4400,
+                "Sashimi de atun": 4200,
+                "Sashimi": 2200,
+                "Tataki": 2300,
+                "Nigiri": 2500,
+                "Sashimi (acompanhado de arroz y sopa)": 2900,
+                "Nigiri (acompanhado de sopa)": 2900,
+                "Sashimi de calamar": 2900
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

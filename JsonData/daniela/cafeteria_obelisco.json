@@ -1,0 +1,117 @@
+{
+    "Name": "Cafeteria obelisco",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Marianao",
+        "Address": "Avenida 31 ",
+        "Coords.": "3HMG+V7F"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            1800
+        ],
+        "Tuesday": [
+            900,
+            1800
+        ],
+        "Wednesday": [
+            900,
+            1800
+        ],
+        "Thursday": [
+            900,
+            1800
+        ],
+        "Friday": [
+            900,
+            1800
+        ],
+        "Saturday": [
+            900,
+            1800
+        ],
+        "Sunday": [
+            900,
+            1800
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Bolitas de carne": 20,
+                "Dados de queso": 180
+            },
+            "Bread": {
+                "Pan con queso y embutido": 250
+            },
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "Pizza de queso": 200
+            },
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {
+                "Frijol negro": 55,
+                "Arroz blanco": 70
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Agua saborizada": 50,
+                "Agua natural": 180,
+                "Cerveza cristal": 180,
+                "Vino blanco entre rio": 160,
+                "Vino blanco": 160,
+                "Cerveza": 50
+            }
+        }
+    }
+}

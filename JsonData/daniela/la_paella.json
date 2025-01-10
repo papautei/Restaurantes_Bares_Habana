@@ -1,0 +1,116 @@
+{
+    "Name": "La paella",
+    "Specialty": [
+        "Paella"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle oficios esquina obrapia",
+        "Coords.": "4MQ2+F9M"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "78011423"
+    },
+    "Schedule": {
+        "Monday": [
+            700,
+            2300
+        ],
+        "Tuesday": [
+            700,
+            2300
+        ],
+        "Wednesday": [
+            700,
+            2300
+        ],
+        "Thursday": [
+            700,
+            2300
+        ],
+        "Friday": [
+            700,
+            2300
+        ],
+        "Saturday": [
+            700,
+            2300
+        ],
+        "Sunday": [
+            700,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ensalada de vegetales frecos de temporada": 600,
+                "Seleccion de quesos con sus tostas, salsa catalana y mermelada": 2600,
+                "Croquetas melosas caseras con su alioli": 600,
+                "Parrillada de verduras al aceite de ajo": 750,
+                "Tortilla espanhola": 1500
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Flan casero": 250,
+                "Arroz con leche": 250,
+                "Plato de fruta de temporada": 450
+            },
+            "Sides": {},
+            "Other": {
+                "Paella de carnes mixtas": 1500,
+                "Paella de verduras de temporada": 750,
+                "Paella de nuestras costas": 2500,
+                "Paella de mar y tierra": 3400,
+                "Arroz cubano a la chorrera": 1500
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

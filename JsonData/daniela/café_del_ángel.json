@@ -1,0 +1,150 @@
+{
+    "Name": "Caf\u00e9 Del \u00c1ngel",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Chacon, Esquina Cuarteles y compostela",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "078015162"
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [
+            800,
+            2200
+        ],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Huevos & pesto": 2400,
+                "Del angel": 2500,
+                "Croissant madame": 2500,
+                "Omelette al queso": 1630,
+                "Americano": 2400,
+                "Pancakes": 1700,
+                "Continental": 1600,
+                "Bagel mordico": 2450,
+                "Yogurt parfait": 1360,
+                "Bagel catalan": 2450
+            },
+            "Appetizers": {
+                "Croquetas serrano": 1480,
+                "Rillete de cerdo": 1500,
+                "Tacos de cerdo": 2200,
+                "Mixto de brusquetas": 2200,
+                "Tacos de camarones": 2380,
+                "Empanadillas de cerdo": 1400,
+                "Tabla charcuteria": 4000
+            },
+            "Bread": {
+                "Hamburguesa de res": 3200,
+                "Sandwich de atun": 1530,
+                "Sandwich de vegetales": 1530,
+                "Sandwich cubano": 2600,
+                "Baguette de jamon y queso": 1600,
+                "Bocata catalana": 2400
+            },
+            "Chicken": {
+                "Pollo mediterraneo": 2340
+            },
+            "Pork": {
+                "Solomillo de cerdo": 4200,
+                "Costillas de cerdo": 4950
+            },
+            "Beef": {
+                "Ropa vieja": 3580
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetti pomodoro": 1880,
+                "Ragu de cordero": 3450,
+                "Ravioli carbonara": 3200,
+                "Espaguetti al pesto": 2200,
+                "Rigatoni amatriciana": 3200,
+                "Espaguetti altamar": 3450
+            },
+            "Seafood": {
+                "Pescado a la siciliana": 3580,
+                "Langosta caribenha": 5400
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Mousse de chocolate": 1925,
+                "Esfera de maracuya": 1925,
+                "Arroz con leche": 1500,
+                "Dados de guayaba": 1500
+            },
+            "Sides": {},
+            "Other": {
+                "Ensalada del angel": 2340
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

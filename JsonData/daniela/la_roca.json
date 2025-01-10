@@ -1,0 +1,170 @@
+{
+    "Name": "La Roca",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 21 entre M y L",
+        "Coords.": "4JR8+GGR"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": 7334501
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica en vivo"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Panes de la casa": 250,
+                "Entremes de jamon serrano": 1000,
+                "Entremes de jamon y queso": 450,
+                "Ensalada de atun": 350,
+                "Ensalada fria de pollo": 350,
+                "Croquetas del dia": 430
+            },
+            "Bread": {},
+            "Chicken": {
+                "Fuente de pollo": 950,
+                "1/4 de pollo": 600
+            },
+            "Pork": {
+                "Bistec de cerdo": 500,
+                "Masas de cerdo marinada": 1200,
+                "Bistec de cerdo grille": 600,
+                "Solomillo de cerdo": 1200,
+                "Lonjas de cerdo": 1200
+            },
+            "Beef": {
+                "Entrecot de res": 1500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetti napolitano": 400
+            },
+            "Seafood": {
+                "Langosta enchilada con vegetales": 2000,
+                "Langosta mariposa": 1800,
+                "Pescado": 1500
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Helado solitario": 90,
+                "Helado jimagua": 150,
+                "Copa de helado": 250
+            },
+            "Sides": {
+                "Arroz blanco": 200,
+                "Arroz moro": 250
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Refresco nacional": 80,
+                "Refresco importado": 90,
+                "Malta importada": 90,
+                "Cerveza nacional": 160,
+                "Cerveza importada": 175,
+                "Limonada frappe": 150,
+                "Jugo de frutas naturales": 150,
+                "Jugo de frutas importada": 90,
+                "Agua natural": 100,
+                "Agua carboonatada": 100,
+                "Bebida energizante": 200,
+                "Cafe espresso": 80,
+                "Cafe americano": 80,
+                "Cafe cortado": 90,
+                "Cafe capuccino": 130,
+                "Cafe bombon": 110,
+                "Cafe mulato": 90,
+                "Cafe irlandes": 170,
+                "Cafe mama ines": 140,
+                "Cafe al licor": 90,
+                "Cafe con vodka": 200,
+                "Te frio o caliente": 30,
+                "White horse": 200,
+                "Jhonny walker": 400,
+                "Vat 69": 250,
+                "Ballentine finest": 250,
+                "Chivas regal 12 anhos": 230,
+                "Royal whitehall de luxe": 300,
+                "Clan cambell": 300,
+                "Genlivet": 250,
+                "Ballentine 12 anhos": 400,
+                "Jaminson": 200,
+                "Whisky the gionlivet 15 anhos": 400,
+                "Whisky chivas regal 12 anhos": 450,
+                "Jhonny walker black": 500,
+                "Black & white": 200
+            }
+        }
+    }
+}

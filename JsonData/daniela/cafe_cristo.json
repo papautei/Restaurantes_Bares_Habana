@@ -1,0 +1,145 @@
+{
+    "Name": "Cafe cristo",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Paque cristo",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            0
+        ],
+        "Tuesday": [
+            1100,
+            0
+        ],
+        "Wednesday": [
+            1100,
+            0
+        ],
+        "Thursday": [
+            1100,
+            0
+        ],
+        "Friday": [
+            1100,
+            0
+        ],
+        "Saturday": [
+            1100,
+            0
+        ],
+        "Sunday": [
+            1100,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Show de Drag Queens"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Toston natural": 300,
+                "Toston chorrera": 400,
+                "Toston relleno": 450,
+                "Surtido de croqueta": 250,
+                "Eperlan": 1000,
+                "Cerdo juliana": 800,
+                "Pollo juliana": 800
+            },
+            "Bread": {
+                "Hamburguesa": 250,
+                "Pan con croqueta": 200,
+                "Pan con perro": 200
+            },
+            "Chicken": {
+                "Pollo asado": 750,
+                "Pollo en salsa": 780,
+                "Pollo a la barbacoa": 780
+            },
+            "Pork": {
+                "Fajas de cerdo": 800,
+                "Bistec de cerdo": 800,
+                "Lomo ahumado": 1100
+            },
+            "Beef": {},
+            "Pizza": {
+                "Pizza napolitana": 200,
+                "Familiar napolitana": 400,
+                "Hawaiana": 470,
+                "Familiar hawaiana": 670
+            },
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {
+                "Jamon": 200,
+                "Queso": 200,
+                "Pinha": 150,
+                "Pimiento": 150,
+                "Cebolla": 150
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Mojito": 300,
+                "Caipirisima": 350,
+                "Canchanchara": 350,
+                "Cuba libre": 300,
+                "Daiquiri": 300,
+                "Pinha colada": 550,
+                "Daiquiri sabor": 550,
+                "Sangria": 550,
+                "Gin tonic": 550,
+                "Vodka tonic": 550,
+                "Long island": 1500
+            }
+        }
+    }
+}

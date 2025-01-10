@@ -1,0 +1,125 @@
+{
+    "Name": "2KFE",
+    "Specialty": [
+        "Mexicana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Regla",
+        "Address": "Pereira entre Marti y Maceo",
+        "Coords.": "4MH8+57M"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Croquetas": 300,
+                "Viandas fritas": 100,
+                "Brusquetas": 250,
+                "Entremes surtido": 800,
+                "Mini gordon bleu": 800,
+                "Plato combinado": 1200
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {
+                "Tacos carnitas": 850,
+                "Tacos res": 900,
+                "Tacos pollo": 600,
+                "Tacos vegetariano": 400,
+                "Tacos jamon y queso": 650
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Espresso": 100,
+                "Americano": 100,
+                "Cortadito": 150,
+                "Con leche": 180,
+                "Caramel macchiato": 250,
+                "Cappuccino": 220,
+                "Frappuccino": 500,
+                "Irland\u00e9s": 250,
+                "Alma m\u00eda": 180,
+                "Minty coffee": 250,
+                "2kf": 250,
+                "Lujo": 600
+            }
+        }
+    }
+}

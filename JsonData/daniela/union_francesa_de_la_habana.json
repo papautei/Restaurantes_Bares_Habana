@@ -1,0 +1,215 @@
+{
+    "Name": "Union Francesa de la Habana",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "ONG",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 17 entre 23 y 21",
+        "Coords.": "4JJ2+P8Q"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            0
+        ],
+        "Tuesday": [
+            800,
+            0
+        ],
+        "Wednesday": [
+            800,
+            0
+        ],
+        "Thursday": [
+            800,
+            0
+        ],
+        "Friday": [
+            800,
+            0
+        ],
+        "Saturday": [
+            800,
+            0
+        ],
+        "Sunday": [
+            800,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Tostones rellenos": 750,
+                "Eperlan de pescado": 1000,
+                "Frituras de malanga": 500,
+                "Caldo del dia": 600,
+                "Fajitas de pollo": 600,
+                "Picadera de la casa": 3000,
+                "Entremes surtido": 3000
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo grille": 1200,
+                "Pechuga grille": 1500
+            },
+            "Pork": {
+                "Bistec de cerdo encebollado": 800,
+                "Lomo ahumado": 2000,
+                "Ropa vieja": 2000,
+                "Chuleton": 4800
+            },
+            "Beef": {
+                "Ropa vieja": 2500
+            },
+            "Pizza": {
+                "Pizza napolitana": 400
+            },
+            "Pasta": {
+                "Pasta napole": 800
+            },
+            "Seafood": {
+                "Filete de pescado grille": 2000,
+                "Filete de emperador": 4000,
+                "Empedrado": 4000,
+                "Salmon": 4000,
+                "Marisco enchilado": 2800,
+                "Marisco mariposa": 2500,
+                "Marisco reina": 3200,
+                "Camaron al gusto": 2300,
+                "Mariscada": 5000
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Helado": 450,
+                "Otros postres": 500
+            },
+            "Sides": {
+                "Arroz blanvo": 150,
+                "Arroz moro": 200,
+                "Ensalada mixta": 350,
+                "Vegetal salteado": 400,
+                "Tostones tradicionales": 400,
+                "Papas fritas": 600
+            },
+            "Other": {
+                "Mar y tierra": 4800,
+                "Arroz a la marinera": 4800
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Agua natural": 250,
+                "Agua gaseada": 280,
+                "Agua tonica": 350,
+                "Jugos naturales": 300,
+                "Jugos en conserva": 350,
+                "Limonada natural": 350,
+                "Limonada frappe": 350,
+                "Limonada frescura": 400,
+                "Malta": 400,
+                "Refresco": 400,
+                "Cerveza": 400,
+                "Cerveza parranda 500ml": 350,
+                "Cerveza parranda 1.500ml": 1000,
+                "Cerveza nacional": 450,
+                "Servicio de michelada/chelada": 150,
+                "Copa de vino": 500,
+                "Vino de la casa": 2500,
+                "Otros vinos(botella)": 3800,
+                "Ron collins": 450,
+                "Tom collins": 500,
+                "Mojito": 400,
+                "Cuba libre": 450,
+                "Pinha colada": 550,
+                "Cubata": 500,
+                "Daiquiri": 500,
+                "Sangria tropical": 900,
+                "Dri helada": 800,
+                "Daiquiri frutal": 700,
+                "Zombie": 800,
+                "Habana club anhejo blanco": 200,
+                "Habana club 3 anhos": 250,
+                "Habana club anhejo especial": 280,
+                "Habana club anhejo 7 anhos": 400,
+                "Habana club anhejo reserva": 300,
+                "Ritual": 300,
+                "Whiskey chivas regal 12 anhos": 550,
+                "Whiskey chivas regal 18 anhos": 1000,
+                "Whiskey valentine": 380,
+                "Whiskey clan cambell": 350,
+                "Otros whiskies economico": 250,
+                "Tequila blanco": 350,
+                "Tequila reposado": 450,
+                "Tres sombreros": 500,
+                "Vodka absolut": 450,
+                "Ginebra": 350,
+                "Seleccion de maestros": 650,
+                "Pacto de navio": 650,
+                "Crema y licores": 250,
+                "Smocky cubana": 450,
+                "Black jaret": 350,
+                "Ron conde cuba": 500,
+                "Mama juana": 500,
+                "Gin tonic": 600,
+                "Caipiroska": 550,
+                "Sangria": 600,
+                "Limonada paris": 450,
+                "San francisco": 700,
+                "Mary pick foard": 700,
+                "Limonada clarete": 700,
+                "Mojito de frutas": 700,
+                "Long island": 800,
+                "Fires man daiquiri": 800,
+                "Cafe expresso": 200,
+                "Cafe americano": 200,
+                "Cafe cortado": 250,
+                "Capuccino": 300,
+                "Frapuccino": 500
+            }
+        }
+    }
+}

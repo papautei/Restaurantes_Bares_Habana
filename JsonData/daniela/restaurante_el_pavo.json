@@ -1,0 +1,180 @@
+{
+    "Name": "Restaurante El Pavo",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Regla",
+        "Address": "San luis entre Via Blanca y 6ta",
+        "Coords.": "4MFJ+M6J"
+    },
+    "Contact": {
+        "Web": "Restaurante El pavo",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "524249439"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ensalada fr\u00eda de jamon": 600,
+                "Ensalada fr\u00eda de at\u00fan": 700,
+                "Croquetas": 500,
+                "Fajitas": 1200,
+                "Toston relleno de jamon": 500,
+                "Toston relleno": 500,
+                "Coctel de camaron": 1500,
+                "Bolitas de queso": 550,
+                "Garbanzo frito": 900,
+                "Eperlan": 1200,
+                "Entrem\u00e9s": 1000,
+                "Papas fritas": 550
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pechuga de pollo grille": 2900,
+                "Pollo grille": 2500,
+                "Pollo asado": 3200
+            },
+            "Pork": {
+                "Masa de cerdo": 1600,
+                "Cerdo a la milanesa": 1400,
+                "Bistec de cerdo": 1300,
+                "Bistec uruguayo": 2500,
+                "Lomo ahumado": 3200
+            },
+            "Beef": {
+                "Bistec de res": 2700,
+                "Ropa vieja": 2800
+            },
+            "Pizza": {
+                "Pizza napolitana": 800,
+                "Pizza de cebolla": 850,
+                "Pizza de bacon": 1000,
+                "Pizza de jamon": 1000,
+                "Pizza de chorizo": 1000,
+                "Pizza hawaiana": 1050,
+                "Pizza mixta": 1400,
+                "Pizza de carne": 1050,
+                "Pizza 4 estaciones": 2300,
+                "Pizza de atun/cebolla": 1300,
+                "Pizza de camarones": 2000,
+                "Pizza especial 'el pavo": 2500
+            },
+            "Pasta": {
+                "Espaguetis napolitano": 800,
+                "Espaguetis con jamon": 1000,
+                "Espaguetis bolonhesa": 1050,
+                "Espaguetis con camarones": 2000,
+                "Espaguetis con at\u00fan": 1300,
+                "Espaguetis con bacon": 1000,
+                "Lasagna de jamon": 1100,
+                "Lasagna de carne": 1100
+            },
+            "Seafood": {
+                "Camarones enchilados": 3200,
+                "Camarones al ajillo": 3000,
+                "Camarones grille": 2900,
+                "Camarones empanados": 3200,
+                "Enchilado de langosta": 2500,
+                "Langosta grille": 2300,
+                "Pescado grille": 2900,
+                "Marinada al pavo": 4500,
+                "Grillada mar y tierra": 4900,
+                "Filete canchiller": 3500
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Tres leches": 750,
+                "Tarta al pavo": 550
+            },
+            "Sides": {
+                "Arroz frito": 1800,
+                "Paella criolla": 3200,
+                "Paella al pavo": 4000,
+                "Arroz blanco": 80,
+                "Arroz moro": 200,
+                "Ensalada estacion": 400,
+                "Vianda frita": 200
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cerveza nacional": 350,
+                "Cerveza importada": 260,
+                "Agua natural": 250,
+                "Refresco nacional": 280,
+                "Refresco importado": 280,
+                "Malta importada": 320,
+                "Jugo de lata": 280
+            }
+        }
+    }
+}

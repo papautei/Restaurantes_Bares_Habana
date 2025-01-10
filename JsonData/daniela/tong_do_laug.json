@@ -1,0 +1,128 @@
+{
+    "Name": "Tong Do Laug",
+    "Specialty": [
+        "Comida china"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Cuchillo entre San Nicol\u00e1s y Rayo",
+        "Coords.": "4JMP+VGM"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "55100355"
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2100
+        ],
+        "Tuesday": [
+            1000,
+            2100
+        ],
+        "Wednesday": [
+            1000,
+            2100
+        ],
+        "Thursday": [
+            1000,
+            2100
+        ],
+        "Friday": [
+            1000,
+            2100
+        ],
+        "Saturday": [
+            1000,
+            2100
+        ],
+        "Sunday": [
+            1000,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {
+                "Fajitas de pechuga": 2200
+            },
+            "Pork": {
+                "Lomo ahumado": 2000
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Mariscos": 2500,
+                "Mar y tierra": 3850,
+                "Camarones": 3600,
+                "Pescado": 1650
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {
+                "Jiaozi ravioles": 1350,
+                "Bao": 700,
+                "Mia especial tallarines": 1100,
+                "Arroz frito especial": 1100,
+                "Siumi": 1200,
+                "Chunkun rollitos de primavera": 1050,
+                "Sopa china": 990
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cerveza": 300,
+                "Cerveza nacional": 500,
+                "Refresco": 300,
+                "Jugo": 330,
+                "Frapeado": 330,
+                "Cocteles": 660,
+                "Caf\u00e9": 390,
+                "T\u00e9": 170,
+                "Agua": 220,
+                "Agua caliente": 220
+            }
+        }
+    }
+}

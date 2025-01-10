@@ -1,0 +1,144 @@
+{
+    "Name": "El chanchullero",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Teniente Rey entre Bernaza y Cristo",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Tapas de tomate": 350,
+                "Tapas de guacamole": 350,
+                "Tapas de carne": 500,
+                "Tacos con carne": 550
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo al ajillo": 1050,
+                "Fricase de pollo": 1200
+            },
+            "Pork": {
+                "Fricase de cerdo": 1200,
+                "Cerdo encebollado juliana": 1200,
+                "Completa de lomo ahumado": 850
+            },
+            "Beef": {
+                "Ropa vieja": 1300
+            },
+            "Pizza": {
+                "Napolitana": 950,
+                "Margarita": 1000,
+                "De jamon": 1100,
+                "De chorizo": 1100,
+                "Vegetariana": 1000,
+                "Chanchullero": 1100
+            },
+            "Pasta": {},
+            "Seafood": {
+                "Pescado chanchullero": 1750,
+                "Reina al ajillo": 1800,
+                "Reina enchilada": 1800
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Mojito chanchullero": 400,
+                "Cuba libre": 400,
+                "Catarro": 400,
+                "Caipirissima": 400,
+                "Caipiroska": 450,
+                "Agua natural": 350,
+                "Refresco importado": 400,
+                "Jugo enlatado": 400,
+                "Limonada frappe": 600,
+                "Limonadafrescura": 650,
+                "Cerveza": 400,
+                "La chelada": 575,
+                "La michelada": 600,
+                "Daiquiri": 500,
+                "Copa de vino": 650,
+                "Tinto de verano": 600
+            }
+        }
+    }
+}

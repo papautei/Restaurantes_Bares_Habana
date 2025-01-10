@@ -1,0 +1,215 @@
+{
+    "Name": "Ley Seca",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle Habana entre Obispo y Obrapia",
+        "Coords.": "null"
+    },
+    "Contact": {
+        "Web": "Ley seca speakeasy Habana",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "56685088"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            300
+        ],
+        "Tuesday": [
+            1200,
+            300
+        ],
+        "Wednesday": [
+            1200,
+            300
+        ],
+        "Thursday": [
+            1200,
+            300
+        ],
+        "Friday": [
+            1200,
+            300
+        ],
+        "Saturday": [
+            1200,
+            300
+        ],
+        "Sunday": [
+            1200,
+            300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Show",
+            "DJ",
+            "Bailarina",
+            "Mago",
+            "Juegos de mesa",
+            "Hooka"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Desayuno europeo": 3600,
+                "Desayuno americano": 3600
+            },
+            "Appetizers": {
+                "Croquetas de pescado": 1500,
+                "Croquetas de pollo": 1500,
+                "Croquetas de embutido": 1500,
+                "Croquetas de queso": 1500,
+                "Sexy papa frita": 1800,
+                "Empanadas de carne": 2000,
+                "Tacos de vegetales": 2000,
+                "Empanadas de queso": 2000,
+                "Tacos de pollo": 2300,
+                "Tacos de cerdo": 2300,
+                "Tacos de pescado": 2300,
+                "Croquetas de serrano": 2600,
+                "Tacos de res": 3000,
+                "Seleccion charcut": 3000,
+                "Chupe de mariscos": 3000,
+                "Tacos de langosta": 3500,
+                "Garbanzos sin piedad": 4500,
+                "Ceviche muuh": 2000,
+                "Vegetales we trust": 2000,
+                "Tartar fish": 2500,
+                "Sandwish ley seca": 2500,
+                "Carpaccio de pulpo": 3000,
+                "Carpaccio de res": 3000,
+                "Tabla d' trafico": 6000,
+                "Un poquito d' to": 9000
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo grille": 2500,
+                "Pollo trufa y parmesano": 5200
+            },
+            "Pork": {
+                "Cerdo con masas": 3000,
+                "Lomo de cerdo": 4000
+            },
+            "Beef": {
+                "Ropa vieja": 3000,
+                "Filete a la douche": 5000,
+                "Puntaroja": 5000,
+                "Filete chateaubriand": 7000,
+                "Filete clandestino": 7000,
+                "Rissotto de res": 7000,
+                "Mignon": 7000
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Pasta tres quesos": 3000,
+                "Pasta carbonara": 3000,
+                "Pasta frutti di madre": 4500,
+                "Pasta al buey": 5000
+            },
+            "Seafood": {
+                "Balas d' camaron": 3500,
+                "Langosta ganster": 4000,
+                "Pescado al limon": 3500,
+                "Pulpo al gusto": 5000,
+                "Rissotto del mar": 7000
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Tarta de limon": 800,
+                "Cheesecake": 800,
+                "Casquitos de guayaba": 1000,
+                "Torrejas": 1000,
+                "Arroz con leche": 1000
+            },
+            "Sides": {
+                "Rissotto fhungi": 7000,
+                "Arroz blackout": 7000,
+                "Surtido de la ruta": 11000
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Ley seca": 1650,
+                "Al capone": 1650,
+                "Bandido": 1650,
+                "Green go": 1650,
+                "Pub garrison": 1650,
+                "Prohibition": 1650,
+                "Red pasion": 2000,
+                "Dalilah": 2500,
+                "Strange wine": 2500,
+                "Royal blood": 3500,
+                "Agua natural": 700,
+                "Agua gaseada": 700,
+                "Agua tonica": 700,
+                "Refrescos": 800,
+                "Kermato": 1000,
+                "Cerveza": 1000,
+                "Cerveza importada": 1200,
+                "Energizante": 1200,
+                "Jhonny walker red label": 13000,
+                "Johnny walker black label": 20000,
+                "Jhonny walker double black label": 30000,
+                "Jhonny walker green label": 50000,
+                "Jhonny walker golden label": 60000,
+                "Jhonny walker blue label": 250000,
+                "Buchanan 12 anhos": 40000,
+                "Buchanan master": 70000,
+                "Buchanan 18 anhos": 70000,
+                "Chivas regal 12 anhos": 18000,
+                "Chivas regal 18 anhos": 70000,
+                "Jack daniel": 25000,
+                "Hc seleccion de maestros": 25000,
+                "Hc pacto navio": 30000,
+                "Santiago 8 anhos": 12000,
+                "Santiago 11 anhos": 25000,
+                "Santiago 12 anhos": 35000,
+                "Hc 15 anhos": 60000,
+                "Absolut": 12000,
+                "Ciroc sabor": 30000,
+                "Ciroc neutro": 25000,
+                "Grey goose": 60000,
+                "Moet imperial": 60000,
+                "Moet ice": 70000,
+                "Moet rose": 80000
+            }
+        }
+    }
+}

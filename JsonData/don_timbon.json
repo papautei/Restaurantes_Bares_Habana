@@ -1,0 +1,106 @@
+{
+    "Name": "Don Timbon",
+    "Specialty": [
+        "criolla",
+        "italiana"
+    ],
+    "Ownership": "privado",
+    "Location": {
+        "District": "San Miguel del Padr\u00f3n",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2200
+        ],
+        "Tuesday": [
+            900,
+            2200
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            900,
+            2200
+        ],
+        "Friday": [
+            900,
+            2200
+        ],
+        "Saturday": [],
+        "Sunday": [
+            900,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {
+                "pan con bistec": 550,
+                "hamburguesa sencilla": 350
+            },
+            "Chicken": {
+                "arroz salteado": 500
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "pizza napolitana": 160
+            },
+            "Pasta": {
+                "lasa\u00f1a": 550,
+                "espaguetti": 300
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

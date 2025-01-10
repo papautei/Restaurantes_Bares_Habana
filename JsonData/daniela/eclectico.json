@@ -1,0 +1,167 @@
+{
+    "Name": "Eclectico",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Avenida paseo",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "Eclectico Restaurant",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            630,
+            1030
+        ],
+        "Tuesday": [
+            630,
+            1030
+        ],
+        "Wednesday": [
+            630,
+            1030
+        ],
+        "Thursday": [
+            630,
+            1030
+        ],
+        "Friday": [
+            630,
+            1030
+        ],
+        "Saturday": [
+            630,
+            1030
+        ],
+        "Sunday": [
+            630,
+            1030
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica en vivo los jueves"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Tempura de mariscos y pescado": 4800,
+                "Tabla de charcuteria y quesos": 6400,
+                "Carpaccio de res con perlas de trufa, escamas de parmesamo, aceite de oliva extra virgen y avellanas tostadas": 5540,
+                "Tabla de quesos": 3840,
+                "Ensalada eclectico con vegetales de estacion, fruta tropical, queso fresco de cabra y aceitunas negras": 2880
+            },
+            "Bread": {
+                "Hamburguesa de solomillo de res con papas asadas": 6720
+            },
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetti con calamar": 5120,
+                "Fettucine con cangrejo y tomate cherry": 5120,
+                "Fettucine con langosta y tomate cherry": 5120,
+                "Rigatoni con ragout de res": 3840,
+                "Espaguetti a la carbonara": 4480,
+                "Rissotto de hongos porcini, perejil y parmesano": 7040
+            },
+            "Seafood": {
+                "Pescado del dia con rissoto rosado, salsa verde y zanahorias glaseadas": 6080,
+                "Tataki de atun aleta negra en semilla de sesamo con salsa teriyaki y risotto de mar y tierra": 6720
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Cheescake de parmesano": 2560,
+                "Tiramisu eclectico": 1600,
+                "Gelato italiano": 1920
+            },
+            "Sides": {},
+            "Other": {
+                "Entrecot de ternera con papas fondat y zanahorias glaseadas": 11520
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "The haze": 1200,
+                "Tropical daiquiri": 1000,
+                "Eclectico sling": 1000,
+                "Black dog": 1000,
+                "Havana purple": 700,
+                "Havana pink": 700,
+                "Havana rainbow": 700,
+                "Negroni": 2250,
+                "Old fashioned": 1500,
+                "Manhattan": 1800,
+                "El presidente": 1500,
+                "Hemingway daiquiri": 1500,
+                "Mary pickford": 1500,
+                "Mojito": 1250,
+                "Aperol spritz": 2500,
+                "Campari spritz": 2500,
+                "Campari soda": 2000,
+                "Campari orange": 2000,
+                "Pinha colada": 1500,
+                "Dry martini": 1500,
+                "Caipirinha": 1300,
+                "Caipiroska": 1300,
+                "Ron collins": 1100,
+                "Sangria": 1500,
+                "Margarita": 1300,
+                "Catalan sangria": 1500,
+                "Tinto verano": 1200,
+                "Vodka tonic": 1500,
+                "Blue lagoon": 1100,
+                "Ron santiago de cuba 11 anhos": 1600,
+                "Ron santiago de cuba 12 anhos": 2000,
+                "Vigia reserva 18 anhos": 5000,
+                "Cubat extra viejo": 5000,
+                "Cubay extra anhejo": 5000,
+                "Havana club profundo": 700,
+                "Havana club especial": 700,
+                "Havana club reserva": 800,
+                "Havana club 7 anhos": 1200,
+                "Ron santiago de cuba 8 anhos": 1400,
+                "Cerveza cristal": 550
+            }
+        }
+    }
+}

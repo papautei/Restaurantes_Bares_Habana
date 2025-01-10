@@ -1,0 +1,171 @@
+{
+    "Name": "Pizzas Vip",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "Pizza VIP",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "52844312"
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "": null
+            },
+            "Appetizers": {
+                "Croquetas de la casa": 400,
+                "Fritura de malanga": 300,
+                "Bolita de queso": 650,
+                "Fajita de pechuga": 1100,
+                "Ensalada fr\u00eda": 370,
+                "Papa frita": 580,
+                "Fajita de cerdo": 1200,
+                "Crema de queso": 500,
+                "Crema virginia": 550,
+                "Crema aurora": 520,
+                "Crema mixta": 600,
+                "Tacos de jamon": 1030,
+                "Tacos de res": 1350,
+                "Tacos de cangrejo": 1380
+            },
+            "Bread": {
+                "": null
+            },
+            "Chicken": {
+                "": null
+            },
+            "Pork": {
+                "": null
+            },
+            "Beef": {
+                "": null
+            },
+            "Pizza": {
+                "Pizza de queso": 800,
+                "Pizza de cebolla": 1000,
+                "Pizza de pimiento": 1000,
+                "Pizza de jamon": 1000,
+                "Pizza de chorizo": 1050,
+                "Pizza hawaiana": 1260,
+                "Pizza de bacon": 1240,
+                "Pizza doble queso": 1250,
+                "Pizza de camaron": 1700,
+                "Pizza de res": 1300,
+                "Pizza de at\u00fan con cebolla": 1450,
+                "Pizza de jamon serrano": 1570,
+                "Pizza de aceituna": 1200
+            },
+            "Pasta": {
+                "Espaguetis napolitano": 720,
+                "Espaguetis bolonhesa": 1350,
+                "Espaguetis carbonara": 1350,
+                "Espaguetis alfredo": 1150,
+                "Espaguetis de at\u00fan": 1270,
+                "Espaguetis pollo": 1120,
+                "Espaguetis de camarones": 1400,
+                "Espaguetis chorizo": 1150,
+                "Espaguetis negro di mare": 1500
+            },
+            "Seafood": {
+                "": null
+            },
+            "Fishes": {},
+            "Desserts": {
+                "": null
+            },
+            "Sides": {
+                "": null
+            },
+            "Other": {
+                "": null
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Henike": 360,
+                "Cerveza importada": 250,
+                "Cerveza de lata cristal": 300,
+                "Cerveza de botella": 300,
+                "Pomitos de agua": 150,
+                "Refresco de pomito": 180,
+                "Refresco de lata": 220,
+                "Malta": 300,
+                "Jugos de lata": 280,
+                "Jugos de cajita": 180,
+                "Tigon": 300,
+                "Refresco importado": 280,
+                "Malta importada": 270
+            }
+        }
+    }
+}

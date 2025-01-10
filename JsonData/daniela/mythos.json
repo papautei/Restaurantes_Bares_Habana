@@ -1,0 +1,143 @@
+{
+    "Name": "Mythos",
+    "Specialty": [
+        "Griega"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle Cuba No. 211 entre Empedrado y O'Reilly",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "@mythos.havana",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "63691718"
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2300
+        ],
+        "Tuesday": [
+            800,
+            2300
+        ],
+        "Wednesday": [
+            800,
+            2300
+        ],
+        "Thursday": [
+            800,
+            2300
+        ],
+        "Friday": [
+            800,
+            2300
+        ],
+        "Saturday": [
+            800,
+            2300
+        ],
+        "Sunday": [
+            800,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {
+                "Solomillo de cerdo en salsa de limon griega": 3500
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {
+                "Pasta mediterr\u00e1nea": 3000,
+                "Pasta de camaron al an\u00eds": 3200
+            },
+            "Seafood": {
+                "Risotto de pulpo": 3700,
+                "Risotto de frutos del mar": 4100,
+                "Pulpo grille": 4200
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Tarta de yogurt griego con reduccion de vino tinto": 1000
+            },
+            "Sides": {},
+            "Other": {
+                "Hummus de garbanzo": 700,
+                "Melitzanosalata": 800,
+                "Tzatziki": 600,
+                "Papas fritas con queso feta y or\u00e9gano": 1300,
+                "Tyropitakias": 1000,
+                "Aceitunas marinadas con queso feta": 700,
+                "Griego pobre": 750,
+                "Saganaki": 1500,
+                "Souvlaki de cerdo": 2500,
+                "Souvlaki de pechuga de pollo": 2100,
+                "Souvlaki de res": 2800,
+                "Souvlaki vegano": 2000,
+                "Souvlaki de queso feta": 2500,
+                "Pastitsio": 2300,
+                "Imam": 2000,
+                "Saganaki de langosta o camaron": 3500,
+                "Saganaki de frutos del mar": 4000,
+                "Risotto de yogurt griego": 3000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Demeter (ginebra, mix de pepino y jengibre, zumo de pinha)": 1800,
+                "Afrodita (ginebra, mix no. 2, licor de orgeat)": 2000,
+                "Persefone (ginebra, licor de grosella, vermouth rosso, jarabe de hibiscus)": 2100,
+                "Hades": 2500,
+                "Dionisio (ron blanco, reduccion de vino tinto, mix no. 3)": 2800,
+                "Poseidon": 2500,
+                "Ares (ron oscuro, mix no. 5, tajin, mango)": 2400,
+                "Apolo (ron blanco, ruavieja, mix no. 7)": 2300,
+                "Freddo expresso (caf\u00e9 batido servido con hielo)": 450,
+                "Freddo capucchino (caf\u00e9 batido servido con leche, nata y hielo)": 650
+            }
+        }
+    }
+}

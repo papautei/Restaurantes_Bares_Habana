@@ -1,0 +1,128 @@
+{
+    "Name": "Cafe Literario La Copa",
+    "Specialty": [
+        "Cafe"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": "4JRX+9FV, Mercaderes, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": [
+            55094105,
+            null
+        ]
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1200
+        ],
+        "Tuesday": [
+            800,
+            1200
+        ],
+        "Wednesday": [
+            800,
+            1200
+        ],
+        "Thursday": [
+            800,
+            1200
+        ],
+        "Friday": [
+            800,
+            1200
+        ],
+        "Saturday": [
+            800,
+            1200
+        ],
+        "Sunday": [
+            800,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": 2.6,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": false,
+        "Wifi": false,
+        "Entertainment": [
+            "A la carta"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Croquetas con tostadas": 500.0,
+                "Papas fritas": 600.0,
+                "Hot dog": 600.0,
+                "Sandwich de jamon y queso": 700.0,
+                "Pan con hamburguesa": 700.0,
+                "Croissant de jamon con queso": 800.0,
+                "Croissant natural": 500.0
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Copa de helado": 500.0,
+                "Suero helado": 800.0
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Malteada": 500.0,
+                "Malta bucanero": 300.0,
+                "Energizante": 230.0,
+                "Jugo de lata": 270.0,
+                "Agua natural": 120.0,
+                "Cafe expresso": 1500.0,
+                "Cafe cortado": 200.0,
+                "Cafe bombon": 350.0,
+                "Capuchino": 400.0,
+                "Frapucchino": 500.0
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

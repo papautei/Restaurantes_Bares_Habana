@@ -1,0 +1,127 @@
+{
+    "Name": "Cafe Bulevar",
+    "Specialty": [
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": false,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ensalada de estacion": 200,
+                "Papas fritas": 150
+            },
+            "Bread": {},
+            "Chicken": {
+                "Fajitas de pollo": 1300
+            },
+            "Pork": {
+                "Fajitas de cerdo": 1350
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {
+                "Filete de merluza": 550
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Caldosa boulevard": 200,
+                "Arroz con subproductos": 300
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Jugo de fruta": 100
+            },
+            "Alcoholic": {
+                "Cerveza importada": 180,
+                "Vino tinto cabernet": 1340,
+                "Licor paso pondal (30ml)": 75,
+                "Licor fenet blanca (30ml)": 75,
+                "Grappa carolina bianca (30ml)": 75,
+                "Ron legendario anhejo (45ml)": 90,
+                "Ron legendario dorado (45ml)": 100,
+                "Trago legendario ronse (45ml)": 75,
+                "Licor de cafe (30ml)": 75,
+                "Copa de vino blanco (125ml)": 145
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

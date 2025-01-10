@@ -1,0 +1,306 @@
+{
+    "Name": "Donha_Cotolin-Todo_al_Carbon",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coords.": "5V97+P4H, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Bruschettas de Pan": 650,
+                "Eperlan de Pescado": 800,
+                "Fajitas de Pollo": 800,
+                "Frituras de Malanga": 500,
+                "Tamal en Cazuela": 550,
+                "Tostones Rellenos": 550,
+                "Garbanzo Frito": 1500,
+                "Lasanha de Pollo": 850,
+                "Mas q Taco, es un Burrito": 600,
+                "Ensalada Fria": 500,
+                "Croquetas de la Casa": 250,
+                "Papas Fritas": 500,
+                "Coctel de Camarones": 1500,
+                "Tostones Rellenos de Camaron": 1000,
+                "Tabla de Picadera": 2500,
+                "Fabada Asturiana": 1500,
+                "Tacos de Camarones": 1000,
+                "Sandwich de Jamon": 450,
+                "Crema de Queso": 800,
+                "Crema Aurora": 900,
+                "Crema Virginia": 1250,
+                "Sopa de Pollo": 650
+            },
+            "Bread": {
+                "Super Hamburguesa": 1000,
+                "Hamburguesa Caprichosa": 1500,
+                "Hamburguesa Paro Cardiaco a Caballo": 2000
+            },
+            "Chicken": {
+                "Pollo Asado al Carbon": 1750,
+                "Pollo Asado a la Pinha": 1850,
+                "Pollo Frito": 1650,
+                "Gordon Bleu de Pollo": 2000,
+                "Bistec de Pechuga de Pollo": 2000,
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                "Arroz con Pollo a la Chorrera": 1250
+            },
+            "Pork": {
+                "Churrasco de Cerdo": 1650,
+                "Chuleta de Cerdo al Carbon": 2200,
+                "Costillas de Cerdo al Carbon": 2100,
+                "Masas de Cerdo a la Brasa": 2250,
+                "Lonjas de Cerdo Asado": 2500,
+                "Bistec de Cerdo Encebollado": 2500,
+                "Uruguayo de Cerdo": 3000,
+                "Tabla de la Donha": 4000,
+                "Brochetas de Cerdo al Carbon": 1750,
+                "Fricase de Cerdo": 1750,
+                "Lomo de Cerdo al Carbon y Gratinado(Racion para cuatro personas)": 6000,
+                "Super Ahumado": 3000,
+                "Solomillo de Cerdo": 2000
+            },
+            "Beef": {
+                "Ropa Vieja de Res": 1500,
+                "Bistec de Res Encebollado": 2600,
+                "Filet Minoni": 3250,
+                "Bistec de Higado de Res": 1800
+            },
+            "Pizza": {
+                "Napolitana": 350,
+                "De Jamon y Queso": 450,
+                "De Chorizo": 450,
+                "De Atun": 650,
+                "Pizza Mixta": 950,
+                "Pizza Hawaiana": 650,
+                "Pizza Bolonhesa": 900,
+                "F, Napolitana": 750,
+                "F, Pizza de Vegetales": 900,
+                "F, De Jamon y Queso": 1000,
+                "F. De Chorizo": 1000,
+                "F. De Atun": 1300,
+                "F. Pizza Mixta": 2000,
+                "F. Pizza Hawaiana": 1500,
+                "F. Pizza Bolonhesa": 1900,
+                "F. Pizza Ocho Estaciones": 2300,
+                "F. Pizza de Camaron": 2350,
+                "F. Pizza Margarita": 850
+            },
+            "Pasta": {
+                "Napolitano": 750,
+                "Spaguettis con Pollo": 850,
+                "Spaguettis con Jamon y Queso": 900,
+                "Spaguettis con Mariscos": 1300,
+                "Spaguettis a la Bolonhesa": 1350
+            },
+            "Seafood": {
+                "Camaron Rebosado": 2000,
+                "Enchilado de Camaron": 2100,
+                "Camaron al Ajillo": 1950,
+                "Camaron Hawaiano": 3000,
+                "Enchilado de Langosta": 2200,
+                "Langosta a la Plancha": 2200,
+                "Langosta Hawaiana": 3000,
+                "El Rey del Mar": 3000,
+                "Caldereta de Marisco": 3000,
+                "Enchilado de Cangrejo": 1600,
+                "Pulpo en su Tinta": 2500,
+                "Calamar relleno": 3500
+            },
+            "Fishes": {
+                "Pescado Frito Entero": 1500,
+                "Pescado al Jugo": 1850,
+                "Pescado Canciller": 2500,
+                "Pescado Frito mas Grande": 2300
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Fricase de Carnero": 1750,
+                "Paella Mar y Tierra": 3000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Refresco de Lata": 300,
+                "Refresco Pomo Pequenho": 260,
+                "Refresco Pepsi": 350,
+                "Malta": 300,
+                "Malta Bucanero": 360,
+                "Jugos Naturales": 250,
+                "Agua Natural": 200,
+                "Agua Tonica": 300,
+                "Energizante": 350,
+                "Red Bull": 450
+            },
+            "Alcoholic": {
+                "Baileys": 500,
+                "Ruavieja": 500,
+                "Jagermeister": 500,
+                "Licores de la Casa": 350,
+                "Gin MG": 650,
+                "Gin Master": 800,
+                "Beefeater": 700,
+                "Gin de la Casa": 400,
+                "Vodka de la Casa": 350,
+                "Vodka Absolut": 550,
+                "Olmeca Blanco": 400,
+                "Olmeca Reposado": 450,
+                "Jose Cuervo": 800,
+                "Tequila Rose": 1000,
+                "Tequila Patron": 2000,
+                "Vino Blanco": 450,
+                "Vino Tinto": 500,
+                "Ballentines": 650,
+                "Jameson": 650,
+                "J.W Black Label": 1200,
+                "J.W Jack Daniels": 1250,
+                "J.W Jred Label": 850,
+                "Black and White": 550,
+                "Torres 15": 550,
+                "Black Tears": 300,
+                "Habana Club Anhejo Blanco": 300,
+                "Habana Club 3 Anhos": 300,
+                "Habana Club Especial": 450,
+                "Habana Club 7 Anhos": 500,
+                "Habana Club Seleccion Maestro": 550,
+                "Habana Club Pacto Navio": 700,
+                "Habana Club Santiago 8 Anhos": 450,
+                "Habana Club Santiago 11 Anhos": 650,
+                "Habana Club Santiago 12 Anhos": 700,
+                "Cubay Extra Anhejo": 1350,
+                "Screwdriver": 450,
+                "Limonada Frappe": 450,
+                "Limonada Presidente": 500,
+                "Limonada Electrica": 600,
+                "Limonada Natural": 450,
+                "Limonada Red": 700,
+                "Cuba Libre": 500,
+                "Cubata": 650,
+                "Daiquiri Natural": 500,
+                "Daiquiri Frappe": 500,
+                "Daiquiri de Sabores": 600,
+                "Mojito": 550,
+                "Mojito de Fruta": 650,
+                "Mojito al Carbon": 1000,
+                "Old Mojito": 650,
+                "Gin Tonic": 650,
+                "Caipiroska": 450,
+                "Caipirisima": 450,
+                "Caipirinha": 450,
+                "Sangria": 600,
+                "Pinha Colada": 600,
+                "Canchanchara": 400,
+                "Canchanchara Gold": 500,
+                "Margarita": 500,
+                "Barbie": 800,
+                "Lucifer": 700,
+                "Flaming Lamborghini": 1250,
+                "Orgasmo": 800,
+                "Negroni": 750,
+                "Blue Lagoon": 450,
+                "Long Island": 1000,
+                "Black Russian": 500,
+                "Padrino": 800,
+                "Madrina": 800,
+                "Jaguerbull": 1000,
+                "Jaguer Laguer": 1000,
+                "Blue Hawaii": 800,
+                "Submarino": 800,
+                "Bloody Mary": 650,
+                "Cubanito": 600,
+                "Rikiti": 650,
+                "Martini Dry": 600,
+                "Old Fashioned": 850,
+                "Cerveza Cristal": 500,
+                "Cerveza Bucanero": 500,
+                "Cerveza Importada": 250,
+                "Cerveza Corona": 600
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

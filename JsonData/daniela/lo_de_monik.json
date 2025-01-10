@@ -1,0 +1,198 @@
+{
+    "Name": "Lo de Monik",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Chacon y compostela",
+        "Coords.": "4JRV+FQ5"
+    },
+    "Contact": {
+        "Web": "Lo de Monik",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "78644029"
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2200
+        ],
+        "Tuesday": [
+            900,
+            2200
+        ],
+        "Wednesday": [
+            900,
+            2200
+        ],
+        "Thursday": [
+            900,
+            2200
+        ],
+        "Friday": [
+            900,
+            2200
+        ],
+        "Saturday": [
+            900,
+            2200
+        ],
+        "Sunday": [
+            900,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Dos huevos, tostadas, jamon, vegetales, jugo, cafe": 1800
+            },
+            "Appetizers": {
+                "Frituras de malanga": 700,
+                "Yucas bravas": 700,
+                "Croquetas": 700,
+                "Ceviche": 1200,
+                "Tartar de atun": 900,
+                "Tamal en casuela": 1700,
+                "Tostones rellenos de jamon y queso": 1100,
+                "Tostones rellenos de ropa vieja": 1200,
+                "Tostones rellenos de cerdo": 1300
+            },
+            "Bread": {
+                "Sandwich de vegetales": 1000,
+                "Sandwich de jamon y queso": 1200,
+                "Sandwich de pollo": 1700,
+                "Sandwich de atun": 1500,
+                "Sandwich cubano": 2000
+            },
+            "Chicken": {
+                "Pollo grillado": 1700
+            },
+            "Pork": {
+                "Masas de cerdo": 2800
+            },
+            "Beef": {
+                "Ropa vieja": 2300,
+                "Ropa vieja con garbanzos": 2600,
+                "Punta de filete a la deutche": 3800,
+                "Filete mignon": 4500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Pasta napolitana": 1800,
+                "Pasta de pollo con salsa alfredo": 2000,
+                "Pasta fruti di mare": 2500
+            },
+            "Seafood": {
+                "Camaron grillado": 3000,
+                "Pescado empanado": 2600,
+                "Pescado grillado": 2400,
+                "Pulpo grillado": 3800,
+                "Langosta": 3000
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Postre de la casa": 600
+            },
+            "Sides": {
+                "Arroz": 300,
+                "Frijoles": 300
+            },
+            "Other": {
+                "Taco de vegetales": 1500,
+                "Tacos de pollo": 1700,
+                "Tacos de cerdo": 2200,
+                "Taco de ropa vieja": 2300,
+                "Taco de camaron": 3000,
+                "Taco de pescado": 2400,
+                "Taco de punta de filete": 3800,
+                "Taco de langosta": 2400,
+                "Taco de pulpo": 2500
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Jugo de frutas naturales": 400,
+                "Limonada": 600,
+                "Limonada de hierbabuena": 600,
+                "Batido de frutas": 600,
+                "Agua nacional": 300,
+                "Agua nacional gaseada": 300,
+                "Refresco": 500,
+                "Cerveza importada": 700,
+                "Cerveza nacional": 700,
+                "Copa de vino blanco": 650,
+                "Copa de vino tinto": 650,
+                "Botella de vino": 2600,
+                "Cafe expresso": 300,
+                "Cafe americano": 300,
+                "Cafe cortado": 350,
+                "Capuccino": 400,
+                "Frapuccino": 600,
+                "Cafe bombom": 700,
+                "Mojito": 700,
+                "Mojito loco": 1400,
+                "Mojito de frutas": 750,
+                "Daiquiri": 650,
+                "Daiquiri de fruta": 700,
+                "Cuba libre": 650,
+                "Habana special": 600,
+                "Habana london": 800,
+                "Ron collins": 600,
+                "Canchanchara": 600,
+                "Gin tonic": 800,
+                "Caipiroska absolut": 850,
+                "Carpiblue": 1200,
+                "Negroni": 800,
+                "Pinha colada": 650,
+                "Caipirissima": 600,
+                "Caipirinha": 600,
+                "Caipirinha cachaca": 600,
+                "Caipiroska": 600,
+                "Cubanito": 800,
+                "Michelada": 800,
+                "Michelada kermato": 850,
+                "Chelada": 750,
+                "Bloody mary": 800,
+                "Margarita": 700,
+                "Sangria": 700,
+                "Martini": 750
+            }
+        }
+    }
+}

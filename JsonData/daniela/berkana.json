@@ -1,0 +1,159 @@
+{
+    "Name": "Berkana",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obispo y obrapia",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "Berkana",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2200
+        ],
+        "Tuesday": [
+            900,
+            2200
+        ],
+        "Wednesday": [
+            900,
+            2200
+        ],
+        "Thursday": [
+            900,
+            2200
+        ],
+        "Friday": [
+            900,
+            2200
+        ],
+        "Saturday": [
+            900,
+            2200
+        ],
+        "Sunday": [
+            900,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica en vivo",
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ceviche de pescado": 2440,
+                "Cebiche de camaron": 2450,
+                "Tostones rellenos": 1515,
+                "Crema virginia": 1830,
+                "Crema de queso": 1715,
+                "Crema de jamon y queso": 1770,
+                "Ensalada de vegetales": 300,
+                "Sopa marinera": 3020
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pierna de pollo grille (arroz, vianda hervida y ensalada de vegetal)": 2800,
+                "Suprema de pollo grille": 1760,
+                "Milanesa de pollo": 2420,
+                "Suprema de pollo napada  con queso": 3200
+            },
+            "Pork": {
+                "Bistec de cerdo a la criolla(arroz, vianda hervida y ensalada de vegetal)": 3300,
+                "Bistec de cerdo al grill": 2520,
+                "Escalope de cerdo con  cebolla": 3100,
+                "Bistec de cerdo empanado": 2940,
+                "Bistec de cerdo a la roca": 3730
+            },
+            "Beef": {
+                "Milanesa de res": 3300,
+                "Bistec de res con cebolla": 3150,
+                "Ropa vieja": 2370
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetti con queso": 1340,
+                "Espaguetti de jamon y queso": 2080,
+                "Espaguetti frutos del mar": 3790
+            },
+            "Seafood": {
+                "Filete de pescado grille": 2820,
+                "Enchilado de pescado": 3360,
+                "Filete de pescado empanado": 3300,
+                "Camarones grille": 2820,
+                "Camarones al ajillo": 3180,
+                "Camarones en salsa criolla": 3200,
+                "Langosta grille": 2670,
+                "Langosta en salsa napada con queso": 3650
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Flan de leche": 750,
+                "Bolas de helado con sirope": 650,
+                "Criollo cubano": 500
+            },
+            "Sides": {
+                "Tostones rellenos": 850,
+                "Tostones tradicionales": 700,
+                "Vianda hervida a la criolla": 560,
+                "Arroz moro": 580,
+                "Arroz blanoc": 380,
+                "Arroz con vegetales": 690,
+                "Arroz pilaf": 580
+            },
+            "Other": {
+                "Chilindron de cordero": 4400,
+                "Cordero mechado": 3720,
+                "Cordero en salsa demi glase": 3020
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cafe express": 275,
+                "Rocio de gallo": 440
+            }
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "Name": "28 y Mar",
+    "Specialty": [
+        "internacional",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "28 y Mar Restaurante",
+        "Instagram": "@28_y_mar_restaurante",
+        "Phones": "72125013"
+    },
+    "Schedule": {
+        "Monday": [
+            830,
+            2400
+        ],
+        "Tuesday": [
+            830,
+            2400
+        ],
+        "Wednesday": [
+            830,
+            2400
+        ],
+        "Thursday": [
+            830,
+            2400
+        ],
+        "Friday": [
+            830,
+            2400
+        ],
+        "Saturday": [
+            830,
+            2400
+        ],
+        "Sunday": [
+            830,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Desayuno europeo": 1650,
+                "Desayuno americano": 1650,
+                "Desayuno miramar": 2150,
+                "Desayuno continental": 2800,
+                "Ensalada de frutas": 700,
+                "Tortilla natural": 750,
+                "Huevo frito o revuelto con bacon": 1050,
+                "Mini bocadito de jamon y queso": 800,
+                "Tostadas con mantequilla": 650,
+                "Crepes": 750
+            },
+            "Appetizers": {
+                
+                "Crema aurora": 7500,
+                "Crema de queso": 750,
+                "Crema virginia": 750,
+                "Tapas variadas": 1100,
+                "Tapas de croquetas": 1250,
+                "Tostones rellenos": 950,
+                "Brusquetas": 950,
+                "Bolitas de queso": 950,
+                "Empanadas de queso azul": 1050,
+                "Empanadas de bolonesa": 1050,
+                "Fajitas de pollo": 1450
+            },
+            "Bread": {
+                "Hamburguesa otono": 1750,
+                "Hamburguesa jamon y queso": 1800,
+                "Hamburguesa jamon serrano": 1950,
+                "Sandwich de pepito": 3150,
+                "Sandwich de paquito": 2150,
+                "Sandwich de elena ruz": 1850,
+                "Sandwich de bocadito de atun": 1450,
+                "Sandwich de pollo": 1650,
+                "Sandwich de jamon serrano": 2150,
+                "Sandwich de atun": 1750,
+                "Sandwich de bolonesa": 2050,
+                "Sandwich de jamon pierna barra y chorizo": 2050,
+                "Sandwich vegetariano": 1350,
+                "Sandwich de pollo y bacon": 2050,
+                "Sandwich de jamon y queso": 1750
+            },
+            "Chicken": {
+                "Pechuga de pollo": 3500 
+            },
+            "Pork": {
+                "Solomillo de cerdo": 4500
+            },
+            "Beef": {
+                "Solomillo de res": 6500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Spaghetti": 1150,
+                "Lasagna de jamon": 1750,
+                "Lasagna de bolonesa": 2150
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {
+                "Jamon serrano": 850,
+                "Jamon barra": 400,
+                "Jamon pierna": 450,
+                "Chorizo": 450,
+                "Bacon": 450,
+                "Salsa bolonesa": 550,
+                "Pechuga de pollo": 650,
+                "Atun": 450,
+                "Champinon": 350,
+                "Aceitunas": 350,
+                "Vegetal de estacion": 350,
+                "Vianda frita": 350,
+                "Papas fritas": 550,
+                "Pina glaseada": 350,
+                "Queso gouda": 450,
+                "Queso mozzarella": 450,
+                "Queso parmesano": 550,
+                "Queso azul": 550,
+                "Nutella": 450
+            },
+            "Other": {
+                "Pollo y cerdo": 4000,
+                "Pollo y res": 5000,
+                "Res y cerdo": 5500,
+                "Trio de fantasia": 7250,
+                "Ensalada primavera": 1350,
+                "Ensalada caprichosa": 1750,
+                "Ensalada verano": 1650,
+                "Ensalada marinera": 1600
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural": 300,
+                "Agua natural importada": 350,
+                "Agua carbonatada": 300,
+                "Agua carbonatada importada": 850,
+                "Agua tonica mg": 600,
+                "Agua tonica schweppes": 900,
+                "Refresco nacional": 350,
+                "Refresco importado": 450,
+                "Malta": 450,
+                "Malteada": 650,
+                "Red bull": 650,
+                "Jugo de fruta natural": 350,
+                "Jugo de caja importado": 300,
+                "Kermato": 750
+            },
+            "Alcoholic": {
+                "Cerveza": 650
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe expresso": 350,
+                "Cafe americano": 350,
+                "Cafe nespresso": 700,
+                "Cafe bombon": 550,
+                "Cafe capuchino": 700,
+                "Cafe capuchino nespresso": 950,
+                "Cafe cortado": 400,
+                "Cafe con leche": 600,
+                "Cafe irlandes": 700,
+                "Frapuccino": 750,
+                "Chocolate a la espanola": 600,
+                "Te caliente o frio": 350
+            }
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "Name": "Antojos",
+    "Specialty": [
+        "Caribenha"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Callejon Espada entre Cuarteles y Chacon",
+        "Coords.": "23\u00ba8'29''N,82\u00ba21'19''W"
+    },
+    "Contact": {
+        "Web": "null",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "52824907"
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            1100,
+            0
+        ],
+        "Wednesday": [
+            1100,
+            0
+        ],
+        "Thursday": [
+            1100,
+            0
+        ],
+        "Friday": [
+            1100,
+            0
+        ],
+        "Saturday": [
+            1100,
+            0
+        ],
+        "Sunday": [
+            1100,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Fritura de temporada": 950,
+                "Croquetas de la casa": 1700,
+                "Tostones campesinos": 750,
+                "Caldosa guajira": 1400,
+                "Tacos": 2700
+            },
+            "Bread": {},
+            "Chicken": {
+                "Trozos de pollo a la mantequilla": 2950,
+                "Pollo grill\u00e9": 2950
+            },
+            "Pork": {
+                "Costillas de cerdo barbacoa": 4300,
+                "Masas de cerdo frita": 3800,
+                "Lomo al carbon": 4500,
+                "Bistec de cerdo encebollado": 3550
+            },
+            "Beef": {
+                "Ropa vieja con platanitos maduros": 3150,
+                "Picadillo a la habanera": 2930
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Camarones al gusto": 3900,
+                "Pesca al carbon": 3950
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Postres de la casa": 950
+            },
+            "Sides": {
+                "Arroz": null,
+                "Crema de malanga": 1400,
+                "Vianda frita": 800,
+                "Potaje": 950,
+                "Arroz blanco": 800,
+                "Pan artesanal": 1050,
+                "Vegetales al carbon": 1400
+            },
+            "Other": {
+                "Ensalada campesina": 1800,
+                "Arroz a la chorrera": 3500,
+                "Pinchos antojos": 3700
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Aguas naturales": 650,
+                "Mojito antojos": 1280,
+                "Aguas tonicas": 750,
+                "Ron collins": 1180,
+                "Refrescos": 650,
+                "Pinha colada": 1630,
+                "Red bull": 850,
+                "Cuba libre": 1230,
+                "Jugos naturales": 750,
+                "Cubata": 1230,
+                "Cubanito": 1380,
+                "Limonada": 900,
+                "Canch\u00e1nchara": 1150,
+                "Cerveza": 800,
+                "Daiquir\u00ed": 1250,
+                "Vino blanco (copa)": 1400,
+                "Havana special": 1180,
+                "Vino tinto (copa)": 1450,
+                "Gin tonic": 1450,
+                "Bloody mary": 1500,
+                "Negroni": 1550,
+                "Martini": 1500,
+                "Caipiroska": 1250,
+                "Screwdriver": 1200,
+                "Margarita": 1380,
+                "Mary pickford": 1150,
+                "Chelada": 900,
+                "Michelada": 1100,
+                "Michelada de la casa": 1200
+            }
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "Name": "El Meson de la flota",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Mercaderes entre Amargura y Teniente Rey",
+        "Coords.": "4MP2+V6C"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "78633838"
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            1800
+        ],
+        "Tuesday": [
+            1000,
+            1800
+        ],
+        "Wednesday": [
+            1000,
+            1800
+        ],
+        "Thursday": [
+            1000,
+            1800
+        ],
+        "Friday": [
+            1000,
+            1800
+        ],
+        "Saturday": [
+            1000,
+            1800
+        ],
+        "Sunday": [
+            1000,
+            1800
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Vianda frita": 550,
+                "Tostones rellenos de ropa vieja": 900,
+                "Tostones rellenos de jamon y queso": 950,
+                "Frituras de malanga": 720,
+                "Eperlan de pescado con su alioli": 1500,
+                "Bolitas de queso": 750
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo grille": 1715
+            },
+            "Pork": {
+                "Masa de cerdo frita": 1550,
+                "Bistec de cerdo": 1740
+            },
+            "Beef": {
+                "Ropa vieja": 1785
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Pesca del chef": 1600
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Limonada": 300,
+                "San francisco": 350,
+                "Pinha colada virgen": 350,
+                "Cuba libre": 450,
+                "Habana especial": 450,
+                "Cubata": 500,
+                "Daiquiri frape": 450,
+                "Mojito": 550,
+                "Ron collins": 500,
+                "Mari pickford": 550,
+                "Cuban manhattan": 550,
+                "Cuba bella": 550,
+                "Tom collins": 550,
+                "Sangria": 650,
+                "Pinha colada": 500,
+                "Margarita": 450,
+                "Screwdriver": 600,
+                "Caipirinha": 550,
+                "Caipiroska": 550,
+                "Tinto verano": 550,
+                "Coctel paloma": 500,
+                "Martini dulce": 600,
+                "Martini 0": 600,
+                "Gin tonic": 650,
+                "Vodka tonic": 650,
+                "Chivas regal 12 anhos": 1200,
+                "Clan campell": 750,
+                "Chivas regal 25 anhos": 2000,
+                "Clen black": 850,
+                "Jhonny walker black label": 1500,
+                "Jhonny walker blue label": 2000,
+                "Jhonny walker red label": 950,
+                "Buchanan master": 2400,
+                "Jhonny walker swinm": 1250,
+                "Glenlibet reserve": 1150,
+                "Buchanan deluxe": 1900,
+                "Dimplede luxe 15 years": 2400,
+                "Buchanan's special": 2250,
+                "Glen silver blenden": 950,
+                "Black & white ": 650,
+                "Old parr 12 anhos": 3600,
+                "Buen amigo": 500,
+                "Omelca chocolate": 550,
+                "Omelca blanco": 500,
+                "Don julio gold": 2100,
+                "Don ramon gold": 1950,
+                "Brandy napoleon bijou": 1600,
+                "Brandy napoleon": 1500,
+                "Brandy torres 5 anhos reserva": 1000,
+                "Brandy torres 10 anhos": 1200,
+                "Brandy torres 5 anhos imperia": 900,
+                "Brandy lepanto": 1500,
+                "Absolut": 600,
+                "Grey goose": 1400,
+                "Vodka igor": 600
+            }
+        }
+    }
+}

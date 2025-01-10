@@ -1,0 +1,174 @@
+{
+    "Name": "5ta Billar",
+    "Specialty": [
+        "Variado"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Regla",
+        "Address": "Avenida Rotaria entre Enlace y A",
+        "Coords.": "4MFG+CFF"
+    },
+    "Contact": {
+        "Web": "5taBillar",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "52943290"
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            600,
+            100
+        ],
+        "Wednesday": [
+            600,
+            100
+        ],
+        "Thursday": [
+            600,
+            100
+        ],
+        "Friday": [
+            600,
+            100
+        ],
+        "Saturday": [
+            1600,
+            100
+        ],
+        "Sunday": [
+            1600,
+            100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada",
+            "Billar"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Cacahuete picante": 110,
+                "Tostones rellenos j&g": 750,
+                "Tostones rellenos de atun": 980,
+                "Tostones rellenos de carne": 900,
+                "Croquetas bola 9": 650,
+                "Bolita de queso": 850,
+                "Fajitas de pollo": 920,
+                "Eperlan": 950,
+                "Entremes": 960,
+                "Surtido 5tabilla": 1650,
+                "Surtido premium": 2950,
+                "Rositas de maiz": 600
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo a la gordon blue": 1800,
+                "Bistec de pollo encebollado": 1600,
+                "Baby chicken": 960,
+                "Kings chicken": 1350
+            },
+            "Pork": {
+                "Uruguayo de cerdo": 2100,
+                "Bistec de pollo encebollado": 1600,
+                "Bistec de cerdo encebollado": 1900,
+                "Brochetas de cerdo al carbon": 1800,
+                "Lomo de cerdo al carbon": 1800
+            },
+            "Beef": {},
+            "Pizza": {
+                "Focaccia": 700,
+                "Pizza napolitana": 1100,
+                "Pizza mixta": 1600,
+                "Pizza cuatro estaciones": 1900
+            },
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {
+                "Tacos de cerdo": 950,
+                "Chorizada al carbon": 2000,
+                "La parrillada": 4950
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cervezas nacionales": 400,
+                "Cerveza corona": 600,
+                "Cerveza importada": 320,
+                "Margarita": 400,
+                "Margarita blue": 400,
+                "Tequila sunrise": 400,
+                "Medusa": 650,
+                "Servicio chelada": 450,
+                "Servicio michelada": 350,
+                "Jagger bomb": 1200,
+                "Mojito corona": 900,
+                "Corona sunrise": 800,
+                "Sangria": 760,
+                "Jarra de sangria": 3720,
+                "Alexander": 1000,
+                "Eclipse": 1020,
+                "Mai tai": 550,
+                "Orgasmo": 1080,
+                "Aperol sprits": 1650,
+                "Italian sunset": 780,
+                "Mimosa": 1500,
+                "Malteada": 250,
+                "San francisco": 350,
+                "Refresco": 340,
+                "Malta": 400,
+                "Red bull": 750,
+                "Agua natural": 220,
+                "Kermato": 680,
+                "Tigon": 400,
+                "Jugo": 230,
+                "Limonada frappe": 300,
+                "Limonada frappe curacao": 350,
+                "Limonada frappe granadina": 380,
+                "Limonada frappe melocoton": 400,
+                "Limonada frappe menta": 380,
+                "Limonada frappe mora": 380,
+                "Limonada frappe naranja": 470,
+                "Limonada frescura (hierbabuena)": 350,
+                "Limonada frappe pinha": 350,
+                "Limonada frappe tropical blue": 350
+            }
+        }
+    }
+}

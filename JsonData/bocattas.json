@@ -1,0 +1,179 @@
+{
+    "Name": "Bocattas",
+    "Specialty": [
+        "cubana",
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "https://linktr.ee/cafe_bocattas",
+        "Facebook": "Caf\u00e9 Bocattas",
+        "Instagram": "@cafe_bocattas",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            2400
+        ],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Tacos de hab c": 800,
+                "Tacos de hamburguesa": 950,
+                "Tacos de cerdo": 900,
+                "Brusquetas": 500,
+                "Chorizo parrillero": 2000,
+                "Croquetas de pollo": 650,
+                "Desayuno": 980,
+                "Ensalada fr\u00eda": 540,
+                "Croquetas de jam\u00f3n serrano": 750,
+                "Huevos rotos": 1050
+            },
+            "Bread": {
+                
+                "Bistec con baguette": 1700,
+                "Bistec con pan suave": 1500,    
+                "Hamburguesa de res": 1000,
+                "Hamburguesa de cerdo": 780,
+                "Pan con lech\u00f3n": 840,
+                "Pan redondo suave": 160,
+                "Pan baguette": 240,
+                "Pan suave": 160,
+                "Tostadas": 240,
+                "Smashburger bocattas de res": 1500,
+                "Smashburger bocattas de cerdo": 1500
+            },
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {
+                "Pasta napolitana": 900,
+                "Pasta bolo\u00f1esa": 2000,
+                "Pasta con bacon": 1500,
+                "Pasta con jamon pierna especial": 1800,
+                "Pasta con jamon barra": 1100
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Dulces finos": 1000,
+                "Bola de helado": 150,
+                "Copa golosa": 800
+            },
+            "Additions": {},
+            "Sides": {
+                "Queso gouda 100g": 430,
+                "Jam\u00f3n barra": 300,
+                "Jam\u00f3n serrano": 570,
+                "Jam\u00f3n pierna especial": 650,
+                "Queso gouda": 380,
+                "Queso azul": 500,
+                "Chorizo espa\u00f1ol": 400,
+                "Bacon": 500,
+                "Huevo": 150,
+                "Mantequilla": 75,
+                "Agrego de cerdo": 400,
+                "At\u00fan": 500,
+                "Vianda frita": 170,
+                "Mayonesa": 50,
+                "Tomate": 100,
+                "Cebolla": 70,
+                "Pepinillo": 35,
+                "Pico de gallo": 70,
+                "Lechuga": 35,
+                "Pi\u00f1a": 35
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural 500 ml": 200,
+                "Refresco importado y nacional": 260,
+                "Malta": 300,
+                "Energizantes": 400,
+                "Limonada frappe": 600,
+                "Jugos naturales": 250
+            },
+            "Alcoholic": {
+                "Cerveza importada": 280,
+                "Cerveza nacional": 400,
+                "Michelada con cerv import": 660,
+                "Michelada con cerv nacional": 750,
+                "Chelada": 180,
+                "Preparado de michelada": 340
+            },
+            "Cocktails": {},
+            "Other": {
+                "Expresso": 130,
+                "Capuchino": 225,
+                "Cortado": 150,
+                "Americano": 210,
+                "Frappuccino": 600,
+                "Cafe con leche": 275
+            }
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "Name": "Amalfi",
+    "Specialty": [
+        "italiana",
+        "mediterranea",
+        "europea"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Amalfi",
+        "Instagram": "@amalfi_havana_restaurant",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2230
+        ],
+        "Tuesday": [
+            1200,
+            2230
+        ],
+        "Wednesday": [
+            1200,
+            2230
+        ],
+        "Thursday": [
+            1200,
+            2230
+        ],
+        "Friday": [
+            1200,
+            2230
+        ],
+        "Saturday": [
+            1200,
+            2230
+        ],
+        "Sunday": [
+            1200,
+            2230
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Bruschetta": 1600,
+                "Bruschetta amalfi": 1920,
+                "Focaccia clasica": 1280,
+                "Parmigiana": 2240,
+                "Carpaccio pulpo": 3840,
+                "Carpaccio res": 4160,
+                "Carpaccio atun": 3520,
+                "Focaccia 500": 1280,
+                "Focaccia con prosciutto": 3840,
+                "Focaccia pomodoro e rucola": 2560,
+                "Focaccia salume del giorno e formaggio": 3200
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "Pizza margarita": 1920,
+                "Pizza de la casa": 3520,
+                "Pizza vegetariana": 2560,
+                "Pizza mixta": 3200,
+                "Pizza de atun": 3200,
+                "Pizza de brocoli y salchicha": 2880,
+                "Pizza diavola": 3880,
+                "Pizza de serrano": 3200,
+                "Pizza romana": 3200,
+                "Pizza de jamon barra": 2560
+            },
+            "Pasta": {
+                "Salsiccia italiana la plancha": 3840,
+                "Pomodoro fresco": 3520,
+                "Carbonara": 3520,
+                "Amatriciana": 3520,
+                "Carbonara salsiccia": 3840,
+                "Puttanesca": 3840,
+                "Ragu malale": 3840,
+                "Zucca e salsiccia": 3840,
+                "Funghi e salsiccia": 4800,
+                "Penne a la sorrentina": 3840,
+                "Spaghetti con bottarga": 3200,
+                "Penne al salmon": 3840,
+                "Pasta amalfi": 3840,
+                "Spaghetti cetara": 3840,
+                "Linguine con calamar": 5120,
+                "Pasta mediterranea": 5120
+            },
+            "Seafood": {},
+            "Fishes": {
+                "Fantasia di mare": 4800,
+                "Gambari al limone": 3840,
+                "Profumo mediterraneo": 5120
+            },
+            "Desserts": {
+                "Torta al limon": 1280,
+                "Tortino al cioccolato": 1600,
+                "Profiterol": 1280,
+                "Tiramisu": 1280,
+                "Tiramisu pan di stelle": 1600,
+                "Delicia del dia": 1280
+            },
+            "Additions": {},
+            "Sides": {
+                "Ensalada de estacion": 1280,
+                "Ensalada positano": 1920,
+                "Ensalada ravello": 1920,
+                "Ensalada vettica": 1920
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua nacional": 500,
+                "Agua importada": 850,
+                "Refresco nacional": 420,
+                "Refresco importado": 750,
+                "Limonada": 840,
+                "Jugo natural": 700
+            },
+            "Alcoholic": {
+                "Cerveza": 980,
+                "Daiquiri": 1400,
+                "Cuba libre": 1400,
+                "Cubanito": 1400,
+                "Cubata": 1400,
+                "Mojito": 1400,
+                "Caipiroska": 1400,
+                "Caipirinna": 1400,
+                "Caipirissima": 1400,
+                "Sangria": 1400,
+                "Margarita": 1400,
+                "Gin tonic": 1400,
+                "Pina colada": 1400,
+                "Negroni": 2240,
+                "Copa de vino": 1260,
+                "Copa de vino italiano": 1680
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

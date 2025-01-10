@@ -1,0 +1,141 @@
+{
+    "Name": "Los taticos",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Marianao",
+        "Address": "27 y 27A",
+        "Coords.": "3HM7+JJC"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            0
+        ],
+        "Tuesday": [
+            800,
+            0
+        ],
+        "Wednesday": [
+            800,
+            0
+        ],
+        "Thursday": [
+            800,
+            0
+        ],
+        "Friday": [
+            800,
+            0
+        ],
+        "Saturday": [
+            800,
+            0
+        ],
+        "Sunday": [
+            800,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada",
+            "Domino"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Picadera tatico": 2800,
+                "Entremes surtido": 800,
+                "Tostones rellenos": 800,
+                "Bolitas de queso": 800,
+                "Bolitas de carne": 800,
+                "Croquetas caseras": 800
+            },
+            "Bread": {
+                "Super hamburguesa tatico": 900,
+                "Hamburguesa tatico": 750,
+                "Super hamburguesa queso": 800,
+                "Hamburguesa queso": 650,
+                "Super hamburguesa sencilla": 700,
+                "Hamburguesa sencilla": 600,
+                "Sandwich tatico": 650,
+                "Bocadito de atun": 600,
+                "Pan con lechon": 650,
+                "Pan con croqueta": 240
+            },
+            "Chicken": {
+                "Pollo al carbon": 1200
+            },
+            "Pork": {
+                "Taco de cerdo": 650
+            },
+            "Beef": {
+                "Taco de carne": 800
+            },
+            "Pizza": {
+                "Pizza tatico": 1200,
+                "Pizza mixta": 680,
+                "Pizza hawaiana": 680,
+                "Pizza jamon": 680,
+                "Pizza de queso": 680
+            },
+            "Pasta": {
+                "Lasagnha": 1250
+            },
+            "Seafood": {
+                "Taco de atun": 800
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {
+                "Arroz blanco": null,
+                "Frijoles": null,
+                "Arroz moro": null
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

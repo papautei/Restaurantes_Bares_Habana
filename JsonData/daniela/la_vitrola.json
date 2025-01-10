@@ -1,0 +1,230 @@
+{
+    "Name": "La Vitrola",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Plaza Vieja entre Muralla y San Ignacio",
+        "Coords.": "4JPX+5W6"
+    },
+    "Contact": {
+        "Web": "La Vitrola",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "78018264"
+    },
+    "Schedule": {
+        "Monday": [
+            830,
+            200
+        ],
+        "Tuesday": [
+            830,
+            200
+        ],
+        "Wednesday": [
+            830,
+            200
+        ],
+        "Thursday": [
+            830,
+            200
+        ],
+        "Friday": [
+            830,
+            200
+        ],
+        "Saturday": [
+            830,
+            200
+        ],
+        "Sunday": [
+            830,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Yuca with cheese": 440,
+                "Bruschetta": 540,
+                "Croquettes": 440,
+                "Fish eperlan": 1730,
+                "Meat ball": 720,
+                "Fried pork chunks": 1730,
+                "Fried pork ribs": 1730,
+                "Beef of chicken or pork burguer": 870,
+                "Ham and cheese sandwich": 720,
+                "Tuna fish sandwich": 720,
+                "Chicken or pork tacos": 1040,
+                "Shrimps tacos": 1240,
+                "Fried chickpea": 870,
+                "Fried stuffed plantain": 650,
+                "Tamales in leaves": 360,
+                "Tamales vitrola": 700,
+                "Vitrola mixed": 2880,
+                "Vitrola salad": 530,
+                "Plaza vieja salad": 720,
+                "Picadera vitrola": 1730,
+                "Assorted picadera": 1730,
+                "Shrimps cocktail": 1590,
+                "Fish cebiche": 1880,
+                "Octopus in gardin / grill": 3000,
+                "Grandma's patacon": 1500,
+                "Chicken sandwich": 720,
+                "Cuban sandwich": 940,
+                "Vitrola sandwich": 940
+            },
+            "Bread": {},
+            "Chicken": {
+                "Grilled chicken breast": 1160,
+                "Chicken gordon blue": 1440,
+                "Grilled chicken": 1160
+            },
+            "Pork": {
+                "Uruguayo steak": 1440,
+                "Pork steak with onion": 1230,
+                "Fried pork chunks": 1730,
+                "Fried pork ribs": 1730
+            },
+            "Beef": {
+                "Beef steak": 2160,
+                "Fried beef": 1440,
+                "Ropa vieja": 1440
+            },
+            "Pizza": {
+                "Pizza margarita": 1250,
+                "Pizza de jamon viking": 1650,
+                "Pizza de jamon pierna": 1900,
+                "Pizza de jamon serrano": 2500,
+                "Pizza hawaiana": 1750,
+                "Pizza de atun": 1750,
+                "Pizza cuatro estaciones": 1750,
+                "Pizza de salame": 1900,
+                "Pizza de cebolla": 1350,
+                "Pizza de champignones": 1750,
+                "Pizza de calzone": 1750,
+                "Pizza de pepperone": 1750,
+                "Pizza retro": 2500,
+                "Pizza habanera": 3000,
+                "Pizza cuatro quesos": 1900,
+                "Pizza de camarones": 2250,
+                "Pizza mixta-": 2500,
+                "Pizza de sardina": 1500,
+                "Pizza de langosta": 3750
+            },
+            "Pasta": {
+                "Pasta cuatro quesos": 2190,
+                "Pasta alberto": 1740,
+                "Pasta bolognesa": 1900,
+                "Pasta carbonara": 1740,
+                "Pasta puttanesca": 2590,
+                "Pasta al pesto": 1740,
+                "Pasta de jamon": 1740,
+                "Pasta de chorizo": 1740,
+                "Pasta al ajo": 1560,
+                "Pasta al pomodoro": 1560,
+                "Pasta retro": 2590,
+                "Pasta al horno": 2590,
+                "Pasta amatriciana": 1740,
+                "Pasta frutti di mare": 2590,
+                "Pasta focaccia": 750,
+                "Brusquetas": 820,
+                "Crema (queso, aurora, virginia, champignon)": 880,
+                "Lasagna": 1740,
+                "Canelones": 1740
+            },
+            "Seafood": {
+                "Grilled fish fillet / breaded": 1850,
+                "Fish fillet gouda": 2100,
+                "Camarones al gusto": 1590,
+                "Fried whole fish": 2600,
+                "John bill fish": 2400,
+                "Fish fillet monte toro": 2400,
+                "Fish fillet canciller": 2600
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {
+                "Fried viands": 240,
+                "Vegetable salad": 300,
+                "White rice": 160,
+                "Moro rice": 240,
+                "Day beans": 240,
+                "Rice with vegetables": 240
+            },
+            "Other": {
+                "Mixed grill": 2160,
+                "Rural grill": 2600,
+                "Skewer of your choice": 1160,
+                "Chicken or pork fajitas": 1160,
+                "Lamb stew": 2600,
+                "Fried rice with shrimps": 1020,
+                "Three piece of pork loin": 1730,
+                "Land and sea": 2600
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Expresso": 240,
+                "American coffee": 240,
+                "Coffe with a dash of milk": 300,
+                "Coffee with milk": 300,
+                "Chocolate with milk": 390,
+                "Capuccino": 390,
+                "National water": 390,
+                "National softdrinks": 400,
+                "Imported softdrinks": 400,
+                "Softdrink dispensed": 250,
+                "Malt drink": 400,
+                "Imported malt": 400,
+                "Glass of dispensed beer": 180,
+                "Imported beer": 350,
+                "Dispensed beer mug": 350,
+                "National michelada": 340,
+                "Imported michelada": 540,
+                "Lemonade": 390,
+                "Natural juice": 240,
+                "Fruits milk shake": 450,
+                "Ice cream milk shake": 540
+            }
+        }
+    }
+}

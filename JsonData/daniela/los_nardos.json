@@ -1,0 +1,217 @@
+{
+    "Name": "Los Nardos",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Paseo de Marti, frente al Capitolio",
+        "Coords.": "4JMR+RMW"
+    },
+    "Contact": {
+        "Web": "Restaurante Los Nardos y Asturianito",
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "78632985"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            0
+        ],
+        "Saturday": [
+            1200,
+            0
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Tortilla espanhola": 865,
+                "Tortilla vazca": 940
+            },
+            "Appetizers": {
+                "Ensalada de vegetales frescos": 620,
+                "Ensalada de frutas tropicales": 725,
+                "Coctel de frutas tropicales": 805,
+                "Ensalada de rollo de primavera": 1035,
+                "Surtidito de la casa": 2420,
+                "Ensalada a la vinagreta": 1710,
+                "Ensalada mediterranea": 1710,
+                "Estilo de los nardos,": 1710,
+                "Camaroncillos en coctel": 1425,
+                "Ensaladita de atun": 1425,
+                "Carpaccio de pescado": 935,
+                "Coctel de pescado": 935,
+                "Ensalada de jamon serrano y frutas tropicales": 2590,
+                "Gran tabla de embutidos y quesos": 4040,
+                "Tamal en cazuela": 1060,
+                "Bolitas de queso": 1920,
+                "Garbanzos fritos": 1295,
+                "Gran picadera de los nardos": 2485,
+                "Sopa de pollo": 865,
+                "Fabada al estilo del chef": 1450,
+                "Sopa de vegetales": 490,
+                "Gazpacho andaluz": 640
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo frito": 2480,
+                "Pollo grille": 2490,
+                "Pollo gordon blue": 2870,
+                "Fajitas de pollo": 2230,
+                "Pechuga de pollo grille": 2420,
+                "Dados de pollo al gusto": 2160,
+                "Brocheta mixta de pollo": 2230
+            },
+            "Pork": {
+                "Bistec de cerdo": 2200,
+                "Escalope de cerdo": 2330,
+                "Uruguayo de cerdo": 2500,
+                "Masas de cerdo": 2800,
+                "Chuletas de cerdo": 2500,
+                "Lomo de cerdo ahumado": 2500,
+                "Pierna de cerdo hawaiana": 2800,
+                "Pierna de cerdo a la criolla": 2800,
+                "Ropa vieja de cerdo": 2780,
+                "Cerdo salteado": 2260
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Filete de pescado grille": 2500,
+                "Pescado canciller": 2845,
+                "Masas de pescado": 2500,
+                "Eperlan de pescado": 2500,
+                "Filete de pescado joinville": 2870,
+                "Filete de pescado monte toro": 2590,
+                "Filete de pescado don pedro": 2745,
+                "Camarones al gusto": 2900,
+                "Langosta": 2660
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Flan al caramelo": 449,
+                "Copa lolita": 719,
+                "Torta del dia": 559,
+                "Helado": 719,
+                "Torrejas en almibar": 559,
+                "Cake a la moda": 819,
+                "Torta helada": 559,
+                "Torta 3 leches": 559,
+                "Brownie de chocolate": 719,
+                "Pudin": 439
+            },
+            "Sides": {
+                "Arroz blanco": 295,
+                "Moros y cristianos": 295,
+                "Frijoles": 295,
+                "Viandas hervidas": 295,
+                "Vegetales salteados": 295,
+                "Arroz indiana": 295
+            },
+            "Other": {
+                "Cena cubana": 3235,
+                "Cordero al gusto": 2715,
+                "Paletilla de cordero a las finas hierbas": 3610,
+                "Paella mixta": 1920,
+                "Paella de vegetales": 1575,
+                "Grillada mar y tierra": 4460
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Agua nacional": 164,
+                "Agua importada": 219,
+                "Refresco nacional": 275,
+                "Refresco de maquina": 207,
+                "Refresco importado": 275,
+                "Red bull": 461,
+                "Kermato": 449,
+                "Maltas": 649,
+                "Malteada": 274,
+                "Cana de cerveza": 512,
+                "Jarra de cerveza": 1650,
+                "Jarrazo": 659,
+                "Michelada": 308,
+                "Cerveza nacional": 308,
+                "Cerveza importada": 461,
+                "Copa de vino": 345,
+                "Vermouth": 230,
+                "Limonada": 263,
+                "Jugos naturales": 349,
+                "Jugos importados": 247,
+                "Jugos de caja": 165,
+                "Cafe": 219,
+                "Cafe cortado": 219,
+                "Cafe con leche": 274,
+                "Cafe capuccino": 274,
+                "Cafe bombon": 274,
+                "Cafe irlandes": 109,
+                "Mojito": 385,
+                "Daiquiri": 385,
+                "Cuba libre": 456,
+                "Sangria": 495,
+                "Pinha colada": 439,
+                "San francisco": 329,
+                "Otros cocteles": 439
+            }
+        }
+    }
+}

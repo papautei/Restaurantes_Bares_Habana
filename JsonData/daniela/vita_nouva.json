@@ -1,0 +1,307 @@
+{
+    "Name": "Vita Nouva",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle L esquina 21",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "78329774"
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1130
+        ],
+        "Tuesday": [
+            800,
+            1130
+        ],
+        "Wednesday": [
+            800,
+            1130
+        ],
+        "Thursday": [
+            800,
+            1130
+        ],
+        "Friday": [
+            800,
+            1130
+        ],
+        "Saturday": [
+            800,
+            1130
+        ],
+        "Sunday": [
+            800,
+            1130
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Croquetas": 950,
+                "Tostones rellenos": 950,
+                "Tostones rellenos con atun": 1050,
+                "Picadera vita nuova": 1850,
+                "Frituras de malanga": 950,
+                "Eperlan de pescado": 1050,
+                "Fajitas de pollo": 1050,
+                "Desayuno vita nuova": 1450,
+                "Pan de la casa": 450,
+                "Coctel de camarones": 1450,
+                "Ensalada fria de jamon": 950,
+                "Ensalada fria de atun": 950,
+                "Barenjena a la parmesana": 930,
+                "Papas fritas": 850,
+                "Canape de jamon serrano y queso": 850,
+                "Crema de queso": 650,
+                "Crema aurora": 700,
+                "Crema virginia": 700,
+                "Sopa de la casa": 600,
+                "Fajitas de cerdo": 1200
+            },
+            "Bread": {
+                "Queso": 1300,
+                "Jamon": 1300,
+                "Jamon y queso": 1450,
+                "Pechuga de pollo": 1400,
+                "Atun": 1450,
+                "Jamon serrano": 1600,
+                "Bistec": 1450,
+                "Cubano": 1600,
+                "Hamburguesa": 1250,
+                "Hamburguesa con jamon y queso": 1600,
+                "Hamburguesa con queso": 1500,
+                "Hamburguesa especial": 1850,
+                "Hamburguesa con jamon": 1500,
+                "Tortilla al plato": 750
+            },
+            "Chicken": {
+                "Pollo gordon blue": 3200,
+                "Pollo a la parmesana": 3200,
+                "Pollo a la milanesa": 3200,
+                "Pechuga de pollo grille": 2800
+            },
+            "Pork": {
+                "Chuleta de cerdo": 3200,
+                "Bistec uruguayo": 3300,
+                "Costillas de cerdo al jugo": 3200,
+                "Bistec de cerdo": 3000,
+                "Fricase de cerdo": 3400
+            },
+            "Beef": {
+                "Punta de filete de res": 7000,
+                "Ropa vieja de res": 3200,
+                "Picadillo de res a la habanera": 2800,
+                "Solomillo de res": 9000
+            },
+            "Pizza": {
+                "Napolitana": 1400,
+                "Margarita": 1700,
+                "Jamon de la casa": 1700,
+                "Tonatta": 1900,
+                "4 quesos": 1900,
+                "Hawaiana": 1750,
+                "4 estaciones": 2500,
+                "Tentacion": 2500,
+                "Vita nuova": 3000
+            },
+            "Pasta": {
+                "Espaguetti napolitano": 1250,
+                "Espaguetti pesto": 1250,
+                "Espaguetti tonatta": 2000,
+                "Espaguetti amatriciana": 1850,
+                "Espaguetti vita nuova": 2050,
+                "Espaguetti agli oli": 1850,
+                "Espaguetti a la carbonara": 1850,
+                "Espaguetti a la bolonesa": 1850,
+                "Lasagna bolonesa": 1650
+            },
+            "Seafood": {
+                "Enchilado de camaron": 3200,
+                "Camaron grille": 3200,
+                "Camaron al ajillo": 3200,
+                "Langosta grille o enchilada": 3300,
+                "Pescado grille": 3100,
+                "Canciller": 4500,
+                "Pescado john bill": 4500
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Semifrio v sabores": 1200,
+                "Flan de caramelo": 500,
+                "Copa lolita": 850,
+                "Helados de la casa": 850,
+                "Brownie con helado": 900,
+                "Pie de limon": 850,
+                "Vaca negra": 720
+            },
+            "Sides": {
+                "Yuca con mojo": 550,
+                "Yuca frita": 550,
+                "Arroz moro": 450,
+                "Arroz blanco": 450,
+                "Toston natural": 450,
+                "Pure de malanga": 550,
+                "Ensalada de vegetales": 850
+            },
+            "Other": {
+                "Bistec de palomilla grille": 3850,
+                "Estofado de cordero": 3600,
+                "Risotto de pollo": 1650,
+                "Risotto de champinon": 2000,
+                "Risotto de vegetales": 1900,
+                "Risotto de gamba": 2000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Refresco importado": 350,
+                "Jugo de frutas naturales": 300,
+                "Agua natural 500ml": 300,
+                "Agua natural 1500ml": 450,
+                "Agua con gas": 300,
+                "Agua tonica": 330,
+                "Suero de helado": 750,
+                "Batido de helado": 700,
+                "Limonada frappe": 400,
+                "Red bull": 400,
+                "Malta": 400,
+                "Jarra de cerveza": 500,
+                "Cerveza importada": 440,
+                "Cerveza nacional": 500,
+                "Cerveza sol": 500,
+                "Chelada": 800,
+                "Michelada": 950,
+                "Cubetazo cerveza importada": 3850,
+                "Cubetazo corona, cristal, bucanero": 4800,
+                "Cuba libre": 550,
+                "Daiquiri": 550,
+                "Ron collins": 490,
+                "Mary pickford": 490,
+                "Cubata": 650,
+                "Margarita": 880,
+                "Canchanchara": 550,
+                "Caipirina": 550,
+                "Caipirisima": 550,
+                "Caipiroska": 550,
+                "Gin tonic": 550,
+                "Cubanito": 600,
+                "Pinha colada": 950,
+                "Pinha colada sin alcohol": 750,
+                "Gin con tanqueray": 800,
+                "Bloody mary": 710,
+                "Scholdriver": 450,
+                "Sex on the beach": 750,
+                "Martini": 1000,
+                "Negroni": 710,
+                "Orgasmo": 820,
+                "Mojito": 550,
+                "Mojito moreno": 600,
+                "Presidente": 550,
+                "Tequila sunrise": 770,
+                "Tinto verano": 700,
+                "Ton collins": 490,
+                "Havana special": 550,
+                "Sangria": 710,
+                "Long island": 930,
+                "Black russian": 490,
+                "Coctel vita nuova": 770,
+                "Coctel vita nuova sin alcohol": 550,
+                "Manhattan": 1500,
+                "Blue laboon": 900,
+                "T.heminguay": 490,
+                "Havana club 3 anhos": 390,
+                "Havana club anejo especial": 440,
+                "Havana club anhejo reserva": 550,
+                "Havana club anhejo 7 anos": 660,
+                "Havana club seleccion de maestros": 820,
+                "Pacto navio": 820,
+                "Whisky clan macgregor": 330,
+                "Whisky red label": 800,
+                "Whisky black label": 1000,
+                "Whisky buchanas": 1100,
+                "Whisky jamenson": 490,
+                "Vodka grey groose": 800,
+                "Vodka ciroc": 600,
+                "Vodka stollchanaya": 700,
+                "Tequila jose cuervo": 820,
+                "Tequila patron": 1210,
+                "Tequila olmeca": 600,
+                "Baileys": 820,
+                "Ballantines": 550,
+                "Tanqueray": 550,
+                "Jagger": 550,
+                "Santiago 8 anhos": 600,
+                "Santiago 12 anhos": 850,
+                "Chivas regal 12 anhos": 900,
+                "Beefeater": 500,
+                "Copa de vino frontera": 550,
+                "Copa de vino sangre de toro": 770,
+                "Copa de vino acantus tinto": 660,
+                "Copa de vino crin roja": 750,
+                "Copa de vino gato negro": 750,
+                "Copa de vino de la casa": 550,
+                "Copa de vino vinas del vero": 850,
+                "Copa de vino santa julia": 850,
+                "Copa de vino federico": 850,
+                "Copa de vino vineyard": 750,
+                "Copa de vino acantus blanco": 750,
+                "Expresso": 250,
+                "Americano": 300,
+                "Cortado": 350,
+                "Capuccino": 450,
+                "Frapuccino": 500,
+                "Cafe con leche": 450,
+                "Cafe bombon": 500,
+                "Te de infusion": 170,
+                "Chocolate caliente": 330,
+                "Malta con leche": 650
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "Name": "Bohio_Mercadito",
+    "Specialty": [
+        "Bar",
+        "Americana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": null,
+        "Coords.": "4HVX+3WQ, y C, Vedado, La, Malecon, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": [
+            null,
+            null
+        ]
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2100
+        ],
+        "Tuesday": [
+            1000,
+            2100
+        ],
+        "Wednesday": [
+            1000,
+            2100
+        ],
+        "Thursday": [
+            1000,
+            2100
+        ],
+        "Friday": [
+            1000,
+            2100
+        ],
+        "Saturday": [
+            1000,
+            2100
+        ],
+        "Sunday": [
+            1000,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": 4.2,
+        "Google": "",
+        "Facebook": ""
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": false,
+        "Wifi": false,
+        "Entertainment": [
+            "A la carta"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Baguette jamon y queso": 700.0,
+                "Croissant nutella": 800.0,
+                "Croissant jamon y queso": 900.0,
+                "Mini croissants chocolate": 150.0,
+                "Dona chocolate": 250.0
+            },
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Capuchino": 250.0,
+                "Expresso": 100.0,
+                "Cortado": 150.0,
+                "Bombon": 250.0,
+                "Affogato": 500.0,
+                "Frappuccino": 500.0,
+                "Frutos del bosque/platano": 600.0,
+                "Mango": 500.0,
+                "Frutabomba": 500.0
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

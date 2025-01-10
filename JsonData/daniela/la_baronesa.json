@@ -1,0 +1,166 @@
+{
+    "Name": "La Baronesa",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Lagunas",
+        "Coords.": "4JRH+3x3"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [
+            800,
+            2200
+        ],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Frito natural": 450,
+                "Revuelto con vegetales": 500,
+                "Revuelto con jamon": 550,
+                "Revuelto con queso": 550,
+                "Revuelto con jamon y queso": 600,
+                "Natural": 330,
+                "Con vegetales": 380,
+                "Con queso": 400,
+                "Con jamon": 400,
+                "Con jamon y queso": 450
+            },
+            "Appetizers": {
+                "Croquetas de la casa": 600,
+                "Croquetas con jamon y queso": 750,
+                "Fajitas de jamon y queso": 950
+            },
+            "Bread": {
+                "Sencilla": 300,
+                "Con vegetales": 350,
+                "Con jamon": 400,
+                "Con queso": 400,
+                "Con jamon y queso": 500,
+                "S\u00faper": 650,
+                "S\u00faper al burro ": 800,
+                "Pan con bistec pollo": 600,
+                "Pan con bistec cerdo": 750,
+                "Pan con jamon y queso": 350
+            },
+            "Chicken": {
+                "Chiflado": 750,
+                "Parrilla bistec": 1200,
+                "A la campesina": 1250,
+                "Fajitas con vegetales": 1250,
+                "Fajitas empanizadas": 1350
+            },
+            "Pork": {
+                "Bistec de cerdo": 1500,
+                "Bistec de cerdo encebollado": 1550,
+                "Cerdo a la campesina (picante)-": 1550,
+                "Ropa vieja ": 1650,
+                "Fajitas con vegetales": 1550,
+                "Fajitas empanizadas": 1600,
+                "Lonjas de cerdo": 1500,
+                "Lomo ahumado": 1350,
+                "Fricase de cerdo ": 1850,
+                "Solomillo al jugo": 1750,
+                "Bistec uruguayo": 1800,
+                "Chuleton de cerdo": 1850
+            },
+            "Beef": {
+                "Fricas\u00e9 de res": 2300,
+                "Ropa vieja de res": 2300
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Filete de pescado": 1500,
+                "Camarones": 1600,
+                "Langosta": 2500,
+                "Canciller": 1800
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {
+                "Vegetales salteados": 350,
+                "Moro": 250,
+                "Fritura de vianda": 350,
+                "Tostones": 450
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Expreso": 100,
+                "Cortadito": 150,
+                "Americano": 150,
+                "Con leche": 200,
+                "Capuchino": 300
+            }
+        }
+    }
+}

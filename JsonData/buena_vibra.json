@@ -1,0 +1,125 @@
+{
+    "Name": "Buena Vibra",
+    "Specialty": [
+        "criolla"
+    ],
+    "Ownership": "privado",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "croquetas": 400,
+                "fritura de malanga": 400,
+                "vianda frita": 300,
+                "tostones tradicionales": 300,
+                "tostones rellenos": 500
+            },
+            "Bread": {
+                "hamburguesa de pollo": 300
+            },
+            "Chicken": {
+                "bistec de pollo": 850,
+                "bistec de pollo empanado": 900,
+                
+                "pechuga de pollo": 900
+            },
+            "Pork": {
+                "higado de cerdo": 800,
+                "lomo ahumado": 900,
+                "bistec de cerdo": 900
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {
+                "espaguetti con queso": 400,
+                "espaguetti de jamon": 550
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {
+                "tequila reposado": 300,
+                "licor crema": 200,
+                "pinha colada": 300
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

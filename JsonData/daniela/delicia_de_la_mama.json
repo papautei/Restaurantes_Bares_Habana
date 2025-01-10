@@ -1,0 +1,140 @@
+{
+    "Name": "Delicia de la mama",
+    "Specialty": [
+        "Variado"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 19 entre C y D",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            0
+        ],
+        "Tuesday": [
+            0,
+            0
+        ],
+        "Wednesday": [
+            0,
+            0
+        ],
+        "Thursday": [
+            0,
+            0
+        ],
+        "Friday": [
+            0,
+            0
+        ],
+        "Saturday": [
+            0,
+            0
+        ],
+        "Sunday": [
+            0,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Fritura de malanga": 550,
+                "Croqueta de jamon": 850,
+                "Tostada de mantequilla": 350,
+                "Vianda frita": 450,
+                "Estaciones de la mama": 850,
+                "Fajitas de la mama con salsa x0": 750,
+                "Ensalada de la mama (jamon, queso, chorizo y croqueta)": 2500,
+                "Ensalada de la mama (jamon, queso, chorizo)": 2000,
+                "Alitas de pollo": 950,
+                "Albondigas": 950
+            },
+            "Bread": {
+                "Hamburguesa sencilla": 800,
+                "Hamburguesa de jamon": 1050,
+                "Hamburguesa de queso gouda": 1150,
+                "Hamburguesa de queso gouda y jamon": 1250,
+                "Pan con queso gouda": 700,
+                "Pan con jamon y queso gouda": 850,
+                "Pan con lomo": 950,
+                "Pan con bistec": 980,
+                "Pan con atun": 1000
+            },
+            "Chicken": {
+                "Pollo frito": 1550,
+                "Pollo ahumado": 1550,
+                "Pechuga": 1650,
+                "Pollo gordon blue": 1800
+            },
+            "Pork": {
+                "Lomo ahumado": 1550,
+                "Chuleta ahumada": 1800,
+                "Bistec de cerdo": 1550,
+                "Fricase de cerdo": 1750
+            },
+            "Beef": {
+                "Fricase de res": 2300
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Filete de pescado": 1950
+            },
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cafe": 150,
+                "Cafe con leche": 450
+            }
+        }
+    }
+}

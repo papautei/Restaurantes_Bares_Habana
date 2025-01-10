@@ -1,0 +1,125 @@
+{
+    "Name": "Ranchon de 41",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Marianao",
+        "Address": "Avenida 41 y 84",
+        "Coords.": "3HQH+R9"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "52014975"
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            2400
+        ],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica grabada"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Croquetas de la casa": 400,
+                "Coctel de camaron": 650,
+                "Picadera el toro bravo": 1700
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo chiflado": 1200,
+                "Fajitas de pollo": 750
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "Pizza de queso blanco": 400,
+                "Pizza de queso gouda": 680
+            },
+            "Pasta": {
+                "Espaguetis": 700
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Suero de helado": 400
+            },
+            "Sides": {
+                "Queso": 200,
+                "Jamon": 150,
+                "Chorizo": 150,
+                "Cebolla": 150,
+                "Pinha": 150,
+                "Aceituna": 200,
+                "Queso gouda": 500,
+                "Atun": 300
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

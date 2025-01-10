@@ -1,0 +1,201 @@
+{
+    "Name": "ChaChaCha",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Monserrate entre Tejadillo y Chacon",
+        "Coords.": "4JRV+7C3"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "078672450"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            0
+        ],
+        "Saturday": [
+            1200,
+            0
+        ],
+        "Sunday": [
+            1200,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ceviche de la casa": 3050,
+                "Carpaccio de pulpo con vinagreta de c\u00edtricos": 3850,
+                "Tiradito de pez con chicharrita": 3050,
+                "Carpaccio de res con r\u00facula y aceite de trufa": 4450,
+                "Carpaccio de at\u00fan rojo": 4100,
+                "Pan y mantequilla": 1150,
+                "Croquetas braseadas de pollo": 2250,
+                "Crema de calabaza, betabel y parmesano": 1800,
+                "Tacos chachach\u00e1": 2700,
+                "Empanadillas de carne bbq": 2250,
+                "Tabla de jamon serrano, salami y quesos": 5700,
+                "Sashimi ahumado": 4100,
+                "Tartar de res": 4450,
+                "Tartar de at\u00fan": 4100
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {
+                "Masas de cerdo confitadas": 3800,
+                "Lechon cubano": 4560,
+                "Solomillo de cerdo espanhol": 5320,
+                "Puntas de cerdo bbq": 5320
+            },
+            "Beef": {
+                "Ropa vieja de la abuela": 4180,
+                "Picadillo a la habanera": 4180,
+                "Puntas de filete estilo chachach\u00e1": 7600
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Salsa bolonhesa": 3850,
+                "Camaron, curry y pimienta rosa": 4100,
+                "Salsa alfredo": 3850,
+                "Salsa funghi con pollo y trufa": 4450,
+                "Salsa carbonara trufada": 4150,
+                "Salsa bisque al fruti d'mare": 4900,
+                "Nero di sepia": 4900,
+                "Funghi - porcini y trufa": 4560,
+                "Del mar": 4560,
+                "Carbonara trufado": 4180,
+                "S\u00e9mola y trufa": 4180
+            },
+            "Seafood": {
+                "Filete de pescado al horno con finas hierbas": 4180,
+                "Langosta caribenha": 6460,
+                "Zarzuela de mariscos": 105000,
+                "Camarones al gusto": 6460,
+                "Pulpo nordico": 9500,
+                "Calamar patagonico": 6460
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Brownie": 3000,
+                "Esfera de frutas": 3000,
+                "Bizcocho": 2900,
+                "Arroz con leche de la abuel": 2500,
+                "Flan t\u00eda lola": 2700,
+                "Copa de helado": 2200,
+                "Carajillo": 1050,
+                "Bombon": 1200
+            },
+            "Sides": {
+                "Vianda frita": 760,
+                "Pur\u00e9 de temporada": 1140,
+                "Ensalada de estacion": 1520,
+                "Arroz blanco": 760,
+                "Frijoles negros": 1140
+            },
+            "Other": {
+                "Jorrin": 3050,
+                "C\u00e9sar con pollo y bacon": 3850,
+                "Chachach\u00e1": 3850,
+                "Mixta de salmon": 3850,
+                "Griega": 3850,
+                "Arroz thai de pollo, curry de coco y pasas": 4180,
+                "Solomillo argentino (280g)": 11150,
+                "Entrecote de ternera (350g)": 5320,
+                "Coctel de langosta": 2660,
+                "Patacon chachach\u00e1": 2700,
+                "Quesadilla cuatro quesos": 3420,
+                "Papa rellena de camaron y queso": 2700,
+                "Frituritas de malanga": 2250,
+                "Tamal en cazuela": 1900
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Expresso": 520,
+                "Nespresso": 960,
+                "Cortado": 875,
+                "Frappuccino": 2200,
+                "T\u00e9 / infusiones": 620,
+                "Mojito": 450,
+                "Mojito de frutas": 500,
+                "Daiquiri": 500,
+                "Daiquiri de frutas": 550,
+                "Cuba libre": 350,
+                "Cubata": 480,
+                "Cubanito": 450,
+                "Michelada": 500,
+                "Chelada": 450,
+                "Canchanchara": 400,
+                "Dry martini": 450,
+                "Negroni": 650,
+                "Margarita": 450,
+                "Caipirinha": 450,
+                "Caipiroska": 500,
+                "Pina colada": 500,
+                "Bloody mary": 600,
+                "Sangria": 495,
+                "Manhattan": 600,
+                "Vodka tonic": 550
+            }
+        }
+    }
+}

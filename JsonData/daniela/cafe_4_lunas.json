@@ -1,0 +1,259 @@
+{
+    "Name": "Cafe 4 Lunas",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 21 entre L y M",
+        "Coords.": "4JR8+FFJ"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": "52652849"
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Tabla de jamon iberico": 3500,
+                "Cebiche": 1700,
+                "Cremas": 1100,
+                "Sopa de pollo y vegetales": 1100,
+                "Sopa de res": 1500,
+                "Caldo del mar": 1600,
+                "Croquetas de la casa": 1300,
+                "Bolitas de queso": 1450,
+                "Eperlan de pescado": 1650,
+                "Alubias blancas con chorizo y bacon": 1500,
+                "Garbanzos fritos": 1500,
+                "Fajitas de pollo empanadas": 1700,
+                "Tacos mexicanos de pollo": 1450,
+                "Tacos mexicanos de cerdo": 1300,
+                "Tacos mexicanos de res": 1500
+            },
+            "Bread": {},
+            "Chicken": {
+                "Bistec de pechuga de pollo": 3200,
+                "Salteado de pechuga de pollo con vegetales": 3400
+            },
+            "Pork": {
+                "Bistec de solomillo de cerdo": 3500,
+                "Fricase de cerdo": 2900,
+                "Masas de cerdo frita": 2980,
+                "Costilla de cerdo a la bbq": 4000
+            },
+            "Beef": {
+                "Ropa vieja": 2600,
+                "Vaca frita": 2600,
+                "Estofado de res": 3500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetti a la napolitana": 1500,
+                "Espaguetti agrio e olio": 1320,
+                "Espaguetti a la bolognesa": 2500,
+                "Espaguetti di mare": 3000,
+                "Espaguetti a la carbonara tradicional": 3100
+            },
+            "Seafood": {
+                "Filete de pescado grille": 2950,
+                "Filete de merluza empanada": 3500,
+                "Filete de merluza al olivo": 4200,
+                "Salmon ahumado a la plancha": 5200,
+                "Langosta grille": 2900,
+                "Langosta enchilada": 3050,
+                "Langosta al ajillo": 3100,
+                "Pulpo al gusto": 4700
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Carlota de limon": 850,
+                "Helado": 750
+            },
+            "Sides": {
+                "Arroz blanco": 300,
+                "Arroz moro": 370,
+                "Arroz pilaf": 400,
+                "Arroz primavera": 350,
+                "Ensalada de estacion": 700,
+                "Vianda frita": 650,
+                "Tostones tradicionales": 550,
+                "Fritura de malanga con miel": 650,
+                "Pure de vianda": 600
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Luz de luna (coctel de la casa)": 1200,
+                "Sangria selene": 1100,
+                "Daiquiri de frutos del bosque natural": 1200,
+                "Mojito": 610,
+                "Mojito oscuro": 670,
+                "Negroni": 1450,
+                "Cubata": 630,
+                "Cuba libre": 600,
+                "Canchanchara": 520,
+                "Daiquiri": 750,
+                "Daiquiri de frutas": 1000,
+                "Screw driver": 900,
+                "Martini": 970,
+                "Margarita": 1100,
+                "Blue margarita": 1200,
+                "Margarita reposada": 1500,
+                "Havana especial": 680,
+                "Long island tea": 1140,
+                "Vodka martini": 950,
+                "Gin tonic": 1500,
+                "Gin tonic beefeather": 2000,
+                "Gin tonic tangueray": 2280,
+                "Caipirinha/caipirissima/caipisoska": 630,
+                "Caipiroska ciroc": 1750,
+                "Caipiroska absolut": 1500,
+                "Mai tai": 850,
+                "Pinha colada": 950,
+                "Sangria": 850,
+                "Servicio de michelada": 250,
+                "Servicio de chelada": 200,
+                "Refrescos importados": 570,
+                "Malta": 600,
+                "Agua natural nacional": 350,
+                "Agua tonica nacional": 500,
+                "Agua tonica importada": 1150,
+                "Jugo de frutas naturales": 600,
+                "Batido de frutas": 850,
+                "Limonada frappe o natural": 400,
+                "Limonada frescura": 550,
+                "Limonada primavera": 600,
+                "Cerveza nacional": 460,
+                "Cafe espresso": 330,
+                "Cafe capuccino": 390,
+                "Cafe americano": 330,
+                "Cafe cortado": 390,
+                "Cafe frapuccino": 850,
+                "Cafe con leche": 450,
+                "Cafe carajillo": 550,
+                "Cafe bombom": 690,
+                "Ron pacto navio": 1170,
+                "Ron seleccion de maestros": 1770,
+                "Ron havana club spiced": 1200,
+                "Ron havana club smoky": 1100,
+                "Ron santiago extra seco": 1250,
+                "Ron santiago 8 anhos": 1400,
+                "Ron santiago 11 anhos": 1450,
+                "Ron santiago 12 anhos": 5000,
+                "Ron santisima trinidad": 7000,
+                "Ron iminente 7 anhos reserva": 15000,
+                "Ron havana club union": 1000,
+                "Whisky jaminson": 1710,
+                "Whisky buchanans master": 750,
+                "Whisky ballentines": 1000,
+                "Whisky jw red": 1100,
+                "Whisky chivas regal 12 anhos": 1100,
+                "Tequila omelca blanco": 900,
+                "Tequila reina del sur reposado": 800,
+                "Tequila omelca chocolate": 1100,
+                "Tequila tres sombreros reposado": 1645,
+                "Tequila don ramon punta diamante blanco": 1745,
+                "Tequila don ramon punta diamante reposado": 550,
+                "Vodka grin mark": 1140,
+                "Vodka grey goose": 1425,
+                "Vodka cirok": 1320,
+                "Vodka absolut": 650,
+                "Brandi torres 10 anhos": 850,
+                "Brandi torres 15 anhos": 520,
+                "Ginebra beefeather london": 700,
+                "Ginebre perigans": 800,
+                "Ginebra gordons": 400,
+                "Sambuca": 940,
+                "Magdala": 1030,
+                "Baileys": 1000,
+                "Rua vieja tradicional": 5000,
+                "Avadal matis crianza 2020": 5000,
+                "Lafou el sender 2020": 5000,
+                "Garnacha tinta": 5000,
+                "Ramon roqueta crianza 2020": 5500,
+                "Frentano 2022": 5000,
+                "Gaton negro cabernet sauvignon 2023": 5000,
+                "Gato negro carmenere 2022": 5000,
+                "Gato negro merlot 2022": 5000,
+                "Celeste roble 2021": 5000,
+                "Sangre de toro original 2021": 7000,
+                "Loco de piedra": 6000,
+                "I heart merlot": 3500,
+                "Torres sauvignon blanc reserva 2022": 4500,
+                "Gato negro chardonnahy 2023": 4500,
+                "Copa de vino tinto": 700,
+                "Copa de vino blanco": 650
+            }
+        }
+    }
+}

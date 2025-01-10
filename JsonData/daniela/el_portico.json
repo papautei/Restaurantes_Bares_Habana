@@ -1,0 +1,118 @@
+{
+    "Name": "El portico",
+    "Specialty": [
+        "cubana"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Dragones entre Aguila y Amistad",
+        "Coords.": "4JMQ+C97"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [
+            "Musica"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Papas fritas": 350,
+                "Croquetas": 350,
+                "Tostones": 250
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo chiflado": 400
+            },
+            "Pork": {
+                "Chuleton": 950
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cerveza dispensada (jarra)": 300,
+                "Cerveza dispensada (termo)": 2000,
+                "Cerveza parranda": 400,
+                "Cerveza hollandia": 200,
+                "Cerveza cacique": 240,
+                "Cerveza unlaguer": 200,
+                "Cerveza la fria": 180,
+                "Cerveza almara": 180,
+                "Cerveza bucanero": 240,
+                "Cerveza cristal": 250
+            }
+        }
+    }
+}
