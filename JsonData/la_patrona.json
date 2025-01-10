@@ -1,0 +1,134 @@
+{
+    "Name": "La Patrona",
+    "Specialty": [
+        "criolla",
+        "italiana"
+    ],
+    "Ownership": "privado",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "Calzada de Guines en San Francisco de Paula",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            800,
+            0
+        ],
+        "Wednesday": [
+            800,
+            0
+        ],
+        "Thursday": [
+            800,
+            0
+        ],
+        "Friday": [
+            800,
+            0
+        ],
+        "Saturday": [
+            800,
+            0
+        ],
+        "Sunday": [
+            800,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": false,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {
+                "hamburguesa clasica": 500,
+                "hamburguesa sencilla": 700,
+                "hamburguesa grosera": 1200,
+                "hamburguesa patrona": 1000
+            },
+            "Chicken": {
+            
+            },
+            "Pork": {
+                "escalope de cerdo": 1800,
+                "bistec de cerdo": 1600
+            },
+            "Beef": {
+                "bistec uruguayo": 2600,
+                "ropa vieja": 1400
+            },
+            "Pizza": {
+                "pizza La Patrona": 1800
+            },
+            "Pasta": {
+                "lasanha": 1250,
+                "canelones": 1100,
+                "espaguetti carbonara": 15000
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "flan": 200,
+                "copa lolita": 400,
+                "cesta helado": 500,
+                "tres gracias": 300
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "arroz frito": 1000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "jugos": 100,
+                "suero helado": 350,
+                "batidos": 300
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "cafe express": 150,
+                "cafe con crema": 180,
+                "cafe La Patrona": 250,
+                "frapuchino": 250
+            }
+        }
+    }
+}

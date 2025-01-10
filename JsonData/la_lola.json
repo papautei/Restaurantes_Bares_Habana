@@ -1,0 +1,204 @@
+{
+    "Name": "La lola",
+    "Specialty": [
+        "Cocteleria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calle Ayestaran entre San Pablo y Pedro Perez",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": [
+            "53654726"
+        ]
+    },
+    "Schedule": {
+        "Monday": [
+            1400,
+            200
+        ],
+        "Tuesday": [
+            1400,
+            200
+        ],
+        "Wednesday": [
+            1400,
+            200
+        ],
+        "Thursday": [
+            1400,
+            200
+        ],
+        "Friday": [
+            1400,
+            200
+        ],
+        "Saturday": [
+            1400,
+            200
+        ],
+        "Sunday": [
+            1400,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 1,
+        "MLC": 1,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Brusquetas": 700,
+                "Croquetas de jamon": 600,
+                "Papas fritas": 550,
+                "Papas gratinadas": 800,
+                "Toston relleno de atun": 1100,
+                "Toston relleno de jamon y queso": 800,
+                "Bolitas de queso": 730,
+                "Frituras de malanga": 500,
+                "Picadera Lalola": 4000,
+                "Picadera sencilla": 1500
+                
+            },
+            "Bread": {
+                "Bocadillo de jamon y queso": 500,
+                "Sandwich de jamon y queso/papas": 1200,
+                "Sandwich cubano": 1100,
+                "Sandwich de jamon y queso": 900,
+                "Hamburguesa": 1500
+            },
+            "Chicken": {
+                
+                
+                "Nuggets de pollo": 2000
+                
+                
+            },
+            "Pork": {
+                "Lonjas de cerdo": 3500,
+                
+                "Masas de cerdo": 1750
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {
+                "Canelones": 1350,
+                "Penne napolitano": 1100,
+                "Pizza napolitana": 1200,
+                "Espagueti napolitano": 1100,
+                "Espagueti a la carbonara": 1970
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {
+                "Aji": 150,
+                "Chorizo": 300,
+                "Atun": 600,
+                "Jamon pierna": 300,
+                "Pinha": 150,
+                "Cebolla": 250,
+                "Queso de cabra": 600,
+                "Queso Gouda": 500,
+                "Queso Parmesano": 800,
+                "Aceituna": 500
+            },
+            "Sides": {},
+            "Other": {
+                "Tacos de carne": 900
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Pinha Colada": 700,
+                "Ron Collins": 450,
+                "Sangria": 600,
+                "Screw Driver": 475,
+                "Daiquiri": 350,
+                "Gintonic": 750,
+                "John Collins": 450,
+                "Mojito": 350,
+                "Margarita": 950,
+                "Blue Hawai": 550,
+                "Blue Lagoon": 550,
+                "Caipirinha": 350,
+                "Caipirisima": 350,
+                "Caipiroska": 600,
+                "Cuba Libre": 350,
+                "Cubanito": 450,
+                "Cubata": 400,
+                "Chelada": 150,
+                "Michelada": 350,
+                "Agua natural Cool Heaven": 350,
+                "Energizante": 350,
+                "Energizante Tigon Drink": 350,
+                "Cerveza Bucanero lata": 350,
+                "Cerveza Heineken botella": 574,
+                "Cerveza Cristal lata": 350,
+                "Cerveza Cristal botella": 420,
+                "Cerveza Super Bock botella": 370,
+                "Cerveza Sol": 480,
+                "Limonada Frape": 450,
+                "Kermato": 580,
+                "Malta Optimal": 370,
+                "Refresco naranja": 300,
+                "Refresco de limon": 300,
+                "Refresco cola": 300,
+                "Refresco": 300,
+                "Refresco Pepsi": 350,
+                "Cafe Bombom": 350,
+                "Cafe Cortadito": 300,
+                "Cafe Express": 200,
+                "Helado": 900,
+                "Copa Lolita Racion": 2000,
+                "Jugo La Estancia": 350,
+                "Malteada": 200,
+                "Cubetazo La Lola": 4200,
+                "Cubetazo Picadera": 3300,
+                "Botella de whisky Ballantines": 10000,
+                "Botella de whisky Johnnie Walker Red Label": 13000,
+                "Botella de whisky Johnnie Walker Red Label 1LT": 15000,
+                "Botella de whisky Jamerson": 10000,
+                "Botella de whisky Chivas Regal": 15000,
+                "Botella Ron Havana Club Smokey": 5000,
+                "Botella Ron Havana Club Reserva": 5000,
+                "Whisky Chivas Regal 12 anhos (4.5L)": 125440
+            }
+        }
+    }
+}

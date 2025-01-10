@@ -1,0 +1,121 @@
+{
+    "Name": "El batazo",
+    "Specialty": [
+        "Pizzeria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Primelles 356 entre Santa Teresa y Daois",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": [
+            " 58050408"
+        ]
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2200
+        ],
+        "Tuesday": [
+            1100,
+            2200
+        ],
+        "Wednesday": [
+            1100,
+            2200
+        ],
+        "Thursday": [
+            1100,
+            2200
+        ],
+        "Friday": [
+            1100,
+            2200
+        ],
+        "Saturday": [
+            1100,
+            2200
+        ],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 1,
+        "MLC": 1,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {
+                "Hamburguesa strike": 550,
+                "Hamburguesa doble play": 1000,
+                "Hamburguesa homerun": 1300
+            },
+            "Chicken": {
+                
+                
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "Pizza de queso": 750,
+                "Pizza de chorizo": 930,
+                "Pizza de jamon": 930,
+                "Pizza de hawaiana": 1130,
+                "Pizza de cebolla": 950,
+                "Pizza de aji": 950,
+                "Pizza de atun": 1250,
+                "Pizza de aceitunas": 950,
+                "Pizza de peperoni": 1050
+            },
+            "Pasta": {
+
+                "Espaguetis": 600,
+                "Espaguetis de jamon": 780
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

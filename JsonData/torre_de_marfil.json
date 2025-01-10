@@ -1,0 +1,249 @@
+{
+    "Name": "Torre_de_Marfil",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": " Mercaderes 115 entre Obispo y, Obrapia, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ceviche": 1450,
+                "Bruschettas": 950,
+                "Ensalada de Vegetales": 750,
+                "Ensalada de Verduras y Pollo": 1350,
+                "Coctel de Langosta": 1850,
+                "Coctel de Camarones": 1350,
+                "Maripositas Chinas": 500,
+                "Vegetales Salteados": 750,
+                "Pulpo al Pimenton": 2900,
+                "Shop Suey de Marisco": 1250,
+                "Sopa Estilo Oriental": 750,
+                "Croquetas de la Casa": 750,
+                "Fritura de Malanga": 780,
+                "Crema de Calabaza y Malanga": 850,
+                "Tacos de Cerdo": 980,
+                "Tacos de Vegetales": 980,
+                "Tacos de Pollo": 980,
+                "Tacos de Ropa Vieja": 980
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo al Estilo Torre de Marfil": 1750,
+                "Pollo Grille": 1550,
+                
+                
+                "Pescado Grille": 1980
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Cerdo al estilo Torre de Marfil": 2300,
+                "Cerdo Asado con Salsa de Mostaza y Romero": 2100
+            },
+            "Beef": {
+                "Estofado de Res con Zanahoria confitadas": 3200,
+                "Ropa Vieja": 1950,
+                "Vaca Frita": 1850
+            },
+            "Pizza": {
+                "Pizza de Queso": 1200,
+                "Pizza Especial de la Casa": 2100
+            },
+            "Pasta": {
+                "Pastas Cortas Rigatonni Frutti di Mare": 2700,
+                "Espaguetis con Salsa Napoles": 1100,
+                "Espaguetis a la Bolognesa": 1750,
+                "Espaguetis con Vegetales": 1440,
+                "Espaguetis al Alioli con Camarones": 1950
+            },
+            "Seafood": {
+                "Combinacion Marinera a la baracoesa": 3100,
+                "Langosta al Gusto": 4800,
+                "Camarones al Gusto": 2200,
+                "Cazuela Caribenha Frutos del Mar": 4300
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Helado con Frutas Confitadas": 750,
+                "Flan de Leche y Huevos": 850,
+                "Tarta Semifria": 750,
+                "Brownie con Helado": 1100,
+                "Postre Mixto Cubano": 750,
+                "Postres Caseros": 650,
+                "Boniatillo con Coco Estilo Omara Portuondo": 750
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Arroz Frito al Estilo de la Casa": 1200,
+                "Arroz Caldoso de la Tierra": 1950,
+                "Arroz Caldoso Marinero": 3550,
+                "Arroz Caldoso Mar y Tierra": 4550,
+                "Grillada del Mar": 5800,
+                "Grillada de Mar y Tierra": 8500,
+                "Grillada de Carne": 3500
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua Mineral Natural 0,5l": 320,
+                "Agua Mineral Natural 0,33l": 280,
+                "Agua Tonica MG": 650,
+                "Agua Tonica ME": 850,
+                "Refresco Cola(Pepsi)": 450,
+                "Refrescos": 350,
+                "Jugos de Fruta": 650,
+                "Batidos de Fruta": 850,
+                "Malta": 450,
+                "Malteada": 950,
+                "Limonada": 750,
+                "Limonada Frescura": 850,
+                "Cerveza-Belga Star Lemon": 350,
+                "Cerveza-Belga Star Botella de 250ml": 450,
+                "Cerveza-Estrella Damm Botella 33cl": 650,
+                "Cerveza-Heineken Botella": 750,
+                "Cerveza-Unlaguer": 350,
+                "Cerveza-Cristal": 550,
+                "Cerveza-Bucanero": 550
+            },
+            "Alcoholic": {
+                "Fernet": 350,
+                "Aguardiente Black Tears": 330,
+                "Bebida Energetica Time Flies": 650,
+                "Limoncello": 550,
+                "Jagger": 750,
+                "Amaretto": 450,
+                "Crema Bailey's": 850,
+                "Licor de Cafe": 400,
+                "Cognac Martel VS": 750,
+                "Brandy Armagnac VS": 1200,
+                "Vodka Absolut": 850,
+                "Vodka Tito's Handmade": 1200,
+                "Vodka Belvedere": 1800,
+                "Tequila Los Corrales": 600,
+                "Tequila Reposado Arraigo": 950,
+                "Tequila Jimador Reposado": 1050,
+                "Tequila Volcan de mi tierra Blanco": 2800,
+                "Whisky J.W. Black Label": 1350,
+                "Whisky Jamenson Original": 700,
+                "Whisky J.W. Red Label": 750,
+                "Whisky Chivas Real 12": 850,
+                "Whisky Buchanans": 1950,
+                "Whisky Johnnie Walker Swing": 1900,
+                "Whisky Sir Albert": 550,
+                "Whisky Bourbon Jim Beam Black": 950,
+                "Ron Santiago Blanco": 600,
+                "Ron Santiago 8 Anhos": 1050,
+                "Ron Santiago 11 Anhos": 1300,
+                "Ron Santiago 12 Anhos": 1600,
+                "Ron Santiago Extra Seco": 1050,
+                "Habana Club Reserva": 650,
+                "Habana Club 7 Anhos": 750,
+                "Habana Club Smoky": 950,
+                "Habana Club Seleccion de Maestros": 1650,
+                "Habana Club Pacto Navio": 1500,
+                "Mojito": 890,
+                "Daiquiri": 890,
+                "Cuba Libre/Cubata": 950,
+                "Caipirska/Caipirissima": 890,
+                "Caipirinha": 890,
+                "Caipiroska/Caipirissima Sabor": 1050,
+                "Caipirinha de Sabor": 1050,
+                "Pinha Colada": 1150,
+                "Pinha Colada sin Alcohol": 890,
+                "Negroni": 1200,
+                "Manhattan": 1200,
+                "Presidente": 950,
+                "Screwdriver": 850,
+                "Margarita": 950,
+                "Dry Martini": 900,
+                "Tequila Sunrise": 850,
+                "Tinto de Verano": 850,
+                "Sangria": 950,
+                "San Francisco": 750,
+                "Canchanchara": 950,
+                "Ron Collins": 890,
+                "Bloody Mary": 1050,
+                "Servicio de Michelada": 350,
+                "Servicio de Chelada": 250
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

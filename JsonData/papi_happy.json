@@ -1,0 +1,190 @@
+{
+    "Name": "Papi_Happy",
+    "Specialty": [
+        "Criolla y italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coords.": "5ta AVE & 470, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Picadera Papi Happy": 2900,
+                "Empanadas de la Casa": 750,
+                "Frituras de Malanga": 480,
+                "Croquetas de la Casa": 460,
+                "Ceviche": 850,
+                "Coctel de Camarones": 1150,
+                "Coctel de Langosta": 1150,
+                "Coctel Mixto": 1200,
+                "Eperlan": 1250,
+                "Fajitas de Pollo": 1200,
+                "Entremes Surtido": 750,
+                "Tostones Naturales": 350,
+                "Tostones Rellenos": 550,
+                "Chicharritas": 300,
+                "Crema de Queso": 1100,
+                "Crema Virginia": 1150,
+                "Crema Aurora": 1125
+            },
+            "Bread": {
+                "Hamburguesa Papi Happy": 1300,
+                "Hamburguesa de Pollo": 1100,
+                "Hamburguesa de Cerdo": 1000
+            },
+            "Chicken": {
+                
+                
+                
+                
+                
+                "Pechuga Grille": 1500,
+                "Pechuga Rellena": 1750,
+                "Cordon Blue": 1800,
+                "Pollo Frito": 1500,
+                "Higado a la italiana": 1050
+                
+                
+            },
+            "Pork": {
+                "Bistec de Cerdo": 1500,
+                
+                "Lomo Ahumado": 1450,
+                "Lomito de Cerdo": 1550,
+                "Lomito Tres Capas Gratinado": 1800,
+                "Cerdo a la Juliana": 1750
+            },
+            "Beef": {
+                "Uruguayo": 1850
+            },
+            "Pizza": {
+                "Pizza Papi Happy": 2100,
+                "Pizza Napolitana": 850,
+                "Pizza Hawaiana": 1350,
+                "Pizza de Jamon": 1200,
+                "Pizza de Bacon": 1200,
+                "Pizza de Vegetales": 950,
+                "Pizza de Champinhones": 1350
+            },
+            "Pasta": {
+                "Lasanha": 1100,
+                "Spaguetti Napolitano": 850,
+                "Spaguetti con Jamon": 1100,
+                "Spaguetti con Camarones": 1350,
+                "Spaguetti Frutti di Mare": 1680
+            },
+            "Seafood": {
+                "Cazuela de Mar": 3200,
+                "Grillada de Mar": 3300,
+                "Mariscos Mixtos": 3500,
+                "Langosta al gusto": 2150,
+                "Camarones al Gusto": 2050,
+                "Pulpo al Gusto": 2500
+            },
+            "Fishes": {
+                "Filete de Pescado Grille": 1450,
+                "Filete Canciller": 1750
+            },
+            "Desserts": {
+                "Helado Cake": 660,
+                "Helado Cupcake": 550,
+                "Dulce Coco y Queso": 650
+            },
+            "Additions": {
+                "Jamon": 250,
+                "Chorizo": 250,
+                "Queso": 420,
+                "Langosta": 750,
+                "Camarones": 750,
+                "Pinha": 200,
+                "Pimiento": 200,
+                "Aceituna": 250,
+                "Champinhones": 250,
+                "Median_of_Hamburgers": 150
+            },
+            "Sides": {},
+            "Other": {
+                "Grillada de Mar y Tierra": 3600,
+                "Cordero al Vino Tinto": 2150,
+                "Cordero Montanhes": 2500,
+                "Chilindron de Cordero": 2640
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

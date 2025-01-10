@@ -1,0 +1,271 @@
+{
+    "Name": "Jota_Jota",
+    "Specialty": [
+        "cubana",
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "https://elyerromenu.com/b/jotajota/info",
+        "Facebook": "JotaJota",
+        "Instagram": "@jota_jota_restaurante_habana",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.9,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Sw de atun": 1200,
+                "Sw de jamon y queso": 920,
+                "Jota jota": 1600,
+                "Cheeseburguer": 1250,
+                "Big tasty": 1250,
+                "Sencilla": 1000,
+                "Carpaccio res": 4500,
+                "Picadera jj": 3800,
+                "Desayuno ij": 2500,
+                "Tabla de jamon serrano": 2000,
+                "Ceviche": 2000,
+                "Coctel de langosta": 1800,
+                "Montado de salmon": 1750,
+                "Tabla de queso": 1650,
+                "Coctel de camaron": 1600,
+                "Eperlan de pescado": 1500,
+                "Queso frito 1": 400,
+                "Empanadas de la abuela": 850,
+                "Croquetas": 800
+            },
+            "Bread": {
+                "Focaccia": 700
+            },
+            "Chicken": {},
+            "Pork": {
+                "T bone de cerdo": 3800,
+                "Masa de cerdo": 2500
+            },
+            "Beef": {
+                "Filete mignon": 6500,
+                "Filete de douche": 4500,
+                "Rinonada": 3500,
+                "Vaca frita": 2200,
+                "Ropa vieja": 2200
+            },
+            "Pizza": {
+                "Pizza de jamon serrano": 2750,
+                "Pizza 4 quesos": 2500,
+                "Pizza de langosta": 2200,
+                "Pizza de camarones": 2200,
+                "Pizza c ropa vieja": 2200,
+                "Pizza de vegetales": 2000,
+                "Pizza salmon": 1900,
+                "Pizza hawaiana": 1900,
+                "Pizza jamon": 1800,
+                "Pizza de atun": 1750,
+                "Pizza de chorizo": 1700,
+                "Pizza margarita": 1500,
+                "Pizza de cebolla": 1400,
+                "Pizza napolitana": 1200
+            },
+            "Pasta": {
+                "Fettuccine frutti di mare": 3200,
+                "Fettuccine con camaron o langosta": 3000,
+                "Fettuccine carbonara": 3000,
+                "Fettuccine jamon serrano": 2500,
+                "Fettuccine 4 quesos": 2500,
+                "Fettuccine q parmesano y jamon": 2350,
+                "Fettuccine bolognesa": 2200,
+                "Fettuccine con q azul": 2000,
+                "Fettuccine salmon": 1850,
+                "Fettuccine de atun": 1750,
+                "Fettuccine alfredo": 1700,
+                "Fettuccine al pesto": 1650
+            },
+            "Seafood": {
+                "Camaron al gusto": 3500,
+                "Langosta al gusto": 3000
+            },
+            "Fishes": {
+                "Pescado jon bille langosta": 3800,
+                "Pescado jon bille camarones": 3500,
+                "Filete de pescado": 2500
+            },
+            "Desserts": {
+                "Copa de helado": 900
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural 500ml": 200,
+                "Pepsy cola": 350,
+                "Refresco 7 up limon": 350,
+                "Energizante times flies": 250,
+                "Vaso jugo de frutas caja": 250,
+                "Jugo natural fruta": 250,
+                "Limonada frappe": 650,
+                "Limonada natural": 650,
+                "Limonada hierba buena": 700
+            },
+            "Alcoholic": {
+                "Cerveza corona": 650,
+                "Cerveza cristal botella": 450,
+                "Cerveza cristal lata": 400,
+                "Cerveza modelo": 650,
+                "Cerveza bucanero botella": 450,
+                "Cerveza bucanero lata": 400,
+                "Mojito": 900,
+                "Caipiroska": 850,
+                "Caipiroska absoluta": 1100,
+                "Caipiroska ciroc": 1200,
+                "Caipiroska gordons": 900,
+                "Caipiroska grey goose": 1200,
+                "Caipiroska samaraskaya": 670,
+                "Caipirissima": 550,
+                "Caipirina": 600,
+                "Caipiriacho": 550,
+                "Canchanchara": 500,
+                "Sangria": 850,
+                "Gin tonic base": 700,
+                "Vodka tonic": 900,
+                "Cuba libre": 750,
+                "Cubata": 650,
+                "Daiquiri": 850,
+                "Pina colada": 1000,
+                "Martini": 500,
+                "Ron collins": 500,
+                "Crema aldabo": 200,
+                "Amareto": 550,
+                "Limoncello": 550,
+                "Frenet zanin": 350,
+                "Licor de coco": 700,
+                "Baileys": 1000,
+                "Jaggermeister": 650,
+                "Vermouth": 350,
+                "Sheridans": 1150,
+                "Sambuca": 350,
+                "Martini blanco": 600,
+                "Licor patron de limon": 1300,
+                "Samaraskaya": 350,
+                "Grey goose": 1250,
+                "Absolut": 800,
+                "Ciroc": 950,
+                "Gin london no 3": 1200,
+                "Beefeater": 700,
+                "Gordons": 450,
+                "Gin tanqueray": 1200,
+                "Havana club 3 anos": 300,
+                "Havana club profundo": 400,
+                "Havana club especial": 450,
+                "Havana club anejo blanco": 300,
+                "Havana club reserva": 500,
+                "Havana club 7 anos": 650,
+                "Havana club selec maestros": 1250,
+                "Legendario anejo": 300,
+                "Stgo de cuba 8 anos": 800,
+                "Stgo de cuba 12 anos": 1100,
+                "Stgo de cuba 11 anos": 1200,
+                "Pacto navio": 1350,
+                "Aguardiente black tears": 500,
+                "Bacardi blanco": 1000,
+                "Bacardi spiced": 1200,
+                "Roble superior black tears": 300,
+                "Black tears super dry": 300,
+                "Ron barcelo": 300,
+                "Stgo carta blanca": 450,
+                "Black white": 500,
+                "Chivas regal 12 anos": 900,
+                "Jw black label": 1800,
+                "Jw red label": 1000,
+                "Jw island green": 4500,
+                "Jw gold label": 5000,
+                "Jw swing": 2500,
+                "Glenlivet": 900,
+                "Ballantines": 650,
+                "Jameson": 750,
+                "Crown royal black": 1000,
+                "Buchanans": 2000,
+                "Dewars": 700,
+                "Clan campbell": 600,
+                "Jack daniels": 1200,
+                "Jb blended scotch": 1000
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe expresso": 200,
+                "Cafe americano": 200,
+                "Cafe cortado": 300,
+                "Cafe capuchino": 500,
+                "Cafe frappuccino": 550,
+                "Cafe con leche": 350,
+                "Cafe bombon": 500
+            }
+        }
+    }
+}

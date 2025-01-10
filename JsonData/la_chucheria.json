@@ -1,0 +1,250 @@
+{
+    "Name": "La Chucheria",
+    "Specialty": [
+        "italiana",
+        "americana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "La Chucheria",
+        "Instagram": "@lachucheria_cafebar",
+        "Phones": "72057278"
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2400
+        ],
+        "Tuesday": [
+            800,
+            2400
+        ],
+        "Wednesday": [
+            800,
+            2400
+        ],
+        "Thursday": [
+            800,
+            2400
+        ],
+        "Friday": [
+            800,
+            2400
+        ],
+        "Saturday": [
+            800,
+            2400
+        ],
+        "Sunday": [
+            800,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Waffles con nutela": 1250,
+                "Waffles con frutas y miel": 1150,
+                "Waffles con salmon pastas y queso crema": 1850,
+                "Crispy chicken waffles": 1450,
+                "Desayuno europeo": 1400,
+                "Desayuno americano": 1500,
+                "Desayuno chucheria": 1600,
+                "Tostadas de serrano": 1750,
+                "Tostadas de salmon": 1900,
+                "Tortilla vegetariana": 1550,
+                "Pancakes": 1200,
+                "Tortilla natural": 1000,
+                "Crepes chucher\u00eda": 1300,
+                "Tostadas con mantequilla": 950
+            },
+            "Appetizers": {
+                "Brusquetas con serrano": 1200,
+                "Tapas de croquetas": 900,
+                "Picadera chucher\u00eda": 3000,
+                "Empanadas de carne": 800,
+                "Empanada de pollo": 780,
+                "Empanada de queso azul y espinacas": 900,
+                "Bolitas de queso": 850,
+                "Ensalada de verano": 1700,
+                "Ensalada chucher\u00eda": 1200,
+                "Ensalada nueva marinera": 1800,
+                "Ensalada de frutas": 800,
+                "Ensalada girega": 1600,
+                "Ensalada prosciutto": 200,
+                "Sandwich jonronero": 1650,
+                "Formula 1": 1700,
+                "Martinero": 1400,
+                "Catalan": 2000,
+                "Sandwich helena ruth": 1650,
+                "Sandwich beisbolera": 1450,
+                "Sandwich pepe sport (res)": 2150,
+                "Sandwich pepe sport (cerdo)": 1900,
+                "S\u00e1ndwich vegetariano": 1200,
+                "Club s\u00e1ndwich": 1700,
+                "Hamburguesa jaque mate": 1750,
+                "Hamburguesa chucher\u00eda": 2100,
+                "Hamburguesa americana": 1350,
+                "Super chu": 2350
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pechuga de pollo": 1700  
+            },
+            "Pork": {
+                "Carne de cerdo": 1800
+            },
+            "Beef": {
+                "Filete de res": 2400
+            },
+            "Pizza": {
+                "Pizza chucher\u00eda": 1250,
+                "Pizza familiar": 3000
+            },
+            "Pasta": {
+                "Pasta chucheria": 1150,
+                "Pasta carbonara": 1900,
+                "Pasta pesto": 1600,
+                "Pasta 4 quesos": 2500,
+                "Pasta bolonesa": 1400,
+                "Lasagna": 1850
+            },
+            "Seafood": {},
+            "Fishes": {
+                "Atun": 2200
+            },
+            "Desserts": {
+                "Postre de la casa": 750,
+                "Cono de helado": 400,
+                "Cesta de helado": 600,
+                "Tarta especial": 1300
+            },
+            "Additions": {},
+            "Sides": {
+                "Jamon barra": 400,
+                "Jamon pierna": 450,
+                "Jamon serrano": 800,
+                "Queso gouda": 450,
+                "Queso parmessano": 500,
+                "Queso mozzarella": 450,
+                "Queso azul": 500,
+                "Chorizo": 600,
+                "Bacon": 450,
+                "Atun": 600,
+                "Champi\u00f1on": 350,
+                "Aceituna": 400,
+                "Nutella": 400,
+                "Pi\u00f1a glaseada": 250,
+                "Mayonesa": 250,
+                "Jalea de fruta": 300,
+                "Mantequilla": 300,
+                "Lo\u00f1esa": 650,
+                "Vegetales": 300
+            },
+            "Other": {
+                "Mac & cheese": 1250,
+                "Combo de ni\u00f1os": 1350,
+                "Nuggets de pollo": 1250
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Refrescos nacional": 380,
+                "Refrescos importados": 450,
+                "Jugos": 350
+            },
+            "Alcoholic": {
+                "Cervezas nacionales": 500,
+                "Cervezas importadas": 600,
+                "Cervezas coronas": 790,
+                "Mojito": 800,
+                "Mojito de frutas": 1000,
+                "Cuba libre": 700,
+                "Ron collins": 750,
+                "Caipiri\u00f1a": 750,
+                "Caipiroska": 800,
+                "Sangr\u00eda": 1200,
+                "Cali mocho": 950,
+                "Tinto verano": 950,
+                "Gin tonic": 900,
+                "Gingin tonic premium": 1200,
+                "Vodka tonic": 1100,
+                "Margarita": 950,
+                "Chelada nacional": 650,
+                "Chelada importada": 750,
+                "Chelada corona": 940,
+                "Michelada nacional": 750,
+                "Michelada importada": 950,
+                "Michelada importada premium": 1050,
+                "Daiquiri": 700,
+                "Mary pickford": 650,
+                "Bloody mary": 900,
+                "Bloody premium": 1250,
+                "Screw driver absolut": 950,
+                "Cubata": 750,
+                "Ton collins": 850,
+                "Tom collins premium": 1000,
+                "Long island": 1500,
+                "Pi\u00f1a colada": 1200,
+                "Canchanchara": 750
+            },
+            "Cocktails": {},
+            "Other": {
+                "Expresso": 200,
+                "Chucher\u00eda": 900,
+                "Con leche": 450,
+                "Cortado": 300,
+                "Capuccino": 600,
+                "Frapuccino": 850,
+                "Carajillo": 650,
+                "Bombon": 650,
+                "Americano": 250,
+                "Nespresso": 500,
+                "Nespresso americano": 500,
+                "Nespresso bombon": 900,
+                "Nespresso cortado": 600,
+                "Nespresso capuccino": 900,
+                "Nespresso frapuccino": 1200,
+                "Descafeinado": 350,
+                "Chocolate a la espa\u00f1ola": 800,
+                "Leche con chocolate": 650
+            }
+        }
+    }
+}

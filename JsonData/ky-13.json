@@ -1,0 +1,181 @@
+{
+    "Name": "KY-13",
+    "Specialty": [
+        "criolla",
+        "italiana"
+    ],
+    "Ownership": "privado",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2300
+        ],
+        "Tuesday": [
+            1000,
+            2300
+        ],
+        "Wednesday": [
+            1000,
+            2300
+        ],
+        "Thursday": [
+            1000,
+            2300
+        ],
+        "Friday": [
+            1000,
+            2300
+        ],
+        "Saturday": [
+            1000,
+            2300
+        ],
+        "Sunday": [
+            1000,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "croquetas de queso": 600,
+                "frituras de malanga": 600,
+                "tostones rellenos": 700,
+                "eperlan": 1300,
+                "dedos de pollo": 1000,
+                "coctel de camaron": 1300,
+                "camaron rebozado": 1200,
+                "crema de queso": 850,
+                "crema aurora": 550,
+                "crema virginia": 800,
+                "crema de camaron": 900,
+                "surtido KY13": 4000
+            },
+            "Bread": {
+                "sandwich sencillo": 1250,
+                "sandwich lomo ahumado": 1250,
+                "sandwich especial": 2100,
+                "sandwich de atun": 1150,
+                "hamburguesa sencilla": 1400,
+                "hamburguesa KY13": 2950
+            },
+            "Chicken": {
+                
+                "pechuga de pollo grille": 2400,
+                "pechuga de pollo gratinada": 2800,
+                "pollo gordon blue": 3650,
+                "pollo frito o asado": 2000,
+                
+                
+                
+                
+                "bistec de pollo": 2200
+                
+            },
+            "Pork": {
+                "bistec de cerdo grille": 2350,
+                "bistec de cerdo empanado": 2700,
+                "uruguayo de cerdo": 3500,
+                "chuleta de cerdo": 2600,
+                "lomo ahumado": 2500,
+                "costilla de cerdo frita": 2300,
+                "masa de cerdo frita": 3800
+            },
+            "Beef": {
+                "ropa vieja de res": 2800,
+                "picadillo a la habanera": 2700
+            },
+            "Pizza": {
+                "pizza de queso": 1200,
+                "pizza familiar de queso": 3350
+            },
+            "Pasta": {
+                "espaguetti de queso": 1300,
+                "lasanha de jamon": 1800,
+                "espaguetti a la carbonara": 2000
+            },
+            "Seafood": {
+                "filete de pescado grille": 3000,
+                "filete de pescado empanado": 3300,
+                "filete de pescado gratinado": 3500,
+                "pescado montetoro": 3800,
+                "pescado canciller": 4250,
+                "camaron grille": 2600,
+                "enchilado de camaron": 2800,
+                "camaron al ajillo": 2700,
+                "langosta grille": 2700,
+                "langosta enchilada": 2800
+            },
+            "Fishes": {
+                "filete de pescado grille": 3000,
+                "filete de pescado empanado": 3300,
+                "filete de pescado gratinado": 3500,
+                "pescado montetoro": 3800,
+                "pescado canciller": 4250,
+                "camaron grille": 2600,
+                "enchilado de camaron": 2800,
+                "camaron al ajillo": 2700,
+                "langosta grille": 2700,
+                "langosta enchilada": 2800
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {
+                "arroz blanco": 300,
+                "arroz moro": 480,
+                "vianda frita": 700,
+                "ensalada mixta": 700
+            },
+            "Other": {
+                "arroz frito": 2800
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

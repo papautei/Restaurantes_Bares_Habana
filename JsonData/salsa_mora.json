@@ -1,0 +1,219 @@
+{
+    "Name": "Salsa Mora",
+    "Specialty": [
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Salsa Mora",
+        "Instagram": "@salsamora_70",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            400
+        ],
+        "Tuesday": [
+            1100,
+            400
+        ],
+        "Wednesday": [
+            1100,
+            400
+        ],
+        "Thursday": [
+            1100,
+            400
+        ],
+        "Friday": [
+            1100,
+            400
+        ],
+        "Saturday": [
+            1100,
+            400
+        ],
+        "Sunday": [
+            1100,
+            400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Pan de la casa": 250,
+                "Baguette j & q": 750,
+                "Baguette de queso": 650,
+                "Croquetas de la casa": 1000,
+                "Tostones rellenos": 1050,
+                "Tacos de la casa": 1150,
+                "Ceviche": 2250,
+                "Fajitas": 2050,
+                "Esperland": 2250,
+                "Bolitas de queso": 1450,
+                "Garbanzos fritos": 1250,
+                "Coctel de camarones": 2350,
+                "Papas fritas": 1250
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo asado": 2300,
+                "Cordon blue": 4500,
+                "Pechuga de pollo": 2500  
+            },
+            "Pork": {
+                "Bistec de cerdo": 3000,
+                "Uruguayo de cerdo": 4500,
+                "Chuleta de cerdo": 3000,
+                "Cerdo asado": 3000
+            },
+            "Beef": {
+                "Ropa vieja": 2500,
+                "Rib eye": 8500,
+                "Tomahawk": 12500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Pasta napoles": 1300,
+                "Pasta fruto di mare": 3000,
+                "Pasta carbonara": 2500
+            },
+            "Seafood": {
+                "Camaron al gusto": 4300,
+                "Langosta al gusto": 4500,
+                "Pulpo al gusto": 4500,
+                "Langosta termidor": 5000,
+                "Caldereta de mariscos": 6000,
+                "Grillada del mar": 6000
+            },
+            "Fishes": {
+                "Filete de pescado": 4000,
+                "Filete de canciller": 5000
+            },
+            "Desserts": {
+                "Tarta": 1000,
+                "Flan de la casa": 500
+            },
+            "Additions": {},
+            "Sides": {
+                "Ensalada mixta": 450,
+                "Arroz blanco": 200,
+                "Arroz moro": 300,
+                "Tostones naturales": 250
+            },
+            "Other": {
+                "Cordero estofado": 3500,
+                "Arroz melosos de pollo": 1800,
+                "Arroz melosos de mariscos": 3500
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural": 250,
+                "Refrescos": 350,
+                "Energizantes": 250,
+                "Red bull": 650,
+                "Limonada": 250,
+                "Jugos naturales": 350
+            },
+            "Alcoholic": {
+                "Hc 7 anos": 650,
+                "Hc seleccion": 1850,
+                "Santiago 8 anos": 780,
+                "Santiago 11 anos": 1300,
+                "Santiago 12 anos": 1500,
+                "Pacto navio": 1850,
+                "Ciroc": 1300,
+                "Grey goose": 1500,
+                "Patron silver": 2400,
+                "Patron reposado": 2500,
+                "Olmeca silver": 600,
+                "Olmeca reposado": 700,
+                "Jameson": 700,
+                "Ballantines": 900,
+                "Chivas 12": 1100,
+                "Jw red label": 850,
+                "Jw black label": 1500,
+                "Jw blue label": 10000,
+                "Jw gold label": 2300,
+                "Jw green label": 2500,
+                "Buchanans": 2500,
+                "Jack daniels": 1200,
+                "Cerveza dispensada": 220,
+                "Cerveza cristal": 600,
+                "Cerveza bucanero": 600,
+                "Cerveza corona": 850,
+                "Servicio michelada": 300,
+                "Servicio chelada": 250,
+                "Caipirina": 500,
+                "Caipirisima": 500,
+                "Caipiroska": 500,
+                "Mojito": 700,
+                "Pina colada": 550,
+                "Ron collins": 500,
+                "Tom collins": 780,
+                "Martini": 1000,
+                "Gin tonic": 780,
+                "Margarita": 550,
+                "Tequila sunrise": 550,
+                "Cuba libre": 700,
+                "Cubata": 800,
+                "Cubata santiago 8": 900,
+                "Cubanito": 600,
+                "Daiquiri": 550,
+                "Bloody mary": 960,
+                "Sangria salsa mora": 600,
+                "Baileys": 1000,
+                "Jagger": 750,
+                "Campari": 800,
+                "Sambuca": 650,
+                "Grapa": 550
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe": 250,
+                "Cafe cortado": 300,
+                "Capuccino": 700,
+                "Frappuccino": 1000
+            }
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "Name": "La Catrina",
+    "Specialty": [
+        "mexicana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "La Catrina Havana",
+        "Instagram": "@lacatrina_havana",
+        "Phones": "72022803"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Quesadillas con tortillas de trigo con queso": 1700,
+                "Quesadillas con queso y champinones": 2300,
+                "Quesadillas con queso y chorizo iberico": 2300,
+                "Tacos envenenados": 1900,
+                "Tacos dorados": 1900,
+                "Frijoles refritos": 1350,
+                "Ceviche acapulque\u00f1o": 2700,
+                "Ceviche de atun rojo": 3950,
+                "Carpaccio de res": 4200,
+                "Carpaccio de pulpo": 3800,
+                "Tostada de atun": 2700,
+                "Aguachile de camaron": 2900,
+                "Trio de ceviches": 3800,
+                "Salmorejo la catrina pequena": 1550,
+                "Salmorejo la catrina grande": 2100,
+                "Guacamole": 1750
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo en mole": 3200,
+                "Fajitas de pollo": 2700,
+                "Eperlan de pollo y papas fritas": 2450 
+            },
+            "Pork": {
+                "Chuleton": 2470
+            },
+            "Beef": {
+                "Albondigas de la abuela": 2700,
+                "Fajitas de res": 3050,
+                "Solomillo de res": 6900,
+                "Bistec de res y papas fritas": 2900,
+                "Entrecot": 1090,
+                "Tomahawk": 2100
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Langosta grille": 4600,
+                "Calamares al ajillo": 3800,
+                "Ensenada de camaron": 3000,
+                "Langosta estilo baja california": 3050
+            },
+            "Fishes": {
+                "Eperlan de pescado y papas fritas": 2450,
+                "Pescado del dia": 3250,
+                "Ensenada de pescado": 2900
+            },
+            "Desserts": {
+                "Tartas del dia": 1400,
+                "Pie de limon": 1400,
+                "Tiramisu": 1400,
+                "Cheesecake": 1400,
+                "Gelato italiano artesanal": 1200,
+                "Flan casero": 1400
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Quesadillas de huitlacoche": 1700,
+                "Chilaquiles": 2700,
+                "Quesadilla tacos de fajitas de pollo": 2450,
+                "Quesadilla tacos de carne de cerdo": 2300,
+                "Festival de tacos 6": 4600,
+                "Festival de tacos 12": 8900,
+                "Carnitas michoacanas": 2700,
+                "Tacos al pastor": 2700,
+                "Cochinita pibil": 2700,
+                "Tacos de res": 3100,
+                "Gobernador": 3350,
+                "Festival de tacos del mar": 8800
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

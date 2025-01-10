@@ -1,0 +1,198 @@
+{
+    "Name": "Restaurante_Kopas",
+    "Specialty": [
+        "Parrilladas"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coords.": "esquina, 5ta Avenida, 482, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2300
+        ],
+        "Tuesday": [
+            1000,
+            2300
+        ],
+        "Wednesday": [
+            1000,
+            2300
+        ],
+        "Thursday": [
+            1000,
+            2300
+        ],
+        "Friday": [
+            1000,
+            2300
+        ],
+        "Saturday": [
+            1000,
+            2300
+        ],
+        "Sunday": [
+            1000,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.3,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {
+                
+                
+                
+                
+                "Brocheta de Pollo": 1550,
+                
+                "Bistec de Pollo Grille": 1350,
+                "Fajitas de Pollo a la Pinha y Miel": 1375,
+                "Fajitas de Pollo Empanada": 1550,
+                "Pechuga de Pollo en Salsa de Jengibre y Ajonjoli": 1450,
+                "Pollo a la Crema": 1650,
+                "Pollo al Ajo y Vino Blanco": 1450,
+                "Pollo a la Parmesana": 1650,
+                "Pollo al Limon y al Oregano": 1450,
+                "Pollo Caribenho": 2100,
+                "Pollo Cordon Blue": 2250,
+                "Pollo Princesa": 1750
+                
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Lomo de Cerdo Ahumado con Salsa Agridulce": 1875,
+                "Lomo de Cerdo Ahumado con Salsa Basbecue": 1850,
+                "Lomo de Cerdo Ahumado Encebollado": 1775,
+                "Lomo de Cerdo Encebollado": 1750,
+                "Lomo de Cerdo en Salsa Roquefort": 1975,
+                "Chuleta de Cerdo al Carbon": 1975,
+                "Chuleta de Cerdo al Grill en Salsa Chimichurri": 1975,
+                "Bistec de Cerdo Encebollado": 1650,
+                "Bistec de Cerdo Princesa": 2000,
+                "Escalope de Cerdo": 2250,
+                "Fajitas de Cerdo a la Pinha y Miel": 1875,
+                "Brocheta de Cerdo": 1850
+            },
+            "Beef": {
+                "Brocheta de Res": 1950,
+                "Masa de Res en Cazuela": 1875
+            },
+            "Pizza": {
+                
+                "Pizza Aceitunas": 1590,
+                "Pizza Caballo": 1975,
+                "Pizza de Atun": 1975,
+                "Pizza de Bacon": 1850,
+                "Pizza de Camaron": 1995,
+                "Pizza de Cebolla": 1250,
+                "Pizza de Chorizo": 1550,
+                "Pizza de Jamon": 1650,
+                "Pizza de Pimiento": 1250,
+                "Pizza Diablo": 1850,
+                "Pizza Hawaiana": 1700,
+                "Pizza Jamon Serrano": 2700,
+                "Pizza Kopas": 2200,
+                "Pizza Margarita": 1500,
+                "Pizza Marinera": 2575,
+                "Pizza Mixta": 2000,
+                "Pizza Napolitana": 1275,
+                "Pizza Ropa Vieja": 2000,
+                "Pizza Vegetariana": 1650,
+                "Pizza Vikinga": 2000
+            },
+            "Pasta": {
+                "Pasta a la Carbonara": 1100,
+                "Pasta Amatriciana": 1300,
+                "Pasta de Atun": 1450,
+                "Pasta de Camaron": 1550,
+                "Pasta de Jamon": 1275,
+                "Pasta Napolitana": 975,
+                "Calzone Mixto": 1975,
+                "Focaccia": 790
+            },
+            "Seafood": {
+                "Camaron Empanado": 2300,
+                "Camaron Enchilado": 2300,
+                "Camarones al Ajillo": 2200,
+                "Camaron Grille": 2000,
+                "Camaron Tropical": 3250,
+                "Brocheta de Camaron": 2100
+            },
+            "Fishes": {
+                "Dados de Pescado al Ajillo": 1850,
+                "Filete de Pescado al Estilo Kopas": 2750,
+                "Filete de Pescado al Olivo": 1750,
+                "Filete de Pescado Empanado": 2100,
+                "Filete de Pescado en Salsa de Limon": 1975,
+                "Filete de Pescado Grille": 1475,
+                "Filete de Pescado Montetoro": 2450,
+                "Filete de Pescado Princesa": 2150,
+                "Filete de Pescado Canciller": 2550,
+                "Filete de Pescado Costa Sur": 2650,
+                "Rueda de Albacora a la Veracruz": 1995
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Brocheta de Pollo y Cerdo": 1950,
+                "Arroz Frito Especial": 1750,
+                "Paella Mixta": 2850,
+                "Tres Reyes": 1950
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

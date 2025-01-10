@@ -1,0 +1,110 @@
+{
+    "Name": "La esquinita del Cotorro",
+    "Specialty": [
+        "r\u00e1pida"
+    ],
+    "Ownership": "privado",
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Avenida 71",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2000
+        ],
+        "Tuesday": [
+            1000,
+            2000
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            1000,
+            2000
+        ],
+        "Friday": [
+            1000,
+            2000
+        ],
+        "Saturday": [],
+        "Sunday": [
+            1000,
+            2000
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": false,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "tostones": 200,
+                "tortilla natural": 220,
+                "tortilla de queso blanco": 280,
+                "tortilla de jam\u00f3n": 320,
+                "tortilla de chorizo": 320,
+                "tortilla mixta": 410
+            },
+            "Bread": {
+                "pan con jam\u00f3n": 240,
+                "pan con jam\u00f3n y chorizo": 270,
+                "pan con chorizo": 160,
+                "hamburguesa simple": 250,
+                "hamburguesa doble": 380,
+                "hamburguesa esquinita": 480,
+                "hamburguesa esquinita plus": 580
+            },
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "Name": "La_Imprenta",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "207 Mercaderes, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Queso Escabechado": 140,
+                "Tapas de Tomate y Queso": 85,
+                "Crema de Vegetales": 140,
+                "Judia Imprenta": 195,
+                "Garbanzo Frito": 245
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                
+                
+            },
+            "Pork": {
+                "Lonjas de Cerdo": 1330,
+                "Bistec de Cerdo": 1675,
+                "Tablon de Carne": 2300,
+                "Barril de Cerdo c/ Jamon y Queso": 1500,
+                "Rollo de Cerdo con Jamon y Queso": 1350
+            },
+            "Beef": {
+                "Res Estofada": 875,
+                
+                "Entrecot": 850,
+                "Chanteaubriand": 1700,
+                "Filete Minhon con Salsa Espanhola": 1300,
+                "Brochetas de Res": 2300
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Langosta Grille Maintre d' Hotel": 4200,
+                "Anillas de Langosta en Salsa": 2175
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Brochetas de Torrejas": 60,
+                "Pudin Diplomatico": 55
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Bebida Energizante": 270,
+                "Cerveza Importada": 250,
+                "Malta Importada": 170,
+                "Jugos Nacional Lata": 100,
+                "Jugo Importado": 100,
+                "Havana Especial": 375,
+                "Pinha Colada": 375,
+                "Limonada Natural": 150
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {
+                "Cafe Express": "150",
+                "Cafe Americano": "180",
+                "Cafe Cortado": "200",
+                "Cafe Capuchino": "250"
+            }
+        }
+    }
+}

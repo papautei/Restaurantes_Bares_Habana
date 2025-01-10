@@ -1,0 +1,125 @@
+{
+    "Name": "La_Terraza_del_Obispo",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "Calle Obispo n\u00ba460 Habana Vieja, La Habana Cuba"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Eperlan de Pescado": 600,
+                "Croquetas de la Casa": 250
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Chuletas de Cerdo": 900,
+                "Masas de Cerdo": 900,
+                "Bistec de Cerdo Grille": 850,
+                "Fajitas de Cerdo": 850,
+                "Lomo Ahumado Grille": 850
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Langosta Grille": 1200,
+                "Langosta Enchilada": 1200,
+                "Camaron Grille": 750,
+                "Camaron Enchilado": 750
+            },
+            "Fishes": {
+                "Rueda de Bonito Grille": 700,
+                "Filete de Pescado Empanado": 800,
+                "Masas de Pescado Enchiladas": 800
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

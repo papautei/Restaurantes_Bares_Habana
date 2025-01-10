@@ -1,0 +1,205 @@
+{
+    "Name": "Lacret 559",
+    "Specialty": [
+        "Cocina creativa",
+        "Internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": null,
+        "Coords.": "4J2G+J2P, 10 de Octubre, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": [
+            52906422,
+            null
+        ]
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": 4.3,
+        "Google": 5.0,
+        "Facebook": 4.0
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": null,
+        "Takeaway": true,
+        "Wifi": false,
+        "Entertainment": [
+            "A la carta",
+            "A domicilio",
+            "Musica Grabada",
+            "Area de fumadores"
+        ]
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Frituras de malanga": 425.0,
+                "Croquetas 559": 650.0,
+                "Croqueton de res": 1000.0,
+                "Eperlan de pescado": 700.0,
+                "Carpaccio de res": 1550.0,
+                "Carpaccio de langosta": 1500.0,
+                "Carpaccio de pulpo": 1600.0,
+                "Ceviche": 950.0,
+                "Piquillos rellenos del mar": 1050.0,
+                "Piquillos rellenos de ropa vieja": 1550.0,
+                "Papas bravas": 700.0,
+                "Fajitas de pollo": 700.0,
+                "Brusquetas a la parmesana": 600.0,
+                "Totopitos al ajo": 400.0,
+                "Totopitos picantes ": 400.0,
+                "Papas fritas": 700.0
+            },
+            "Bread": {
+                "Hamburguesa de res": 850.0
+            },
+            "Chicken": {
+                
+                
+                "Pechuga de pollo grille": 1975.0,
+                "Pechuga de pollo a la gordon blue": 2175.0
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Lomo ahumado": 2175.0,
+                "Lomo importado": 2500.0,
+                "Chuleta de cerdo": 2100.0,
+                "Enchilado de cangrado": 2400.0
+            },
+            "Beef": {
+                "Ropa vieja de res": 2025.0
+            },
+            "Pizza": {
+                "Pizza queso azul": 2000.0,
+                "Pizza napolitana": 1360.0,
+                "Margarita": 1400.0,
+                "Pizza parmesana": 1800.0,
+                "Pizza carbonara": 1950.0,
+                "Pizza hawaina": 1800.0,
+                "Pizza cantabrica": 1800.0,
+                "Pizza marina": 2400.0,
+                "Pizza mediterranea": 1800.0,
+                "Pizza mixta lacret": 2700.0,
+                "Pizza de jamon": 1500.0,
+                "Pizza de chorizo": 1450.0,
+                "Pizza con bacon": 1850.0,
+                "Pizza de cebolla": 1400.0,
+                "Pizza de pimiento": 1500.0,
+                "Pizza con vegetales": 1700.0,
+                "Pizza de champinhon": 1700.0,
+                "Pizza de atun": 2300.0,
+                "Pizza de aceituna": 1400.0,
+                "Pizza con jamon serrano": 3000.0,
+                "Pizza con jamon iberico": 3400.0,
+                "Pizza con pepperoni": 2000.0,
+                "Pizza ranchera": 2500.0
+            },
+            "Pasta": {},
+            "Seafood": {
+                "Langosta al gusto": 2600.0,
+                "Camarones al gusto": 2400.0
+            },
+            "Fishes": {
+                "Pescado grille": 1975.0,
+                "Pescado enchilado": 1975.0,
+                "Pescado canciller": 2175.0
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Tacos de res": 1550.0,
+                "Tacos de mar": 1550.0,
+                "Tacos de cerdo": 1200.0,
+                "Tacos de pollo": 1000.0
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Limonada": 500.0,
+                "Energizante": 430.0,
+                "Refresco": 350.0,
+                "Malta": 430.0,
+                "Jugos naturales": 300.0
+            },
+            "Alcoholic": {
+                "Sangria": 660.0,
+                "Tinto de verano": 660.0,
+                "Calimocho": 560.0,
+                "Screwdriver": 470.0,
+                "Caipiroska": 570.0,
+                "Caipirissima": 570.0,
+                "Caipirinha": 600.0,
+                "Cubata": 470.0,
+                "Cuba libre": 470.0,
+                "Cubanito": 480.0,
+                "Mojito": 580.0,
+                "Barbados surprise": 580.0,
+                "Whiscola": 460.0,
+                "Old fashioned": 650.0,
+                "Long island": 850.0,
+                "Gin tobic": 610.0,
+                "Canchanchara": 580.0
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

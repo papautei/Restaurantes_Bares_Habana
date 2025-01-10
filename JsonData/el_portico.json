@@ -1,0 +1,116 @@
+{
+    "Name": "El portico",
+    "Specialty": [
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": false,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Pollo chiflado": 400,
+                "Chuleton": 950,
+                "Papas fritas": 350,
+                "Croquetas": 350,
+                "Tostones": 250
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {
+                "Cerveza dispensada (jarra)": 300,
+                "Cerveza dispensada (termo)": 2000,
+                "Cerveza parranda": 400,
+                "Cerveza hollandia": 200,
+                "Cerveza cacique": 240,
+                "Cerveza unlaguer": 200,
+                "Cerveza la fria": 180,
+                "Cerveza almara": 180,
+                "Cerveza bucanero": 240,
+                "Cerveza cristal": 250
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

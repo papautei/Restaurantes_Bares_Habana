@@ -1,0 +1,272 @@
+{
+    "Name": "La_Caribenha",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": " 408 Obispo, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.1,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Desayuno 1": 1300,
+                "Desayuno 2": 1400,
+                "Desayuno 3": 1300
+            },
+            "Appetizers": {
+                "Crema de Queso": 800,
+                "Crema Aurora": 900,
+                "Crema Virginia": 950,
+                "Brusquetas de Jamon y Queso": 750,
+                "Chicharrita Boniato": 500,
+                "Chicharrita de Platano": 500,
+                "Tostones Rellenos de Jamon": 850,
+                "Tostones Rellenos de Atun": 900,
+                "Croquetas de la Casa": 600,
+                "Frituras de Malanga": 600,
+                "Eperlan": 2100,
+                "Coctel de Camarones": 1500,
+                "Entremes de Jamon,Queso y Chorizo": 2100,
+                "Picadera Caribenha": 2600
+            },
+            "Bread": {
+                "Sandwich de Jamon": 1000,
+                "Sandwich de Queso": 1050,
+                "Sandwich de Jamon y Queso": 1100,
+                "Sandwich Cubano": 1450,
+                "Sandwich de Atun": 1250,
+                "Sandwich de Cerdo": 1300,
+                "Sandwich de Pollo": 1250,
+                "Sandwich Caribenho": 1300,
+                "Hamburguesa de Cerdo": 1250,
+                "Hamburguesa de Res": 1250,
+                "Hamburguesa Doble de Cerdo": 1600,
+                "Hamburguesa Doble de Res": 1600,
+                "Hamburguesa Doble Mixta": 1650,
+                "Hamburguesa Caribenha": 2300
+            },
+            "Chicken": {
+                "Pollo Grillet": 1950,
+                "Brochetas de Pollo": 2100,
+                "Pollo Gratinado": 2300,
+                "Golden Blue": 2300,
+                "Fajitas de Pollo": 2100
+               
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Lonjas de Cerdo": 2300,
+                "Lomo Ahumado": 2300,
+                "Chuletas de Cerdo": 2400,
+                "Fajitas de Cerdo": 2250,
+                "Brochetas de Cerdo": 2350
+            },
+            "Beef": {
+                "Ropa Vieja de Res": 2250,
+                "Vaca Frita": 2200,
+                "Estraccetti de Ternera": 2800
+            },
+            "Pizza": {
+                "Pizza Napole": 1500,
+                "Pizza de Jamon": 1850,
+                "Pizza de Chorizo": 1850,
+                "Pizza de Cebolla": 1750,
+                "Pizza de Pimiento": 1750,
+                "Pizza Hawaiana": 1900,
+                "Pizza de Aceituna": 1850,
+                "Pizza de Atun": 2000,
+                "Pizza de Jamon Pierna": 1900,
+                "Pizza de Bacon": 1900,
+                "Pizza de Champinhones": 1850,
+                "Pizza Campestre": 2300,
+                "Pizza de Camaron": 2450,
+                "Pizza de Langosta": 2450,
+                "Pizza Frutti D'Mare": 3000,
+                "Pizza 4 Quesos": 2000,
+                "Pizza Caribenha": 2700
+            },
+            "Pasta": {
+                "Espaguetis Napoles": 1400,
+                "Espaguetis Carbonara": 1700,
+                "Espaguetis a la Espanhola": 1700,
+                "Espaguetis Frutti D'Mare": 2100,
+                "Espaguetis al Pesto": 1700,
+                "Lasanha Bolonhesa": 1700,
+                "Lasanha de Jamon": 1800,
+                "Lasanha a la Guajira": 1800
+            },
+            "Seafood": {
+                "Camarones al Gusto": 2700,
+                "Langosta al Gusto": 2700,
+                "Cazuela de Mariscos": 4500
+            },
+            "Fishes": {
+                "Filete de Pescado Grille": 2650,
+                "Canciller": 2850,
+                "Filete de Pescado Gratinado": 2850
+                
+            },
+            "Desserts": {
+                "Pie de Limon": 700,
+                "Tres Leches": 900,
+                "Copa de Helado": 550,
+                "Cheesecake": 850,
+                "Torta de Chocolate": 900,
+                "Brownie": 800
+            },
+            "Additions": {
+                "Queso": 500,
+                "Jamon": 350,
+                "Chorizo": 350,
+                "Cebolla": 250,
+                "Pimiento": 250,
+                "Pinha": 250,
+                "Aceituna": 350,
+                "Huevo al Gusto": 600,
+                "Atun": 600,
+                "Jamon Pierna": 450,
+                "Bacon": 450,
+                "Champinhones": 350,
+                "Camaron": 900,
+                "Langosta": 900,
+                "Palmesano": 400
+            },
+            "Sides": {},
+            "Other": {
+                "Taco de Pollo": 1900,
+                "Taco de Cerdo": 2100,
+                "Taco de Res": 2200,
+                "Taco Mixto": 2350,
+                "Arroz Frito": 1600,
+                "Paella": 5000,
+                "Risotto": 3200
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Jugos Naturales": 300,
+                "Batido de Frutas Naturales": 420,
+                "Batido de Helado": 750,
+                "Limonada Natural": 250,
+                "Malteada": 600,
+                "Agua Natural 500ml": 200,
+                "Agua Natural 1500ml": 300,
+                "Agua Importada": 250,
+                "Agua Tonica": 450,
+                "Agua Tonica Importada": 500,
+                "Malta": 450,
+                "Refresco Nacional": 280,
+                "Refresco Importado": 400,
+                "Cerveza Nacional": 500,
+                "Cerveza Importada": 400,
+                "Cerveza Mexicana": 500,
+                "Energizante": 400,
+                "Red Bull": 550,
+                "Kermato": 350,
+                "Michelada Nacional": 700,
+                "Chelada Nacional": 680,
+                "Michelada Importada": 600,
+                "Chelada Importada": 580
+            },
+            "Alcoholic": {
+                "Cuba Libre": 700,
+                "Mojito": 700,
+                "Mojito Caribenho": 750,
+                "Mojito Frappe": 750,
+                "Run Collins": 800,
+                "Daiquiri": 850,
+                "Caipirinha": 750,
+                "Caipiroska": 750,
+                "Canchanchara": 850,
+                "Cubata": 700,
+                "Pinha Colada": 1200,
+                "Daiquiri de Fruta": 800,
+                "Caipirisima": 750,
+                "Margarita": 800,
+                "Gin Tonic": 1200,
+                "Tinto de Verano": 1000,
+                "Sangria": 1000,
+                "Bloody Mary": 600,
+                "Calimocho": 800,
+                "Vodkatonic": 800,
+                "Vodka Ricky": 600
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

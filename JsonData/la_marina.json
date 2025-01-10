@@ -1,0 +1,298 @@
+{
+    "Name": "La Marina",
+    "Specialty": [
+        "internacional",
+        "criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": "@lamarinade70",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            400
+        ],
+        "Tuesday": [
+            1200,
+            400
+        ],
+        "Wednesday": [
+            1200,
+            400
+        ],
+        "Thursday": [
+            1200,
+            400
+        ],
+        "Friday": [
+            1200,
+            400
+        ],
+        "Saturday": [
+            1200,
+            400
+        ],
+        "Sunday": [
+            1200,
+            400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "De jamon y queso": 950,
+                "De atun": 1000,
+                "Hamburguesa": 1900,
+                "Cheese burger": 2000,
+                "Bolitas de queso": 1000,
+                "Croquetas marina": 1200,
+                "Brusquetas": 1100,
+                "Entremes surtido": 1900,
+                "Papas fritas": 950,
+                "Coctel de camaron": 3000,
+                "Tequenos": 1140,
+                "Tacos de la casa": 1600,
+                "Escabeche de pescado": 2800,
+                "Tabla de jamon serrano queso y frutos secos": 3000,
+                "Tostones con mojo": 850,
+                "Tostones rellenos": 950,
+                "Fajitas de pollo": 1800,
+                "Eperlan de pescado": 1800,
+                "Frituras de malanga": 850,
+                "Ceviche de pescado": 2300,
+                "Nuggets": 1950
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo tropical": 2100,
+                "Pollo a la princesa": 2300,
+                "Pechuga grille": 2100,
+                "Fajitas": 2100,
+                "Saltimbocca a la sorrentina": 4500   
+            },
+            "Pork": {
+                "Involtini": 2000,
+                "Masas fritas": 2300,
+                "Fricase": 2400,
+                "Bistec a la plancha": 2200,
+                "Lonjas de cerdo": 2400,
+                "Gordon bleu": 2650
+            },
+            "Beef": {
+                "Ropa vieja": 2700,
+                "Vaca frita": 2500,
+                "Puntas de filete a la dutch": 3200,
+                "Solomillo": 6000
+            },
+            "Pizza": {
+                "Pizza napolitana": 1100,
+                "Pizza margarita": 1250,
+                "Pizza hawaiana": 1400,
+                "Pizza con serrano y aceitunas": 1800,
+                "Pizza super marina": 2200
+            },
+            "Pasta": {
+                "Pasta napolitana": 1200,
+                "Pasta con jamon": 1400,
+                "Pasta carbonara": 2000,
+                "Pasta amatriciana": 2000,
+                "Pasta puttanesca": 1800,
+                "Pasta bolognesa": 2000,
+                "Pasta con salmon y salsa blanca": 2000,
+                "Pasta combo marina": 4500
+            },
+            "Seafood": {
+                "Cazuela de mariscos": 5500,
+                "Langosta al gusto": 4000,
+                "Langosta thermidor": 4500,
+                "Camaron al gusto": 4500,
+                "Pulpo al gusto": 4600,
+                "Paella marina": 5500
+            },
+            "Fishes": {
+                "Filete de pescado grille": 2300,
+                "Filete de pescado a las finas hierbas": 2500,
+                "Filete de pescado princesa": 2800,
+                "Filete de pescado canciller": 3000
+            },
+            "Desserts": {
+                "Postre del dia": 1150,
+                "Helado": 600
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Risotto mary monte": 4000,
+                "Mar y tierra": 5500,
+                "Frito especial": 4700,
+                "Palomilla": 3000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Aqua natural nac": 300,
+                "Aqua natural imp": 400,
+                "Agua gaseada nac": 400,
+                "Agua gaseada imp": 900,
+                "Agua tonica nac": 500,
+                "Agua tonica imp": 950,
+                "Agua t le tribute": 1150,
+                "Malta": 700,
+                "Refresco importado": 500,
+                "Bebida energizante": 900,
+                "Limonada natural": 850,
+                "Limonada frappe": 950,
+                "Limonada frescura": 1000,
+                "Limonada clarete": 1000,
+                "Jugo natural": 750,
+                "Kermato": 900
+            },
+            "Alcoholic": {
+                "Daiquiri": 900,
+                "Daiquiri de frutas": 1000,
+                "Cuba libre": 800,
+                "Mojito": 900,
+                "Pina colada": 1200,
+                "Cubata": 900,
+                "Cubanito": 900,
+                "Caipirisima": 850,
+                "Canchanchara": 850,
+                "Sex on the beach": 950,
+                "Havana special": 800,
+                "Calimocho": 990,
+                "Tinto de verano": 1000,
+                "Presidente": 800,
+                "San francisco": 950,
+                "Ron collins": 850,
+                "Whisky sour": 1500,
+                "Mary pickford": 800,
+                "Caipiroska": 950,
+                "Bloody mary": 950,
+                "Screw driver": 850,
+                "Blue lagoon": 800,
+                "Gin tonic": 950,
+                "Tom collins": 850,
+                "Sangria": 1500,
+                "Caipirinha": 900,
+                "Tequila sunrise": 900,
+                "Old fashioned": 900,
+                "Manhattan": 900,
+                "Martini": 900,
+                "Negroni": 1000,
+                "Vodkatonic": 950,
+                "Orgasmo": 1000,
+                "Margarita": 900,
+                "Long island ice tea": 1000,
+                "God mother": 900,
+                "God father": 1000,
+                "Aperol spritz": 1500,
+                "Amaretto sour": 1200,
+                "Heineken": 900,
+                "Corona": 900,
+                "Cristal bucanero": 550,
+                "Servicio chelada": 400,
+                "Servicio michelada": 500,
+                "Jack daniels": 1400,
+                "Buchanans": 2900,
+                "Clan campbell": 700,
+                "Jb": 840,
+                "The glenlivet": 1400,
+                "Ballantines finest": 700,
+                "Ballantines 10": 1100,
+                "Ballantines 12": 1300,
+                "Chivas regal 12": 1300,
+                "Jamenson": 900,
+                "Jamenson black barrell": 1400,
+                "Jw red label": 950,
+                "Jw black label": 1600,
+                "Copa de vino tinto": 1100,
+                "Copa de vino blanco": 1000,
+                "1800 blanco": 1900,
+                "1800 reposado": 2000,
+                "Olmeca blanco": 700,
+                "Olmeca reposado": 750,
+                "Tequila rose": 1700,
+                "Tres sombreros b": 800,
+                "Tres sombreros r": 850,
+                "Jose cuervo b": 1600,
+                "Jose cuervo rep": 1700,
+                "Havana c especial": 600,
+                "Havana c reserva": 600,
+                "Havana c 7 anos": 650,
+                "Selecc de maestros": 1500,
+                "Santiago 8 anos": 850,
+                "Santiago 11 anos": 1400,
+                "Santiago 12 anos": 1500,
+                "Pacto navio": 1500,
+                "Baileys": 1000,
+                "Ruavieja": 900,
+                "Cremas": 700,
+                "Frangelico": 1500,
+                "Jagermeister": 750,
+                "Limoncello": 550,
+                "Amaretto": 650,
+                "Campari": 1000,
+                "Absolut": 900,
+                "Ciroc natural": 1600,
+                "Ciroc de sabor": 1800,
+                "Grey goose": 1300,
+                "Rosso": 850,
+                "Blanco": 850,
+                "Dry": 850,
+                "Extra dry": 850,
+                "Beefeater": 750,
+                "Masters": 750,
+                "Masters pink": 800,
+                "Citadelle": 1500,
+                "Tanqueray": 900,
+                "Tanqueray ten": 1250,
+                "Bombay saphire": 1500,
+                "Torres 5": 700,
+                "Torres 15": 1100,
+                "Hennessy": 1900
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

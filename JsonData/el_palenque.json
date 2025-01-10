@@ -1,0 +1,149 @@
+{
+    "Name": "El Palenque",
+    "Specialty": [
+        "caribe\u00f1a",
+        "latina",
+        "internacional",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Restaurante El Palenque",
+        "Instagram": false,
+        "Phones": "72038222"
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2100
+        ],
+        "Tuesday": [
+            1100,
+            2100
+        ],
+        "Wednesday": [
+            1100,
+            2100
+        ],
+        "Thursday": [
+            1100,
+            2100
+        ],
+        "Friday": [
+            1100,
+            2100
+        ],
+        "Saturday": [
+            1100,
+            2100
+        ],
+        "Sunday": [
+            1100,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Cesta de pan": 100,
+                "Croquetas": 150,
+                "Chicharrones": 400,
+                "Entremes surtido": 100,
+                "Entremes de jamon y chorizo": 150,
+                "Variado de queso": 200
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo asado 1kg": 630,
+                "Pechuga con papas fritas": 700,
+                "Fajitas de pollo salteadas": 400
+            },
+            "Pork": {
+                "Masas de cerdo fritas": 1000,
+                "Bistec de cerdo": 300,
+                "Cerdo asado 400gr": 800
+            },
+            "Beef": {
+                "Picadillo de res": 350,
+                "Bistec de res": 300,
+                "Res de campesina": 400
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Pasta napolitana": 250,
+                "Lasagna de carne": 200
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Mermelada con queso": 60,
+                "Arroz con leche": 60,
+                "Dulce de frutabomba": 120
+            },
+            "Additions": {},
+            "Sides": {
+                "Papas fritas": 215,
+                "Ensalada de vegetales": 300
+            },
+            "Other": {
+                "Arroz con pollo": 250,
+                "Chilindron de cordero": 1700
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Jugos naturales": 100
+            },
+            "Alcoholic": {
+                "Cerveza": 120,
+                "Licores nacionales": 20,
+                "Ron havana club reserva": 40,
+                "Tequila blanco": 150
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe palenque": null,
+                "Cortadito": 60,
+                "Caf\u00e9 con leche": 80,
+                "Te": 30
+            }
+        }
+    }
+}

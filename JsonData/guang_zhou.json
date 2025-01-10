@@ -1,0 +1,196 @@
+{
+    "Name": "Guang zhou",
+    "Specialty": [
+        "Comida China"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": null,
+        "Address": "Cuchillo entre San Nicolas y Rayo",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": [
+            "078615229"
+        ]
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            0
+        ],
+        "Tuesday": [
+            1100,
+            0
+        ],
+        "Wednesday": [
+            1100,
+            0
+        ],
+        "Thursday": [
+            1100,
+            0
+        ],
+        "Friday": [
+            1100,
+            0
+        ],
+        "Saturday": [
+            1100,
+            0
+        ],
+        "Sunday": [
+            1100,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.1,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 1,
+        "MLC": 1,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {
+                "Pollo a la plancha": 1800,
+                "Pollo Grille": 1500
+            },
+            "Pork": {
+                "Cerdo a la plancha": 2000,
+                "Cerdo Grille": 1650
+            },
+            "Beef": {
+                "Res a la plancha": 2100
+            },
+            "Pizza": {
+                "Pizza Napolitana con queso blanco": 1150.0,
+                "Pizza Napolitana con queso Gouda": 1250.0
+            },
+            "Pasta": {
+                "Espaguetis Napolitanos": 1080.0
+            },
+            "Seafood": {
+                "Cazuela de Mariscos": 5575,
+                "Marisco a la plancha": 3100
+            },
+            "Fishes": {
+                "Pescado a la plancha": 2100,
+                "Pescado Grille": 1500
+            },
+            "Desserts": {},
+            "Additions": {
+                "Tomate natural": 200.0,
+                "Pimiento": 200.0,
+                "Cebolla": 200.0,
+                "Pinha": 200.0,
+                "Jamon": 450.0,
+                "Chorizo": 300.0,
+                "Bacon": 300.0,
+                "Champinhones": 300.0,
+                "Aceitunas": 250.0,
+                "Atun": 500.0,
+                "Queso Blanco": 250.0,
+                "Marisco": 750.0,
+                "Jamon Serrano": 500.0
+            },
+            "Sides": {
+                "Arroz blanco": 315,
+                "Arroz frito": 1710,
+                "Arroz Moro": 415,
+                "Arroz frito especial": 2110,
+                "Arroz frito familiar": 2970,
+                "Chao mian (Fideos fritos)": 900,
+                "Chop Suey de Pollo": 1700,
+                "Chop Suey de Cerdo": 1900,
+                "Chop Suey de vegetales": 800.0,
+                "Viandas fritas del dia": 300,
+                "Yuca con mojo": 250.0,
+                "Ensalada mixta": 300.0
+            },
+            "Other": {
+                "Termo Pack": 120.0,
+                "Caja de Pizza": 1000.0,
+                "De la Tierra": 4200,
+                "Del Mar": 5500,
+                "Mar y Tierra": 5900
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Havana Club 3 anhos": 350,
+                "Havana Club Especial": 250,
+                "Havana Club Reserva": 400,
+                "Havana Club 7 anhos": 450,
+                "Whisky": 400,
+                "Vodka": 500,
+                "Tequila Blanco": 500,
+                "Tequila Reposado": 500,
+                "Ginebra": 500,
+                "Vino tinto": 500,
+                "Vino blanco": 500,
+                "Cerveza Nacional": 385.0,
+                "Cerveza Importada": 300.0,
+                "Kermato (Jugo de tomate)": 200.0,
+                "Refresco Nacional": 350.0,
+                "Refresco Importado": 350.0,
+                "Malta": 400.0,
+                "Malteada (Malta con leche)": 550.0,
+                "Agua": 190.0,
+                "Agua 1.5L": 280.0,
+                "Jugo Natural": 325.0,
+                "Jugo en conserva": 350.0,
+                "Cafe Expreso": 100.0,
+                "Cafe Americano": 150.0,
+                "Cafe Cortado": 150.0,
+                "Cafe Capsula": 300.0,
+                "Te": 60.0,
+                "Michelada ": 200,
+                "Mojito": 400,
+                "Cuba Libre": 400,
+                "Ron Collins": 400,
+                "Limonada Frappe": 350,
+                "Daiquiri Frappe": 400,
+                "Pinha Colada": 600,
+                "Cubata": 400,
+                "Sangria": 600,
+                "Gin Tonic": 550,
+                "Margarita": 550,
+                "Caipirinha": 450,
+                "Caipiroska": 550
+            }
+        }
+    }
+}

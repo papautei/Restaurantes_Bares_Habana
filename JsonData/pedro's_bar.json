@@ -1,0 +1,138 @@
+{
+    "Name": "Pedro's Bar",
+    "Specialty": [
+        "cocteleria",
+        "italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Pedro's Bar",
+        "Instagram": "@pedrosbar_boulevard",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1400,
+            200
+        ],
+        "Tuesday": [
+            1400,
+            200
+        ],
+        "Wednesday": [
+            1400,
+            200
+        ],
+        "Thursday": [
+            1400,
+            200
+        ],
+        "Friday": [
+            1400,
+            200
+        ],
+        "Saturday": [
+            1400,
+            200
+        ],
+        "Sunday": [
+            1400,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Papas fritas": 1150,
+                "Frituras de malanga": 800,
+                "Croquetas": 1050,
+                "Dados de queso": 1350,
+                "Fajitas de pollo": 1450,
+                "Tabla mixta": 4600
+            },
+            "Bread": {
+                "Sandwich de jamon y queso": 1200,
+                "Sandwich de pechuga": 1550,
+                "Sandwich de atun": 1500,
+                "Sandwich de lechon": 1550
+            },
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "Pizza de queso": 1200,
+                "Pizza hawaiana": 1500,
+                "Pizza de vegetales": 1500
+            },
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural": 250,
+                "Refresco": 500,
+                "Energizante": 500
+            },
+            "Alcoholic": {
+                "Canchanchara": 1150,
+                "Mojito": 1100,
+                "Caipis": 1100,
+                "Daiquiri": 1100,
+                "Gin tonic": 1450,
+                "Margarita": 1050,
+                "Cubata": 1050,
+                "Sangria": 1350,
+                "Pinha colada": 1100,
+                "Jarra de cerveza": 350,
+                "Cerveza": 600,
+                "Vasos de ceveza": 200,
+                "Servicio de michelada": 300,
+                "Servicio de chelada": 400
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

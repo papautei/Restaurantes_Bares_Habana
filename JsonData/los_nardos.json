@@ -1,0 +1,264 @@
+{
+    "Name": "Los_Nardos",
+    "Specialty": [
+        "Espanhola"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "4JMR+RMW, P.\u00ba de Marti, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.3,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ensalada de Vegetales Frescos": 620,
+                "Ensalada de Frutas Tropicales": 725,
+                "Coctel de Frutas Tropicales": 805,
+                "Ensalada de Pollo Primavera": 1035,
+                "Surtidito de la Casa": 2420,
+                "Ensalada a la Vinagreta": 1710,
+                "Ensalada Mediterranea Estilo Los Nardos": 1710,
+                "Camaroncillos en Coctel": 1425,
+                "Ensaladita de Atun": 1425,
+                "Carpaccio de Pescado": 935,
+                "Coctel de Pescado": 935,
+                "Ensalada de Jamon Serrano y Frutas Tropicales": 2590,
+                "Gran Tabla de Embutidos y Queso": 4040,
+                "Tamal en Cazuela": 1060,
+                "Bolitas de Queso": 1290,
+                "Tortilla Espanhola": 865,
+                "Tortilla Vazca": 940,
+                "Garbanzo Frito": 1295,
+                "Gran Picadera Los Nardos": 2485,
+                "Cremas": 1190,
+                "Sopa de Pollo": 865,
+                "Fabada al Estilo del Chef": 1450,
+                "Sopa de Vegetales": 490,
+                "Gazpacho Andaluz": 640,
+                "Assorted Bread Basket": 650
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                
+                "Pollo Frito": 2480,
+                "Pollo Grille": 2490,
+                "Pollo Cordon Bleau": 2870,
+                "Fajitas de Pollo": 2230,
+                "Pechuga de Pollo Grille": 2420,
+                "Dados de Pollo al Gusto": 2160,
+                "Brocheta Mixta de Pollo": 2230
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Bistec de Cerdo": 2200,
+                "Escalope de Cerdo": 2330,
+                "Bistec de Cerdo Uruguayo": 2500,
+                "Masitas de Cerdo": 2800,
+                "Chuleta de Cerdo": 2500,
+                "Lomo de Cerdo Ahumado": 2500,
+                "Pierna de Cerdo Hawaiana": 2800,
+                "Pierna de Cerdo a la Criolla": 2800,
+                "Cena Cubana": 3235,
+                "Ropa vieja de Cerdo": 2780,
+                "Cerdo Salteado": 2260
+            },
+            "Beef": {
+                "Uruguayo de Res": 3000,
+                "Bistec de Res Encebollado": 2200,
+                "Entrecote de Ternera": 6000
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Camarones al Gusto": 2900,
+                "Langosta": 2660,
+                "Pulpo al Gusto": 3500,
+                "Caldereta de Mariscos": 4035
+            },
+            "Fishes": {
+                "Filete de Pescado Grille": 2500,
+                "Pescado Canciller": 2845,
+                "Masas de Pescado": 2500,
+                "Eperlan de Pescado": 2500,
+                "Filete de Pescado JoinVille": 2870,
+                "Filete de Pecado Monte Toro": 2590,
+                "Filete de Pescado Don Pedro": 2745,
+                "Pescado Marinero": 2750
+            },
+            "Desserts": {
+                "Flan al Caramelo": 580,
+                "Copa Lolita": 930,
+                "Torta del Dia": 720,
+                "Helado": 930,
+                "Torrejas en Almibar": 720,
+                "Cake a la Moda": 1060,
+                "Torta Helada": 720,
+                "Torta Tres Leches": 1120,
+                "Brownie de Chocolate": 930,
+                "Pudin": 570,
+                "Selva Negra": 1080
+            },
+            "Additions": {},
+            "Sides": {
+                "Papas Fritas": 1035,
+                "Croquetazo": 699
+            },
+            "Other": {
+                "Cordero al Gusto": 2715,
+                "Paletilla de Cordero a las Finas Hierbas": 3610,
+                "Paella Mixta": 1920,
+                "Paella de Vegetales": 1575,
+                "Grillada Mar y Tierra": 4460,
+                "Ensalada Fria Italiana": 1060,
+                "Grillada de Vegetales": 1295
+                
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Aguas Nacionales": 215,
+                "Refresco Nacional": 355,
+                "Refresco de Maquina": 265,
+                "Refresco Importado": 355,
+                "Red Bull": 700,
+                "Kermato": 595,
+                "Maltas": 470,
+                "Malteada": 840,
+                "Canha de Cerveza": 275,
+                "Jarra de Cerveza": 499,
+                "Jarra de Michelada": 740,
+                "Cerveza Nacional": 360,
+                "Copa de Vino": 775,
+                "Vermouth": 905,
+                "Limonada": 390,
+                "Jugos Importados": 450,
+                "Jugos de Caja": 320
+            },
+            "Alcoholic": {
+                "Campari": 900,
+                "Frangelico": 1575,
+                "Ron HC 3 Anhos": 520,
+                "Ron HC A. Especial": 645,
+                "Ron HC Reserva": 775,
+                "Ron HC 7 Anhos": 1295,
+                "Ron HC S. de Maestros": 1345,
+                "Ron Pacto Navio": 1599,
+                "Ron Santiago 8 Anhos": 1165,
+                "Ron Santiago 11 Anhos": 2590,
+                "Ron Santiago 12 Anhos": 3235,
+                "Aguardiente Black Tears": 390,
+                "Ron Elixir Legendario": 225,
+                "Baileys": 1165,
+                "Whisky J & B": 775,
+                "Whisky J. Walker Red": 899,
+                "Whisky Ballantines": 1425,
+                "Whisky Jameson": 685,
+                "Clan Campbell": 685,
+                "J. W. Black Label": 1475,
+                "Chivas Regal": 2715,
+                "Tequila Blanco": 1295,
+                "Tequila Reposado": 1425,
+                "Brandy": 315,
+                "Brandy Torres 5": 380,
+                "Brandy Torres 10": 500,
+                "Brandy Torres 15": 1550,
+                "Ginebra Gin Mare": 1035,
+                "Ginebra Beefeater": 1035,
+                "Vodka Absolut": 1425,
+                "Vodka Stolichnaya": 630,
+                "Licores Nacionales": 260,
+                "Licores Importados": 895,
+                "Mojito": 645,
+                "Daiquiri": 645,
+                "Cuba Libre": 645,
+                "Sangria": 905,
+                "Michelada": 645,
+                "Pinha Colada": 1035,
+                "San Francisco": 645,
+                "Gin Tonic": 1165,
+                "Otros Cocteles": 1035
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

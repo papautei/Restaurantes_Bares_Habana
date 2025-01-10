@@ -1,0 +1,328 @@
+{
+    "Name": "El_Templete",
+    "Specialty": [
+        "Mariscos"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "4MR2+3MC, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            830,
+            1200
+        ],
+        "Tuesday": [
+            830,
+            1200
+        ],
+        "Wednesday": [
+            830,
+            1200
+        ],
+        "Thursday": [
+            830,
+            1200
+        ],
+        "Friday": [
+            830,
+            1200
+        ],
+        "Saturday": [
+            830,
+            1200
+        ],
+        "Sunday": [
+            830,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Panes de la Casa": 300,
+                "Tostones Rellenos de Atun": 500,
+                "Tostones Rellenos de Jamon y Queso": 450,
+                "Eperlan de Pescado": 500,
+                "Tapas de Atun": 500,
+                "Ensaladilla de Atun": 500,
+                "Croquetas de la Casa": 750,
+                "Brusquetas": 800,
+                "Coctel de Langosta": 1500,
+                "Copa de Camarones": 1800,
+                "Ceviche a la Cubana": 2500,
+                "Surtido Templete": 3500,
+                "Tabla de Jamon Serrano": 2000
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                
+                
+                
+                
+            },
+            "Pork": {},
+            "Beef": {
+                "Entrecot de Res": 2000,
+                "Filete Minhon": 2500,
+                "Filete Chateaubriand": 3500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetis Alfredo": 1000,
+                "Espaguetis Napolitano": 600
+            },
+            "Seafood": {
+                "Langosta Mariposa": 2000,
+                "Langosta Enchilada con Vegetales": 2500,
+                "Langosta Termidor": 3000,
+                "Camarones Grille": 2000,
+                "Camarones al Ajillo": 2500,
+                "Enchilado de Camarones": 2500
+            },
+            "Fishes": {
+                "Filete de Pescado Grille": 2000,
+                "Filete de Pescado Canciller": 2500,
+                "Filete de Pescado Joinville": 2800,
+                "Pescado Empanado con Vegetales": 2500
+            },
+            "Desserts": {
+                "Copa de Helado": 500,
+                "Arroz con Leche": 600,
+                "Flan Caramelo": 600
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Mariscada Templete": 5000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Cerveza Nacional": 200,
+                "Cerveza Importada": 250,
+                "Refresco Nacional": 90,
+                "Refresco Importado": 100,
+                "Malta Importada": 170,
+                "Jugo Importado": 100,
+                "Jugo Natural": 200,
+                "Copa de Vino de la Casa": 450,
+                "Agua Natural": 150
+            },
+            "Alcoholic": {
+                "Te Frio/Caliente": 120,
+                "Brandy Gran Reserva Carlos": 600,
+                "Brandies Torres 5 Anhos": 350,
+                "Brandies Torres 10 Anhos": 400,
+                "Brandies Torres 15 Anhos": 600,
+                "Anis Marie Brizard": 150,
+                "Anis Chichon Dulce": 150,
+                "Anis Seco Chinchon": 150,
+                "Crema Bailey's": 250,
+                "Crema Amarula": 200,
+                "Crema Ruavieja": 350,
+                "Crema Barcelo MG": 250,
+                "Crema Catalana Sentry": 200,
+                "Licor Jarabe Kiwi Trial": 250,
+                "Licor de Anis Mono Dulce": 250,
+                "Licor Anis Mono Seco": 500,
+                "Licor de Menta Mints Marie Brizard": 180,
+                "Licor de Litchi Litchao Marie Brizard": 150,
+                "Licor Sheridans": 250,
+                "Licor Tia Maria Coffee": 250,
+                "Licor Campari": 250,
+                "Licor Luxardo Marraschino Originale": 250,
+                "Licor Disaronno Amaretto": 250,
+                "Licor Sambuca Molinari": 250,
+                "Licor Aperol": 250,
+                "Licor Frangelico": 250,
+                "Licor Fernet Branca": 200,
+                "Licor Limoncello Golmar": 250,
+                "Licor Limoncello": 150,
+                "Licor Zoco Pacharan": 150,
+                "Licor Triple Sec Sorel": 150,
+                "Licor Cafe": 150,
+                "Licor Manzana": 150,
+                "Ginebra Citadelle": 250,
+                "Ginebra Gordon": 150,
+                "Ginebra Tanqueray": 200,
+                "Ginebra Hendryk's": 300,
+                "Ginebra Gin MG Master": 200,
+                "Ginebra Gin Mare": 350,
+                "Ginebra Tonic": 150,
+                "Vodka Belvedere": 300,
+                "Vodka Ciroc MG": 400,
+                "Vodka Wiborowa": 600,
+                "Vodka Ciroc Melocoton": 400,
+                "Vodka Ciroc Cereza": 400,
+                "Vodka Ciroc Manzana": 400,
+                "Vodka Youri Dologrouki": 400,
+                "Vodka Sobieski": 150,
+                "Vodka Starotorunska": 250,
+                "Vodka Finlandia Classic": 250,
+                "Vodka Nord": 200,
+                "Vodka el Jimador Blanco": 200,
+                "Vodka Ciroc": 180,
+                "Tequila Blanco Don Julio MG": 250,
+                "Tequila el Jimador Blanco MG": 200,
+                "Tequila Olmeca Blanco": 400,
+                "Tequila Olmeca Reposado": 200,
+                "Tequila Herradura Blanca": 130,
+                "Tequila Don Julio Reposado": 150,
+                "Vermouth Yzaguirre Rosado": 400,
+                "Vermouth Rosso Totino": 150,
+                "Vermouth Blanco Cinzano": 180,
+                "Vermouth Ross Cinzano": 180,
+                "Vermouth Dry Cinzano": 180,
+                "Vermouth de Jerez la Copa": 250,
+                "Vermouth Yzaguirre Blanco": 150,
+                "Vermouth Yzaguirre Tinto": 150,
+                "Whisky White Horse": 400,
+                "Whisky Johnnie Walker Swing": 150,
+                "Whisky Johnnie Walker Black": 300,
+                "Whisky Old Parr 12 Anhos": 350,
+                "Whisky Jameson": 250,
+                "Whisky Crown Royal": 600,
+                "Whisky Johnnie Walker Gold Reserve": 500,
+                "Whisky Johnnie Walker Double Black": 600,
+                "Whisky Johnnie Walker Aged 18 Anhos": 400,
+                "Whisky Buchanan Master": 500,
+                "Whisky Jack Daniels Black Label": 150,
+                "Whisky Jack Daniels Honey": 150,
+                "Whisky Cardhu Single Malt": 400,
+                "Whisky Vat 69": 250,
+                "Whisky J&B": 250,
+                "Whisky Ballantine's Finest": 350,
+                "Whisky Macallan Tripi Cask Matured 12 Years Old": 600,
+                "Whisky The Famous Grouse Original NR": 250,
+                "Whisky Glenrothers Vitage": 500,
+                "Whisky Glenmorangie Original": 600,
+                "Whisky Glenmorangie The Quinta Ruban": 600,
+                "Whisky Glenmorangie Lasanta": 600,
+                "Whisky Glenmorangie Nectar D'Or": 600,
+                "Whisky Black and White": 200,
+                "Whisky Clan Campbell": 150,
+                "Whisky Buchanans Deluxe": 400,
+                "Whisky Buchanan Special Reserva 18 Anhos": 400,
+                "Ron Havana Club Anhejo Blanco": 180,
+                "Ron Havana Club Pacto Navio": 475,
+                "Ron Havana Cuban Spice": 235,
+                "Ron Havana Club Edicicion Prof A": 200,
+                "Ron Havana Club Edicicion Prof C": 135,
+                "Ron Habana Club Union": 3500,
+                "Ron Havana Club Smoky": 280,
+                "Ron Isla del Tesoro": 3000,
+                "Ron Havana Club Anhejo Reserva": 220,
+                "Ron Havana Club Profundo": 200,
+                "Ron Havana Club Ritual": 180,
+                "Ron Havana Club Anhejo 3 Anhos": 150,
+                "Ron Havana Club Anhejo 7 Anhos": 260,
+                "Ron Havana Club Anhejo Especial Oro": 150,
+                "Ron Havana Club Gran Reserva 15 Anhos": 900,
+                "Ron Havana Club Seleccion de Maestro": 395,
+                "Ron Havana Club Tributo": 2500,
+                "Ron Varadero 3 Anhos": 120,
+                "Ron Varadero 5 Anhos": 130,
+                "Ron Varadero 7 Anhos": 180,
+                "Ron Santero 15 Anhos": 500,
+                "Ron Vigia Tears Dorado": 180,
+                "Ron Vigia Black Tears Super Dry": 120,
+                "Ron Vigia Black Tears Aguardiente": 200,
+                "Mojito": 200,
+                "Daiquiri Frappe": 200,
+                "Cubanito": 200,
+                "Cubata": 200,
+                "Cuba Libre": 200,
+                "Sangria": 250,
+                "Pinha Colada": 300,
+                "Gin Tonic": 350,
+                "Havana Especial": 200,
+                "Ron Collins": 200,
+                "Martini Seco": 250,
+                "Screwdriver": 200,
+                "Limonada Frappe": 150,
+                "Caipirinha": 250,
+                "Mimosa": 300,
+                "Bloody Mary": 250,
+                "Bellini": 300,
+                "Long Island Tea": 300,
+                "Shirley Temple": 180,
+                "Adan y Eva": 200,
+                "White Russian": 200,
+                "Black Russian": 200,
+                "Whisky Sour": 200,
+                "Sex on the Beach": 300,
+                "Kir Royal": 250,
+                "Americano": 200,
+                "Spritz": 200,
+                "Cuban Negroni": 200,
+                "Cuban Manhatan": 250,
+                "Ron Old Fashioned": 200,
+                "Negroni": 250,
+                "Manhatan": 250,
+                "Old Fashioned": 250,
+                "Canchanchara": 200,
+                "Tequila Sunrise": 250,
+                "Goodfather": 250
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {
+                "Espresso": "95",
+                "Capuchino": "140",
+                "Cortadito": "100",
+                "Bombon": "120",
+                "Americano": "95",
+                "Canelado": "100",
+                "Rocio de Gallo": "130",
+                "Irlandes": "190",
+                "Mama Ines": "150",
+                "Al Licor": "100",
+                "Mazagran": "160",
+                "Carajillo": "150",
+                "Con Vodka": "200",
+                "Mexicano": "150",
+                "Cohiba Habano": "125"
+            }
+        }
+    }
+}

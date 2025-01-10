@@ -1,0 +1,198 @@
+{
+    "Name": "Ristorante_San_Francesco",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coords.": "Calle 478 entre 5ta A Y, 5ta D"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2300
+        ],
+        "Tuesday": [
+            800,
+            2300
+        ],
+        "Wednesday": [
+            800,
+            2300
+        ],
+        "Thursday": [
+            800,
+            2300
+        ],
+        "Friday": [
+            800,
+            2300
+        ],
+        "Saturday": [
+            800,
+            2300
+        ],
+        "Sunday": [
+            800,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Antipasto di Montagna Maxi": 3500,
+                "Bruschetta": 850,
+                "Bruschetta di Pate": 900,
+                "Prosciuto Crudo": 2500,
+                "Raz. Pane": 450,
+                "Frittata": 700,
+                "Frittata con Cipolle": 750,
+                "Tostones": 700,
+                "Tostones Especiales": 1500
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                "Pollo con Salciccia": 2400,
+                
+                "Fajitas de Pollo": 1850,
+                
+                
+                
+                "Pollo Frito": 1800,
+                "Pollo Asado": 1800,
+                "Fajitas de Pollo con Vegetales": 2100
+            },
+            "Pork": {
+                "Chuleta de Cerdo(Segun Gramaje del Plato)": 2850,
+                "Ropa Vieja de Cerdo": 2100,
+                "Salciccia": 2100
+            },
+            "Beef": {},
+            "Pizza": {
+                "Pizza Gorgonzola": 1700,
+                "Pizza Fior di Latte": 1900,
+                "Pizza Fior di Latte e Prosciutto": 2100,
+                "Pizza Frutti di Mare": 2600,
+                "Pizza Pomodoro e Basilico": 1400,
+                "Pizza Prosciutto Crudo": 1900,
+                "Pizza Margherita": 1400,
+                "Pizza Capricciosa": 2000,
+                "Pizza con Jamon Vicky": 1700,
+                "Pizza con Atun": 1900,
+                "Pizza con Camarones": 2100,
+                "Pizza con Salciccia": 1900,
+                "Pizza Hawaiana": 1800,
+                "Pizza con Vegetales": 1700,
+                "Focaccia": 1300,
+                "Focaccia con Prosciutto Crudo": 1700,
+                "Focaccia con Prosciutto Crudo y Agrego de Fior di Latte": 2600
+            },
+            "Pasta": {
+                "Spaghetti Napoli": 1500,
+                "Spaghetti Jamon Vicky": 1600,
+                "Spaghetti Tonno": 1700,
+                "Spaghetti Jamon Serrano": 1800,
+                "Spaghetti Pomodoro e Basilico": 1550,
+                "Spaghetti Aglio-Olio-Peperoncino": 1350,
+                "Spaghetti Al Pesto": 1600,
+                "Spaghetti Puttanesca": 1900,
+                "Spaghetti Amatriciana": 1700,
+                "Spaghetti Carbonara": 1700,
+                "Spaghetti con Gamberetti": 2600,
+                "Pasta con Verdure": 1500,
+                "Pasta Risotto Bolognese": 1700,
+                "Pasta Risotto Fruti di Mare": 3200,
+                "Risotto Bolognese": 1650,
+                "Risotto con Vegetale": 1500,
+                "Pasta con Salciccia": 1800,
+                "Pasta con Salciccia e Funghi": 2000,
+                "Raz. di Rizo": 600,
+                "Raz. di Pane": 550
+            },
+            "Seafood": {
+                "Aragosta Maxi": 3800,
+                "Camaron en Salsa": 2200,
+                "Gamberetti": 2200
+            },
+            "Fishes": {},
+            "Desserts": {
+                "Dolce San Francesco": 500
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Cerveza Cristal": 350,
+                "Cerveza Bucanero": 400,
+                "Cervezas Importadas": 350,
+                "Refrescos Importados": 350,
+                "Red Bull": 400,
+                "Refrescos Energizantes": 400,
+                "Maltas": 400,
+                "Limonada Frappe": 500,
+                "Copa de Vino de la Casa": 1200,
+                "Whisky": 900,
+                "Trago de Ron": 600,
+                "Sambuca": 800,
+                "Mojito": 850,
+                "Cuba Libre": 800,
+                "Cubanito": 800,
+                "Pinha Colada": 900,
+                "Michelada": 1200,
+                "Chelada": 800,
+                "Limoncello": 900,
+                "Tequila": 900,
+                "Daiquiri": 900,
+                "Grappa": 900,
+                "Caffe Miscela Illy Kimbo": 350,
+                "Cafe Cortado": 380,
+                "Cafe Americano": 500
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

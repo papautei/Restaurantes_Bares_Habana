@@ -1,0 +1,234 @@
+{
+    "Name": "La_Reliquia",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "4JPX+XM7, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            1400
+        ],
+        "Tuesday": [
+            1000,
+            1400
+        ],
+        "Wednesday": [
+            1000,
+            1400
+        ],
+        "Thursday": [
+            1000,
+            1400
+        ],
+        "Friday": [
+            1000,
+            1400
+        ],
+        "Saturday": [
+            1000,
+            1400
+        ],
+        "Sunday": [
+            1000,
+            1400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ensalada de Estacion": 900,
+                "Croquetas del Dia": 1200,
+                "Tostones Rellenos": 1200,
+                "Coctel de Camarones": 2250,
+                "Surtido Reliquia": 3000,
+                "Eperlan de Pescado": 1800,
+                "Fajita de Pollo": 1800
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo Grille": 3000,
+                
+                
+               
+                "Arroz con Pollo": 3000
+                
+                
+                
+            },
+            "Pork": {
+                "Cerdo(Ropa Vieja)": 3300
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {
+                "Bolonhesa": 2400,
+                "Pesto": 2100,
+                "Vegetales": 2100,
+                "Con Camaron": 4500,
+                "Con Pollo": 2700
+            },
+            "Seafood": {
+                "Camaron al Gusto": 4500,
+                "Salpicon de Marizcos": 6000
+            },
+            "Fishes": {
+                "Pescado Grille": 3000
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {
+                "Arroz Blanco": 600,
+                "Frijoles Dormidos": 900
+            },
+            "Other": {
+                "Menu #1(Cesta Variada,Lonjas de Cerdo,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": 7500,
+                "Menu #2(Cesta Variada,Pollo Grille,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postre de la Abuela)": 7500,
+                "Menu #3(Cesta Variada,Filete de Pescado Grille,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": 7500,
+                "Menu #4(Cesta Variada,Langosta al Gusto,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": 9000,
+                "Menu #5(Sandwich,1 Liquido,Postre de la Abuela)": 4800,
+                "Menu #6(Pasta al Gusto,1 Liquido,Postre de la Abuela)": 5400,
+                "Menu #7(Pasta Frutti de Mare,1 Liquido,Postre de la Abuela)": 7500
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {
+                "Bombay": 2850,
+                "Hendrick's": 3000,
+                "Tanqueray": 1650,
+                "Tanqueray n.10": 1950,
+                "Beefeater": 1350,
+                "Beefeater 24": 1650,
+                "Gin Master": 1500,
+                "Gordon": 1200,
+                "MC Rose": 1500,
+                "MC": 1350,
+                "Ciroc Blue": 2250,
+                "Ciroc Manzana": 2250,
+                "Ciroc Pinha": 2250,
+                "Ciroc Vainilla": 2250,
+                "Ciroc Coco": 2250,
+                "Circoc Pera": 2250,
+                "Grey Goose": 2850,
+                "Absolut Vodka": 1050,
+                "Absolut Vodka Mandarina": 1500,
+                "Stolichnaya": 1050,
+                "Jose Cuerva Especial": 2250,
+                "Olmeca": 1350,
+                "Patron Silver": 2250,
+                "Patron Anhejo": 2550,
+                "Don Julio Blanco": 2250,
+                "Don Julio Reposado": 2550,
+                "Don Julio Anhejo": 2850,
+                "1800 Reposado": 2550,
+                "Herradura Blanco": 2250,
+                "Herradura Reposado": 2550,
+                "Arraigo Blanco": 1200,
+                "Arraigo Reposado": 1350,
+                "Sambuca": 1350,
+                "Jagger": 1650,
+                "Frangelico": 1350,
+                "Bailey's": 1350,
+                "Amaretto": 1500,
+                "Malibu": 1350,
+                "Runchata": 1350,
+                "Clan Campbell": 1050,
+                "Ballantines": 1200,
+                "Chivas 12": 2250,
+                "Johnnie Walker Red": 1350,
+                "Johnnie Walker Black": 2250,
+                "Johnnie Walker Doble Black": 25500,
+                "Johnnie Walker Gold Label": 3150,
+                "Johnnie Walker Green Label": 4650,
+                "Jack Daniel's": 2250,
+                "Glenivel": 2250,
+                "Glenfiddich": 2250,
+                "Jack Daniel's Haney": 2400,
+                "Buchanan 12 Anhos": 2550,
+                "Swing": 3150,
+                "Dimple": 2250,
+                "Old Parr": 2250,
+                "7 & 7": 1050,
+                "Havana Club Especial": 1050,
+                "Havana Cluc 7 Anhos": 1200,
+                "Seleccion de Maestros": 2250,
+                "Ron Santiago Anhejo": 1200,
+                "Ron Santiago 11 Anhos": 2250,
+                "Ron Santiago 12 Anhos": 2400,
+                "Mojito": 1200,
+                "Daiquiri": 1200,
+                "Daiquiri de Frutas": 1350,
+                "Canchanchara": 1350,
+                "Cuba Libre": 1200,
+                "Cubata": 1350,
+                "Ron Collins": 1200,
+                "Chelada": 1350,
+                "Caipiroska": 1350,
+                "Caipirinha": 1350,
+                "Caipirissima": 1350,
+                "Manhattan": 1650,
+                "Pinha Colada": 1650,
+                "Alexander": 2100,
+                "Screwdriver": 1200,
+                "Gin Tonic": 1650,
+                "Vodka Tonic": 1650,
+                "Margarita": 1500,
+                "Long Island Ice Tea": 2100,
+                "Tinto de Verdano": 1500,
+                "Negroni": 2400,
+                "Campari Orange": 2100,
+                "Martini Seco": 1800,
+                "Martino Dulce": 1800,
+                "Bade Habana": 2100,
+                "Orgasmo": 2250,
+                "Pingoleta Raspada": 1500,
+                "Pingoleta Peluda": 1500
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

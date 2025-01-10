@@ -1,0 +1,242 @@
+{
+    "Name": "Tonyzz Bar",
+    "Specialty": [
+        "italiana",
+        "americana",
+        "india",
+        "caribenha",
+        "asiatica",
+        "cubana",
+        "ceilanesa"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Tonyzz Bar",
+        "Instagram": false,
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Desayuno americano": 2200
+            },
+            "Appetizers": {
+                "Croquetas": 490,
+                "Fajitas de pollo": 1090,
+                "Entremes de jamon y queso": 990,
+                "Empanadas espanholas (atun/pollo/queso)": 640,
+                "Papas bravas espanholas": 690,
+                "Tacos (pollo o atun)": 1280,
+                "Papas fritas": 690,
+                "Picadera familiar": 2690
+            },
+            "Bread": {
+                "Sandwich c/ jamon": 600,
+                "Sandwich c/ queso": 600,
+                "Sandwich c/ jamon y queso": 890,
+                "Sandwich c/ huevo (frito o tortilla)": 600,
+                "Sandwich c/ atun y mayonesa": 1300,
+                "Sandwich tonyzzz": 1290
+            },
+            "Chicken": {
+                "Pollo asado": 1790,
+                "Fricase de pollo": 1790,
+                "Chicken tikka": 1290,
+                "Traditional chicken curry": 1890,
+                "Chicken tikka masala": 1990,
+                "Chicken madras": 1990,
+                "Butter chicken": 1490   
+            },
+            "Pork": {
+                "Escalope de cerdo": 1790,
+                "Bistec de cerdo": 1690
+            },
+            "Beef": {
+                "Bistec uruguayo": 1990,
+                "Pollo frito": 1690,
+                "Ropa vieja": 1990
+            },
+            "Pizza": {
+                "Pizza napolitana": 850,
+                "Pizza margarita": 990,
+                "Pizza de jamon": 1290,
+                "Pizza de champinhones": 1290,
+                "Pizza hawaiana": 1390,
+                "Pizza de atun y cebolla": 1990,
+                "Pizza de atun": 1890,
+                "Pizza 4 estaciones": 1590,
+                "Pizza de jamon y champinhones": 1490,
+                "Pizza de chorizo": 1350
+            },
+            "Pasta": {
+                "Pasta napolitana": 850,
+                "Pasta arrabbiata": 890,
+                "Pasta de jamon": 1290,
+                "Pasta carbonara": 1800,
+                "Pasta al pesto": 990,
+                "Pasta de champinhon": 1290,
+                "Pasta bolonesa": 1890,
+                "Pasta de atun": 1890,
+                "Lasanha": 1990
+            },
+            "Seafood": {
+                "Camaron enchilado": 1990,
+                "Camaron al ajillo": 1900,
+                "Cangrejo enchilado": 1990
+            },
+            "Fishes": {
+                "Pescado grille": 1800,
+                "Pescado a la cubana": 1890,
+                "Devilled fish": 1390
+            },
+            "Desserts": {
+                "Helado (diferentes sabores)": 130
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Authentic srilankan lamb curry": 1990,
+                "Authentic srilankan fish curry": 1990,
+                "Rawan curry": 2190,
+                "Crab curry": 2190,
+                "Yellow masoor dal lentil": 990,
+                "Aloo potato": 990,
+                "Pumpkin": 590,
+                "Sappati rotti": 450,
+                "Veggies combo (egg & rice, salad, popodorn)": 1790,
+                "Veg samosa (2 pcs)": 690,
+                "Lankan meat roll (2 pcs)": 990
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural 500ml": 180,
+                "Agua natural 1500ml": 300,
+                "Malta": 300,
+                "Refrescos lata": 300,
+                "Refresco pomo": 300,
+                "Refresco pomo 1500ml": 300,
+                "Tigon": 300,
+                "Red bull": null,
+                "Jugos naturales": 250
+            },
+            "Alcoholic": {
+                "Cerveza nacional": 300,
+                "Cerveza colonia": 220,
+                "Mojito": 890,
+                "Cuba libre": 790,
+                "Daiquiri": 790,
+                "Cubata": 790,
+                "Canchanchara": 1190,
+                "Caipirinha": 1190,
+                "Caipirisima": 1190,
+                "Caipiroska": 1190,
+                "Chelada": 490,
+                "Michelada": 850,
+                "Pinha colada": 1190,
+                "Vodka tonic": 990,
+                "Sangria": 990,
+                "Gin tonic": 1190,
+                "Gin tonic (beefeter o bombay)": 1390,
+                "Jack daniel's": 1400,
+                "Chivas regal 12 anhos": 1200,
+                "J.w. double black": 1800,
+                "J.w. black label": 990,
+                "J.w. red label": 990,
+                "Ballantines": 990,
+                "Clamb campbell": 890,
+                "Jameson": 790,
+                "Old partner": 350,
+                "Copa de vino tinto": 700,
+                "Copa de vino blanco": 650,
+                "Paco navio": 900,
+                "Santiago de cuba 12 anhos": 1200,
+                "Santiago de cuba 8 anhos": 790,
+                "Black tears": 400,
+                "Ritual": 600,
+                "Habana club 7 anhos": 790,
+                "Habana club anhejo reserva": 590,
+                "Habana club especial": 500,
+                "Habana club 3 anhos": 490,
+                "Aguardiente": 350,
+                "Olmeca blanco": 600,
+                "Olmeca reposado": 640,
+                "Jose cuervo": 740
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe expreso": 290,
+                "Cafe cortado": 300,
+                "Cafe con leche": 490,
+                "Cappuccino": 490,
+                "Cafe americano": 350
+            }
+        }
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "Name": "Fellini",
+    "Specialty": [
+        "cubana",
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Fellini Bar",
+        "Instagram": "@fellini.bar",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2100
+        ],
+        "Tuesday": [
+            1000,
+            2100
+        ],
+        "Wednesday": [
+            1000,
+            2100
+        ],
+        "Thursday": [
+            1000,
+            2100
+        ],
+        "Friday": [
+            1000,
+            2100
+        ],
+        "Saturday": [
+            1000,
+            2100
+        ],
+        "Sunday": [
+            1000,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Croquetas de pollo": 550,
+                "Tostones naturales": 380,
+                "Tostones rellenos": 600,
+                "Frituras de malanga": 400,
+                "Caldoza": 780,
+                "Papas fritas": 700,
+                "Brochetas de cerdo": 1500
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pechuga do polo srete": 1409,
+                "Pechuga de pollo cre": 2100
+            },
+            "Pork": {
+                "Bistec de cerdo inc": 1750,
+                "Masas de cerdo frita": 2100,
+                "Costillas de cerdo": 2100,
+                "Bistec de cerdo clasico encebollado": 2100
+            },
+            "Beef": {
+                "Ropa vieja": 3300
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Dulce de coco": 250,
+                "Arroz con leche": 500,
+                "Casquito de guayaba": 380,
+                "Fruta bomba en almibar": 380
+            },
+            "Additions": {},
+            "Sides": {
+                "Arroz blanco": 180,
+                "Moros y cristianos": 250,
+                "Arroz congris": 250,
+                "Yuca con mojo": 230,
+                "Yuca con chicharrones": 230
+            },
+            "Other": {
+                "Cordero al vino": 3300
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural": 250,
+                "Aguas gaseada": 300,
+                "Tanica": 350,
+                "Red bull": 500,
+                "Energizante": 320,
+                "Refresco cola": 300,
+                "Pepsi": 350,
+                "Coca cola": 350,
+                "Refresco limon": 300,
+                "Sprite": 350,
+                "Fanta": 350,
+                "Jugos natural": 250
+            },
+            "Alcoholic": {
+                "Clan camphl": 500,
+                "Ballentines finest": 550,
+                "Ballentines 12 anos": 700,
+                "Jameson": 600,
+                "Red label": 500,
+                "Black label": 650,
+                "Chiva 12 anos": 800,
+                "Chiva 15 anos": 1300,
+                "Chiva 18 anos": 1700,
+                "Vodka": 300,
+                "Absolut": 650,
+                "Cerveza cristal botella": 350,
+                "Cerveza cristal dispensada": 350,
+                "Cerveza bucanero": 350,
+                "Cerveza cristal extra": 350,
+                "Gin beefeater": 400,
+                "Gin mg": 350,
+                "Vino copa": 500,
+                "Sangre de toro": 5000,
+                "Corona crianza": 5000,
+                "Santa digna": 5000,
+                "Loco de piedra": 5000,
+                "Crema rua vieja": null,
+                "Crema rua vieja arroz": null,
+                "Crema rua vieja chocolate": null,
+                "Crema airisbel": null,
+                "Baileys": null,
+                "Cuba libre": 450,
+                "Cubata": 500,
+                "Mojito": 450,
+                "Dalquiri": null,
+                "Caipirina": 450,
+                "Caipirisima": 450,
+                "Caipiroska": 450,
+                "Gin tonic mg": 750,
+                "Sangria": 600,
+                "Tinto verano": 600,
+                "Pina colada": 650,
+                "Cubanito": 600,
+                "Chelada": null,
+                "Michelada": 200,
+                "Havana club 3 anos": 300,
+                "Havana club anejo especial": 350,
+                "Havana club anejo reserva": 350,
+                "Havana club 7 anos": 400,
+                "Havana club profundo": 350,
+                "Havana club smoky": 450,
+                "Havana club seleccion maestro": 800,
+                "Havana club pacto navio": 800,
+                "Havana club 15 anos": 1000,
+                "Black tears aguardiente": 300,
+                "Black tears super dry": 300,
+                "Black tears roble superior": 300,
+                "Black tears dry spiced": 300,
+                "Santiago 8 anos": 600,
+                "Santiago 11 anos": 800,
+                "Santiago 12 anos": 850,
+                "Tequila olmeca blanco": 600,
+                "Tequila olmeca reposado": 650,
+                "Jequila aito b": 800,
+                "Tequila altor": 100
+            },
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

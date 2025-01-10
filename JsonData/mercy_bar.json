@@ -1,0 +1,269 @@
+{
+    "Name": "Mercy bar",
+    "Specialty": [
+        "italiana",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "linktr.ee/mercybarcafe",
+        "Facebook": "MERCY bar-caf\u00e9",
+        "Instagram": "@mercybarcafe",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Pan baguette": 250,
+                "Croquetas del dia (8u)": 800,
+                "Ensalada de vegetales": 500,
+                "Mariquitas de pollo": 1200,
+                "Bolitas de queso (8u)": 950,
+                "Yuca rellena": 1500,
+                "Tacos del dia (3u)": 1500,
+                "Pollo picaro": 1600,
+                "Tabla de embutidos": 1900,
+                "Tacos mercy": 2100,
+                "Tabla de queso": 2600,
+                "Eperlan": 2600,
+                "Ceviche": 2500,
+                "Pescadilla": 2800,
+                "Entrepan con atun": 1200,
+                "Entrepan cubano": 1400,
+                "Entrepan serrano": 2200
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo asado": 1700  
+            },
+            "Pork": {
+                "Fajitas de cerdo": 1800,
+                "Masas de cerdo": 1800,
+                "Lomo ahumado": 2100,
+                "Gordon blue de cerdo": 3200
+            },
+            "Beef": {
+                "Ropa vieja de res": 2600,
+                "Brochetas al hornillo": 2900
+            },
+            "Pizza": {
+                "Pizza napolitana": 1300,
+                "Pizza de jamon": 1500,
+                "Pizza de chorizo": 150,
+                "Pizza hawaiana": 1500,
+                "Pizza de vegetales": 1500,
+                "Pizza de aceitunas": 1500,
+                "Pizza de atun": 1600,
+                "Pizza familiar": 2200,
+                "Pizza mercy": 3000,
+                "Pizza serrano": 3200
+            },
+            "Pasta": {
+                "Canelon de pollo": 1400,
+                "Lasagna de jamon": 1600,
+                "Pasta mercy": 2800
+            },
+            "Seafood": {
+                "Mariscos al gusto": 3500
+            },
+            "Fishes": {
+                "Pescado frito entero": 3300,
+                "Filete de pescado": 2600
+            },
+            "Desserts": {
+                "Tarta nata": 600,
+                "Bola jimagua": 750,
+                "Dulce de tres leche": 900
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Menu ejecutivo (entrante, plato fuerte, jugo/vaso cerveza, cafe)": 3500,
+                "Parrillada criolla": 4700,
+                "Parrillada marinera": 7300,
+                "Parrillada mixta": 8700,
+                "Risotto": 2900,
+                "Estofado de cordero": 3000,
+                "Rabo encendido": 3000,
+                "Arroz frito": 1350,
+                "Garbanzo frito": 1400,
+                "Mixto mercy": 3450
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural": 280,
+                "Agua gaseada": 300,
+                "Agua gaseada importada": 750,
+                "Agua t\u00f3nica importada": 590,
+                "Refresco lata": 400,
+                "Redbull": 650,
+                "Malta": 450,
+                "Malteada": 600,
+                "Jugos naturales": 250,
+                "Limonada frappe": 400
+            },
+            "Alcoholic": {
+                "Long island": 700,
+                "Screwdriver": 750,
+                "Mojito": 750,
+                "Daiquiri": 750,
+                "Gin tonic": 750,
+                "Vodka tonic": 975,
+                "Pi\u00f1a colada": 750,
+                "Caipirisima": 750,
+                "Caipiroska": 750,
+                "Blody mary": 750,
+                "Mary pickfor": 750,
+                "Tequila sunrise": 900,
+                "Cuba libre": 750,
+                "Shot jager meister": 750,
+                "Daiquiri sabor": 1000,
+                "Margarita": 850,
+                "Margarita sabor": 1000,
+                "Canchanchara con santiago 8 a\u00f1os": 850,
+                "Sanria": 850,
+                "Tinto de verano": 850,
+                "Sangira blanca": 850,
+                "Martini": 900,
+                "Campari orange": 900,
+                "Cubanito": 1000,
+                "Aperol sprite": 1300,
+                "Beer beer": 1200,
+                "Jager bomb": 1200,
+                "Ciroc": 780,
+                "Rones santiago blanco": 600,
+                "Santiago a\u00f1ejo 8 a\u00f1os": 650,
+                "Santiago a\u00f1ejo 11 a\u00f1os": 1000,
+                "Santiago a\u00f1ejo 12 a\u00f1os": 1200,
+                "Black and white": 500,
+                "Johnnie walker red label": 700,
+                "Johnnie walker black label": 1000,
+                "J&b": 650,
+                "Buchanan \u201cs master": 1000,
+                "Buchanan \u201cs master 18 a\u00f1os": 45000,
+                "Jw double black": 45000,
+                "Jw gold reserve": 65000,
+                "Jw gold 18 a\u00f1os": 90000,
+                "Le tribute": 750,
+                "Tanqueray": 800,
+                "Licor 43": 450,
+                "Baileys": 690,
+                "Sambuca": 690,
+                "Licor frangelico": 850,
+                "Tequila del a casa": 450,
+                "Cubetazo": 1800,
+                "Vaso 240 ml": 250,
+                "Jarra 500ml": 450,
+                "Servicio chelar o michelar": 200,
+                "Cerveza lata": 380,
+                "Cerveza cristal": 500,
+                "Cerveza stella artois": 600,
+                "Vino blanco por copa": 850,
+                "Vi\u00f1a esmeralda": 4400,
+                "Sangre de toro blanco": 4000,
+                "Celeste verdejo": 4200,
+                "Vi\u00f1a sol original": 4200,
+                "Sangre de toro chardonnay selection": 5500,
+                "Grahams fine white port": 8800,
+                "Waltraud": 9700,
+                "Vino tinto o rose por copa": 850,
+                "Santa digna gran reserva": 4000,
+                "Sangre de toro rioja": 4400,
+                "Altos ib\u00e9ricos crianza": 4600,
+                "Torres corona crianza": 4600,
+                "Celeste roble": 5000,
+                "Jean le\u00f3n 3055 merlot": 6700,
+                "Gran corona reserva": 6900,
+                "Altos ib\u00e9ricos reserva": 7900,
+                "Grahams fine tawny port": 8750,
+                "Celeste crianza": 9300,
+                "Purgatori": 9900,
+                "Secret del priorat": 1100,
+                "Zuccardi o malbec": 1100,
+                "Mas la plana": 38400,
+                "Sangre de toro rose": 6800,
+                "Jean le\u00f3n 3055": 6800,
+                "Santa digna": 4000,
+                "Juve & camps gran reserva": 28000,
+                "Vi\u00f1a esmeralda sparkling": 5500
+            },
+            "Cocktails": {},
+            "Other": {
+                "Te frio o caliente": 200,
+                "Expresso": 400,
+                "Cortado": 500,
+                "Americano": 400,
+                "Capuchino": 700,
+                "Frapuchino": 700,
+                "Carajillo": 700
+            }
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "Name": "El Bleko",
+    "Specialty": [
+        "caribenha",
+        "italiana",
+        "criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "El Bleko",
+        "Instagram": "@blecohavana",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1300,
+            200
+        ],
+        "Tuesday": [
+            1300,
+            200
+        ],
+        "Wednesday": [
+            1300,
+            200
+        ],
+        "Thursday": [
+            1300,
+            200
+        ],
+        "Friday": [
+            1300,
+            200
+        ],
+        "Saturday": [
+            1300,
+            200
+        ],
+        "Sunday": [
+            1300,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Frituras de malanga": 750,
+                "Croquetas mixtas": 1050,
+                "Palitos de queso": 1100,
+                "Tacos de cerdo": 1550,
+                "Tacos de cerdo ahumado": 1750,
+                "Tacos de pollo": 1450,
+                "Nachos de salsa de queso": 900,
+                "Nachos con pollo a la barbacoa": 1450,
+                "Alitas de pollo a la barbacoa": 1350,
+                "Crostini mixto": 950,
+                "Torrejas saladas con cerdo ahumado": 1050,
+                "Quesadillas de jamon pierna": 1650
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo frito": 1500,
+                "Fajita de pechuga de pollo": 2500
+            },
+            "Pork": {
+                "Bistec a la plancha": 2000
+            },
+            "Beef": {},
+            "Pizza": {
+                "Pizza de queso": 1250,
+                "Pizza de jamon": 1450,
+                "Pizza de chorizo": 1450
+            },
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua natural": 250,
+                "Santa cola": 350,
+                "Santa limon": 350,
+                "Santa naranja": 350,
+                "Energizante": 500
+            },
+            "Alcoholic": {
+                "Caipirisima": 650,
+                "Canchanchara": 650,
+                "Caipiroska": 650,
+                "Caipirinha": 650,
+                "Mojito": 650,
+                "Cuba libre": 650,
+                "Sangria": 650,
+                "Margarita": 600,
+                "Pinha colada": 650,
+                "Old fashion": 750,
+                "Laguna azul": 650,
+                "Tr reserva": 300,
+                "Tr barcelo dorado": 400,
+                "Tr barcelo anhejo": 450,
+                "Tr ritual": 300,
+                "Tr anhejo especial": 300,
+                "Tr vat 69": 500,
+                "Tr black white": 600,
+                "Tr jw black": 1500,
+                "Tr jw red": 1100,
+                "Tr ballantines": 1000,
+                "Tr doble black": 1800,
+                "Gin master": 650,
+                "Gin master pink": 650,
+                "Gin tanqueray": 650,
+                "Gin beefarer": 550,
+                "Gin johpur reserva": 900,
+                "Vodka tonic": 500,
+                "Tr ciroc": 1000,
+                "Tr ciroc coco": 1000,
+                "Tr finlandia": 600,
+                "Czech driver": 750,
+                "Tequila de la casa": 400,
+                "Licores: bailey's": 800,
+                "Licores: jagermeister": 450,
+                "Licores: jaeger": 800,
+                "Copa de vino": 500,
+                "Cristal lata": 350,
+                "Bucanero lata": 350,
+                "Cristal botella": 500,
+                "Bucanero botella": 500,
+                "Hollandia": 300,
+                "Unlaguer": 330
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe expreso": 250,
+                "Cafe capuccino": 400,
+                "Cafe cortadito": 300
+            }
+        }
+    }
+}

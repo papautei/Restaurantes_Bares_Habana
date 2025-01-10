@@ -1,0 +1,264 @@
+{
+    "Name": "La_Barca",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coords.": " 4MR2+2M8 La barca, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.1,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Cesta de Panes de la Casa": 300,
+                "Ensalada Fria de Pollo": 450,
+                "Ensaladilla de Atun": 500,
+                "Brosquettas": 800,
+                "Fritura de Malanga": 600,
+                "Croqueticas de la Casa": 750,
+                "Fajitas de Pechuga": 450,
+                "Surtido La Barca": 3500,
+                "Tostones Rellenos de Jamon y Queso": 450,
+                "Tostones Rellenos de Atun": 500,
+                "Tabla de Jamon Serrano": 2000
+            },
+            "Bread": {},
+            "Chicken": {
+                
+               
+                
+                "Pollo Asado": 1000
+                
+                
+            },
+            "Pork": {
+                "Brocheta de Solomillo y Bacon": 1500,
+                "Lonjas de Cerdo": 1800,
+                "Solomillo de Cerdo": 2500,
+                "Masas de Cerdo Cubanas": 2000
+            },
+            "Beef": {
+                "Entrecot de Res": 2000,
+                "Filete Minhon": 2500,
+                "Filete Chateaubriand": 3500,
+                "Timbal de Ropa Vieja": 1500
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Espaguetis Bolognesa": 1000,
+                "Espaguetis Napoles": 600,
+                "Espaguetis Carbonara": 1200
+            },
+            "Seafood": {},
+            "Fishes": {
+                "Filete de Pescado Grille": 2000
+            },
+            "Desserts": {
+                "Copa de Helado": 500,
+                "Arroz con Leche de la Abuela": 600,
+                "Flan Caramelizado": 600
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Brocheta Campesina": 1500
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Cerveza Nacional": 200,
+                "Cerveza Importada": 250,
+                "Refresco Nacional": 90,
+                "Refresco Importado": 100,
+                "Malta Importada": 170,
+                "Jugo Importado": 100,
+                "Jugo Natural": 200,
+                "Agua Natural": 150,
+                "Copa de Vino de la Casa": 450
+            },
+            "Alcoholic": {
+                "Te Frio/Caliente": 120,
+                "Brandy Gran Reserva Carlos": 600,
+                "Brandies Torres 5 Anhos": 350,
+                "Brandies Torres 10 Anhos": 400,
+                "Brandies Torres 15 Anhos": 600,
+                "Anis Marie Brizard": 150,
+                "Anis Chinchon Dulce": 150,
+                "Anis Seco Chinchon": 150,
+                "Crema Bailey's": 250,
+                "Crema Amarula 17%": 200,
+                "Crema Ruavieja": 350,
+                "Crema Barcelo Destileria Mg": 250,
+                "Crema Catalana Sentric": 20,
+                "Licor Jarabe Kiwi Trial": 250,
+                "Licor Anis Mono Dulce": 250,
+                "Licor Anis Mono Seco": 500,
+                "Licor de Menta Mints Marie Brizard": 180,
+                "Licor de Litchi Litchao Marie Brizard": 150,
+                "Licor Sheridans": 250,
+                "Licor Tia Maria Coffee": 250,
+                "Licor Campari": 250,
+                "Licor Luxardo Marraschino Originale": 250,
+                "Licor Disaronno Amaretto": 250,
+                "Licor Sambuca Molinari": 250,
+                "Licor Aperol": 250,
+                "Licor Frangelico": 250,
+                "Licor Fernet Branca": 200,
+                "Licor Limoncello Golmar": 250,
+                "Licor Limoncello": 150,
+                "Licor Zoco Pacharan": 150,
+                "Licor Triple Sec Sorel": 150,
+                "Licor de Cafe": 150,
+                "Licor de Manzana": 150,
+                "Ginebra Citadelle": 250,
+                "Ginebra Gordon": 150,
+                "Ginegra Tanqueray": 200,
+                "Ginebra Hendrick": 300,
+                "Ginebra Gin MG Master": 200,
+                "Ginebra Gin Mare": 350,
+                "Ginebra Tonic": 150,
+                "Vodka Belvedere": 300,
+                "Vodka Ciroc(Destileria MG)": 400,
+                "Vodka Wiborowa": 600,
+                "Vodka Ciroc Melocoton": 400,
+                "Vodka Ciroc Cereza": 400,
+                "Vodka Ciroc Manzana": 400,
+                "Vodka Youri Dolgorouki": 400,
+                "Vodka Sobieski": 150,
+                "Vodka Starotorunska": 250,
+                "Vodka Finlandia Classic": 250,
+                "Vodka Nord": 200,
+                "Vodka Ciroc": 400,
+                "Tequila Blanco Don Julio MG": 250,
+                "Tequila El Jimador Blanco MG": 200,
+                "Tequila Olmeca Blanco": 180,
+                "Tequila Olmeca Reposado": 200,
+                "Tequila Herradura Blanco": 130,
+                "Tequila Don Julio Reposado": 150,
+                "Tequila Don Julio 70 Aniversario": 150,
+                "Tequila el Jimador Reposado": 300,
+                "Vermouth Yzaguirre Rosado": 400,
+                "Vermouth Rosso Totino": 150,
+                "Vermouth Blanco Cinsano": 180,
+                "Vermouth Ross Cinsano": 180,
+                "Vermouth Dry Cinsano": 180,
+                "Vermouth de Jerez La Copa": 250,
+                "Vermouth Yzaguirre Blanco": 150,
+                "Vermouth Yzaguirre Tinto": 150,
+                "Ron Havana Club Anhejo Blanco": 190,
+                "Ron Havana Club Pacto Navio": 175,
+                "Ron Havana Cuban Spice": 235,
+                "Ron Havana Club Edicicion Prof A": 200,
+                "Ron Havana Club Edicicion Prof C": 135,
+                "Ron Havana Club Union": 3500,
+                "Ron Havana Club Smoki": 280,
+                "Ron Isla del Tesoro": 3000,
+                "Ron Havana Club Anhejo Reserva": 220,
+                "Ron Havana Club Profundo": 200,
+                "Ron Havana Club Ritual": 180,
+                "Ron Havana Club Anhejo 3 Anhos": 150,
+                "Ron Havana Club Anhejo 7 Anhos": 260,
+                "Ron Havana Club Anhejo Especial Oro": 150,
+                "Ron Havana Club Gran Reserva 15 Anhos": 900,
+                "Ron Havana Club Seleccion de Maestro": 395,
+                "Ron Havana Club Tributo": 2500,
+                "Ron Varadero 3 Anhos": 120,
+                "Ron Varadero 5 Anhos": 130,
+                "Ron Varadero 7 Anhos": 180,
+                "Ron Santero 15 Anhos": 500,
+                "Ron Vigia Tears Dorado": 180,
+                "Ron Vigia Black Tears Super Dry": 180,
+                "Ron Vigia Black Tears Aguardiente": 200,
+                "Legendario Anhejo Blanco": 250,
+                "Legendario Rouse": 220
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {
+                "Espresso": "95",
+                "Capuchino": "140",
+                "Cortadito": "100",
+                "Bombon": "120",
+                "Americano": "95",
+                "Canelado": "100",
+                "Rocio de Gallo": "130",
+                "Irlandes": "190",
+                "Mama Ines": "150",
+                "Al Licor": "100",
+                "Mazagran": "160",
+                "Carajillo": "150",
+                "Con Vodka": "200",
+                "Mexicano": "150",
+                "Cohiba Habanero": "125"
+            }
+        }
+    }
+}

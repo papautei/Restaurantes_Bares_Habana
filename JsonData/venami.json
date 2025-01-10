@@ -1,0 +1,168 @@
+{
+    "Name": "Venami",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "4JPV+845, Av. Belgica, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1130,
+            2200
+        ],
+        "Tuesday": [
+            1130,
+            2200
+        ],
+        "Wednesday": [
+            1130,
+            2200
+        ],
+        "Thursday": [
+            1130,
+            2200
+        ],
+        "Friday": [
+            1130,
+            2200
+        ],
+        "Saturday": [
+            1130,
+            2200
+        ],
+        "Sunday": [
+            1130,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.7,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Focaccia a las Hierbas": 300,
+                "Brusquetas": 350,
+                "Melanzane Bolonhesa": 450,
+                "Melanzane Vegetales": 400,
+                "Ensalada Capresi": 650,
+                "Ensalada Vegetales": 650,
+                "Focaccia Rellena": 1350,
+                "Estrofollino Vegetal": 850,
+                "Estrofollino Jamon": 900,
+                "Estrofollino Natural": 650,
+                "Focaccia c/ Jamon Serrano": 1100,
+                "Crema de Queso": 600,
+                "Crema Virginia": 630,
+                "Crema Champignon": 650,
+                "Al Fungi": 1100,
+                "Al Fruto de Mar": 1350,
+                "Al Venami": 1050
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo al Limon": 1210,
+                "Pollo a la Piazzola": 1250
+                
+                
+            },
+            "Pork": {
+                "Cerdo al Limon": 1300
+            },
+            "Beef": {},
+            "Pizza": {
+                "Pizza Venami": 1600,
+                "Pizza Deliciosa": 1300,
+                "Pizza Jamon Serrano": 1500,
+                "Pizza Jamon y Cebolla": 1150,
+                "Pizza Hawaiana": 1150,
+                "Pizza 4 Estaciones": 1250,
+                "Pizza Atun y Alcaparras": 1050,
+                "Pizza Fruto de Mar": 1450,
+                "Pizza Margarita": 700,
+                "Calzone Bolonhesa": 1100,
+                "Pizza Diabola": 1100,
+                "Pizza Bacon y Cebolla": 1100,
+                "Pizza Champignon": 1000,
+                "Pizza 4 Quesos": 1200,
+                "Pizza Habanera": 1350,
+                "Pizza Caribenha": 1500,
+                "Pizza de Pollo": 1100,
+                "Pizza Vegetariana": 910
+            },
+            "Pasta": {
+                "Lazanha": 1200,
+                "Fetuccine Bolonhesa": 1050,
+                "Cenelones": 1050,
+                "Penne Champignon/Serrano": 1380,
+                "Spaghetty Amatriciana": 1100,
+                "Spaghetty Alfredo(Jamon)": 1050,
+                "Spaghetty A la Carbonara": 1200,
+                "Penne Arrabiatta": 950,
+                "Penne a la Bolonhesa": 1050,
+                "Spaghetty de Atun/Alcaparras": 1000,
+                "Spaghetty Pomodoro Basilico": 800,
+                "Spaghetty Fruto de Mar": 1450,
+                "Spaghetty al Pesto": 950,
+                "Spaghetty al Venami": 1250,
+                "Spaghetty Ajo/Peperonchino": 850,
+                "Spaghetty al Camaron": 1250,
+                "Timbal de Pollo": 1200,
+                "Timbal de Bolonhesa": 1100
+            },
+            "Seafood": {},
+            "Fishes": {
+                "Pescado Livonnesa": 1310,
+                "Pescado al Camaron": 1400
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}

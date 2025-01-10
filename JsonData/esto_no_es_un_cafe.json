@@ -1,0 +1,175 @@
+{
+    "Name": "Esto_no_es_un_cafe",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null,
+        "Coords.": "58A Callejon del Chorro, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1200
+        ],
+        "Tuesday": [
+            800,
+            1200
+        ],
+        "Wednesday": [
+            800,
+            1200
+        ],
+        "Thursday": [
+            800,
+            1200
+        ],
+        "Friday": [
+            800,
+            1200
+        ],
+        "Saturday": [
+            800,
+            1200
+        ],
+        "Sunday": [
+            800,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Huevos Fritos": 450,
+                "Tortilla Natural": 450
+            },
+            "Appetizers": {
+                "Croquetas de la Casa": 1050,
+                "Tostones Rellenos": 1050,
+                "Ratatouille": 1200,
+                "Cuarteto de Camarones": 2100,
+                "Pimientos Rellenos con Farsa de Atun": 1350,
+                "Bruschettas de Berenjena, Tomate y mozzarella": 1200,
+                "Tempura de Vegetales": 1350,
+                "De Vegetales Tiernos y Queso Fresco": 1050,
+                "De vegetales con Pollo": 1350,
+                "De Vegetales y Atun": 1440
+            },
+            "Bread": {},
+            "Chicken": {
+                "La Fuentede Duchamp": 2400,
+                "Pollo Pollock": 2550,
+                "Tercer Mundo de Lam": 3150
+                
+                
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {
+                "El Pez de Christo": 3300,
+                "Azul Klein": 3900
+            },
+            "Desserts": {
+                "Postre de la Casa": 1200,
+                "Brownie": 1500,
+                "Copa de Helado": 1350,
+                "Crepe de Frutas": 1200,
+                "Crepe de Chocolate": 1050,
+                "Crepe de Limon": 600,
+                "Crepe Franz": 1350
+            },
+            "Additions": {
+                "Queso Gouda": 540,
+                "Vegetales Salteados": 300,
+                "Aceitunas": 600,
+                "Bacon": 600,
+                "Jamon Serrano": 750,
+                "Pan y Mantequilla": 600
+            },
+            "Sides": {},
+            "Other": {
+                "La Cacerola de Broodthaers": 5400
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Jugo de Frutas": 450,
+                "Jugo Verde": 450,
+                "Jugo de Vegetales": 600,
+                "Jugos Mixtos": 750
+            },
+            "Alcoholic": {
+                "Havana Club Anhejo 7 Anhos": 1200,
+                "Havana Club Seleccion de Maestros": 2400,
+                "Ron Santiago de Cuba 11 Anhos": 1950
+            },
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {
+                "Cafe Espresso": "300",
+                "Doble Espresso": "600",
+                "Descafeinado": "480",
+                "Cafe Americano": "450",
+                "Cafe Cortado": "450",
+                "Capuchino": "600",
+                "Cafe con Leche": "600",
+                "Cafe con Hielo": "450",
+                "Cafe Americano con Leche": "750",
+                "Cafe Bombon": "900",
+                "Cafe Carajillo": "750",
+                "Cafe Brasilenho": "1050",
+                "Cafe Espanhol": "1050",
+                "Cafe Irlandes": "1050",
+                "Cafe Frances": "1050",
+                "Frapuchino": "1050",
+                "Chocolate Frio": "1050",
+                "Chocolate Caliente": "1050",
+                "Batido de Helado": "1200",
+                "Te Negro": "450",
+                "Te Rojo": "540",
+                "Te Verde": "540",
+                "Infusion de Hierba Buena o Albahaca": "300"
+            }
+        }
+    }
+}

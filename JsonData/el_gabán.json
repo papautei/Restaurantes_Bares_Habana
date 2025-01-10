@@ -1,0 +1,185 @@
+{
+    "Name": "El Gab\u00e1n",
+    "Specialty": [
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null,
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "linktr.ee/elgabanhabana",
+        "Facebook": "El Gab\u00e1n la 14 restaurante",
+        "Instagram": "@elgaban_oficial",
+        "Phones": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            30
+        ],
+        "Tuesday": [
+            1200,
+            30
+        ],
+        "Wednesday": [
+            1200,
+            30
+        ],
+        "Thursday": [
+            1200,
+            30
+        ],
+        "Friday": [
+            1200,
+            30
+        ],
+        "Saturday": [
+            1200,
+            30
+        ],
+        "Sunday": [
+            1200,
+            30
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": [],
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Crema de vegetales": 2400,
+                "Croquetones a la amatriciana": 3000,
+                "Croquetones de iberico": 3600,
+                "Tartar de res con maracuya": 4500,
+                "Tabla mixta": 5400,
+                "Carpaccio de res": 6000,
+                "Tartar de langosta": 6000
+            },
+            "Bread": {},
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {
+                "Mignon": 8400,
+                "Ribeye": 8400
+            },
+            "Pizza": {
+                "Pizza new york": 6000,
+                "Pizza de bolonia": 5400
+            },
+            "Pasta": {
+                "\u00d1oquis": 3600,
+                "Raviolis mariscos": 4500
+            },
+            "Seafood": {},
+            "Fishes": {
+                "Pesca blanca": 7500,
+                "Pesca azul": 7500
+            },
+            "Desserts": {
+                "Brownie blanco": 1800,
+                "Paulova": 1800,
+                "Arroz con leche": 1800,
+                "Postre con helado": 1800
+            },
+            "Additions": {},
+            "Sides": {
+                "Pure de malanga": 1800,
+                "Papas al horno": 1800,
+                "Vegetales salteados": 1800,
+                "Arroz pilaf": 2400
+            },
+            "Other": {
+                "Risotto rosa": 5400,
+                "Risotto al coco": 6000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Agua tonica": 1500,
+                "Agua san pellegrino": 1600,
+                "Agua natural": 1600,
+                "Agua panna": 1600,
+                "Agua con gas": 1600,
+                "Refresco": 1000,
+                "Malta": 1000,
+                "Energizante": 1500,
+                "Kermato": 1600,
+                "Limonada frappe/natural": 1600
+            },
+            "Alcoholic": {
+                "Cerveza de botella": 1600,
+                "Copa de vino (espumoso, tinto o blanco)": 1800,
+                "Grinch": 1600,
+                "Mohana": 1600,
+                "Mojito de frutas": 1600,
+                "Pi\u00f1a colada": 1600,
+                "Rossini": 2500,
+                "Negroni chocolate": 2500,
+                "Bellini": 2500,
+                "Garibaldi": 2500,
+                "Mi to": 2500,
+                "Negroni g": 2500,
+                "Aperol spritz": 2500,
+                "Spritz": 2500,
+                "Campari spritz": 2500,
+                "Daiquiri": 2000,
+                "Canchanchara": 2000,
+                "Mojito": 2000,
+                "Cubanito": 2000,
+                "Caipirisima": 2000,
+                "Margarita": 2500,
+                "Sangria": 2500,
+                "Caipiroska": 2500,
+                "Moscow mule": 2500,
+                "Fernet con cola": 2500,
+                "Vodka tonic": 2500,
+                "Caipirinha": 2500,
+                "Bloody mary": 2500,
+                "Amaretto sour": 2500,
+                "Old fashioned": 2500,
+                "New york whisky sour": 2500,
+                "Expresso martini": 1500
+            },
+            "Cocktails": {},
+            "Other": {
+                "Cafe": 800,
+                "Frapuccino": 1500,
+                "Carajillo": 1500,
+                "Te": 800,
+                "Infusiones": 800
+            }
+        }
+    }
+}

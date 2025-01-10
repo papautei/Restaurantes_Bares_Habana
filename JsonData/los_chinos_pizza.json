@@ -1,0 +1,201 @@
+{
+    "Name": "Los_Chinos_Pizza",
+    "Specialty": [
+        "italiana y criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null,
+        "Coords.": "5V96+PVV, La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.3,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": null,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Brusquetas": 600,
+                "Brusquetas con Queso": 750,
+                "Focaccia": 700,
+                "Focaccia con Salsa de Tomate": 750,
+                "Focaccia con Queso": 1000,
+                "Croquetas Caseras": 450,
+                "Tostones Rellenos de Jamon y Queso": 650,
+                "Tostones Rellenos de Atun": 700,
+                "Coctel de Camaron": 2600,
+                "Sopa de Vegetales": 500,
+                "Crema de Queso": 450,
+                "Crema Aurora": 480,
+                "Crema Virginia": 550,
+                "Lazanha Bolonhesa": 1900,
+                "Lazanha de Jamon": 1800
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                
+                "Bistec Relleno de Jamon y Queso": 2100,
+                
+                "Bistec de Pollo": 1600,
+                "Fajita de Pollo": 1600,
+                "Pollo Asado": 3000,
+                "Bistec de Pechuga Grille": 1700,
+                "Fajita de Pechuga": 1700,
+                "Pechuga Rellena de Jamon y Queso": 2100,
+                "Pollo a la Criolla": 2000
+                
+                
+            },
+            "Pork": {
+                "Bistec de Cerdo": 1900,
+                "Fajita de Cerdo": 1900,
+                "Masas Fritas": 2000,
+                "Ropa Vieja": 1900,
+                "Lomo Deshuesado": 1900,
+                "Chuleta": 2100
+            },
+            "Beef": {
+                "Ropa Vieja de Res": 3000
+                
+            },
+            "Pizza": {
+                "De Queso": 1150,
+                "De Jamon": 1600,
+                "Con Aceitunas:": 1500,
+                "Salame": 1500,
+                "Chorizo": 1600,
+                "Champinhon": 1700,
+                "3 Vegetales": 1700,
+                "3 Embutidos": 1700,
+                "Salame y Picante": 1700,
+                "Pepperoni": 1700,
+                "Hawaiana": 1700,
+                "Jamon y Champinhon": 1700,
+                "Atun": 1700,
+                "Camaron": 2200,
+                "Bacon": 1700,
+                "Los Chinos": 2200,
+                "Cebolla": 1600,
+                "Pimiento": 1600
+            },
+            "Pasta": {
+                "Pasta Arrabiata": 850,
+                "Pasta al Aglio Olio": 850,
+                "Pasta Bolognesa": 1700,
+                "Pasta Carbonara": 1200,
+                "Pasta Alfredo": 1200,
+                "Pasta al Pesto": 1200,
+                "Pasta Matriciana": 1200,
+                "Pasta con Camarones": 1700
+            },
+            "Seafood": {
+                "Camarones Grille": 2600,
+                "Camarones Enchilado": 2600,
+                "Camarones al Ajillo": 2600,
+                "Camarones Rebosado": 2700,
+                "Langosta Grille": 3000,
+                "Langosta al Ajillo": 3000,
+                "Langosta Enchilada": 3600,
+                "Langosta Marinera": 4000
+            },
+            "Fishes": {
+                "Eperlan": 2250,
+                "Filete Grille": 2100,
+                "Filete Empanado": 2250,
+                "Filete Monte Toro": 2500,
+                "Canciller": 2600,
+                "Jhon Bill": 3000
+            },
+            "Desserts": {},
+            "Additions": {
+                "Cebolla": 450,
+                "Jamon": 560,
+                "Salame": 550,
+                "Atun": 670,
+                "Bacon": 560,
+                "Salsa de Tomate": 450,
+                "Pinha": 450,
+                "Aceitunas": 450,
+                "Queso": 500,
+                "Chorizo": 550,
+                "Pimiento": 450,
+                "Tomate Natural": 450,
+                "Camaron": 1100,
+                "Champinhon": 670
+            },
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {},
+            "Coffee": {}
+        }
+    }
+}
