@@ -1,0 +1,191 @@
+{
+    "Name": "La Vitrola",
+    "Specialty": [
+        "Comida mixta"
+    ],
+    "Ownership": "Privada",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Plaza Vieja entre Muralla y San Ignacio",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            830,
+            1400
+        ],
+        "Tuesday": [
+            830,
+            1400
+        ],
+        "Wednesday": [
+            830,
+            1400
+        ],
+        "Thursday": [
+            830,
+            1400
+        ],
+        "Friday": [
+            830,
+            1400
+        ],
+        "Saturday": [
+            830,
+            1400
+        ],
+        "Sunday": [
+            830,
+            1400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": "4.0",
+        "Google": "4.1",
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Yuca with cheese": 440,
+                "Bruschetta": 540,
+                "Croquettes": 440,
+                "Fish eperlan": 1730,
+                "Meat ball": 720,
+                "Fried pork chunks": 1730,
+                "Fried pork ribs": 1730,
+                "Beef of chicken or pork burguer": 870,
+                "Ham and cheese sandwich": 720,
+                "Tuna fish sandwich": 720,
+                "Chicken or pork tacos": 1040,
+                "Shrimps tacos": 1240,
+                "Fried Chickpea": 870,
+                "Fried Stuffed Plantain": 650,
+                "Tamales in leaves": 360,
+                "Tamales Vitrola": 700,
+                "Vitrola Mixed": 2880,
+                "Vitrola salad": 530,
+                "Plaza Vieja salad": 720,
+                "Picadera Vitrola": 1730,
+                "Assorted Picadera": 1730,
+                "Shrimps cocktail": 1590,
+                "Fish cebiche": 1880,
+                "Octopus in Gardin / Grill": 3000,
+                "Grandma's Patacon": 1500,
+                "Chicken sandwich": 720,
+                "Cuban sandwich": 940,
+                "Vitrola sandwich": 940
+            },
+            "Bread": {},
+            "Chicken": {
+                "Grilled chicken breast": 1160,
+                "Chicken Gordon Blue": 1440,
+                "Chicken or pork fajitas": 1160,
+                "Grilled Chicken": 1160
+            },
+            "Pork": {
+                "Chicken or pork fajitas": 1160,
+                "Fried pork chunks": 1730,
+                "Fried pork ribs": 1730,
+                "Three piece of pork loin": 1730,
+                "Pork steak with onion": 1230
+            },
+            "Beef": {
+                "Beef steak": 2160,
+                "Fried beef": 1440,
+                "Uruguayo steak": 1440,
+                "Ropa Vieja": 1440
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Camarones al gusto": 1590,
+                "Fried rice with shrimps": 1020
+            },
+            "Fishes": {
+                "Fried whole fish": 2600,
+                "John Bill fish": 2400,
+                "Fish fillet Monte Toro": 2400,
+                "Fish fillet Canciller": 2600,
+                "Grilled fish fillet / breaded": 1850,
+                "Fish fillet gouda": 2100
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {
+                "Fried viands": 240,
+                "Vegetable salad": 300,
+                "White rice": 160,
+                "Moro rice": 240,
+                "Day beans": 240,
+                "Rice with vegetables": 240
+            },
+            "Other": {
+                "Mixed Grill": 2160,
+                "Rural Grill": 2600,
+                "Skewer of your choice": 1160,
+                "Lamb stew": 2600,
+                "Land and sea": 2600
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Expresso": 240,
+                "American coffee": 240,
+                "Coffe with a dash of milk": 300,
+                "Coffee with milk": 300,
+                "Chocolate with milk": 390,
+                "Capuccino": 390,
+                "National water": 390,
+                "National softdrinks": 400,
+                "Imported softdrinks": 400,
+                "Softdrink dispensed": 250,
+                "Malt drink": 400,
+                "Imported malt": 400,
+                "Glass of dispensed beer": 180,
+                "Imported beer": 350,
+                "Dispensed beer mug": 350,
+                "National Michelada": 340,
+                "Imported Michelada": 540,
+                "Lemonade": 390,
+                "Natural juice": 240,
+                "Fruits milk shake": 450,
+                "Ice cream milk shake": 540
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

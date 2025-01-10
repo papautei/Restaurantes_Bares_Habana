@@ -1,0 +1,153 @@
+{
+    "Name": "El Cafe",
+    "Specialty": [
+        "Comida mixta"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "#358, Calle La Amargura,",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1700
+        ],
+        "Tuesday": [
+            800,
+            1700
+        ],
+        "Wednesday": [
+            800,
+            1700
+        ],
+        "Thursday": [
+            800,
+            1700
+        ],
+        "Friday": [
+            800,
+            1700
+        ],
+        "Saturday": [
+            800,
+            1700
+        ],
+        "Sunday": [
+            800,
+            1700
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": "4.5",
+        "Google": "4.6",
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": 120,
+        "MLC": 0,
+        "EU": 120
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Tostadas de tomate": 500,
+                "Tortilla con calabaza y cebolla": 950,
+                "Galleta de avena y jengibre (c/u)": 40,
+                "Ensalada Chikpea": 950,
+                "Ensalada Chikpea con cordero": 1200,
+                "Plato de frutas frescas": 60,
+                "Tostadas de mantequilla": 80,
+                "Tostadas de mantequilla con mermelada": 80,
+                "Tostadas de mantequilla de mani": 80,
+                "Huevos, tomate, aguacate, tostadas y mantequilla": 300,
+                "Huevos, tomate, aguacate, tostadas, mantequilla y queso": 350,
+                "Huevos, tomate, aguacate, tostadas, mantequilla y bacon": 500,
+                "Huevos, tomate, aguacate, tostadas, mantequilla, bacon y queso": 500,
+                "Hummus con pepino, tomate, zanahorias y tostadas": 300
+            },
+            "Bread": {
+                "Sandwich vegano de hummus, vegetales asados y salsa picante": 300,
+                "Sandwich de jamon y queso con tomate, aji y hierba buena": 400,
+                "Sandwich de bacon, lechuga, tomate y aguacate": 500,
+                "Sandwich de queso, pimenton y cebollino": 350,
+                "Sandwich de cerdo asado con yuca, lechuga y mermelada de naranja agria": 450,
+                "Sandwich de pollo con tomate, rucula y alioli verde": 400
+            },
+            "Chicken": {},
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Yogurt con frutas frescas": 150,
+                "Yogurt con frutas frescas y granola": 180,
+                "Pancakes de frutas y miel": 300,
+                "Panetela navidena": 120
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {
+                "Expresso": 60,
+                "Cafe cortado": 80,
+                "Cafe americano": 100,
+                "Cafe con leche": 140,
+                "Cappuchino": 150,
+                "Cafe frappe": 160,
+                "Cafe con leche y hielo": 140,
+                "Cafe Clandestina": 80,
+                "Long Black": 100,
+                "Frappuccino": 160,
+                "Jugos frescos": 120,
+                "Limonada fresca": 120,
+                "Refresco de jengibre": 100,
+                "Chocolate caliente": 120,
+                "Batidos": 150,
+                "Batidos con leche vegana": 180,
+                "Te": 60,
+                "Agua": 50,
+                "Cerveza": 150,
+                "Ron Collins": 250,
+                "Mojito": 250,
+                "Caipirinha": 250,
+                "Canchanchara": 250,
+                "Dark & Stormy (jengibre y ron)": 250
+            },
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}
