@@ -1,0 +1,139 @@
+{
+    "Name": "Beirut",
+    "Specialty": [
+        "Comida libanesa",
+        "de oriente medio"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 1ra entre A y B, Vedado",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": 78315883
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            1100
+        ],
+        "Tuesday": [
+            1100,
+            1100
+        ],
+        "Wednesday": [
+            1100,
+            1100
+        ],
+        "Thursday": [
+            1100,
+            1100
+        ],
+        "Friday": [
+            1100,
+            1100
+        ],
+        "Saturday": [
+            1100,
+            1100
+        ],
+        "Sunday": [
+            1100,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                
+            },
+            "Bread": {
+                "Shawarma de pollo": 1520,
+                "Shawarma arabe": 1520,
+                "Sandwich Falafel": 1420,
+                "Sandwich Shish Taouk": 1720,
+                "Sandwich Kabab": 1720
+            },
+            "Chicken": {
+                "Shish Taouk": 2950,
+                "Kabab": 2900,
+                "Shish Taouk-Kabab": 2800,
+                "Shish Kabab": 2000,
+                "Tajin": 3500,
+                "Mixto Beirut": 3700
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                
+            },
+            "Pasta": {
+                
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                
+            },
+            "Additions": {
+                
+            },
+            "Sides": {
+                "Fetuche": 1500,
+                "Ensalada mixta": 2000,
+                "Betabel": 2000,
+                "Ensalada Beirut": 2100,
+                "Tabule": 3000
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {
+                "Limonada": 410
+            },
+            "Other": {
+                "Agua nacional": 175,
+                "Refrescos importados": 290,
+                "Maltas": 290,
+                "Cervezas": 390,
+                "Jugos naturales": 410
+            }
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "Name": "El Vampirito",
+    "Specialty": [
+        "Pizza",
+        "Comida italiana",
+        "Sandwiches"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 6 entre 19 y 21, Vedado",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": 78300774
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            1100
+        ],
+        "Tuesday": [
+            1000,
+            1100
+        ],
+        "Wednesday": [
+            1000,
+            1100
+        ],
+        "Thursday": [
+            1000,
+            1100
+        ],
+        "Friday": [
+            1000,
+            1100
+        ],
+        "Saturday": [
+            1000,
+            1100
+        ],
+        "Sunday": [
+            1000,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Bruschettas naturales": 780,
+                "Bruchettas con atun, carne o ropa vieja": 930,
+                "Entremes de queso, jamon y bruschettas": 1180,
+                "Picadera de la casa": 2620,
+                "Crema de queso": 570,
+                "Crema Aurora": 600
+            },
+            "Bread": {
+                "Hamburguesa sencilla": 1090,
+                "Hamburguesa doble": 2000,
+                "Sandwich de queso gouda": 960,
+                "Sandwich de ropa vieja": 960,
+                "Sandwich de bacon, huevo y queso": 1390,
+                "Sandwich de lechon asado": 1050,
+                "Sandwich de atun": 1390,
+                "Sandwich de pechuga de pollo con queso": 1260,
+                "Sandwich de crema y jalea de fresa": 1260
+            },
+            "Chicken": {
+                "Ensalada de vegetales salteados": 520
+                
+                
+                
+            },
+            "Pork": {
+                "Solomillo de cerdo": 2340
+            },
+            "Beef": {
+                "Carne asada en cazuela": 2340
+            },
+            "Pizza": {
+                "Pizza de queso": 1220,
+                "Pizza pequenha": 590
+            },
+            "Pasta": {
+                "Lasanha de jamon": 1530,
+                "Lasanha de carne": 1530,
+                "Lasanha hawaiana": 1570,
+                "Espaguetis": 1090,
+                "Media racion de espaguetis y media racion de lasanha": 1310
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {
+                "Helado montado": 300,
+                "Canoa de helado": 1500,
+                "Postre del dia": 780,
+                "Tarta": 975,
+                "Torrejas": 700,
+                "Media racion de torrejas": 360,
+                "Torrejas con helado": 550
+            },
+            "Additions": {
+                "Tomate": 200,
+                "Cebolla": 200,
+                "Pimiento": 200,
+                "Jamon": 320,
+                "Bacon": 420,
+                "Atun": 535,
+                "Chorizo": 490,
+                "Queso": 370,
+                "Pina glaseada": 200,
+                "Bolonhesa": 535,
+                "Aceituna": 280
+            },
+            "Sides": {
+                
+            },
+            "Other": {
+                "Garbanzos fritos": 1290
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {
+                "Limonada frappe": 620,
+                "Limonada con Hierba buena": 700,
+                "Caipirina": 750,
+                "Daiquiri": 750,
+                "Sangria": 750,
+                "Mojito frappe": 750
+            },
+            "Other": {
+                "Jugo natural": 250,
+                "Refresco": 400,
+                "Agua natural/ glaseada": 200,
+                "Malteada": 700,
+                "Malta": 460,
+                "Suero de helado": 1200,
+                "Copa de vino": 550,
+                "Cerveza importada": 400,
+                "Cerveza nacional": 500,
+                "Red Bull": 500,
+                "Michelada con cerveza importada": 500,
+                "Michelada con cerveza nacional": 600
+            }
+        }
+    }
+}

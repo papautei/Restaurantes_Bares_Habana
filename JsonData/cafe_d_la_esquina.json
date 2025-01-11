@@ -1,0 +1,170 @@
+{
+    "Name": "Cafe D la Esquina",
+    "Specialty": [
+        "Comida cubana",
+        "caribenha",
+        "americana"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Paseo #101, esq. a 5ta., Vedado",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": 78362565
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            100
+        ],
+        "Tuesday": [
+            800,
+            100
+        ],
+        "Wednesday": [
+            800,
+            100
+        ],
+        "Thursday": [
+            800,
+            100
+        ],
+        "Friday": [
+            800,
+            100
+        ],
+        "Saturday": [
+            800,
+            100
+        ],
+        "Sunday": [
+            800,
+            100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Pizza Tacos Mix": 2600,
+                "Tabla de la casa": 4200,
+                "Canoa de Olga": 800,
+                "Trio de pizzeta Margarita": 1000,
+                "Tapa Hot Dog": 2200,
+                "Trio de pizzeta especial": 1300
+            },
+            "Bread": {
+                
+            },
+            "Chicken": {
+                
+                
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                
+            },
+            "Pasta": {
+                "Pasta clasica": 1300,
+                "Pasta al pesto": 1500,
+                "Pasta  Ragu/Bolognesa": 1800,
+                "Pasta Carbonara": 2200
+            },
+            "Seafood": {},
+            "Fishes": {
+                
+            },
+            "Desserts": {
+                "Tarta de la casa": 700
+            },
+            "Additions": {
+                "Cebolla": 120,
+                "Champinhon": 170,
+                "Queso Gouda": 200,
+                "Jamon Embuchado": 100,
+                "Bacon": 150
+            },
+            "Sides": {
+                
+            },
+            "Other": {
+                "Rollo Criollo": 1900,
+                "Rollo La Esquina": 1900,
+                "Plato Campesino": 2500,
+                "Falso Sushi": 2600
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {
+                "Mojito": 700,
+                "Mojito Especial": 750,
+                "Pina Colada": 900,
+                "Daikiri": 700,
+                "Margarita": 1000,
+                "Sangria": 750,
+                "Caipirina": 750,
+                "Caipiroska": 750,
+                "Gin Tonic": 900,
+                "Vodka Tonic": 900,
+                "Limonada natural": 450,
+                "Limonada Lizzie sin ron": 700,
+                "Limonada Lizzie con ron": 750
+            },
+            "Other": {
+                "Agua gaseada importada": 1050,
+                "Agua natural pequenha": 300,
+                "Agua natural grande": 500,
+                "Agua gaseada nacional": 500,
+                "Agua Tonica nacional": 350,
+                "Refresco nacional": 350,
+                "Refresco importado": 350,
+                "Cerveza importada": 400,
+                "Cerveza nacional superior": 550,
+                "jugo de frutas naturales": 250,
+                "Copa de vino tinto": 600,
+                "Copa de vino blanco": 600,
+                "Energizante": 600,
+                "Malta": 450,
+                "Batido de helado": 650,
+                "Batido de frutas": 450
+            }
+        }
+    }
+}

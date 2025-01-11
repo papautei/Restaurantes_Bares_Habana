@@ -1,0 +1,266 @@
+{
+    "Name": "Razones y Motivos",
+    "Specialty": [
+        "Comida Caribenha",
+        "Latina",
+        "Cubana",
+        "criolla",
+        "Sudamericana",
+        "Centroamericana"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle F No.63 entre 3era y 5ta, Vedado",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": 78328732
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Friturita de malanga": 630,
+                "Croquetas de la casa": 650,
+                "Coctel de Mariscos": 1380,
+                "Cesta de pan": 500,
+                "Eperlan de pescado": 1900,
+                "Escabeche de Pescado": 1900,
+                "Entrante Razones y Motivos": 1750,
+                "Tostones rellenos con jamon y queso": 1100,
+                "Tostones rellenos con atun cebolla y mayones": 1200,
+                "Chiviricos con salsa al gusto": 600,
+                "Ensalada fria de pollo o jamon": 1080,
+                "Garbanzos fritos": 1400,
+                "Bolitas de queso con salsa aal gusto": 1100,
+                "Crema de calabaza": 450,
+                "Sopa China Especial": 880,
+                "Sopa de pollo": 600
+            },
+            "Bread": {
+                "Baguette de jamon y queso": 1150,
+                "Baguette de atun": 1250,
+                "Baguette de pollo": 1040
+            },
+            "Chicken": {
+                
+                
+                "Pollo asado al carbon": 1750,
+                "Suprema de pollo grille": 1790,
+                "Suprema de pollo empanada": 2000,
+                "Pollo cordon bleu": 2350,
+                "Pollo grille con camarones y punta de ajo": 2400
+                
+                
+            },
+            "Pork": {
+                "Bistec de cerdo grille encebollado": 1950,
+                "Rscalope de cerdo": 2170,
+                "Bistc de cerdo uruguayo": 2570,
+                "Lomo de cerdo ahumado con salsa al gusto": 2000,
+                "Chuletas de cerdo asadas": 2000,
+                "Costillas de cerdo asadas con salsa barbacoa": 2700,
+                "Masas de cerdo fritas": 2170
+            },
+            "Beef": {
+                "Bistec de res encebollado": 2350,
+                "Ropa vieja de res": 2190
+            },
+            "Pizza": {
+                "Pizza con tomate y queso": 1380,
+                "Pizza razones": 2190
+            },
+            "Pasta": {
+                "Espaguetis con tomate y queso": 1100,
+                "Espaguetis a la carbonara": 1650,
+                "Espaguetis salteados con verduras al estilo chino": 1280,
+                "Espaguetis al pesto": 1350
+            },
+            "Seafood": {
+                "Camarones grille": 2350,
+                "Camarones salteados con vegetales": 2400,
+                "Camarones empanados con salsa al gusto": 2650,
+                "Camarones enchilados": 2550,
+                "Camaron batabano": 2950
+            },
+            "Fishes": {
+                "Filete de pescado grille": 2190,
+                "Filete de pescado grille con camarones y punta de ajo": 2600,
+                "Filete de pescado canciller": 2800,
+                "Filete de pescado con salsa sofia": 2350,
+                "Filete de pesado con salsa de mariscos": 2500,
+                "Filete de pescado Joinville": 2950
+            },
+            "Desserts": {
+                "Copa de helado": 790,
+                " Copa de helado italiano artesanal": 1190,
+                " Dulce casero de queso": 590,
+                "Pastel de limon": 980,
+                "Tarta de mousse de vainilla chip": 980,
+                "Tarta de mousse de dulce de leche": 980,
+                "Cheescake": 1080,
+                "Cunha de cake": 520,
+                "Cake a la moda": 1090
+            },
+            "Additions": {
+                "pina ": 450,
+                "caebolla": 460,
+                "Aji pimiento": 460,
+                "Jamon": 550,
+                "Queso": 660,
+                "Atun": 650,
+                "Chorizo": 550,
+                "Aceitunas": 590,
+                "Camaron": 950,
+                "Champinon": 720,
+                "Ropa vieja": 990
+            },
+            "Sides": {
+                "Arroz blanco": 580,
+                "Arroz moro": 620,
+                "Frijoles negros dormidos": 620,
+                "Vianda hervida con mojo criollo": 630,
+                "Vianda frita": 640,
+                "Ensalada de vegetales frescos": 630,
+                "Pure de malanga": 640,
+                "Vegetales salteao": 640
+            },
+            "Other": {
+                "Arroz primavera": 950,
+                "Arroz frito especial": 1450,
+                "Arroz Salteado": 1280
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {
+                "Cubanito": 600,
+                "Bloody Mary": 650,
+                "Cuba libre": 550,
+                "Cubata": 600,
+                "Daiquiri frappe": 550,
+                "Daiquiri rebelde": 580,
+                "Pina colada": 700,
+                "Mojito tradicional": 550,
+                "Mojito mulatico": 700,
+                "Sangria espanola": 700,
+                "Caipirinha": 600,
+                "Tequila Sunrise": 600,
+                " Screwdriver": 550,
+                "Margarita": 600,
+                " Gin tonic": 600,
+                "Michelada": 600,
+                "Michelada nacional": 650,
+                "Michelada plus": 700,
+                "Cocteles del autor": 650,
+                "Limonada frappe": 400,
+                "Coctel San Francisco": 450,
+                "Malteada": 700,
+                "Limonada razones": 550
+            },
+            "Other": {
+                "Cerveza economica": 400,
+                "Cerveza nacional": 480,
+                " Cerveza plus": 580,
+                "Refrescos": 380,
+                "Malta nacional": 480,
+                "Malta importada": 450,
+                "Agua natural": 300,
+                "Agua gaseada": 450,
+                "Jugos naturales": 350,
+                "Jugos en conserva": 450,
+                "Energizante": 420,
+                "Cremas/Licores importados ": 900,
+                "Cremas/Licores nacionales": 400,
+                "Havana Club anejo blanco": 350,
+                "Havana Club anejo 3 anos": 430,
+                "Havana Club anejo reserva": 500,
+                "Havana Club anejo 7 anos": 550,
+                "Havana Club pacto de navio": 800,
+                "Ron Santiago 8 anos": 700,
+                "Ron santiago 11/12 anos ": 800,
+                "Havana Club seleccion de maestros ": 800,
+                "Chivas regal": 750,
+                "Jameson ": 600,
+                "Ballantines": 550,
+                "Clan Campbell": 530,
+                "Jonnie walker e.roja ": 650,
+                "Jonnie walker e.negra ": 750,
+                "Jonnie walker e.dorada": 1500,
+                "Buchanans": 850,
+                "JyB": 600,
+                "Vodka": 450,
+                "Ginebra": 500,
+                " Tequila blanco": 500,
+                "Tequila reposado": 550,
+                "Vino blanco": 600,
+                "Vino rosado": 600,
+                "Vino tinto": 600
+            }
+        }
+    }
+}

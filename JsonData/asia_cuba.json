@@ -1,0 +1,194 @@
+{
+    "Name": "Asia Cuba",
+    "Specialty": [
+        "Comida asiatica"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": " Calle 6 ##562 entre 23 y 25, Vedado",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": 50956929
+    },
+    "Schedule": {
+        "Monday": [
+            730,
+            100
+        ],
+        "Tuesday": [
+            700,
+            30
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            730,
+            100
+        ],
+        "Friday": [
+            730,
+            100
+        ],
+        "Saturday": [
+            730,
+            100
+        ],
+        "Sunday": [
+            730,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": true,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": null,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Caribe Zen Roll": 1840,
+                "Tartar Sakura Tango Saigon": 2500,
+                "Satay de Sumatra": 1550,
+                "Croquetas Sonaderas de pollo/ropa vieja": 1800,
+                "Mano del Dragon": 2080,
+                "Rey Mono": 2080,
+                "Dragon del mar": 2400
+            },
+            "Bread": {
+                
+            },
+            "Chicken": {
+                
+                "Maki Saiko Ebi Hana": 2080,
+                "Brasa Patagonia": 6560,
+                
+                
+                
+                "Brocheta Dak Galbi": 3840,
+                
+                "Char Siu Delhi": 4160
+                
+            },
+            "Pork": {
+                "Ssamn Kimuchi Tropical": 3200,
+                "Brocheta Gochu Vermounth Harmony": 4480
+            },
+            "Beef": {
+                
+            },
+            "Pizza": {
+                
+            },
+            "Pasta": {
+                
+            },
+            "Seafood": {
+                "Uramaki Umi no Haikiri": 1950,
+                "Langosta Coco Verde": 5760
+            },
+            "Fishes": {
+                "Bonito Tai Red": 3840,
+                "Nigiri Ika no Yume": 2400
+            },
+            "Desserts": {
+                "Sensei borracho": 1920,
+                "Maestro Shifu": 2080,
+                "Mei Mei": 1800,
+                "Maestro Shinobi": 1760
+            },
+            "Additions": {
+                
+            },
+            "Sides": {
+                
+            },
+            "Other": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {
+                "Daiquiri": 900,
+                "Daiquiri de fruta": 1100,
+                "Gin Tonic Simple": 1400,
+                "Margarita": 900,
+                "Martini Dry": 1100,
+                "Michelada": 1100,
+                "Mojito": 900,
+                "Negroni": 1200,
+                "Aperol Spritz": 1400,
+                "Bloody Mary": 1100,
+                "Caipirisima": 900,
+                "Caipiroska": 900,
+                "Canchanchara": 900,
+                "Coctel Danzon": 1200,
+                "Coctel Mambo": 1200,
+                "Coctel Son": 1500,
+                "Coctel Tecno Sour": 1100,
+                "Coctel Tango": 1200,
+                "Cuba Libre": 900,
+                "Cubanito": 1200,
+                "Sambuca San Faustino": 600,
+                "Old Fashioned": 1500,
+                "Pinha Colada": 1200,
+                "Pisco Sour": 1400,
+                "Sangria": 1500,
+                "Penicillin": 1400,
+                "Lemon song": 1100,
+                "Okinawa spritz": 1400
+            },
+            "Other": {
+                "Crema Bailys": 950,
+                "Frangelico": 1000,
+                "Limoncello": 600,
+                "Sirope de kiwi": 600,
+                "Sirope de Manzana": 125,
+                "Campari": 850,
+                "Licor de Cafe": 740,
+                "Whiskeys Jack Daniels": 1500,
+                "Whiskeys Jim Bean": 1200,
+                "Whiskeys Jhonny Walker Red Label": 1200,
+                "Whiskeys Jamenson": 850,
+                "Whiskys Jhonny Walker Black Label": 2000,
+                "Ron Havana Club Pacto Navio": 2000,
+                "Ron Havana Club 3 anos": 480,
+                "Ron Havana Club 7 anos": 900,
+                "Ron Santiago 8 anos": 950,
+                "Ron Santiago 11 anos": 1250,
+                "Ron Santiago 12 anos": 1650,
+                "Eminente 3 anos": 3000,
+                "Ron Black tears Roble Superior": 650,
+                "Ron seleccion de Maestros": 3300
+            }
+        }
+    }
+}
