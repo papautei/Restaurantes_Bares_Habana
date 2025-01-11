@@ -1,0 +1,222 @@
+{
+    "Name": "Fuumiyaki",
+    "Specialty": "japanesse",
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Ave 26/23 y 25, Vedado",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "https://www.fuumiyaki.com/",
+        "Facebook": "https://www.facebook.com/fuumiyaki.cuba/",
+        "Instagram": "https://www.instagram.com/fuumiyaki/?hl=es",
+        "Phones": "https://www.facebook.com/fuumiyaki.cuba/"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2350
+        ],
+        "Tuesday": [
+            1200,
+            2350
+        ],
+        "Wednesday": [
+            1200,
+            2350
+        ],
+        "Thursday": [
+            1200,
+            2350
+        ],
+        "Friday": [
+            1200,
+            2350
+        ],
+        "Saturday": [
+            1200,
+            2350
+        ],
+        "Sunday": [
+            1200,
+            2350
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": false,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ceviche de pescado": 1000,
+                "Ceviche mixto": 1500,
+                "Gyozas": 850,
+                "Rice paper camarones/langosta/pulpo": 1400,
+                "Rice paper pescado": 1400,
+                "Rice paper pollo/cerdo": 900,
+                "Rollitos primavera": 500,
+                "Sashimi de pescado": 1200,
+                "Sopa de miso": 750,
+                "Tartar de pescado": 1200
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                
+                
+                
+                "Bocados de tempura de pollo": 1600,
+                
+                
+                
+                "Chop suey de pollo": 1500,
+                
+                
+                
+                "Chow mein de pollo": 1550,
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                "Tacos de pollo": 1100,
+                "Tacos de ropa vieja": 1300,
+                
+                
+                
+                "Teriyaki de pollo": 1700,
+                
+                
+                
+                "Yaki tori de pollo": 1500,
+                
+                
+                
+                "Yakisoba de pollo": 1550
+            },
+            "Pork": {
+                "Bocados de tempura de cerdo": 1900,
+                "Chop suey de cerdo": 1800,
+                "Chow mein de cerdo": 1850,
+                "Shogayaki de cerdo": 2200,
+                "Tacos de cerdo": 1400,
+                "Teriyaki de cerdo": 2000,
+                "Yaki tori de cerdo": 1800,
+                "Yakisoba de cerdo": 1850
+            },
+            "Beef": {},
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Bocados de tempura de camarones": 2500,
+"Chop suey de camarones": 2000,
+"Chow mein de camarones": 2000,
+"Enchilado de camarones": 2700,
+"Tacos de camarones": 1600,
+"Teriyaki de camarones": 2600,
+"Yaki tori de camarones": 2500,
+"Yakisoba de camarones": 2000,
+"Chop suey de langosta": 2000,
+"Chow mein de langosta": 2000,
+"Enchilado de langosta": 2700,
+"Tacos de langosta": 1500,
+"Teriyaki de langosta": 2600,
+"Yaki tori de langosta": 2500,
+"Yakisoba de langosta": 2000,
+"Bocados de langosta en tempura": 2500
+            },
+            "Fishes": {
+                "Bocados de tempura de pescado": 2200,
+"Shioyaki de pescado": 2500
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Kanji bol": 2200,
+                "Ramen": 2200,
+                "Danza de la reina": 2800
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Agua mineral carbonatada ciego montero": 150,
+                "Agua natural ciego montero": 350,
+                "Cerveza bucanero": 500,
+                "Cerveza cristal": 500,
+                "Refresco santa isabel": 350,
+                "Refresco santa limon": 350,
+                "Refresco santa naranja": 350,
+                "Vino tinto casillero del diablo reserva": 10000,
+                "Vino tinto trapiche reserva": 8000,
+                "Havana club 7 anhos": 600,
+                "Seleccion de maestros": 750,
+                "Pacto navio": 750,
+                "Santiago anhejo": 550,
+                "Santiago 11 anhos": 800,
+                "Clan campbell": 550,
+                "Jameson": 650,
+                "Ballantines": 600,
+                "Chivas 12 anhos": 750,
+                "Chivas xv": 1000,
+                "Chivas 18 anhos": 1150,
+                "Mojito": 700,
+                "Daiquiri": 700,
+                "Caipirinha": 750,
+                "Caipiroska": 750,
+                "Cubanito": 800,
+                "Bloody mary": 850,
+                "Pinha colada": 850,
+                "Mimosa": 500,
+                "Gin tonic": 850,
+                "Sangria": 850,
+                "Tequila sunrise": 600,
+                "Margarita": 850,
+                "Old fashion": 800,
+                "Sake": 650,
+                "Mojito sake": 650,
+                "Umeshu mojito": 600,
+                "Matcha highball": 750,
+                "Chuchai": 650,
+                "Cafe expresso": 200,
+                "Cafe cortado": 300,
+                "Te": 300
+            }
+        }
+    }
+}

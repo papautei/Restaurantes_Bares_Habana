@@ -1,0 +1,156 @@
+{
+    "Name": "Fonda La Paila",
+    "Specialty": "cuban",
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle M e/ 25 y 27",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "https://fondalapaila.com/",
+        "Facebook": "https://www.facebook.com/lapaila25ym",
+        "Instagram": "https://www.instagram.com/lapaila_25ym/",
+        "Phones": "https://www.facebook.com/lapaila25ym"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": false,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Cesta de pan": 600.0,
+                "Frituras de malanga": 1000.0,
+                "Croquetas de la casa": 1350.0,
+                "Pan con lechon": 1850.0,
+                "Tacos guajiros": 2200.0,
+                "Tacos de camaron": 2200.0,
+                "Tostones 25 y m": 1850.0,
+                "Bastones fritos": 2500.0,
+                "Coctel de langosta": 2000.0,
+                "Coctel de camaron": 1900.0,
+                "Ceviche criollo": 2000.0,
+                "Charcuteria criolla": 3000.0,
+                "Tabla la paila": 4500.0,
+                "Papas prefritas con chorizo y queso": 1500.0,
+                "Bastones fritos de pescado": 3000.0,
+                "Tabla de jamon serrano": 3500.0,
+                "Tabla de salmon": 3000.0
+            },
+            "Bread": {},
+            "Chicken": {
+                "Arroz con pollo a la cubana": 3000.0,
+                "Pollo campestre": 2300.0,
+                "Pechuga grille": 2500.0,
+                "Pechuga salteada": 2500.0
+                
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Masas a la paila": 3000.0,
+                "Chuleta a la parrilla": 3000.0,
+                "Costillas bbq": 3500.0,
+                "Brocheta criolla": 3000.0,
+                "Lonjas de cerdo": 2850.0,
+                "Lomo de cerdo mechado": 3300.0,
+                "Lechon ahumado": 3300.0
+            },
+            "Beef": {
+                "Ropa vieja criolla": 3000.0,
+                "Vaca frita": 3000.0
+            },
+            "Pizza": {},
+            "Pasta": {
+                "Pasta frutti di mare": 3500.0
+            },
+            "Seafood": {
+                "Camaron a su eleccion": 3500.0,
+                "Langosta al carbon": 3600.0,
+                "Langosta enchilada": 3800.0,
+                "Langosta termidor": 4000.0,
+                "Pulpo a su eleccion": 4200.0,
+                "Grillada del mar": 5900.0
+            },
+            "Fishes": {
+                "Pescado al carbon": 3000.0,
+                "Pescado saute papillote": 3600.0
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Grillada mixta": 6500.0,
+                
+                "Grillada de la tierra": 5800.0
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}

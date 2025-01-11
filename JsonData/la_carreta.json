@@ -1,0 +1,268 @@
+{
+    "Name": "La Carreta",
+    "Specialty": [
+        "Caribean",
+        "Latin",
+        "International",
+        "Cuban"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 21 entre J y K, Vedado, Plaza",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "https://carretacubana.com/",
+        "Facebook": "Restaurant La Carreta Cuba",
+        "Instagram": "lacarreta_cuba",
+        "Phones": "Restaurant La Carreta Cuba"
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2245
+        ],
+        "Tuesday": [
+            1100,
+            2245
+        ],
+        "Wednesday": [
+            1100,
+            2245
+        ],
+        "Thursday": [
+            1100,
+            2245
+        ],
+        "Friday": [
+            1100,
+            2245
+        ],
+        "Saturday": [
+            1100,
+            2245
+        ],
+        "Sunday": [
+            1100,
+            2245
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": true,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Cesta de panes de la casa": 600,
+                "Coctel colage de frutas tropicales": 600,
+                "Ensaladas de frutas tropicales": 600,
+                "Coctel de langosta": 2100,
+                "Tabla mediterranea": 3600,
+                "Ensalada de la huerta": 600,
+                "Vegetales salteados": 650,
+                "Vianda hervida": 500,
+                "Tamal en hojas": 500,
+                "Ajiaco criollo": 500,
+                "Fritura": 750,
+                "Croquetas de la casa": 750,
+                "Toston de punhetazo": 600,
+                "Tostones rellenos": 900,
+                "Vianda frita": 600,
+                "Picando con guahiro": 2400
+            },
+            "Bread": {},
+            "Chicken": {
+                
+                "Paletilla de cordero al vino tinto y romero": 7500,
+                "Cantio de gallo": 4000,
+                
+                "Pollo asado al estilo carreta": 2000,
+                "Pechuga grille": 2100,
+                "Pollo al curry": 2000,
+                
+                
+                
+                
+                
+                "Pechuga de pollo con arroz, vianda frita y jugo natural": 1350
+                
+                
+            },
+            "Pork": {
+                "Lonjas de cerdo al estribo": 2000,
+                "Bistec del yunta": 2000,
+                "Masas fritas a lo campestre": 3000,
+                "Costillas tentadoras al gusto": 4000,
+                "Lomo ahumado al gusto": 2400
+                
+            },
+            "Beef": {
+                "Vaca frita a la tradicion": 2400,
+                "Ropa vieja carretera": 2400,
+                "Tasajo": 5000,
+                "Picadillo a la habanera": 1300
+            },
+            "Pizza": {
+                "Pizza napolitana y jugo natural": 1350
+            },
+            "Pasta": {
+                "Spaguetis napolitano y jugo natural": 1350
+            },
+            "Seafood": {
+                "Camarones grille": 3500,
+                "Camarones al ajillo": 3550,
+                "Enchilado de camarones": 3550,
+                "Enchilado de langosta": 4000,
+                "Langosta grille": 4000,
+                "Grillada del mar": 9000
+            },
+            "Fishes": {
+                "Filete de pescado grille": 2700,
+                "Filete de pescado enchilado": 2900
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {
+                "Arroz blanco": 250,
+                "Moros y cristianos": 300,
+                "Arroz primavera": 350,
+                "Frijoles negros": 300
+            },
+            "Other": {
+                "Grilladar del corral": 8000,
+                "Cordero chilindron a lo montuno": 4000,
+                "Cordero al curry": 4000,
+                "Grillada mar y tierra": 10000
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Agua nacional": 250,
+                "Agua gaseada": 250,
+                "Agua tonica nacional": 300,
+                "Agua importada": 500,
+                "Refrescos nacionales": 300,
+                "Refrescos importados": 450,
+                "Malta": 400,
+                "Malteada": 500,
+                "Cafe expresso": 250,
+                "Cafe cortado": 300,
+                "Cafe americano": 300,
+                "Capuchino": 400,
+                "Cafe con leche": 450,
+                "Cafe bombon": 500,
+                "Frapuchino": 500,
+                "Te": 150,
+                "Vino blanco": 600,
+                "Vino rosa": 600,
+                "Vino tinto": 600,
+                "Cervezas nacionales": 600,
+                "Cervezas importadas": 600,
+                "Cerveza en vaso": 210,
+                "Cerveza en jarra": 420,
+                "Jugos naturales": 300,
+                "San francisco": 300,
+                "Jugos en conserva": 400,
+                "Limonada frape": 450,
+                "Limonada frescura": 500,
+                "Naranjada": 400,
+                "Mojito tradicional": 600,
+                "Mojito tropical": 700,
+                "Daiquiri frappe": 550,
+                "Daiquiri natural": 550,
+                "Cubanito": 550,
+                "Cuba libre": 550,
+                "Canchanchara": 925,
+                "Caipirisima": 550,
+                "Caipirinha": 550,
+                "Caipiroska": 550,
+                "Screw driver": 750,
+                "Bloody mary": 950,
+                "Pinha colada": 950,
+                "Chelada": 600,
+                "Michelada": 600,
+                "Mega mojito": 1250,
+                "Gin tonic con imagin": 900,
+                "Gin tonic con beefeater": 1000,
+                "Gin tonic con tanqueray": 1100,
+                "Vodka tonic con belvedere": 1100,
+                "Vodka tonic con absolut": 1100,
+                "Sangria": 900,
+                "Tinto de verano": 850,
+                "Ron havana club 3 anhos": 300,
+                "Ron havana club especial": 330,
+                "Ron havana club reserva": 360,
+                "Ron havana club ritual": 390,
+                "Ron havana club 7 anhos": 500,
+                "Ron havana club seleccion de maestros": 1000,
+                "Ron havana club profundo": 350,
+                "Santiago anhejo": 500,
+                "Santiago anhejo 8a": 750,
+                "Santiago anhejo 11a": 1000,
+                "Santiago anhejo 12a": 1000,
+                "Santiago extra seco": 1100,
+                "Santiago extra 15a": 1200,
+                "Mulata 15a": 1200,
+                "Santero 11a": 1000,
+                "Cognac hennessy": 1000,
+                "Whiskie ballantine": 625,
+                "Whiskie chiva regal 12a": 1500,
+                "Whiskie clan campbell": 700,
+                "Whiskie jameson": 815,
+                "Whiskie buchanans": 2200,
+                "Whiskie jw red label": 900,
+                "Whiskie jw black label": 2000,
+                "Vermouth rosso": 525,
+                "Vermouth bianco": 525,
+                "Vermouth extra dry": 525,
+                "Brandies torres 5": 500,
+                "Brandie napoleon": 500,
+                "Ginebra beefeater": 525,
+                "Ginebra imagin": 450,
+                "Ginebra reythor": 475,
+                "Vodka absolut": 950,
+                "Vodka belvedere": 1050,
+                "Tequila olmeca blanco": 500,
+                "Tequila olmeca reposado": 550,
+                "Licor sambuca": 450,
+                "Licor anis seco": 450,
+                "Licor campari": 450,
+                "Licor limoncello": 550,
+                "Licor aperol": 700,
+                "Licor grappa": 500,
+                "Aguardiente de la casa": 300
+            }
+        }
+    }
+}

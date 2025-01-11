@@ -1,0 +1,175 @@
+{
+    "Name": "Mar Adentro",
+    "Specialty": [
+        "Mediterranean",
+        "Fusion",
+        "Cuban"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle C, #15, entre 1\u00aa y 3\u00aa, Havana, Cuba",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": "https://bio.site/maradentro",
+        "Facebook": "https://www.facebook.com/maradentrohabana",
+        "Instagram": "https://www.instagram.com/maradentrohabana",
+        "Phones": "https://www.facebook.com/maradentrohabana"
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            30
+        ],
+        "Tuesday": [
+            900,
+            30
+        ],
+        "Wednesday": [
+            900,
+            30
+        ],
+        "Thursday": [
+            900,
+            30
+        ],
+        "Friday": [
+            900,
+            30
+        ],
+        "Saturday": [
+            900,
+            30
+        ],
+        "Sunday": [
+            900,
+            30
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": true,
+        "Wifi": null,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Currencies": {
+        "CUP": 1,
+        "USD": null,
+        "MLC": 0,
+        "EU": null
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {
+                "Ingles": 2000,
+                "Continental": 2000,
+                "Americano": 2200
+            },
+            "Appetizers": {
+                "Cesta de pan": 750,
+                "Focaccia al romero": 700,
+                "Focaccia de jamon serrano, tomate y rucula": 2000,
+                "Bruchettas": 1800,
+                "Empanadillas de cangrejo o pinha y queso": 1200,
+                "Tostones rellenos": 1300,
+                "Chispitas de malanga con camarones": 1100,
+                "Croquetas de pescados o pollo": 1200,
+                "Casabe taino": 990,
+                "Tacos de vaca frita o pescado": 1900,
+                "Ceviche maradentro": 2100,
+                "Rollitos de salmon": 2200,
+                "Carpaccio de tuna": 2300,
+                "Sushi/nigiri": 2000,
+                "Dumplings de carne": 1800,
+                "Carpaccio de res": 2800
+            },
+            "Bread": {},
+            "Chicken": {
+                "Pollo horneado": 2600,
+                "Pechuga de pollo grillada": 2800
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Masas de cerdo confitadas": 3200,
+                "Lonjas de cerdo asadas en cazuela": 3400,
+                "Costillas guajiras": 3800
+            },
+            "Beef": {
+                "Ropa vieja frita": 2700,
+                "Bistec de palomilla": 6800
+            },
+            "Pizza": {},
+            "Pasta": {},
+            "Seafood": {
+                "Camarones": 3600,
+                "Langosta": 4300
+            },
+            "Fishes": {
+                "Pesca del dia": 3200
+            },
+            "Desserts": {},
+            "Additions": {},
+            "Sides": {
+                "Arroz blanco": 700,
+                "Arroz verde": 700,
+                "Frijoles dormidos": 700,
+                "Moros y cristianos": 700,
+                "Tostones": 700,
+                "Maduros": 700,
+                "Pure de boniato": 700
+            },
+            "Other": {
+                "Chilindron de cordero al tinto": 3500,
+                "Chivito uruguayo": 8200
+            }
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Limonada natural": 950,
+                "Limonada frescura": 950,
+                "Maradentro": 950,
+                "Clarete": 950,
+                "Vino blanco de verano": 950,
+                "Licor marejada": 950,
+                "Rubi": 950,
+                "Limonada pepino y jengibre": 950,
+                "Agua nacional": 450,
+                "Agua importada": 500,
+                "Agua tonica nacional": 700,
+                "Agua tonica importada": 800,
+                "Refresco nacional": 450,
+                "Refresco importado": 600,
+                "Malta": 500,
+                "Energizantes": 600,
+                "Batido de frutas": 750,
+                "Batido de helado": 900
+            }
+        }
+    }
+}
