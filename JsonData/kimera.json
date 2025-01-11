@@ -1,0 +1,203 @@
+{
+    "Name": "Kimera",
+    "Specialty": [
+        "Cocina mixta"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "10 de Octubre",
+        "Address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            100
+        ],
+        "Tuesday": [
+            1200,
+            100
+        ],
+        "Wednesday": [
+            1200,
+            100
+        ],
+        "Thursday": [
+            1200,
+            100
+        ],
+        "Friday": [
+            1200,
+            100
+        ],
+        "Saturday": [
+            1200,
+            100
+        ],
+        "Sunday": [
+            1200,
+            100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Ensalada de vegetales": 450,
+                "Croquetas": 500,
+                "Frituras": 500,
+                "Ceviche": 800,
+                "Ensalada fria": 900,
+                "Eperlan": 1000,
+                "Baston de pollo": 1000,
+                "Picadera de pollo o cerdo": 1200,
+                "Combo Kimera": 4000
+                
+                
+            },
+            "Bread": {},
+            "Chicken": {
+                "Fajitas de pollo": 1500,
+                "Fajitas de pescado": 1500,
+                
+                "Rueda de pescado": 1600,
+                "Pollo grille": 1600,
+                "Pollo frito": 1700,
+                "Pollo Princesa": 1700,
+                
+                
+                
+                
+                "Gordon Blue": 2000
+                
+                
+                
+            },
+            "Pork": {
+                "Lonjas de cerdo": 1800,
+                "Estofado de cerdo": 1800,
+                "Uruguayo de cerdo": 2300
+            },
+            "Beef": {
+                "Ropa vieja": 2000
+            },
+            "Pizza": {
+                "Pizza napolitana": 900,
+                "Pizza de aji o cebolla": 1200,
+                "Pizza de jamon": 1400,
+                "Pizza Hawaiana": 1500,
+                "Pizza de aceitunas": 1500,
+                "Pizza de pollo": 1500,
+                "Pizza Doble Queso": 1700,
+                "Pizza de atun": 1800,
+                "Pizza de cerdo": 1900,
+                "Pizza de Ropa Vieja": 2000,
+                "Pizza del mar Kimera": 2500
+            },
+            "Pasta": {
+                "Lasagna": 1400,
+                
+                "Espaghettis napolitano": 800,
+                "Espaghettis de jamon": 1300,
+                "Espaghettis Doble Queso": 1400,
+                "Espaghettis Carbonara": 1600,
+                "Espaghettis del mar Kimera": 2500
+            },
+            "Seafood": {},
+            "Fishes": {
+                "Filete de pescado": 1800,
+                "Pescado Kimera": 2000,
+                "Canciller": 2100,
+                "Pescado entero frito": 1600
+            },
+            "Desserts": {
+                "Helado": 320,
+                "Flan": 350,
+                "Tartaleta": 250
+            },
+            "Additions": {},
+            "Sides": {},
+            "Other": {
+                "Crema Aurora": 500,
+                "Crema de queso": 600,
+                "Crema Virginia": 600,
+                "Crema Reina": 650,
+                "Plato Kimera": 4500
+            },
+            "Pizzas": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Michelada": 300,
+                "Cuba Libre": 500,
+                "Mojito": 550,
+                "Cubanito": 500,
+                "Cubata": 550,
+                "Destornillador": 550,
+                "Daiquiri": 600,
+                "Caipiroska": 600,
+                "Caipirinha": 600,
+                "Caipirissima": 600,
+                "Canchanchara": 600,
+                "Vodka Tonic": 600,
+                "Whisky Tonic": 600,
+                "Gin Tonic": 700,
+                "Pina Colada": 700,
+                "Sangria": 800,
+                "Margarita": 900,
+                "Agua": 250,
+                "Refresco": 300,
+                "Cerveza": 320,
+                "Energizante": 400,
+                "Malta": 400,
+                "Malteada": 600,
+                "Batido de frutas": 400,
+                "Batido de helado": 500,
+                "Jugos": 250,
+                "Cafe Expresso": 150,
+                "Cafe Cortadito": 200,
+                "Cafe Cappuccino": 220,
+                "Cafe Bombon": 300,
+                "Cafe Frappuccino": 350
+            }
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "Name": "Parrandas Grill Bar",
+    "Specialty": [
+        "Cocina mixta"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "10 de Octubre",
+        "Address": "#366, Calle O'Farril entre Destrampes y Figueroa",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            0
+        ],
+        "Saturday": [
+            1200,
+            0
+        ],
+        "Sunday": [
+            1200,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {
+                "Picadera Parrandas": 2500,
+                "Tabla de jamon Serrano": 1900,
+                "Garbanzos fritos": 1000,
+                "Nachos": 1400,
+                "Ceviche": 900,
+                "Eperlan": 800,
+                "Entremes de jamon / queso / chorizo": 1000,
+                "Chorizos parrilleros con queso al horno": 1600,
+                "Tostones rellenos": 800,
+                "Papas fritas": 500,
+                "Brusquetas": 700,
+                "Croquetas caseras": 700,
+                "Tambor de bonieto con cangrejo picante": 1100,
+                "Empanadas de queso azul": 1100,
+                "Coctel de langosta": 1300,
+                "Coctel de camaron": 1400,
+                "Tacos Parrandas": 1500,
+                "Tacos de camaron": 2300,
+                "Tabla de queso": 2700,
+                "Papas bravas con queso y guacamole": 1300,
+                "Patacon con vaca frita": 1100,
+                "Rollitos de salmon con queso crema": 1700,
+                "Crema de papa con crujiente de jamon Serrano": 1200,
+                "Tartar de salmon": 1200,
+                "Tostas de ceviche con Pesto": 1000
+            },
+            "Bread": {
+                "Pan con lechon": 1200,
+                "Pan con pollo crujiente": 1500
+            },
+            "Chicken": {
+                
+                
+                
+                
+                "Faitas de pollo": 2400,
+                "Fajitas de cerdo": 2500,
+                "Pechuga de pollo": 2400
+                
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {
+                "Masas de cerdo": 2500
+            },
+            "Beef": {
+                "Costillas en salsa barbacoa": 2800,
+                "Picana de ternera con papas fritas": 5000,
+                "Ropa vieja": 2100,
+                "Vaca frita": 2000
+            },
+            "Pizza": {
+                "Pizza Carbonara": 1700,
+                "Pizza Napolitana": 1200
+            },
+            "Pasta": {
+                "Pasta Napolitana": 1000,
+                "Pasta Frutti di Mare": 1900,
+                "Pasta Carbonara": 1800,
+                "Pasta de salmon con crema": 1900
+            },
+            "Seafood": {
+                "Langosta enchilada": 2700,
+                "Camaron al gusto": 2600,
+                "Pulpo al gusto": 3500,
+                "Salteado de mariscos": 3200,
+                "Meloso de mariscos": 3200
+            },
+            "Fishes": {
+                "John Bill": 3200,
+                "John Bill de langosta": 3300,
+                "Filete de pescado": 2400
+            },
+            "Desserts": {
+                "Mousse de chocolate": 800,
+                "Mousse de vainilla": 800,
+                "Pie de fanguito con mani": 800,
+                "Pie de limon": 800
+            },
+            "Additions": {
+                "Queso": 700,
+                "Chorizo": 450,
+                "Bacon": 500,
+                "Jamon": 450,
+                "Jamon pierna": 500,
+                "Jamon ahumado pierna canario": 700,
+                "Atun": 600,
+                "Pina": 200,
+                "Cebolla": 250,
+                "Aceituna": 500,
+                "Jamon Serrano": 800,
+                "Trufa negra": 450,
+                "Langosta": 1100,
+                "Camaron": 1200,
+                "Champignon": 400,
+                "Queso azul": 700,
+                "Salmon ahumado": 1000
+            },
+            "Sides": {
+                "Arroz moro": 250
+            },
+            "Other": {
+                "Paella de Tierra": 3000
+            },
+            "Pizzas": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {
+                "Cafe Expresso": 200,
+                "Cafe Cortado": 250,
+                "Cappuccino": 500,
+                "Energizante": 450,
+                "Red Bull": 700,
+                "Jugo natural": 350,
+                "Limonada natural": 600,
+                "Agua natural": 250,
+                "Agua gaseada": 280,
+                "Cerveza La Salve": 350,
+                "Cerveza Presidente": 550,
+                "Cerveza Sol": 600,
+                "Cerveza Alhambra": 700,
+                "Jarra de cerveza": 450,
+                "Cana de cerveza": 225,
+                "Cana con limon": 275,
+                "Malta": 380,
+                "Refresco nacional": 300,
+                "Refresco importado": 380,
+                "Tonica MG": 600,
+                "Cuba Libre Coca Cola": 600,
+                "Cubata Coca Cola": 650,
+                "Caipiroska": 700,
+                "Caipiroska de la casa": 800,
+                "Caipirissima": 700,
+                "Caipirinha": 700,
+                "Ron Collins": 650,
+                "Margarita": 700,
+                "Screwdriver": 600,
+                "Gin Tonic MG": 1200,
+                "Pina Colada Virgen": 750,
+                "Pina Colada": 800,
+                "Mojito": 700,
+                "Mary Pickford": 650,
+                "Tinto de verano": 650,
+                "Blue Lagoon": 700,
+                "Sangria": 650,
+                "Sangria blanca": 600,
+                "Daiquiri": 700,
+                "Daiquiri saborizado": 800,
+                "Vodka Tonic MG": 1000,
+                "Caipirita": 700,
+                "Negroni": 1400,
+                "Tito's 2 Ligant": 10000,
+                "Ballantine 2 Ligant": 8000,
+                "Ballantine 12 2 Ligant": 12000,
+                "Chivas 12 1 Ligant": 12000,
+                "Chivas 18 1 Ligant": 20000,
+                "Glenlivet 2 Ligant": 14000,
+                "White Label Dewars": 4500,
+                "Jameson": 9000,
+                "JB": 9000,
+                "Etiqueta Roja LT 2 Ligant": 12000,
+                "Buchanan's 12": 21000,
+                "Old Parr": 10000,
+                "Santiago 8": 9000,
+                "7 anos LT": 6000,
+                "Pacto Navio": 15000,
+                "Seleccion de Maestro": 14000,
+                "Santiago 11": 14000,
+                "Espumoso Freixenet": 6000,
+                "Grey Goose 2 Tonica": 12000,
+                "Beldevere 2 Tonica": 12000,
+                "Green Label": 55000,
+                "Gold Label": 50000,
+                "Clan Campbell": 400,
+                "Vat 69": 450,
+                "The Glenlivet": 900,
+                "Chivas 12": 1000,
+                "Chivas 15": 1800,
+                "Chivas 18": 3000,
+                "Jameson (shot)": 700,
+                "JB (shot)": 700,
+                "Jack Daniel": 1200,
+                "Jack Daniel Honey": 1000,
+                "JW Red Label": 750,
+                "JW Gold Label": 3500,
+                "Ballantines": 700,
+                "Ballantines 10": 800,
+                "Jameson Black Barrel": 1400,
+                "Buchanan's 12 (shot)": 1800,
+                "Old Parr (Shot)": 1000,
+                "Santiago Anejo (shot)": 400,
+                "Seleccion de Maestro (shot)": 1200,
+                "Santiago 11 (shot)": 1100,
+                "HC Anejo 7 anos (shot)": 550,
+                "Santiago 8 (shot)": 700,
+                "Ron Barcelo Gran Anejo (shot)": 400,
+                "Santisima Trinidad (shot)": 700,
+                "Olmeca Reposado (shot)": 700,
+                "1800 Reposado (shot)": 1600,
+                "Don Ramon Blanco (shot)": 1000,
+                "Patron (shot)": 2000,
+                "Don Julio Reposado (shot)": 2000,
+                "Copa de vino tinto": 700,
+                "Copa de vino blanco": 650,
+                "Botella de vino tinto Hoya de Cadenas": 7500,
+                "Botella de vino tinto Valdubon": 8000,
+                "Botella de vino tinto Orube": 7500,
+                "Jagger": 500,
+                "Vodka Absolut": 500,
+                "Vodka Absolut de cafe": 550,
+                "Ciroc de sabores": 1000,
+                "Grey Goose": 1200,
+                "Beldevere": 1300,
+                "Chopin": 1350,
+                "Vincent Van Goth": 500,
+                "Gordon's": 550,
+                "G'Vine": 700,
+                "Master's": 700,
+                "Master's Pink": 700,
+                "Tanqueray Ten": 1100,
+                "Beefeater": 600,
+                "London #1": 1800
+            }
+        }
+    }
+}

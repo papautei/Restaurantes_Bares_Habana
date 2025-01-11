@@ -1,0 +1,149 @@
+{
+    "Name": "D'Mitu",
+    "Specialty": [
+        "Cocina italiana"
+    ],
+    "Ownership": "Privado",
+    "Location": {
+        "District": "10 de Octubre",
+        "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
+        "Coords.": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Phones": []
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": false,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false,
+        "Entertainment": []
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Currencies": {
+        "CUP": 0,
+        "USD": 0,
+        "MLC": 0,
+        "EU": 0
+    },
+    "Menu": {
+        "Food": {
+            "Breakfast": {},
+            "Appetizers": {},
+            "Bread": {},
+            "Chicken": {
+                
+                
+                
+                
+                
+                
+                
+            },
+            "Pork": {},
+            "Beef": {},
+            "Pizza": {
+                "Pizza de queso": 850,
+                "Pizza de jamon": 1000,
+                "Pizza de chorizo": 1000,
+                "Pizza Hawaiana": 1050,
+                "Pizza Familiar mixta": 2800,
+                "Pizza Familiar con bordes de queso": 3200,
+                "Super Pizza de queso": 1200,
+                "Super Pizza de jamon": 1300,
+                "Super Pizza de chorizo": 1300,
+                "Super Pizza Hawaiana": 1300,
+                "Pizza Sol": 2000,
+                "Pizza D'Mitu": 1400,
+                "Super Pizza mixta": 2000
+            },
+            "Pasta": {
+                "Fugazzeta D'Mitu": 2100,
+                "Canelones": 800,
+                "Espaghettis": 800,
+                "Fettuccine": 800,
+                "Farfalle": 800,
+                "Lasagna": 900,
+                "Calzone D'Mitu": 900,
+                "Raviolis": 900
+            },
+            "Seafood": {},
+            "Fishes": {},
+            "Desserts": {},
+            "Additions": {
+                "Pina": 200,
+                "Cebolla": 200,
+                "Pimiento": 200,
+                "Jamon": 300,
+                "Bacon": 500,
+                "Queso": 300,
+                "Aceituna": 350,
+                "Chorizo": 300,
+                "Champignon": 400,
+                "Atun": 450,
+                "Camaron": 600
+            },
+            "Sides": {},
+            "Other": {
+                "Pastelon a su gusto": 1700,
+                "Super Takazo": 1900,
+                "Takazo D'Mitu": 1000
+            },
+            "Pizzas": {}
+        },
+        "Beverages": {
+            "Non-Alcoholic": {},
+            "Alcoholic": {},
+            "Cocktails": {},
+            "Other": {}
+        }
+    }
+}
