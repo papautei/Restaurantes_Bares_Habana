@@ -1,0 +1,196 @@
+{
+    "Name": "Bodegon del Asado",
+    "Specialty": [
+        "Comida cubana",
+        "criolla",
+        "italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 24, No 418, e / 23 y 25, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Pan Baguette Recien Horneado": 450.0,
+            "Picada Bodegon": 2000.0,
+            "Croqueticas caseras de la guajira": 850.0,
+            "Croqueticas de pescado": 850.0,
+            "Eperlans de pescado": 2500.0,
+            "Bolitas de carne": 900.0,
+            "Frituritas de malanga": 650.0,
+            "Chicharrones crujientes de cerdo": 1500.0,
+            "Tostones rellenos": 1000.0,
+            "Tostones cubanos al ajo": 750.0,
+            "Tamalito en cazuela a la cubana": 500.0,
+            "Cesta de yuca con ropa vieja": 1500.0,
+            "Bolitas de queso": 1500.0,
+            "Fajitas de pollo empanadas": 2500.0
+        },
+        "Bread": {
+            "Sandwich de jamon y queso": 1500.0,
+            "Sandwich al estilo cubano ": 1800.0,
+            "Pan con lechon": 1500.0
+        },
+        "Chicken": {
+            "Suprema de pollo": 2700.0,
+            "Fajitas de pollo salteadas": 2600.0
+        },
+        "Pork": {
+            "Filete de cerdo a las brasas del carbon": 3500.0,
+            "Mixto de asados criollos": 7000.0,
+            "A las Brasas del carbon 1 kg de cerdo asado": 9000.0,
+            "1/2 kg de cerdo asado": 4700.0,
+            "Racion de cerdo asado": 2500.0,
+            "Chuleta de cerdo al carbon": 2500.0,
+            "Lomo ahumado sin hueso": 2500.0,
+            "Bistec de cerdo grille ": 2500.0,
+            "Lomo sin hueso": 3000.0,
+            "Charcuteria artesanal": 2500.0,
+            "Costillas de cerdo a las brasas": 3500.0,
+            "Masas de cerdo fritas": 3500.0
+        },
+        "Beef": {
+            "Ropa vieja de res": 2700.0,
+            "Vaca frita": 2800.0
+        },
+        "Pizza": {
+            "Pizza de queso": 1800.0,
+            "Pizza doble queso": 2200.0,
+            "Pizza de jamon": 2000.0,
+            "Pizza de ropa vieja": 3100.0,
+            "Pizza de ropa vieja de cerdo": 3000.0
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {
+            "Filete de pescado": 2800.0
+        },
+        "Desserts": {
+            "Casquito de guayaba con queso": 600.0,
+            "Mermelada de guayaba con queso": 500.0,
+            "Flan al caramelo": 750.0,
+            "Dulce de frutabomba en almibar con queso": 600.0,
+            "Bunhuelos de la abuela": 450.0,
+            "Copa de helado": 750.0,
+            "Copa Lolita": 950.0
+        },
+        "Additions": {
+            "Jamon": 300.0,
+            "Queso": 500.0
+        },
+        "Sides": {
+            "Arroz blanco": 500.0,
+            "Arroz moro": 600.0,
+            "Frijoles negros dormidos": 550.0,
+            "Vianda hervida con mojo": 600.0,
+            "Ensalada de vegetales": 550.0,
+            "Platanito maduro frito": 750.0
+        },
+        "Other": {
+            "Chilindron de cordero": 3500.0,
+            "Tamal en cazuela a la cubana": 1000.0
+        },
+        "Drinks": {
+            "Limonada Frappe": 550.0,
+            "Limonada Natural": 550.0,
+            "Limonada  Frescura": 600.0,
+            "Limonada de frutas": 700.0,
+            "Mojito Bodegon": 650.0,
+            "Cuba Libre Bodegon": 600.0,
+            "Cubata Bodegon": 750.0,
+            "Daiquiri frappe o natural": 650.0,
+            "Ron Collins": 650.0,
+            "Havana Special": 600.0,
+            "Canchanchara": 600.0,
+            "Mary  Pickford": 600.0,
+            "Martini": 700.0,
+            "Sangria": 800.0,
+            "Caipirinha": 650.0,
+            "Caipirisima": 650.0,
+            "Caipiroska": 700.0,
+            "Margarita": 700.0,
+            "Gin Tonic Beefeater": 750.0,
+            "Agua natural": 300.0,
+            "Agua gaseada Ciego Montero": 400.0,
+            "Agua Tonica Ciego Montero": 250.0,
+            "Jugos de frutas naturales": 300.0,
+            "Refrescos importados": 350.0,
+            "Cervezas nacionales": 450.0,
+            "Cervezas importadas": 400.0,
+            "Servicio Chelada": 200.0,
+            "Servicio  Michelada": 300.0,
+            "Copa de Vino Tinto ": 600.0,
+            "Malta importada": 450.0,
+            "Havana Club Anejo 3 anos": 350.0,
+            "Havana Club Anejo Especial": 450.0,
+            "Havana Club Anejo Reserva": 500.0,
+            "Havana Club Anejo 7 anos": 580.0,
+            "Havana Club Smoky": 550.0,
+            "Havana Club Spiced": 500.0,
+            "Havana Club Seleccion de Maestros": 800.0,
+            "Santiago Anejo 8 anhos": 900.0,
+            "Santiago Extra Dry": 500.0,
+            "Santiago Anejo 12 anos": 1650.0,
+            "Santiago 11 anos": 1600.0,
+            "Santero anhejo 11 anos": 700.0,
+            "Santero Anhejo 15 anos ": 900.0,
+            "Pacto Navio": 800.0,
+            "Cubay 10 anos": 500.0,
+            "Aguardiente": 200.0,
+            "Moutai de Luxe": 1200.0,
+            "Grappa del Castelo di banfi": 500.0,
+            "Pisco Barsol Acholado": 500.0,
+            "Ritual": 450.0,
+            "Vodka de la casa ": 500.0,
+            "Mezcal Senhorio": 750.0,
+            "White Horse": 300.0,
+            "Jameson": 850.0,
+            "J&B Classic": 300.0,
+            "Ballantines Finest": 600.0,
+            "Johnnie Walker Red Label": 700.0,
+            "Johnnie Walker Black Label": 1700.0,
+            "Black and White": 350.0,
+            "Chivas Regal 12 anos": 1100.0,
+            "Chivas Regal Royal Salute 21 anos": 1100.0,
+            "Brandy Torres 5": 850.0
+        }
+    }
+}

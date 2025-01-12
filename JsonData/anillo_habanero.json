@@ -1,0 +1,147 @@
+{
+    "Name": "Anillo Habanero",
+    "Specialty": [
+        "criolla",
+        "pizzas",
+        "cocteles",
+        "pastas"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "Primer Anillo de La Habana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2300
+        ],
+        "Tuesday": [
+            1000,
+            2300
+        ],
+        "Wednesday": [
+            1000,
+            2300
+        ],
+        "Thursday": [
+            1000,
+            2300
+        ],
+        "Friday": [
+            1000,
+            2300
+        ],
+        "Saturday": [
+            1000,
+            2300
+        ],
+        "Sunday": [
+            1000,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "picadera anillo": 3000.0,
+            "tacos de vegetales": 600.0,
+            "croquetas habaneras": 400.0,
+            "nachos, salsa rosa y guacamole": 400.0,
+            "brochetas": 1300.0,
+            "coctel de camarones": 2000.0,
+            "frituras": 300.0,
+            "tostones rellenos": 550.0,
+            "tacos de pollo": 800.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "lomo ahumado": 2000.0,
+            "chuletas de cerdo": 3000.0
+        },
+        "Beef": {
+            "ropa vieja": 3000.0,
+            "vaca frita": 3000.0
+        },
+        "Pizza": {
+            "pizza napolitana": 800.0
+        },
+        "Pasta": {
+            "spaghettis napoles": 850.0
+        },
+        "Seafood": {
+            "camarones enchilados": 3500.0,
+            "camarones al ajillo": 3500.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "tarta de vainilla": 750.0,
+            "cheesecake de limon": 750.0,
+            "coctel de frutas importadas": 350.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "energizantes importados": 500.0,
+            "maltas importadas": 320.0,
+            "pepsi refresco gaseado": 400.0,
+            "jugos naturales": 250.0,
+            "agua natural": 200.0,
+            "kermato": 700.0,
+            "refrescos importados": 300.0,
+            "michelada": 600.0,
+            "margarita": 800.0,
+            "caipiroska": 800.0,
+            "cocteles analcoholicos": 500.0,
+            "caipirisima": 800.0,
+            "vodka tonic": 900.0,
+            "screwdriver": 800.0,
+            "gin tonic": 900.0,
+            "agua marina": 800.0,
+            "cancha": 800.0,
+            "tinto de verano": 800.0,
+            "limonada frappe": 250.0,
+            "daiquiri": 800.0,
+            "chelada": 450.0,
+            "pinna colada": 1000.0,
+            "sangria": 1000.0,
+            "cerveza nacional": 350.0,
+            "cerveza importada": 300.0,
+            "trago jonny walker": 500.0,
+            "william lawsons": 350.0,
+            "lyubov vodka": 200.0,
+            "expresso": 100.0,
+            "cortadito": 200.0,
+            "capuchino": 250.0
+        }
+    }
+}

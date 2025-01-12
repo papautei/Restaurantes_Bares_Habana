@@ -1,0 +1,108 @@
+{
+    "Name": "Buena Vibra",
+    "Specialty": [
+        "criolla"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "croquetas": 400.0,
+            "fritura de malanga": 400.0,
+            "vianda frita": 300.0,
+            "tostones tradicionales": 300.0,
+            "tostones rellenos": 500.0
+        },
+        "Bread": {
+            "hamburguesa de pollo": 300.0
+        },
+        "Chicken": {
+            "bistec de pollo": 850.0,
+            "bistec de pollo empanado": 900.0,
+            "pechuga de pollo": 900.0
+        },
+        "Pork": {
+            "higado de cerdo": 800.0,
+            "lomo ahumado": 900.0,
+            "bistec de cerdo": 900.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "espaguetti con queso": 400.0,
+            "espaguetti de jamon": 550.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "tequila reposado": 300.0,
+            "licor crema": 200.0,
+            "pinha colada": 300.0
+        }
+    }
+}

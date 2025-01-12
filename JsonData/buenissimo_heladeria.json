@@ -1,0 +1,104 @@
+{
+    "Name": "Buenissimo heladeria",
+    "Specialty": [
+        "cubana",
+        "italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "https://buennissimo.com/",
+        "Facebook": false,
+        "Instagram": "@buenissimo.heladeria"
+    },
+    "Schedule": {
+        "Monday": [
+            930,
+            2300
+        ],
+        "Tuesday": [
+            930,
+            2300
+        ],
+        "Wednesday": [
+            930,
+            2300
+        ],
+        "Thursday": [
+            930,
+            2300
+        ],
+        "Friday": [
+            930,
+            2400
+        ],
+        "Saturday": [
+            930,
+            2400
+        ],
+        "Sunday": [
+            930,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "1/2 kg de helado": 1800.0,
+            "1 kg de helado": 3600.0,
+            "Cono (1bola 95gr)": 280.0,
+            "Cono doble": 560.0,
+            "Cono maxi": 850.0,
+            "Copa buenissimo": 1500.0,
+            "Copa family": 2100.0,
+            "Copa firenze": 1200.0,
+            "Copa habana": 620.0,
+            "Copa roma": 950.0,
+            "Copeta 1 bola": 300.0,
+            "Copeta 2 sabores": 630.0,
+            "Copeta 3 sabores": 920.0,
+            "Copeta 4 sabores": 1200.0,
+            "Tulipan": 1300.0,
+            "Tulipan max": 1500.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

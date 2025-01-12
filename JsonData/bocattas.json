@@ -1,0 +1,160 @@
+{
+    "Name": "Bocattas",
+    "Specialty": [
+        "cubana",
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "https://linktr.ee/cafe_bocattas",
+        "Facebook": "Cafe Bocattas",
+        "Instagram": "@cafe_bocattas"
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            2400
+        ],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tacos de hab c": 800.0,
+            "Tacos de hamburguesa": 950.0,
+            "Tacos de cerdo": 900.0,
+            "Brusquetas": 500.0,
+            "Chorizo parrillero": 2000.0,
+            "Croquetas de pollo": 650.0,
+            "Desayuno": 980.0,
+            "Ensalada fria": 540.0,
+            "Croquetas de jam\u00f3n serrano": 750.0,
+            "Huevos rotos": 1050.0
+        },
+        "Bread": {
+            "Bistec con baguette": 1700.0,
+            "Bistec con pan suave": 1500.0,
+            "Hamburguesa de res": 1000.0,
+            "Hamburguesa de cerdo": 780.0,
+            "Pan con lech\u00f3n": 840.0,
+            "Pan redondo suave": 160.0,
+            "Pan baguette": 240.0,
+            "Pan suave": 160.0,
+            "Tostadas": 240.0,
+            "Smashburger bocattas de res": 1500.0,
+            "Smashburger bocattas de cerdo": 1500.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "Pasta napolitana": 900.0,
+            "Pasta bolo\u00f1esa": 2000.0,
+            "Pasta con bacon": 1500.0,
+            "Pasta con jamon pierna especial": 1800.0,
+            "Pasta con jamon barra": 1100.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Dulces finos": 1000.0,
+            "Bola de helado": 150.0,
+            "Copa golosa": 800.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Queso gouda 100g": 430.0,
+            "Jam\u00f3n barra": 300.0,
+            "Jam\u00f3n serrano": 570.0,
+            "Jam\u00f3n pierna especial": 650.0,
+            "Queso gouda": 380.0,
+            "Queso azul": 500.0,
+            "Chorizo espa\u00f1ol": 400.0,
+            "Bacon": 500.0,
+            "Huevo": 150.0,
+            "Mantequilla": 75.0,
+            "Agrego de cerdo": 400.0,
+            "At\u00fan": 500.0,
+            "Vianda frita": 170.0,
+            "Mayonesa": 50.0,
+            "Tomate": 100.0,
+            "Cebolla": 70.0,
+            "Pepinillo": 35.0,
+            "Pico de gallo": 70.0,
+            "Lechuga": 35.0,
+            "Pi\u00f1a": 35.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Agua natural 500 ml": 200.0,
+            "Refresco importado y nacional": 260.0,
+            "Malta": 300.0,
+            "Energizantes": 400.0,
+            "Limonada frappe": 600.0,
+            "Jugos naturales": 250.0,
+            "Cerveza importada": 280.0,
+            "Cerveza nacional": 400.0,
+            "Michelada con cerv import": 660.0,
+            "Michelada con cerv nacional": 750.0,
+            "Chelada": 180.0,
+            "Preparado de michelada": 340.0,
+            "Expresso": 130.0,
+            "Capuchino": 225.0,
+            "Cortado": 150.0,
+            "Americano": 210.0,
+            "Frappuccino": 600.0,
+            "Cafe con leche": 275.0
+        }
+    }
+}

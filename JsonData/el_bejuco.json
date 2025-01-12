@@ -1,0 +1,146 @@
+{
+    "Name": "El Bejuco",
+    "Specialty": [
+        "Bar",
+        "Restaurante"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            2400
+        ],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": 4.8,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": false,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {
+            "Combo dulce": 950.0,
+            "Combo salado": 950.0,
+            "Tostadas con dulce": 250.0,
+            "Tostadas con salsa": 250.0,
+            "Agrego de queso": 150.0,
+            "Agrego de jamon": 200.0,
+            "Fruta de temporada": 250.0
+        },
+        "Appetizers": {
+            "Tostones naturales": 400.0,
+            "Tostones rellenos": 800.0,
+            "Brusquetas": 500.0,
+            "Picadera simple": 600.0,
+            "Picadera guajira": 1200.0,
+            "Chicharritas": 300.0,
+            "Tamal con cerdo": 900.0,
+            "Tamal": 200.0
+        },
+        "Bread": {
+            "Sandwich jamon y queso": 800.0,
+            "Sandwich jamon": 750.0,
+            "Sandwich queso": 750.0,
+            "Pan con lechon": 1000.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Agua": 300.0,
+            "Refresco": 300.0,
+            "Jugos naturales": 250.0,
+            "Batidos": 350.0,
+            "Limonada": 500.0,
+            "Cafe expreso": 150.0,
+            "Cortado": 250.0,
+            "Capuccino": 300.0,
+            "Frappuccino": 350.0,
+            "Macchiato": 250.0,
+            "Iced latte": 350.0,
+            "Americano": 300.0,
+            "Cerveza cristal (botella)": 350.0,
+            "Michelada": 750.0,
+            "Chelada": 700.0,
+            "Mojito": 500.0,
+            "Cuba libre": 450.0,
+            "Caipirinha": 400.0,
+            "Caipiroska": 400.0,
+            "Caipirisima": 400.0,
+            "Canchanchara": 450.0,
+            "Melonada": 700.0,
+            "Verano en un vaso": 600.0,
+            "Tinto de verano": 600.0,
+            "Pinha colada": 700.0,
+            "Bejuco colora'o": 700.0,
+            "Bejuco gin": 700.0,
+            "Cubata con reserva": 650.0,
+            "Cubata con 7 anhos": 800.0,
+            "Linea black tears": 350.0,
+            "Linea 7 anhos": 600.0,
+            "Linea smoky": 700.0,
+            "Linea santiago": 900.0,
+            "Linea reserva": 400.0,
+            "Tequila blanco": 350.0,
+            "Tequila reposado": 500.0,
+            "Copa de vino": 500.0
+        }
+    }
+}

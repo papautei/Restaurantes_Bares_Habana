@@ -1,0 +1,109 @@
+{
+    "Name": "Brutal Habana",
+    "Specialty": [
+        "Comida Americana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Infanta esquina Calle Universidad"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            0
+        ],
+        "Saturday": [
+            1200,
+            0
+        ],
+        "Sunday": [
+            1200,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "Baguette": 150.0,
+            "Suave": 120.0,
+            "Croissant": 450.0,
+            "Pan de Hamburguesa": 150.0,
+            "Baguette Brutal": 2000.0,
+            "Brutal Junior": 550.0,
+            "Combo Brutal Junior": 2550.0,
+            "Hamburguesa Brutal": 3200.0,
+            "Hamburguesa Sencilla": 1100.0
+        },
+        "Chicken": {
+            "Fajitas de Pechuga con Papas Fritas": 1500.0
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Papas Fritas (100g)": 300.0,
+            "Papas Fritas (200g)": 600.0,
+            "SalchiPapas": 500.0,
+            "SalchiPapas BRUTAL": 1400.0,
+            "Croquetas de Pollo x 5": 175.0,
+            "Croquetas de Pollo x 10": 350.0,
+            "Papas Fritas Brutal": 1100.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Batido de Helado": 1000.0,
+            "Batido de Helado con Gomitas": 1400.0,
+            "Batido de Helado BRUTAL": 2000.0
+        }
+    }
+}

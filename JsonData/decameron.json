@@ -1,0 +1,197 @@
+{
+    "Name": "Decameron",
+    "Specialty": [
+        "Comida caribenha",
+        "cubana",
+        "saludable",
+        "fusion"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle Linea entre Paseo y 2, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1130,
+            1100
+        ],
+        "Tuesday": [
+            1130,
+            1100
+        ],
+        "Wednesday": [
+            1130,
+            1100
+        ],
+        "Thursday": [
+            1130,
+            1100
+        ],
+        "Friday": [
+            1130,
+            1100
+        ],
+        "Saturday": [
+            1130,
+            1100
+        ],
+        "Sunday": [
+            1130,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Pan de la casa y dip con aroma de pesto": 750.0,
+            "Frituras de malanga con Chutney de papaya picantica": 1350.0,
+            "Croquetas caseras con mayonesa ligera de pepino y limon": 1500.0,
+            "Empanadillas de yuca rellenas de cangrejo y melado de canha": 1650.0,
+            "Tacos de maiz o trigo con carnitas de cerdo confitadas, mojo estilizado, frijoles refritos, lechuga y cebolla caramelizada": 1650.0,
+            "Berenjena asada con pisto manchego y queso al graten": 2100.0,
+            "Pulpo salteado a la plancha con aceite de pimenton ahumado, escabeche de malanga y verduritas": 2550.0,
+            "Seviche de pescado del dia": 2400.0,
+            "Crema de calabaza con costrones de pan y queso": 1350.0,
+            "Sopa-crema de pollo a la casera": 1500.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo en aderezo Satay, champinones, frutos secos y vegetales": 3300.0
+        },
+        "Pork": {
+            "Chuleton de cerdo sobre espejo de malanga, emulsion de tamarindo y brochetas de verduras a ala plancha": 4500.0,
+            "Masas de cerdo confitadas sobre mofongo de yuca y chicharrones": 3600.0,
+            "Wok de lonjas de filete, salteado de verduras y salsa teriyaki": 5400.0
+        },
+        "Beef": {
+            "Entrecot de res (anojo) triple A": 9000.0,
+            "Solomillo de res con salsa espanhola, queso azul y champinones": 6900.0,
+            "Carpaccio de res": 2400.0,
+            "Ropa vieja a lo cubano con macho maduro frito": 3900.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "Pasta fresca primavera con parmesano y pesto hecho a nuestro modo": 3300.0,
+            "Tagliatelle fresco al fruto de mar": 4500.0
+        },
+        "Seafood": {
+            "Langosta a la Habanera": 6000.0,
+            "Caldereta del mar con salsa picosa y azafran": 7500.0,
+            "Camarones a ala crema de coco y jengibre": 4800.0
+        },
+        "Fishes": {
+            "Filete de pescado del dia a lo principeno": 4200.0
+        },
+        "Desserts": {
+            "Tartas variadas del dia": 1400.0,
+            "Pie de limon": 1400.0,
+            "Helados": 1400.0,
+            "Flan de caramelo": 1120.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Arroz blanco": 600.0,
+            "Frijoles negros dormidos": 600.0,
+            "Vegetales salteados": 600.0,
+            "Tostones de platano": 600.0,
+            "Boniato frito": 600.0,
+            "Pure de malanga": 600.0,
+            "Platano maduro frito": 600.0,
+            "Ensalada Buena Salud": 1500.0
+        },
+        "Other": {
+            "Arroz caldoso con pollo, cerdo y butifarra": 3600.0,
+            "Arroz negro con pulpo, camarones, almejas y emulsion alioli": 4500.0,
+            "Confite de cordero en su esencia de vino y finas hierbas": 4200.0,
+            "Ensalada griega": 2100.0,
+            "Pinchos de camaron y pollo con pilaf de uvas pasas": 4500.0,
+            "Caprichosa": 2100.0,
+            "Decameron": 2100.0,
+            "Canoa de la pasion": 2850.0
+        },
+        "Drinks": {
+            "Mojito": 1500.0,
+            "Mojito 7 ": 2100.0,
+            "Cuba libre ": 1350.0,
+            "Daiquiri": 1500.0,
+            "Daikiri de frutas": 1800.0,
+            "Coctel Decameron": 1800.0,
+            "Cubata": 1350.0,
+            "Ron Collins": 1500.0,
+            "Pina colada": 1950.0,
+            "Cubanito": 1950.0,
+            "Havana Special": 1500.0,
+            "Bloody Mary": 1950.0,
+            "Mary Pickford": 1500.0,
+            "Sangria de vino tinto": 1950.0,
+            "Sangria de vino blanco": 1950.0,
+            "Jarra de sangria": 3000.0,
+            "Tinto de verano": 1800.0,
+            "Michelada": 1500.0,
+            "Chelada": 1500.0,
+            "Manhattan": 3000.0,
+            "Caipirina": 2400.0,
+            "Caipiroska": 2400.0,
+            "Martini": 2400.0,
+            "Tom collins": 1500.0,
+            "Gin-tonic": 2400.0,
+            "Vodka Tonic": 2400.0,
+            "Moscow Mule": 2400.0,
+            "Limonada": 1200.0,
+            "Limonada frappe": 1350.0,
+            "Limonada verde frescura": 1500.0,
+            "Jugos naturales": 750.0,
+            "Agua natural nacional": 450.0,
+            "Agua natural nacional grande": 750.0,
+            "Agua con gas nacional": 750.0,
+            "Cervezas": 750.0,
+            "Cervezas Heineken": 1050.0,
+            "Refrescos": 600.0,
+            "Refrescos importados": 750.0,
+            "Bebidas energeticas": 900.0,
+            "Copa de vino tinto/blanco": 1350.0,
+            "Black Russian": 2100.0,
+            "Screwdriver": 1800.0,
+            "Canchanchara": 1800.0,
+            "Concha 7": 1800.0,
+            "Orgasmo": 2550.0,
+            "Aperol Spritz": 2550.0,
+            "Aperol Negroni": 2550.0,
+            "Negroni": 2550.0,
+            "Aperol collins": 2550.0,
+            "Mimosa": 2550.0,
+            "Margarita": 2550.0,
+            "Presidente seco": 1800.0,
+            "Presidente dulce": 1800.0,
+            "San Francisco": 1200.0
+        }
+    }
+}

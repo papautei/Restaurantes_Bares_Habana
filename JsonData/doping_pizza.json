@@ -1,0 +1,120 @@
+{
+    "Name": "Doping pizza",
+    "Specialty": [
+        "italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": "@dopingpizzas"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.1,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ensalada fria natural": 500.0,
+            "Ensalada fria de jamon": 600.0,
+            "Ensalada fria de atun": 700.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza napolitana": 1000.0,
+            "Pizza de jamon": 1100.0,
+            "Pizza hawaiana": 1300.0,
+            "Pizza de atun": 1300.0,
+            "Pizza de chorizo": 1400.0,
+            "Pizza de bacon": 1400.0,
+            "Pizza doping extreme": 1500.0
+        },
+        "Pasta": {
+            "Spaghetti napoles": 900.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Paletica de helado clasica": 150.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Queso": 450.0,
+            "Jamon": 350.0,
+            "Chorizo": 350.0,
+            "Atun": 400.0,
+            "Cebolla": 200.0,
+            "Pimiento": 200.0,
+            "Aceituna": 300.0,
+            "Bacon": 400.0
+        },
+        "Other": {
+            "Lasanha": 1300.0
+        },
+        "Drinks": {
+            "Agua": 150.0,
+            "Refresco": 250.0,
+            "Malta": 300.0,
+            "Malteada": 650.0,
+            "Jugos": 300.0,
+            "Cerveza": 300.0
+        }
+    }
+}

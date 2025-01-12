@@ -1,0 +1,196 @@
+{
+    "Name": "chacon 162",
+    "Specialty": [
+        " Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Callejon entrechacon y compostela"
+    },
+    "Contact": {
+        "Web": "Chacon 162",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            1200
+        ],
+        "Tuesday": [
+            1100,
+            1200
+        ],
+        "Wednesday": [
+            1100,
+            1200
+        ],
+        "Thursday": [
+            1100,
+            1200
+        ],
+        "Friday": [
+            1100,
+            1200
+        ],
+        "Saturday": [
+            1100,
+            1200
+        ],
+        "Sunday": [
+            1100,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Cebiche de pescado": 1650.0,
+            "Empanaditas": 650.0,
+            "Croquetas": 700.0,
+            "Brusquetas": 680.0,
+            "Garbanzo frito": 1250.0
+        },
+        "Bread": {
+            "Baguette de ropa vieja y palmesano": 1700.0,
+            "Baguette de pollo": 1700.0,
+            "Baguette de vegetales": 1100.0
+        },
+        "Chicken": {
+            "Pollo grille": 2200.0
+        },
+        "Pork": {
+            "Masa de cerdo": 2900.0,
+            "Costillas de cerdo": 3100.0,
+            "Bistec de cerdo": 2500.0
+        },
+        "Beef": {
+            "Filete mignon": 6000.0,
+            "Ropa vieja": 2500.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "Frutti de mare": 2700.0,
+            "Al buey": 2200.0,
+            "Pollo al curri": 2100.0,
+            "Vegetales": 1700.0,
+            "Salmon": 2950.0,
+            "Camaron": 2700.0
+        },
+        "Seafood": {
+            "Camaron al gusto": 2900.0,
+            "Camaron al ajillo": 3200.0,
+            "Pulpo al gusto": 4800.0,
+            "Pescado grille": 2600.0,
+            "Langosta al gusto": 2980.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Tarta de la casa": 700.0
+        },
+        "Sides": {},
+        "Other": {
+            "Caldo marinero": 1450.0,
+            "Caldo de vegetales": 990.0,
+            "Caldo de pollo": 1350.0,
+            "Ensalada de vegetales": 690.0,
+            "Ensalada cesar con salmon": 1700.0,
+            "Ensalada cesar": 1450.0,
+            "Ensalada verde de la casa": 700.0,
+            "Arroz meloso": 2950.0,
+            "Arroz frito": 2500.0,
+            "Tacos de marisco": 2300.0,
+            "Tacos de ropa vieja": 2200.0,
+            "Tacos frio de marisco": 2300.0,
+            "Taco de pollo": 2100.0
+        },
+        "Drinks": {
+            "Bloddy mary twin": 1100.0,
+            "Michelada street bob": 1400.0,
+            "Martini": 1050.0,
+            "Michelada de la casa": 1000.0,
+            "Mojito": 900.0,
+            "Jinger mojito": 1050.0,
+            "Mojito anhejo": 1050.0,
+            "Mojito loco": 1200.0,
+            "Mojito de fruta": 950.0,
+            "Caipi de fruta": 950.0,
+            "Cuba libre": 900.0,
+            "Cubata": 950.0,
+            "Canchanchara": 900.0,
+            "Daiquiri": 900.0,
+            "Daiquiri de frutas": 950.0,
+            "Habana special": 1000.0,
+            "Caipirinha": 900.0,
+            "Caipiroska": 900.0,
+            "Caipirissima": 900.0,
+            "Bloddy mary": 950.0,
+            "Cubanito": 900.0,
+            "Margarita": 1000.0,
+            "Sangria": 1000.0,
+            "Pinha colada": 1050.0,
+            "Gin tonic": 1100.0,
+            "Habana club anhejo especial": 550.0,
+            "Habana club anhejo 3 anhos": 500.0,
+            "Habana club anhejo reserva": 600.0,
+            "Habana club anhejo 7 anhos": 750.0,
+            "Habana club pacto navio": 1650.0,
+            "Habana club seleccion de maestros": 1600.0,
+            "Santiago anhejo": 1000.0,
+            "Santiago anhejo 11 anhos": 1500.0,
+            "Santiago anhejo 12 anhos": 1550.0,
+            "Copa de vino tinto": 900.0,
+            "Copa de vino blanco": 900.0,
+            "Whisky clan campell": 1000.0,
+            "Ballantines": 1100.0,
+            "Ballentines 12": 1200.0,
+            "Chivas regal 12": 1500.0,
+            "Chivas regal 18 anhos": 1550.0,
+            "Chivas regal extra": 1550.0,
+            "Jb": 1550.0,
+            "Hamesson": 1100.0,
+            "Jhonny walker black label": 1500.0,
+            "Jhonny walker red label": 1400.0,
+            "Jack daniels": 1600.0,
+            "Pepsi cola": 600.0,
+            "Sprite": 600.0,
+            "Jugos naturales": 550.0,
+            "Limonada": 600.0,
+            "Limonada de pepino y apio": 650.0,
+            "Agua natural": 500.0,
+            "Agua gaseada": 600.0,
+            "Agua tonica": 650.0,
+            "Cafe espresso": 360.0,
+            "Cafe cortado": 420.0,
+            "Cafe con leche": 420.0,
+            "Cafe capuccino": 480.0,
+            "Cafe frapuccino": 960.0,
+            "Te": 330.0,
+            "Cerveza nacional": 850.0,
+            "Cerveza importada": 700.0
+        }
+    }
+}

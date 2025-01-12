@@ -1,0 +1,184 @@
+{
+    "Name": "Cafe Versalles",
+    "Specialty": [
+        "Bar",
+        "Criolla"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "Marti"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2400
+        ],
+        "Tuesday": [
+            900,
+            2400
+        ],
+        "Wednesday": [
+            900,
+            2400
+        ],
+        "Thursday": [
+            900,
+            2400
+        ],
+        "Friday": [
+            900,
+            2400
+        ],
+        "Saturday": [
+            900,
+            2400
+        ],
+        "Sunday": [
+            900,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "ensalada fria de jamon": 500.0,
+            "ensalada fria de atun": 700.0,
+            "croquetas de la casa": 500.0,
+            "eperlan de pescado": 1600.0,
+            "fajitas de pollo empanado": 1500.0,
+            "maripositas chinas": 700.0,
+            "ceviche pescado": 1000.0,
+            "cesta bananera": 850.0,
+            "coctel de camaron": 1200.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pollo grille": 1400.0,
+            "pollo cantones": 2200.0,
+            "gordon bleu": 2500.0,
+            "medio pollo al carbon con bbq": 2500.0
+        },
+        "Pork": {
+            "chuleta de cerdo al carbon con bbq 1 libra": 3600.0,
+            "solomillo de cerdo al carbon con bbq 1 libra": 3000.0,
+            "uruguayo de cerdo": 2500.0,
+            "masa de cerdo frita 300 gr": 2800.0,
+            "bistec de cerdo encebollado": 1600.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "pizza napoles": 900.0,
+            "pizza queso gouda": 1260.0,
+            "pizza jamon": 1150.0,
+            "pizza chorizo": 1250.0,
+            "pizza camarones": 1700.0,
+            "pizza cebolla": 1150.0,
+            "pizza aceituna": 1200.0,
+            "pizza pinna": 1150.0,
+            "pizza atun": 1250.0,
+            "pizza lomo ahumado": 1250.0,
+            "pizza beicon": 1300.0,
+            "pizza pimiento": 1200.0
+        },
+        "Pasta": {
+            "spaghettis": 800.0,
+            "lazanna de jamon": 1200.0
+        },
+        "Seafood": {
+            "camaron al gusto": 2500.0
+        },
+        "Fishes": {
+            "pescado versalles": 2800.0,
+            "canciller": 2800.0,
+            "montetoro": 2200.0,
+            "filete grille": 1600.0,
+            "camaron al gusto": 2500.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "agua natural": 200.0,
+            "refresco importado": 250.0,
+            "refresco nacional": 250.0,
+            "malta": 320.0,
+            "jugos naturales": 350.0,
+            "ron seleccion de maestros": 900.0,
+            "ron annejo especial": 350.0,
+            "ron santiago": 500.0,
+            "ron cubay": 350.0,
+            "ron 3 annos": 350.0,
+            "ron reserva": 350.0,
+            "ron 7 annos": 350.0,
+            "tequila reposado": 600.0,
+            "tequila olmega silver": 500.0,
+            "whisky chivas regal": 1000.0,
+            "whisky white label": 350.0,
+            "whisky ballantines": 450.0,
+            "whisky jack daniels": 450.0,
+            "whisky jameson": 450.0,
+            "vodka absolut": 500.0,
+            "daiquiri": 500.0,
+            "tinto verano": 500.0,
+            "jack in black": 600.0,
+            "bandera": 600.0,
+            "margarita": 600.0,
+            "margarita blue": 700.0,
+            "daiquiri frutas": 600.0,
+            "daiquiri rebelde": 500.0,
+            "cubanito": 500.0,
+            "bloody mary": 600.0,
+            "limonada frappe": 250.0,
+            "limonada clarete": 400.0,
+            "sangria": 500.0,
+            "pinna colada": 550.0,
+            "limonada frescura": 350.0,
+            "cubata": 700.0,
+            "cuba libre": 500.0,
+            "mojito": 500.0,
+            "ron collins": 500.0,
+            "caipirissima": 500.0,
+            "caipiroska": 500.0,
+            "caipiroska vip": 850.0,
+            "vodka tonic": 850.0,
+            "gin tonic": 700.0,
+            "cerveza cristal": 350.0,
+            "cerveza importada (heineken)": 400.0,
+            "jarra de cerveza": 550.0,
+            "tarro de cerveza": 2500.0,
+            "cafe rocio de gallo": 250.0,
+            "cafe expreso": 100.0,
+            "cafe bombon": 250.0,
+            "cafe cortado": 200.0
+        }
+    }
+}

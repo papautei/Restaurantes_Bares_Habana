@@ -1,0 +1,126 @@
+{
+    "Name": "El chanchullero",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Teniente Rey entre Bernaza y Cristo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tapas de tomate": 350.0,
+            "Tapas de guacamole": 350.0,
+            "Tapas de carne": 500.0,
+            "Tacos con carne": 550.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo al ajillo": 1050.0,
+            "Fricase de pollo": 1200.0
+        },
+        "Pork": {
+            "Fricase de cerdo": 1200.0,
+            "Cerdo encebollado juliana": 1200.0,
+            "Completa de lomo ahumado": 850.0
+        },
+        "Beef": {
+            "Ropa vieja": 1300.0
+        },
+        "Pizza": {
+            "Napolitana": 950.0,
+            "Margarita": 1000.0,
+            "De jamon": 1100.0,
+            "De chorizo": 1100.0,
+            "Vegetariana": 1000.0,
+            "Chanchullero": 1100.0
+        },
+        "Pasta": {},
+        "Seafood": {
+            "Pescado chanchullero": 1750.0,
+            "Reina al ajillo": 1800.0,
+            "Reina enchilada": 1800.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Mojito chanchullero": 400.0,
+            "Cuba libre": 400.0,
+            "Catarro": 400.0,
+            "Caipirissima": 400.0,
+            "Caipiroska": 450.0,
+            "Agua natural": 350.0,
+            "Refresco importado": 400.0,
+            "Jugo enlatado": 400.0,
+            "Limonada frappe": 600.0,
+            "Limonadafrescura": 650.0,
+            "Cerveza": 400.0,
+            "La chelada": 575.0,
+            "La michelada": 600.0,
+            "Daiquiri": 500.0,
+            "Copa de vino": 650.0,
+            "Tinto de verano": 600.0
+        }
+    }
+}

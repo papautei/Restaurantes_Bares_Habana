@@ -1,0 +1,99 @@
+{
+    "Name": "El Batazo",
+    "Specialty": [
+        "Pizzeria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Primelles 356 entre Santa Teresa y Daois"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2200
+        ],
+        "Tuesday": [
+            1100,
+            2200
+        ],
+        "Wednesday": [
+            1100,
+            2200
+        ],
+        "Thursday": [
+            1100,
+            2200
+        ],
+        "Friday": [
+            1100,
+            2200
+        ],
+        "Saturday": [
+            1100,
+            2200
+        ],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "Hamburguesa strike": 550.0,
+            "Hamburguesa doble play": 1000.0,
+            "Hamburguesa homerun": 1300.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de queso": 750.0,
+            "Pizza de chorizo": 930.0,
+            "Pizza de jamon": 930.0,
+            "Pizza de hawaiana": 1130.0,
+            "Pizza de cebolla": 950.0,
+            "Pizza de aji": 950.0,
+            "Pizza de atun": 1250.0,
+            "Pizza de aceitunas": 950.0,
+            "Pizza de peperoni": 1050.0
+        },
+        "Pasta": {
+            "spaghettis": 600.0,
+            "spaghettis de jamon": 780.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

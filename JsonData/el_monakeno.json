@@ -1,0 +1,186 @@
+{
+    "Name": "El Monakeno",
+    "Specialty": [
+        "Cocina rapida"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "Avenida Mayia Rodriguez entre Acosta y O'Farril"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            200
+        ],
+        "Saturday": [
+            1200,
+            200
+        ],
+        "Sunday": [
+            1200,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas": 900.0,
+            "Bolitas de queso": 1000.0,
+            "Queso frito": 950.0,
+            "Papas fritas": 400.0,
+            "Brusquetas": 700.0,
+            "Fajitas de pollo": 1300.0,
+            "Tapas Monakeno": 2000.0,
+            "Picadera Monakeno": 2500.0,
+            "Picadera Super Monakeno": 5000.0
+        },
+        "Bread": {
+            "Hot Dog": 1100.0,
+            "Sandwich Cubano": 2100.0,
+            "Hamburguesa de res": 1500.0,
+            "Sandwich de atun": 1500.0,
+            "Sandwich de jamon y queso": 1200.0,
+            "Hamburguesa Monakeno Azul": 2000.0
+        },
+        "Chicken": {
+            "Pechuga de pollo grille": 2200.0
+        },
+        "Pork": {
+            "Chuleta de cerdo": 2400.0,
+            "Camaron al gusto": 2500.0
+        },
+        "Beef": {
+            "Solomillo de res": 5500.0,
+            "Carpaccio de res": 1900.0,
+            "Ropa Vieja de res o Vaca Frita": 2800.0,
+            "Milanesa Monakeno": 2150.0,
+            "Picadillo de res a la Habanera": 2600.0
+        },
+        "Pizza": {
+            "Pizza de nutella": 1050.0,
+            "Pizza Margarita": 1650.0,
+            "Pizza Monakeno": 2600.0,
+            "Pizza Napolitana": 1150.0,
+            "Pizza de atun": 1850.0,
+            "Pizza de jamon": 1750.0,
+            "Pizza hawaiana": 1800.0,
+            "Pizza Panna": 1950.0,
+            "Pizza Prosciutto": 2150.0
+        },
+        "Pasta": {
+            "Pasta Napolitana": 1450.0,
+            "Pasta Carbonara": 2500.0,
+            "Pasta Alfredo": 1500.0,
+            "Pasta Amatriciana": 2400.0,
+            "Pasta de 4 Quesos": 2200.0,
+            "Pasta de vegetales": 1150.0,
+            "Pasta al Pesto": 1500.0,
+            "Pasta Bolognesa": 2200.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Tarta Flan": 1000.0,
+            "Cheesecake": 1125.0,
+            "Helados": 550.0,
+            "Flan casero": 650.0
+        },
+        "Additions": {
+            "Champignones": 250.0,
+            "Queso azul": 550.0,
+            "Queso Parmesano": 800.0,
+            "Camaron": 1100.0,
+            "Bacon": 500.0,
+            "Chorizo extra vela": 700.0,
+            "Queso Gouda": 500.0,
+            "Aceitunas": 400.0,
+            "Pina glaseada": 150.0,
+            "Cebolla": 250.0,
+            "Pimiento": 250.0,
+            "Jamon Euro": 400.0,
+            "Huevo": 200.0,
+            "Jamon Serrano": 800.0,
+            "Atun": 550.0
+        },
+        "Sides": {
+            "Guarnicion de arroz blanco": 250.0,
+            "Vegetales salteados": 250.0,
+            "Pure de boniato": 200.0
+        },
+        "Other": {
+            "Ensalada de atun y vegetales": 1500.0,
+            "Ensalada Italiana": 2300.0,
+            "Ensalada Monakeno": 1200.0
+        },
+        "Pizzas": {},
+        "Drinks": {
+            "Cafe Expresso": 200.0,
+            "Cafe Cortado": 250.0,
+            "Frappuccino": 400.0,
+            "Screw Driver": 600.0,
+            "Screw Driver Absolute": 900.0,
+            "Ron Collins": 650.0,
+            "Margarita": 800.0,
+            "Sangria": 700.0,
+            "Daiquiri": 700.0,
+            "Mojito": 700.0,
+            "Cuba Libre": 600.0,
+            "Pina Colada": 800.0,
+            "Caipirinha": 650.0,
+            "Caipiroska": 650.0,
+            "Caipirissima": 650.0,
+            "Happy Monakeno": 1250.0,
+            "Michelada": 200.0,
+            "Chelada": 150.0,
+            "Limonada": 450.0,
+            "Cerveza Embrau": 280.0,
+            "Cubetazo de cerveza Embrau": 1400.0,
+            "Red Bull": 500.0,
+            "Cubetazo de cerveza Cristal": 1800.0
+        }
+    }
+}

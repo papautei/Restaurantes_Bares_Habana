@@ -1,0 +1,165 @@
+{
+    "Name": "Cafe Aroma",
+    "Specialty": [
+        [
+            "cofee"
+        ]
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "La Lisa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Nachos con Salsa": 200,
+            "Croquetas": 320,
+            "Picadera Aroma": 550,
+            "Sandwich de Jamon y Queso": 360,
+            "Sandwich de Jamon": 360,
+            "Sandwich de Queso": 360,
+            "Sandwich de Pollo": 370,
+            "Sandwich de Atun": 480,
+            "Sandwich Hawaiano": 430
+        },
+        "Bread": {
+            "Hamburguesa Sencilla": 450
+        },
+        "Chicken": {},
+        "Pork": {
+            "Fajitas de Cerdo": 600
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Enchilado de Cangrejo": 600
+        },
+        "Fishes": {
+            "Eperlan de Pescado": 700
+        },
+        "Desserts": {
+            "Donas": 200,
+            "Helado/Galletas": 320,
+            "Bola de Helado": 140,
+            "Dulce Aroma": 350
+        },
+        "Additions": {
+            "agrego de Jamon": 220,
+            "agrego de queso blanco": 200,
+            "agrego de queso gouda": 220,
+            "agrego de aceitunas": 200,
+            "agrego de pina": 170,
+            "agrego de atun": 250
+        },
+        "Sides": {},
+        "Other": {
+            "Garbanzos Fritos": 600,
+            "Tacos de Pollo": 500,
+            "Tacos de Cangrejo": 600,
+            "Tacos de Cerdo": 620,
+            "Tacosd de Ropa Vieja": 750,
+            "Tacos de Jamon Pierna": 750,
+            "Tostones rellenos de Jamon y Queso": 380,
+            "Tostones Rellenos de Atun": 400,
+            "Tostones Rellenos de Ropa Vieja": 500
+        },
+        "Drinks": {
+            "Caipirinha": 250,
+            "Daiquiri": 250,
+            "Caipiroska": 280,
+            "Caipirisima": 280,
+            "Screwdriver": 280,
+            "Mojito": 300,
+            "Mojito Ruso": 300,
+            "Cremas de Tequila": 320,
+            "Pina Colada": 350,
+            "Martini": 300,
+            "Copa de Vino": 300,
+            "Gin & Tonic": 350,
+            "Sex on the Beach": 320,
+            "Sangria": 350,
+            "Margarita": 350,
+            "Orgasmo": 350,
+            "Cervezas Importadas": 230,
+            "Habana Club 3 anos": 250,
+            "Habana Club Especial": 280,
+            "Habana Club Reserva": 300,
+            "Habana Club 7 anos": 350,
+            "Habana Club Smoky": 350,
+            "Seleccion de Maestros": 600,
+            "Pacto Navio": 600,
+            "Black Tears Super Dry": 250,
+            "Black Tears Roble Superior": 300,
+            "Tequila Olmeca": 300,
+            "Crema Baileys": 300,
+            "Jagermeiste": 380,
+            "Vodka": 250,
+            "Ciroc": 400,
+            "Expresso": 100,
+            "Capuccino": 150,
+            "Cortadito": 120,
+            "Moka": 180,
+            "Carajillo": 180,
+            "Especiado": 110,
+            "Americano": 115,
+            "Bombon": 110,
+            "Cremoso": 300,
+            "Jugo Natural": 250,
+            "Limonada": 100,
+            "Batido de Chocolate": 180,
+            "Batido de Frutas": 280,
+            "Batido de Helado": 330,
+            "Batido de Helado Plus": 380,
+            "Frapuccino": 550,
+            "Frapuccino Moka": 280,
+            "Frapuccino Aroma": 300,
+            "Frapuccino Sorpresa": 350,
+            "Frapuccino Mousse": 380,
+            "Capricho": 350,
+            "Refresco Importado": 210,
+            "Malta": 250,
+            "Agua": 150,
+            "Jugo de Caja Pequeno": 190,
+            "Jugo de Caja Grande": 450,
+            "Pomo de Refresco": 500
+        }
+    }
+}

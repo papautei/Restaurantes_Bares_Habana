@@ -1,0 +1,107 @@
+{
+    "Name": "2KFE",
+    "Specialty": [
+        "Mexicana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Regla",
+        "Address": "Pereira entre Marti y Maceo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas": 300.0,
+            "Viandas fritas": 100.0,
+            "Brusquetas": 250.0,
+            "Entremes surtido": 800.0,
+            "Mini gordon bleu": 800.0,
+            "Plato combinado": 1200.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {
+            "Tacos carnitas": 850.0,
+            "Tacos res": 900.0,
+            "Tacos pollo": 600.0,
+            "Tacos vegetariano": 400.0,
+            "Tacos jamon y queso": 650.0
+        },
+        "Drinks": {
+            "Espresso": 100.0,
+            "Americano": 100.0,
+            "Cortadito": 150.0,
+            "Con leche": 180.0,
+            "Caramel macchiato": 250.0,
+            "Cappuccino": 220.0,
+            "Frappuccino": 500.0,
+            "Irlandes": 250.0,
+            "Alma mia": 180.0,
+            "Minty coffee": 250.0,
+            "2kf": 250.0,
+            "Lujo": 600.0
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "Name": "Atlanta",
+    "Specialty": [
+        "cubana",
+        "variada"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Atlanta #9, entre Calzada de Porvenir y Calzada de Diez de Octubre, La Palma, Arroyo Naranjo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "croquetas de la casa": 850.0,
+            "ensalada de pollo": 950.0,
+            "tostones rellenos": 850.0,
+            "frituras de malanga": 650.0,
+            "garbanzos fritos": 1200.0,
+            "eperlan de picar": 1200.0,
+            "fajitas de pollo": 950.0,
+            "ceviche ATLANTA": 950.0
+        },
+        "Bread": {
+            "sandwich de jamon y queso": 850.0,
+            "sandwich de Media Noche": 1650.0,
+            "sandwich Cubano": 1650.0,
+            "sandwich de atun": 1300.0,
+            "Cheeseburguer": 1200.0,
+            "hamburguesa ATLANTA": 1500.0
+        },
+        "Chicken": {
+            "arroz con pollo a la chorrera": 1500.0,
+            "pollo frito/asado": 1500.0,
+            "pechuga de pollo grille": 1600.0,
+            "pechuga gratinada": 1850.0,
+            "pechuga princesa": 2000.0,
+            "Gordon Blue": 2500.0,
+            "pechugon ATLANTA": 2650.0
+        },
+        "Pork": {
+            "bistec de cerdo grille": 1600.0,
+            "masas de cerdo fritas": 2000.0,
+            "bistec uruguayo de cerdo": 2500.0,
+            "lomo ahumado grille": 1850.0,
+            "lomo ahumado gratinado c/queso": 2150.0,
+            "lomo ahumado a la pinna": 2000.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "pizza napolitana": 950.0,
+            "pizza ATLANTA": 1800.0
+        },
+        "Pasta": {
+            "spaghetti Napolitano": 950.0,
+            "lasagna de jamon": 950.0
+        },
+        "Seafood": {},
+        "Fishes": {
+            "filete de pescado grille": 1850.0,
+            "filete de pescado con queso": 2200.0,
+            "filete canciller": 2500.0
+        },
+        "Desserts": {
+            "suero de helado": 850.0
+        },
+        "Additions": {},
+        "Sides": {
+            "arroz blanco": 320.0,
+            "ensalada mixta": 320.0,
+            "arroz congris": 480.0,
+            "vianda frita": 320.0
+        },
+        "Other": {
+            "tacos ATLANTA": 1650.0,
+            "arroz frito": 1200.0,
+            "arroz frito especial": 1400.0,
+            "paella valenciana": 1500.0,
+            "paella mixta": 1650.0
+        },
+        "Drinks": {
+            "agua natural": 250.0,
+            "refrescos importados": 350.0,
+            "jugos naturales": 350.0,
+            "batidos de frutas": 600.0,
+            "red bull": 650.0,
+            "malta Bucanero": 400.0,
+            "maltas (otras marcas)": 350.0,
+            "chelada": 200.0,
+            "michelada": 250.0,
+            "roncollins": 600.0,
+            "calimocho": 600.0,
+            "tinto de verano": 700.0,
+            "caipiroska": 700.0,
+            "caipirinha": 700.0,
+            "caipirisima": 700.0,
+            "canchanchara": 600.0,
+            "pinna colada": 700.0,
+            "cubalibre": 650.0,
+            "sangria": 700.0,
+            "mojito": 700.0,
+            "daiquiri": 700.0,
+            "cubata": 800.0,
+            "cubanito": 800.0,
+            "sex on the beach": 800.0,
+            "bloody mary": 800.0,
+            "gintonic": 900.0,
+            "vodkatonic": 900.0,
+            "margarita": 900.0,
+            "jaggerbull": 1250.0,
+            "negroni": 1550.0,
+            "ginebra de la casa": 350.0,
+            "ginebra Beefeater": 500.0,
+            "ginebra Tanqueray": 700.0,
+            "ginebra Gordons": 1000.0,
+            "tequila silver de la casa": 700.0,
+            "tequila reposado de la casa": 750.0,
+            "tequila Olmeca silver": 750.0,
+            "tequila Olmeca reposado": 800.0,
+            "tequila Olmeca dark": 800.0,
+            "tequila Patron silver": 1550.0,
+            "tequila Patron reposado": 1700.0,
+            "vodka de la casa": 350.0,
+            "vodka Absolut": 650.0,
+            "vodka Grey Goose": 1550.0,
+            "whisky de la casa": 400.0,
+            "william lawson": 500.0,
+            "VAT 69": 500.0,
+            "Ballantines": 650.0,
+            "Jhonie W. etiqueta roja": 700.0,
+            "Jhonie W. etiq. negra": 1250.0,
+            "Buchanans deluxe": 1550.0,
+            "Chivas Regal": 1200.0,
+            "ron h.c. blanco": 350.0,
+            "ron h.c. 3 annos": 400.0,
+            "ron h.c. reserva": 500.0,
+            "ron h.c 7 annos": 550.0,
+            "ron santiago c. blanca": 500.0,
+            "ron santiago 8 annos": 1000.0,
+            "ron santiago 11 annos": 1450.0,
+            "ron santiango 12 annos": 1550.0,
+            "cerveza Cristal (lata)": 350.0,
+            "cerveza Cristal (botella)": 400.0,
+            "cerveza Bucanero": 350.0,
+            "cerveza Corona": 550.0,
+            "cerveza Heineken": 500.0,
+            "otras cervezas importadas": 300.0,
+            "copa de vino de la casa": 420.0,
+            "copa de vino Frontera": 500.0,
+            "cafe expreso": 250.0,
+            "cafe cortado": 320.0,
+            "cafe bombon": 400.0,
+            "capuccino": 450.0,
+            "frapuccino": 500.0,
+            "frapuccino con helado": 880.0
+        }
+    }
+}

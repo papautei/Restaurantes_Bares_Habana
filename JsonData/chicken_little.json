@@ -1,0 +1,152 @@
+{
+    "Name": "Chicken_Little",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ensalada de Pollo": 825.0,
+            "Coctel de Camaron": 1300.0,
+            "Coctel de Langosta": 1300.0,
+            "Tabla Surtida Chicken Little": 1995.0,
+            "Crudo de Pescado": 995.0,
+            "Sopa de Pollo con Fideos": 595.0,
+            "Tostones Rellenos": 895.0,
+            "Tostones Rellenos Mixtos": 925.0,
+            "Tapas de Pescado": 725.0,
+            "Tapas Mixtas": 995.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo Grille": 1650.0,
+            "Pollo al Ajillo": 1795.0,
+            "Pollo Salteado con Pinha": 1675.0,
+            "Pollo a la Mostaza": 1795.0,
+            "Suprema Especial de Pollo": 2150.0,
+            "Pollo Tropical": 2295.0,
+            "Pollo Princesa": 1995.0,
+            "Pollo Salteado con Vegetales": 1795.0,
+            "Bistec Uruguayo": 2795.0
+        },
+        "Pork": {
+            "Bistec de Cerdo Grille": 2050.0,
+            "Masas Fritas": 2395.0,
+            "Masas Hawaianas": 2550.0,
+            "Costillas de Cerdo Fritas": 1525.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Camaron Grille": 2495.0,
+            "Camaron al Ajillo": 2595.0,
+            "Camarones Enchilados": 2595.0,
+            "Camarones Empanados": 2595.0,
+            "Langosta Grille": 2595.0,
+            "Langosta Enchilada": 2595.0,
+            "Langosta al Ajillo": 2595.0,
+            "Tres Delicias": 2900.0,
+            "Gran Plato del Mar": 3300.0,
+            "Cazuela Marinera": 2995.0
+        },
+        "Fishes": {
+            "Filete de Pescado Grille": 1995.0,
+            "Pescado con Vegetales": 2095.0,
+            "Dados de Pescado al Ajillo": 2095.0,
+            "Filete Jon Ville": 2795.0,
+            "Filete Canciller": 2695.0,
+            "Filete Costa Sur": 2795.0,
+            "Filete Princesa": 2395.0
+        },
+        "Desserts": {
+            "Flan de Caramelo": 325.0,
+            "Helados": 450.0,
+            "Copa Lolita": 550.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Ron Havana Club 7 Anhos": 325.0,
+            "Ballantine Finest": 800.0,
+            "Ballantine 12": 600.0,
+            "Limonada Frappe": 650.0,
+            "Agua Nacional": 250.0,
+            "Agua Tonica": 250.0,
+            "Sodas Nacionales": 325.0,
+            "Sodas Importadas": 350.0,
+            "Malta": 400.0,
+            "Cerveza Nacional": 345.0,
+            "Cerveza Corona": 495.0,
+            "Mojito": 395.0,
+            "Daiquiri": 400.0,
+            "Cuba Libre": 450.0,
+            "Gin Tonic": 525.0,
+            "Caipirinha": 375.0,
+            "Caipiroska": 650.0
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "Name": "28 y Mar",
+    "Specialty": [
+        "internacional",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "28 y Mar Restaurante",
+        "Instagram": "@28_y_mar_restaurante"
+    },
+    "Schedule": {
+        "Monday": [
+            830,
+            2400
+        ],
+        "Tuesday": [
+            830,
+            2400
+        ],
+        "Wednesday": [
+            830,
+            2400
+        ],
+        "Thursday": [
+            830,
+            2400
+        ],
+        "Friday": [
+            830,
+            2400
+        ],
+        "Saturday": [
+            830,
+            2400
+        ],
+        "Sunday": [
+            830,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {
+            "Desayuno europeo": 1650.0,
+            "Desayuno americano": 1650.0,
+            "Desayuno miramar": 2150.0,
+            "Desayuno continental": 2800.0,
+            "Ensalada de frutas": 700.0,
+            "Tortilla natural": 750.0,
+            "Huevo frito o revuelto con bacon": 1050.0,
+            "Mini bocadito de jamon y queso": 800.0,
+            "Tostadas con mantequilla": 650.0,
+            "Crepes": 750.0
+        },
+        "Appetizers": {
+            "Crema aurora": 7500.0,
+            "Crema de queso": 750.0,
+            "Crema virginia": 750.0,
+            "Tapas variadas": 1100.0,
+            "Tapas de croquetas": 1250.0,
+            "Tostones rellenos": 950.0,
+            "Brusquetas": 950.0,
+            "Bolitas de queso": 950.0,
+            "Empanadas de queso azul": 1050.0,
+            "Empanadas de bolonesa": 1050.0,
+            "Fajitas de pollo": 1450.0
+        },
+        "Bread": {
+            "Hamburguesa otono": 1750.0,
+            "Hamburguesa jamon y queso": 1800.0,
+            "Hamburguesa jamon serrano": 1950.0,
+            "Sandwich de pepito": 3150.0,
+            "Sandwich de paquito": 2150.0,
+            "Sandwich de elena ruz": 1850.0,
+            "Sandwich de bocadito de atun": 1450.0,
+            "Sandwich de pollo": 1650.0,
+            "Sandwich de jamon serrano": 2150.0,
+            "Sandwich de atun": 1750.0,
+            "Sandwich de bolonesa": 2050.0,
+            "Sandwich de jamon pierna barra y chorizo": 2050.0,
+            "Sandwich vegetariano": 1350.0,
+            "Sandwich de pollo y bacon": 2050.0,
+            "Sandwich de jamon y queso": 1750.0
+        },
+        "Chicken": {
+            "Pechuga de pollo": 3500.0
+        },
+        "Pork": {
+            "Solomillo de cerdo": 4500.0
+        },
+        "Beef": {
+            "Solomillo de res": 6500.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "Spaghetti": 1150.0,
+            "Lasagna de jamon": 1750.0,
+            "Lasagna de bolonesa": 2150.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Jamon serrano": 850.0,
+            "Jamon barra": 400.0,
+            "Jamon pierna": 450.0,
+            "Chorizo": 450.0,
+            "Bacon": 450.0,
+            "Salsa bolonesa": 550.0,
+            "Pechuga de pollo": 650.0,
+            "Atun": 450.0,
+            "Champinon": 350.0,
+            "Aceitunas": 350.0,
+            "Vegetal de estacion": 350.0,
+            "Vianda frita": 350.0,
+            "Papas fritas": 550.0,
+            "Pina glaseada": 350.0,
+            "Queso gouda": 450.0,
+            "Queso mozzarella": 450.0,
+            "Queso parmesano": 550.0,
+            "Queso azul": 550.0,
+            "Nutella": 450.0
+        },
+        "Other": {
+            "Pollo y cerdo": 4000.0,
+            "Pollo y res": 5000.0,
+            "Res y cerdo": 5500.0,
+            "Trio de fantasia": 7250.0,
+            "Ensalada primavera": 1350.0,
+            "Ensalada caprichosa": 1750.0,
+            "Ensalada verano": 1650.0,
+            "Ensalada marinera": 1600.0
+        },
+        "Drinks": {
+            "Agua natural": 300.0,
+            "Agua natural importada": 350.0,
+            "Agua carbonatada": 300.0,
+            "Agua carbonatada importada": 850.0,
+            "Agua tonica mg": 600.0,
+            "Agua tonica schweppes": 900.0,
+            "Refresco nacional": 350.0,
+            "Refresco importado": 450.0,
+            "Malta": 450.0,
+            "Malteada": 650.0,
+            "Red bull": 650.0,
+            "Jugo de fruta natural": 350.0,
+            "Jugo de caja importado": 300.0,
+            "Kermato": 750.0,
+            "Cerveza": 650.0,
+            "Cafe expresso": 350.0,
+            "Cafe americano": 350.0,
+            "Cafe nespresso": 700.0,
+            "Cafe bombon": 550.0,
+            "Cafe capuchino": 700.0,
+            "Cafe capuchino nespresso": 950.0,
+            "Cafe cortado": 400.0,
+            "Cafe con leche": 600.0,
+            "Cafe irlandes": 700.0,
+            "Frapuccino": 750.0,
+            "Chocolate a la espanola": 600.0,
+            "Te caliente o frio": 350.0
+        }
+    }
+}

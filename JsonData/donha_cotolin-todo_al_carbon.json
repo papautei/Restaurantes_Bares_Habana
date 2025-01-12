@@ -1,0 +1,277 @@
+{
+    "Name": "Donha_Cotolin-Todo_al_Carbon",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Bruschettas de Pan": 650.0,
+            "Eperlan de Pescado": 800.0,
+            "Fajitas de Pollo": 800.0,
+            "Frituras de Malanga": 500.0,
+            "Tamal en Cazuela": 550.0,
+            "Tostones Rellenos": 550.0,
+            "Garbanzo Frito": 1500.0,
+            "Lasanha de Pollo": 850.0,
+            "Mas q Taco, es un Burrito": 600.0,
+            "Ensalada Fria": 500.0,
+            "Croquetas de la Casa": 250.0,
+            "Papas Fritas": 500.0,
+            "Coctel de Camarones": 1500.0,
+            "Tostones Rellenos de Camaron": 1000.0,
+            "Tabla de Picadera": 2500.0,
+            "Fabada Asturiana": 1500.0,
+            "Tacos de Camarones": 1000.0,
+            "Sandwich de Jamon": 450.0,
+            "Crema de Queso": 800.0,
+            "Crema Aurora": 900.0,
+            "Crema Virginia": 1250.0,
+            "Sopa de Pollo": 650.0
+        },
+        "Bread": {
+            "Super Hamburguesa": 1000.0,
+            "Hamburguesa Caprichosa": 1500.0,
+            "Hamburguesa Paro Cardiaco a Caballo": 2000.0
+        },
+        "Chicken": {
+            "Pollo Asado al Carbon": 1750.0,
+            "Pollo Asado a la Pinha": 1850.0,
+            "Pollo Frito": 1650.0,
+            "Gordon Bleu de Pollo": 2000.0,
+            "Bistec de Pechuga de Pollo": 2000.0,
+            "Arroz con Pollo a la Chorrera": 1250.0
+        },
+        "Pork": {
+            "Churrasco de Cerdo": 1650.0,
+            "Chuleta de Cerdo al Carbon": 2200.0,
+            "Costillas de Cerdo al Carbon": 2100.0,
+            "Masas de Cerdo a la Brasa": 2250.0,
+            "Lonjas de Cerdo Asado": 2500.0,
+            "Bistec de Cerdo Encebollado": 2500.0,
+            "Uruguayo de Cerdo": 3000.0,
+            "Tabla de la Donha": 4000.0,
+            "Brochetas de Cerdo al Carbon": 1750.0,
+            "Fricase de Cerdo": 1750.0,
+            "Lomo de Cerdo al Carbon y Gratinado(Racion para cuatro personas)": 6000.0,
+            "Super Ahumado": 3000.0,
+            "Solomillo de Cerdo": 2000.0
+        },
+        "Beef": {
+            "Ropa Vieja de Res": 1500.0,
+            "Bistec de Res Encebollado": 2600.0,
+            "Filet Minoni": 3250.0,
+            "Bistec de Higado de Res": 1800.0
+        },
+        "Pizza": {
+            "Napolitana": 350.0,
+            "De Jamon y Queso": 450.0,
+            "De Chorizo": 450.0,
+            "De Atun": 650.0,
+            "Pizza Mixta": 950.0,
+            "Pizza Hawaiana": 650.0,
+            "Pizza Bolonhesa": 900.0,
+            "F, Napolitana": 750.0,
+            "F, Pizza de Vegetales": 900.0,
+            "F, De Jamon y Queso": 1000.0,
+            "F. De Chorizo": 1000.0,
+            "F. De Atun": 1300.0,
+            "F. Pizza Mixta": 2000.0,
+            "F. Pizza Hawaiana": 1500.0,
+            "F. Pizza Bolonhesa": 1900.0,
+            "F. Pizza Ocho Estaciones": 2300.0,
+            "F. Pizza de Camaron": 2350.0,
+            "F. Pizza Margarita": 850.0
+        },
+        "Pasta": {
+            "Napolitano": 750.0,
+            "Spaguettis con Pollo": 850.0,
+            "Spaguettis con Jamon y Queso": 900.0,
+            "Spaguettis con Mariscos": 1300.0,
+            "Spaguettis a la Bolonhesa": 1350.0
+        },
+        "Seafood": {
+            "Camaron Rebosado": 2000.0,
+            "Enchilado de Camaron": 2100.0,
+            "Camaron al Ajillo": 1950.0,
+            "Camaron Hawaiano": 3000.0,
+            "Enchilado de Langosta": 2200.0,
+            "Langosta a la Plancha": 2200.0,
+            "Langosta Hawaiana": 3000.0,
+            "El Rey del Mar": 3000.0,
+            "Caldereta de Marisco": 3000.0,
+            "Enchilado de Cangrejo": 1600.0,
+            "Pulpo en su Tinta": 2500.0,
+            "Calamar relleno": 3500.0
+        },
+        "Fishes": {
+            "Pescado Frito Entero": 1500.0,
+            "Pescado al Jugo": 1850.0,
+            "Pescado Canciller": 2500.0,
+            "Pescado Frito mas Grande": 2300.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Fricase de Carnero": 1750.0,
+            "Paella Mar y Tierra": 3000.0
+        },
+        "Drinks": {
+            "Refresco de Lata": 300.0,
+            "Refresco Pomo Pequenho": 260.0,
+            "Refresco Pepsi": 350.0,
+            "Malta": 300.0,
+            "Malta Bucanero": 360.0,
+            "Jugos Naturales": 250.0,
+            "Agua Natural": 200.0,
+            "Agua Tonica": 300.0,
+            "Energizante": 350.0,
+            "Red Bull": 450.0,
+            "Baileys": 500.0,
+            "Ruavieja": 500.0,
+            "Jagermeister": 500.0,
+            "Licores de la Casa": 350.0,
+            "Gin MG": 650.0,
+            "Gin Master": 800.0,
+            "Beefeater": 700.0,
+            "Gin de la Casa": 400.0,
+            "Vodka de la Casa": 350.0,
+            "Vodka Absolut": 550.0,
+            "Olmeca Blanco": 400.0,
+            "Olmeca Reposado": 450.0,
+            "Jose Cuervo": 800.0,
+            "Tequila Rose": 1000.0,
+            "Tequila Patron": 2000.0,
+            "Vino Blanco": 450.0,
+            "Vino Tinto": 500.0,
+            "Ballentines": 650.0,
+            "Jameson": 650.0,
+            "J.W Black Label": 1200.0,
+            "J.W Jack Daniels": 1250.0,
+            "J.W Jred Label": 850.0,
+            "Black and White": 550.0,
+            "Torres 15": 550.0,
+            "Black Tears": 300.0,
+            "Habana Club Anhejo Blanco": 300.0,
+            "Habana Club 3 Anhos": 300.0,
+            "Habana Club Especial": 450.0,
+            "Habana Club 7 Anhos": 500.0,
+            "Habana Club Seleccion Maestro": 550.0,
+            "Habana Club Pacto Navio": 700.0,
+            "Habana Club Santiago 8 Anhos": 450.0,
+            "Habana Club Santiago 11 Anhos": 650.0,
+            "Habana Club Santiago 12 Anhos": 700.0,
+            "Cubay Extra Anhejo": 1350.0,
+            "Screwdriver": 450.0,
+            "Limonada Frappe": 450.0,
+            "Limonada Presidente": 500.0,
+            "Limonada Electrica": 600.0,
+            "Limonada Natural": 450.0,
+            "Limonada Red": 700.0,
+            "Cuba Libre": 500.0,
+            "Cubata": 650.0,
+            "Daiquiri Natural": 500.0,
+            "Daiquiri Frappe": 500.0,
+            "Daiquiri de Sabores": 600.0,
+            "Mojito": 550.0,
+            "Mojito de Fruta": 650.0,
+            "Mojito al Carbon": 1000.0,
+            "Old Mojito": 650.0,
+            "Gin Tonic": 650.0,
+            "Caipiroska": 450.0,
+            "Caipirisima": 450.0,
+            "Caipirinha": 450.0,
+            "Sangria": 600.0,
+            "Pinha Colada": 600.0,
+            "Canchanchara": 400.0,
+            "Canchanchara Gold": 500.0,
+            "Margarita": 500.0,
+            "Barbie": 800.0,
+            "Lucifer": 700.0,
+            "Flaming Lamborghini": 1250.0,
+            "Orgasmo": 800.0,
+            "Negroni": 750.0,
+            "Blue Lagoon": 450.0,
+            "Long Island": 1000.0,
+            "Black Russian": 500.0,
+            "Padrino": 800.0,
+            "Madrina": 800.0,
+            "Jaguerbull": 1000.0,
+            "Jaguer Laguer": 1000.0,
+            "Blue Hawaii": 800.0,
+            "Submarino": 800.0,
+            "Bloody Mary": 650.0,
+            "Cubanito": 600.0,
+            "Rikiti": 650.0,
+            "Martini Dry": 600.0,
+            "Old Fashioned": 850.0,
+            "Cerveza Cristal": 500.0,
+            "Cerveza Bucanero": 500.0,
+            "Cerveza Importada": 250.0,
+            "Cerveza Corona": 600.0
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "Name": "Eclectico",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Avenida paseo"
+    },
+    "Contact": {
+        "Web": "Eclectico Restaurant",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            630,
+            1030
+        ],
+        "Tuesday": [
+            630,
+            1030
+        ],
+        "Wednesday": [
+            630,
+            1030
+        ],
+        "Thursday": [
+            630,
+            1030
+        ],
+        "Friday": [
+            630,
+            1030
+        ],
+        "Saturday": [
+            630,
+            1030
+        ],
+        "Sunday": [
+            630,
+            1030
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tempura de mariscos y pescado": 4800.0,
+            "Tabla de charcuteria y quesos": 6400.0,
+            "Carpaccio de res con perlas de trufa, escamas de parmesamo, aceite de oliva extra virgen y avellanas tostadas": 5540.0,
+            "Tabla de quesos": 3840.0,
+            "Ensalada eclectico con vegetales de estacion, fruta tropical, queso fresco de cabra y aceitunas negras": 2880.0
+        },
+        "Bread": {
+            "Hamburguesa de solomillo de res con papas asadas": 6720.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "Espaguetti con calamar": 5120.0,
+            "Fettucine con cangrejo y tomate cherry": 5120.0,
+            "Fettucine con langosta y tomate cherry": 5120.0,
+            "Rigatoni con ragout de res": 3840.0,
+            "Espaguetti a la carbonara": 4480.0,
+            "Rissotto de hongos porcini, perejil y parmesano": 7040.0
+        },
+        "Seafood": {
+            "Pescado del dia con rissoto rosado, salsa verde y zanahorias glaseadas": 6080.0,
+            "Tataki de atun aleta negra en semilla de sesamo con salsa teriyaki y risotto de mar y tierra": 6720.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Cheescake de parmesano": 2560.0,
+            "Tiramisu eclectico": 1600.0,
+            "Gelato italiano": 1920.0
+        },
+        "Sides": {},
+        "Other": {
+            "Entrecot de ternera con papas fondat y zanahorias glaseadas": 11520.0
+        },
+        "Drinks": {
+            "The haze": 1200.0,
+            "Tropical daiquiri": 1000.0,
+            "Eclectico sling": 1000.0,
+            "Black dog": 1000.0,
+            "Havana purple": 700.0,
+            "Havana pink": 700.0,
+            "Havana rainbow": 700.0,
+            "Negroni": 2250.0,
+            "Old fashioned": 1500.0,
+            "Manhattan": 1800.0,
+            "El presidente": 1500.0,
+            "Hemingway daiquiri": 1500.0,
+            "Mary pickford": 1500.0,
+            "Mojito": 1250.0,
+            "Aperol spritz": 2500.0,
+            "Campari spritz": 2500.0,
+            "Campari soda": 2000.0,
+            "Campari orange": 2000.0,
+            "Pinha colada": 1500.0,
+            "Dry martini": 1500.0,
+            "Caipirinha": 1300.0,
+            "Caipiroska": 1300.0,
+            "Ron collins": 1100.0,
+            "Sangria": 1500.0,
+            "Margarita": 1300.0,
+            "Catalan sangria": 1500.0,
+            "Tinto verano": 1200.0,
+            "Vodka tonic": 1500.0,
+            "Blue lagoon": 1100.0,
+            "Ron santiago de cuba 11 anhos": 1600.0,
+            "Ron santiago de cuba 12 anhos": 2000.0,
+            "Vigia reserva 18 anhos": 5000.0,
+            "Cubat extra viejo": 5000.0,
+            "Cubay extra anhejo": 5000.0,
+            "Havana club profundo": 700.0,
+            "Havana club especial": 700.0,
+            "Havana club reserva": 800.0,
+            "Havana club 7 anhos": 1200.0,
+            "Ron santiago de cuba 8 anhos": 1400.0,
+            "Cerveza cristal": 550.0
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "Name": "El Mexicano",
+    "Specialty": [
+        "pizzas",
+        "pastas"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "Avenida Quinta"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "sandwich de jamon y queso": 350.0,
+            "sandwich de queso jamon especial": 600.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "pizza queso gouda": 450.0
+        },
+        "Pasta": {
+            "spaghetti queso gouda": 770.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "tigon": 300.0,
+            "malta 1 hyper": 270.0,
+            "pepsi": 270.0,
+            "mirinda": 280.0,
+            "perla negra": 270.0,
+            "ironbeer": 240.0,
+            "orange": 220.0,
+            "cola polo": 220.0,
+            "limon": 220.0,
+            "coca cola": 280.0,
+            "cerveza": 200.0,
+            "holandia": 200.0,
+            "cristal lata": 250.0,
+            "cristal botella": 200.0,
+            "shaka": 350.0
+        }
+    }
+}

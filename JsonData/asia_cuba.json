@@ -1,0 +1,159 @@
+{
+    "Name": "Asia Cuba",
+    "Specialty": [
+        "Comida asiatica"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": " Calle 6 ##562 entre 23 y 25, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            730,
+            100
+        ],
+        "Tuesday": [
+            700,
+            30
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            730,
+            100
+        ],
+        "Friday": [
+            730,
+            100
+        ],
+        "Saturday": [
+            730,
+            100
+        ],
+        "Sunday": [
+            730,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Caribe Zen Roll": 1840.0,
+            "Tartar Sakura Tango Saigon": 2500.0,
+            "Satay de Sumatra": 1550.0,
+            "Croquetas Sonaderas de pollo/ropa vieja": 1800.0,
+            "Mano del Dragon": 2080.0,
+            "Rey Mono": 2080.0,
+            "Dragon del mar": 2400.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Maki Saiko Ebi Hana": 2080.0,
+            "Brasa Patagonia": 6560.0,
+            "Brocheta Dak Galbi": 3840.0,
+            "Char Siu Delhi": 4160.0
+        },
+        "Pork": {
+            "Ssamn Kimuchi Tropical": 3200.0,
+            "Brocheta Gochu Vermounth Harmony": 4480.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Uramaki Umi no Haikiri": 1950.0,
+            "Langosta Coco Verde": 5760.0
+        },
+        "Fishes": {
+            "Bonito Tai Red": 3840.0,
+            "Nigiri Ika no Yume": 2400.0
+        },
+        "Desserts": {
+            "Sensei borracho": 1920.0,
+            "Maestro Shifu": 2080.0,
+            "Mei Mei": 1800.0,
+            "Maestro Shinobi": 1760.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Daiquiri": 900.0,
+            "Daiquiri de fruta": 1100.0,
+            "Gin Tonic Simple": 1400.0,
+            "Margarita": 900.0,
+            "Martini Dry": 1100.0,
+            "Michelada": 1100.0,
+            "Mojito": 900.0,
+            "Negroni": 1200.0,
+            "Aperol Spritz": 1400.0,
+            "Bloody Mary": 1100.0,
+            "Caipirisima": 900.0,
+            "Caipiroska": 900.0,
+            "Canchanchara": 900.0,
+            "Coctel Danzon": 1200.0,
+            "Coctel Mambo": 1200.0,
+            "Coctel Son": 1500.0,
+            "Coctel Tecno Sour": 1100.0,
+            "Coctel Tango": 1200.0,
+            "Cuba Libre": 900.0,
+            "Cubanito": 1200.0,
+            "Sambuca San Faustino": 600.0,
+            "Old Fashioned": 1500.0,
+            "Pinha Colada": 1200.0,
+            "Pisco Sour": 1400.0,
+            "Sangria": 1500.0,
+            "Penicillin": 1400.0,
+            "Lemon song": 1100.0,
+            "Okinawa spritz": 1400.0,
+            "Crema Bailys": 950.0,
+            "Frangelico": 1000.0,
+            "Limoncello": 600.0,
+            "Sirope de kiwi": 600.0,
+            "Sirope de Manzana": 125.0,
+            "Campari": 850.0,
+            "Licor de Cafe": 740.0,
+            "Whiskeys Jack Daniels": 1500.0,
+            "Whiskeys Jim Bean": 1200.0,
+            "Whiskeys Jhonny Walker Red Label": 1200.0,
+            "Whiskeys Jamenson": 850.0,
+            "Whiskys Jhonny Walker Black Label": 2000.0,
+            "Ron Havana Club Pacto Navio": 2000.0,
+            "Ron Havana Club 3 anos": 480.0,
+            "Ron Havana Club 7 anos": 900.0,
+            "Ron Santiago 8 anos": 950.0,
+            "Ron Santiago 11 anos": 1250.0,
+            "Ron Santiago 12 anos": 1650.0,
+            "Eminente 3 anos": 3000.0,
+            "Ron Black tears Roble Superior": 650.0,
+            "Ron seleccion de Maestros": 3300.0
+        }
+    }
+}

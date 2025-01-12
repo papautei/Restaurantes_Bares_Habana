@@ -1,0 +1,112 @@
+{
+    "Name": "Beirut",
+    "Specialty": [
+        "Comida libanesa",
+        "de oriente medio"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 1ra entre A y B, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            1100
+        ],
+        "Tuesday": [
+            1100,
+            1100
+        ],
+        "Wednesday": [
+            1100,
+            1100
+        ],
+        "Thursday": [
+            1100,
+            1100
+        ],
+        "Friday": [
+            1100,
+            1100
+        ],
+        "Saturday": [
+            1100,
+            1100
+        ],
+        "Sunday": [
+            1100,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "Shawarma de pollo": 1520.0,
+            "Shawarma arabe": 1520.0,
+            "Sandwich Falafel": 1420.0,
+            "Sandwich Shish Taouk": 1720.0,
+            "Sandwich Kabab": 1720.0
+        },
+        "Chicken": {
+            "Shish Taouk": 2950.0,
+            "Kabab": 2900.0,
+            "Shish Taouk-Kabab": 2800.0,
+            "Shish Kabab": 2000.0,
+            "Tajin": 3500.0,
+            "Mixto Beirut": 3700.0
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Fetuche": 1500.0,
+            "Ensalada mixta": 2000.0,
+            "Betabel": 2000.0,
+            "Ensalada Beirut": 2100.0,
+            "Tabule": 3000.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Limonada": 410.0,
+            "Agua nacional": 175.0,
+            "Refrescos importados": 290.0,
+            "Maltas": 290.0,
+            "Cervezas": 390.0,
+            "Jugos naturales": 410.0
+        }
+    }
+}

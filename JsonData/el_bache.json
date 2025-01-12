@@ -1,0 +1,91 @@
+{
+    "Name": "El Bache",
+    "Specialty": [
+        "italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Calle 30 entre 95 y 97,Las Brisas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1030,
+            2230
+        ],
+        "Tuesday": [
+            1030,
+            2230
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            1030,
+            2230
+        ],
+        "Friday": [
+            1030,
+            2230
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "pizza napolitana": 600.0,
+            "pizza doble queso": 800.0,
+            "pizza queso gouda": 900.0,
+            "pizza jam\u00f3n": 800.0,
+            "pizza chorizo": 800.0,
+            "pizza aceituna": 1350.0,
+            "pizza at\u00fan": 800.0,
+            "pizza cebolla": 1100.0,
+            "pizza hawaiana": 1450.0
+        },
+        "Pasta": {
+            "lasa\u00f1a": 800.0,
+            "lasa\u00f1a de queso gouda": 1200.0,
+            "espaguetti con queso gouda": 900.0,
+            "espaguetti": 600.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

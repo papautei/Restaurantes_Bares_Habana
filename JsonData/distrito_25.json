@@ -1,0 +1,179 @@
+{
+    "Name": "Distrito 25",
+    "Specialty": [
+        "Comida mexicana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 25 entre M y N, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            1000
+        ],
+        "Tuesday": [
+            1100,
+            1000
+        ],
+        "Wednesday": [
+            1100,
+            1000
+        ],
+        "Thursday": [
+            1100,
+            1000
+        ],
+        "Friday": [
+            1100,
+            1000
+        ],
+        "Saturday": [
+            1100,
+            1000
+        ],
+        "Sunday": [
+            1100,
+            1000
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Nachos": 400.0,
+            "Nachos Ranchero": 650.0,
+            "Chilaquile pollo": 650.0,
+            "Toston de jamon y queso": 550.0,
+            "Toston Tomasa": 700.0,
+            "Toston camaron": 800.0,
+            "Toston cangrejo": 900.0,
+            "Ceviche pescado": 850.0,
+            "Crudo camaron": 900.0,
+            "Coctel camaron": 1000.0,
+            "Coctel langosta": 1500.0,
+            "Tabla especial": 3000.0,
+            "Croquetas (5u)": 600.0,
+            "Croquetas (10u)": 1000.0,
+            "Ostiones": 500.0
+        },
+        "Bread": {
+            " Sandwich campesino": 750.0,
+            "Sandwich pollo": 550.0,
+            "Sandwich jamon y queso": 500.0
+        },
+        "Chicken": {
+            "Pollo en crema al caju": 1800.0,
+            "Pollo grille": 1500.0
+        },
+        "Pork": {
+            "Lomo mechado": 1700.0,
+            "Cerdo en crema de queso al cajun": 2500.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Pizza napolitana": 800.0
+        },
+        "Pasta": {
+            "Espaguetis napolitanos": 650.0,
+            "Espaguetis Fruti D\u00b4Mare": 1000.0
+        },
+        "Seafood": {
+            "Langostino": 2000.0,
+            "Camaron al gusto": 1600.0,
+            "Pulpo al gusto": 2000.0,
+            "Langosta": 2000.0,
+            "Caldereta de mariscos": 3500.0
+        },
+        "Fishes": {
+            "Filete de pescado": 1800.0
+        },
+        "Desserts": {},
+        "Additions": {
+            "jamon": 250.0,
+            "queso": 350.0,
+            "cebolla": 200.0,
+            "pina": 150.0,
+            "aceituna": 300.0,
+            "pimiento": 200.0,
+            "camaron": 350.0
+        },
+        "Sides": {},
+        "Other": {
+            "Mar y tierra": 4000.0,
+            "Burrito de cerdo": 900.0,
+            "Burrito Tomasa": 1000.0,
+            "Burrito Cangrejo": 1100.0,
+            "Burrito Langosta": 1500.0,
+            "Burrito Camaron": 1200.0,
+            "Super Burrito": 2000.0,
+            "Tacos Chochitos": 450.0,
+            "Tacos Pastor": 500.0,
+            "Tacos Habanero": 400.0,
+            "Tacos Tinga": 450.0,
+            "Tacos caribenhos": 500.0,
+            "Tacos Navilio": 700.0,
+            "Tacos Tomasa": 650.0,
+            "Quesadilla ": 400.0,
+            "Arroz meloso": 1800.0,
+            "Taco Estrella": 2000.0
+        },
+        "Drinks": {
+            "Mojito natural": 450.0,
+            "Mojito moreno": 600.0,
+            "Ron Collins": 400.0,
+            "Daiquiri natural": 400.0,
+            "Daiquiri de fresa": 500.0,
+            "Canchanchara": 500.0,
+            "Cancha": 550.0,
+            "Caipirisima": 500.0,
+            "Caipirina": 500.0,
+            "Caipiroska": 500.0,
+            "Sangria": 600.0,
+            "Pina colada": 600.0,
+            "Gin tonic": 500.0,
+            "Vodka tonic": 500.0,
+            "Blue Lagon": 550.0,
+            "Ballentines 12 anos": 600.0,
+            "Cuba libre ": 450.0,
+            "Limonada": 350.0,
+            "Limonada Frescura": 400.0,
+            "Cerveza nacional": 350.0,
+            "Cerveza importada": 300.0,
+            "Servicio Michelada": 200.0,
+            "Servicio Chelada": 150.0,
+            "Refresco Importado": 300.0,
+            "Jugo natural": 300.0,
+            "Batido de mamey": 700.0,
+            "Agua natural": 200.0,
+            "Energizante": 400.0
+        }
+    }
+}

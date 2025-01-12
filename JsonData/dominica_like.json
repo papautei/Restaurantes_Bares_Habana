@@ -1,0 +1,203 @@
+{
+    "Name": "Dominica Like",
+    "Specialty": [
+        "internacional",
+        "italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 11. e/ 6 y 8, Santiago de las Vegas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "coctel de camarones": 1100.0,
+            "papas fritas": 450.0,
+            "tostones rellenos (jamon y queso)": 550.0,
+            "croquetas de la casa (pollo o pescado)": 500.0,
+            "frituras de malanga": 450.0,
+            "ensalada fria": 650.0,
+            "crema de queso": 600.0,
+            "crema virginia": 600.0,
+            "crema aurora": 500.0,
+            "crema reina (pollo)": 500.0,
+            "entremes de jamon, queso y aceitunas": 800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "bastones de pechuga de pollo empanados": 1500.0,
+            "gordon blue de pechuga de pollo": 1700.0,
+            "pechuga a la pinna": 1400.0,
+            "bistec de pechuga grille": 1400.0
+        },
+        "Pork": {
+            "lomo ahumado con salsa de frutas": 1200.0,
+            "bistec de cerdo grille encebollado": 1400.0
+        },
+        "Beef": {
+            "bistec uruguayo": 1800.0,
+            "ropa vieja": 1600.0,
+            "vaca frita": 1600.0,
+            "ternera al vino": 1900.0
+        },
+        "Pizza": {
+            "pizza napolitana": 1000.0,
+            "pizza hawaiana": 1300.0,
+            "pizza dominica": 1650.0
+        },
+        "Pasta": {
+            "lasanna": 1100.0,
+            "espaguetis napolitana": 950.0,
+            "espaguetis a la crema con bacon": 1100.0
+        },
+        "Seafood": {
+            "enchilado de cangrejo": 1200.0
+        },
+        "Fishes": {
+            "filete de pescado grille": 1600.0,
+            "filete de pescado canciller": 1800.0
+        },
+        "Desserts": {
+            "copa de helado": 400.0,
+            "tarta de chocolate con helado": 400.0
+        },
+        "Additions": {},
+        "Sides": {
+            "arroz moro": 300.0,
+            "arroz blanco": 200.0,
+            "ensalada de vegetales mixto de la estacion": 300.0,
+            "platanito maduro frito": 250.0,
+            "tostones al ajillo": 250.0
+        },
+        "Other": {},
+        "Drinks": {
+            "jugos naturales de frutas": 180.0,
+            "limonada natural": 400.0,
+            "limonada frape": 400.0,
+            "limonada frescura": 450.0,
+            "batidos de helado": 600.0,
+            "servicio de malteada": 200.0,
+            "refresco cola": 250.0,
+            "refresco naranja": 250.0,
+            "refresco limon": 250.0,
+            "refresco 7 up": 280.0,
+            "malta bucannero": 350.0,
+            "energizante": 280.0,
+            "agua natural importada": 200.0,
+            "agua gaseada carci crespq": 300.0,
+            "cerveza heineken": 450.0,
+            "cerveza nacional": 350.0,
+            "cerveza importada": 280.0,
+            "servicio de michelada": 300.0,
+            "servicio de chelada": 200.0,
+            "mojito": 600.0,
+            "cubanito": 800.0,
+            "cuba libre": 600.0,
+            "daiquiri": 700.0,
+            "daiquiri de frutas": 750.0,
+            "margarita": 900.0,
+            "margarita blue": 950.0,
+            "pinna colada": 850.0,
+            "bloody mary": 750.0,
+            "bello monte": 750.0,
+            "caipirinna": 750.0,
+            "caipirisima": 750.0,
+            "caipiroska": 750.0,
+            "canchanchara": 850.0,
+            "manhatan": 700.0,
+            "cubata": 700.0,
+            "shot medusa": 850.0,
+            "screw driver": 750.0,
+            "sangria": 950.0,
+            "tinto verano": 750.0,
+            "coctel barbie": 850.0,
+            "blue lagoon": 700.0,
+            "expresso martini": 800.0,
+            "blow job": 850.0,
+            "habana club profundo": 400.0,
+            "habana club cuban spiced": 450.0,
+            "habana club smoky": 500.0,
+            "habana club 7 annos": 400.0,
+            "habana club seleccion de maestros": 950.0,
+            "santiago de cuba 8 annos": 400.0,
+            "santiago de cuba 11 annos": 700.0,
+            "santiago de cuba 12 annos": 800.0,
+            "don julio reposado": 1500.0,
+            "jack daniels": 1500.0,
+            "tequila monte la rosa dorado": 700.0,
+            "tequila reina del sur flor salvaje": 750.0,
+            "tequila olmeca reposado": 800.0,
+            "tequila olmeca silver": 850.0,
+            "tequila rose": 1000.0,
+            "vodka grey goose": 800.0,
+            "baileys": 900.0,
+            "beefeater": 900.0,
+            "tanqueray": 900.0,
+            "copa de vino tinto": 500.0,
+            "copa de vino blanco": 500.0,
+            "cafe expreso": 120.0,
+            "cafe cortado": 150.0,
+            "cafe capuchino": 200.0,
+            "cafe frapuchino": 450.0,
+            "cafe bombon": 400.0
+        }
+    }
+}

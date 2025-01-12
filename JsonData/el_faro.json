@@ -1,0 +1,116 @@
+{
+    "Name": "El Faro",
+    "Specialty": [
+        "Bar",
+        "Criolla",
+        "Pizzas"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": "Maximo Gomez"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "enchilado de cangrejo": 750.0,
+            "croqueta de la casa": 180.0,
+            "ensalada fria de jamon": 700.0,
+            "ensalada fria de atun": 1200.0,
+            "picadera tropical": 850.0,
+            "plato a lo cubano": 800.0
+        },
+        "Bread": {
+            "pan con hamburguesa": 500.0,
+            "hamburguesa faro": 900.0
+        },
+        "Chicken": {
+            "pollo grille": 950.0
+        },
+        "Pork": {
+            "costillas de cerdo": 1200.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "pizza el faro": 900.0,
+            "pizza combinada": 900.0,
+            "pizza hawaiana": 900.0,
+            "pizza de cebolla": 900.0,
+            "pizza de pimiento": 900.0,
+            "pizza gustazo (doble queso)": 900.0,
+            "pizza jamon": 900.0
+        },
+        "Pasta": {
+            "spaghetti napolitano": 750.0,
+            "spaghetti de jamon": 850.0
+        },
+        "Seafood": {
+            "ruedas de pescado grille": 1400.0
+        },
+        "Fishes": {
+            "ruedas de pescado grille": 1400.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

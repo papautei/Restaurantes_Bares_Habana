@@ -1,0 +1,142 @@
+{
+    "Name": "Cafe D la Esquina",
+    "Specialty": [
+        "Comida cubana",
+        "caribenha",
+        "americana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Paseo #101, esq. a 5ta., Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            100
+        ],
+        "Tuesday": [
+            800,
+            100
+        ],
+        "Wednesday": [
+            800,
+            100
+        ],
+        "Thursday": [
+            800,
+            100
+        ],
+        "Friday": [
+            800,
+            100
+        ],
+        "Saturday": [
+            800,
+            100
+        ],
+        "Sunday": [
+            800,
+            100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Pizza Tacos Mix": 2600.0,
+            "Tabla de la casa": 4200.0,
+            "Canoa de Olga": 800.0,
+            "Trio de pizzeta Margarita": 1000.0,
+            "Tapa Hot Dog": 2200.0,
+            "Trio de pizzeta especial": 1300.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "Pasta clasica": 1300.0,
+            "Pasta al pesto": 1500.0,
+            "Pasta  Ragu/Bolognesa": 1800.0,
+            "Pasta Carbonara": 2200.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Tarta de la casa": 700.0
+        },
+        "Additions": {
+            "Cebolla": 120.0,
+            "Champinhon": 170.0,
+            "Queso Gouda": 200.0,
+            "Jamon Embuchado": 100.0,
+            "Bacon": 150.0
+        },
+        "Sides": {},
+        "Other": {
+            "Rollo Criollo": 1900.0,
+            "Rollo La Esquina": 1900.0,
+            "Plato Campesino": 2500.0,
+            "Falso Sushi": 2600.0
+        },
+        "Drinks": {
+            "Mojito": 700.0,
+            "Mojito Especial": 750.0,
+            "Pina Colada": 900.0,
+            "Daikiri": 700.0,
+            "Margarita": 1000.0,
+            "Sangria": 750.0,
+            "Caipirina": 750.0,
+            "Caipiroska": 750.0,
+            "Gin Tonic": 900.0,
+            "Vodka Tonic": 900.0,
+            "Limonada natural": 450.0,
+            "Limonada Lizzie sin ron": 700.0,
+            "Limonada Lizzie con ron": 750.0,
+            "Agua gaseada importada": 1050.0,
+            "Agua natural pequenha": 300.0,
+            "Agua natural grande": 500.0,
+            "Agua gaseada nacional": 500.0,
+            "Agua Tonica nacional": 350.0,
+            "Refresco nacional": 350.0,
+            "Refresco importado": 350.0,
+            "Cerveza importada": 400.0,
+            "Cerveza nacional superior": 550.0,
+            "jugo de frutas naturales": 250.0,
+            "Copa de vino tinto": 600.0,
+            "Copa de vino blanco": 600.0,
+            "Energizante": 600.0,
+            "Malta": 450.0,
+            "Batido de helado": 650.0,
+            "Batido de frutas": 450.0
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "Name": "El Palenque",
+    "Specialty": [
+        "caribe\u00f1a",
+        "latina",
+        "internacional",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Restaurante El Palenque",
+        "Instagram": false
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2100
+        ],
+        "Tuesday": [
+            1100,
+            2100
+        ],
+        "Wednesday": [
+            1100,
+            2100
+        ],
+        "Thursday": [
+            1100,
+            2100
+        ],
+        "Friday": [
+            1100,
+            2100
+        ],
+        "Saturday": [
+            1100,
+            2100
+        ],
+        "Sunday": [
+            1100,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Cesta de pan": 100.0,
+            "Croquetas": 150.0,
+            "Chicharrones": 400.0,
+            "Entremes surtido": 100.0,
+            "Entremes de jamon y chorizo": 150.0,
+            "Variado de queso": 200.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo asado 1kg": 630.0,
+            "Pechuga con papas fritas": 700.0,
+            "Fajitas de pollo salteadas": 400.0
+        },
+        "Pork": {
+            "Masas de cerdo fritas": 1000.0,
+            "Bistec de cerdo": 300.0,
+            "Cerdo asado 400gr": 800.0
+        },
+        "Beef": {
+            "Picadillo de res": 350.0,
+            "Bistec de res": 300.0,
+            "Res de campesina": 400.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "Pasta napolitana": 250.0,
+            "Lasagna de carne": 200.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Mermelada con queso": 60.0,
+            "Arroz con leche": 60.0,
+            "Dulce de frutabomba": 120.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Papas fritas": 215.0,
+            "Ensalada de vegetales": 300.0
+        },
+        "Other": {
+            "Arroz con pollo": 250.0,
+            "Chilindron de cordero": 1700.0
+        },
+        "Drinks": {
+            "Jugos naturales": 100.0,
+            "Cerveza": 120.0,
+            "Licores nacionales": 20.0,
+            "Ron havana club reserva": 40.0,
+            "Tequila blanco": 150.0,
+            "Cortadito": 60.0,
+            "Cafe con leche": 80.0,
+            "Te": 30.0
+        }
+    }
+}

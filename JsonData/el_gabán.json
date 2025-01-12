@@ -1,0 +1,167 @@
+{
+    "Name": "El Gaban",
+    "Specialty": [
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "linktr.ee/elgabanhabana",
+        "Facebook": "El Gaban la 14 restaurante",
+        "Instagram": "@elgaban_oficial"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            30
+        ],
+        "Tuesday": [
+            1200,
+            30
+        ],
+        "Wednesday": [
+            1200,
+            30
+        ],
+        "Thursday": [
+            1200,
+            30
+        ],
+        "Friday": [
+            1200,
+            30
+        ],
+        "Saturday": [
+            1200,
+            30
+        ],
+        "Sunday": [
+            1200,
+            30
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Crema de vegetales": 2400.0,
+            "Croquetones a la amatriciana": 3000.0,
+            "Croquetones de iberico": 3600.0,
+            "Tartar de res con maracuya": 4500.0,
+            "Tabla mixta": 5400.0,
+            "Carpaccio de res": 6000.0,
+            "Tartar de langosta": 6000.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {
+            "Mignon": 8400.0,
+            "Ribeye": 8400.0
+        },
+        "Pizza": {
+            "Pizza new york": 6000.0,
+            "Pizza de bolonia": 5400.0
+        },
+        "Pasta": {
+            "\u00d1oquis": 3600.0,
+            "Raviolis mariscos": 4500.0
+        },
+        "Seafood": {},
+        "Fishes": {
+            "Pesca blanca": 7500.0,
+            "Pesca azul": 7500.0
+        },
+        "Desserts": {
+            "Brownie blanco": 1800.0,
+            "Paulova": 1800.0,
+            "Arroz con leche": 1800.0,
+            "Postre con helado": 1800.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Pure de malanga": 1800.0,
+            "Papas al horno": 1800.0,
+            "Vegetales salteados": 1800.0,
+            "Arroz pilaf": 2400.0
+        },
+        "Other": {
+            "Risotto rosa": 5400.0,
+            "Risotto al coco": 6000.0
+        },
+        "Drinks": {
+            "Agua tonica": 1500.0,
+            "Agua san pellegrino": 1600.0,
+            "Agua natural": 1600.0,
+            "Agua panna": 1600.0,
+            "Agua con gas": 1600.0,
+            "Refresco": 1000.0,
+            "Malta": 1000.0,
+            "Energizante": 1500.0,
+            "Kermato": 1600.0,
+            "Limonada frappe/natural": 1600.0,
+            "Cerveza de botella": 1600.0,
+            "Copa de vino (espumoso, tinto o blanco)": 1800.0,
+            "Grinch": 1600.0,
+            "Mohana": 1600.0,
+            "Mojito de frutas": 1600.0,
+            "Pi\u00f1a colada": 1600.0,
+            "Rossini": 2500.0,
+            "Negroni chocolate": 2500.0,
+            "Bellini": 2500.0,
+            "Garibaldi": 2500.0,
+            "Mi to": 2500.0,
+            "Negroni g": 2500.0,
+            "Aperol spritz": 2500.0,
+            "Spritz": 2500.0,
+            "Campari spritz": 2500.0,
+            "Daiquiri": 2000.0,
+            "Canchanchara": 2000.0,
+            "Mojito": 2000.0,
+            "Cubanito": 2000.0,
+            "Caipirisima": 2000.0,
+            "Margarita": 2500.0,
+            "Sangria": 2500.0,
+            "Caipiroska": 2500.0,
+            "Moscow mule": 2500.0,
+            "Fernet con cola": 2500.0,
+            "Vodka tonic": 2500.0,
+            "Caipirinha": 2500.0,
+            "Bloody mary": 2500.0,
+            "Amaretto sour": 2500.0,
+            "Old fashioned": 2500.0,
+            "New york whisky sour": 2500.0,
+            "Expresso martini": 1500.0,
+            "Cafe": 800.0,
+            "Frapuccino": 1500.0,
+            "Carajillo": 1500.0,
+            "Te": 800.0,
+            "Infusiones": 800.0
+        }
+    }
+}

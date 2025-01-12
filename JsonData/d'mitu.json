@@ -1,0 +1,125 @@
+{
+    "Name": "D'Mitu",
+    "Specialty": [
+        "Cocina italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": false,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de queso": 850.0,
+            "Pizza de jamon": 1000.0,
+            "Pizza de chorizo": 1000.0,
+            "Pizza Hawaiana": 1050.0,
+            "Pizza Familiar mixta": 2800.0,
+            "Pizza Familiar con bordes de queso": 3200.0,
+            "Super Pizza de queso": 1200.0,
+            "Super Pizza de jamon": 1300.0,
+            "Super Pizza de chorizo": 1300.0,
+            "Super Pizza Hawaiana": 1300.0,
+            "Pizza Sol": 2000.0,
+            "Pizza D'Mitu": 1400.0,
+            "Super Pizza mixta": 2000.0
+        },
+        "Pasta": {
+            "Fugazzeta D'Mitu": 2100.0,
+            "Canelones": 800.0,
+            "Espaghettis": 800.0,
+            "Fettuccine": 800.0,
+            "Farfalle": 800.0,
+            "Lasagna": 900.0,
+            "Calzone D'Mitu": 900.0,
+            "Raviolis": 900.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {
+            "Pina": 200.0,
+            "Cebolla": 200.0,
+            "Pimiento": 200.0,
+            "Jamon": 300.0,
+            "Bacon": 500.0,
+            "Queso": 300.0,
+            "Aceituna": 350.0,
+            "Chorizo": 300.0,
+            "Champignon": 400.0,
+            "Atun": 450.0,
+            "Camaron": 600.0
+        },
+        "Sides": {},
+        "Other": {
+            "Pastelon a su gusto": 1700.0,
+            "Super Takazo": 1900.0,
+            "Takazo D'Mitu": 1000.0
+        },
+        "Pizzas": {},
+        "Drinks": {}
+    }
+}

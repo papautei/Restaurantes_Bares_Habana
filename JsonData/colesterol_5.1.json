@@ -1,0 +1,183 @@
+{
+    "Name": "Colesterol 5.1",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Marianao",
+        "Address": "Avenida 51 entre 134 y 136"
+    },
+    "Contact": {
+        "Web": "Cafecolesterol5.1",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            0
+        ],
+        "Tuesday": [
+            1000,
+            0
+        ],
+        "Wednesday": [
+            1000,
+            0
+        ],
+        "Thursday": [
+            1000,
+            0
+        ],
+        "Friday": [
+            1000,
+            0
+        ],
+        "Saturday": [
+            1000,
+            0
+        ],
+        "Sunday": [
+            1000,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tostones": 490.0,
+            "Mariposita china": 565.0,
+            "Frituras de malanga": 590.0,
+            "Bolitas de queso con miel y.mostaza": 730.0,
+            "Croquetas colesterol 5.1": 835.0,
+            "Fajitas de pollo": 950.0,
+            "Fajitas de cerdo": 1150.0,
+            "Coctel de camarones": 1670.0,
+            "Eperlan de pescado": 950.0,
+            "Ensalada fria de jamon": 835.0,
+            "Ensalada fria de pollo": 865.0,
+            "Ensalada fria de at\u00fan": 995.0,
+            "Ensalada fria de marisco": 1125.0,
+            "Crema de queso": 595.0,
+            "Crema de mariscos": 920.0,
+            "Garbanzo frito": 1670.0,
+            "Tacos de pollo": 1260.0,
+            "Tacos de cerdo": 1670.0,
+            "Tacos de res": 1925.0,
+            "Tacos de marineros": 2330.0,
+            "Tabla colesterol": 3320.0
+        },
+        "Bread": {
+            "Hamburguesa de pollo": 1650.0,
+            "Hamburguesa de cerdo": 1795.0,
+            "Hamburguesa de res": 1945.0,
+            "Sandwich ropa vieja": 760.0,
+            "Sandwich de jamon y queso": 765.0,
+            "Sandwich cubano": 1320.0,
+            "Sandwich de at\u00fan y cebolla": 1945.0
+        },
+        "Chicken": {
+            "Bistec suprema ": 2460.0
+        },
+        "Pork": {
+            "Masa de cerdo frita": 2725.0,
+            "Bistec uruguayo ": 2995.0,
+            "Chuleta de cerdo en salsa agridulce": 3200.0
+        },
+        "Beef": {
+            "Ropa vieja res": 2190.0,
+            "Vaca frita": 2190.0,
+            "Brocheta mixta": 2600.0
+        },
+        "Pizza": {
+            "Pizza margarita 5.1 ": 1930.0,
+            "Pizza de jamon": 2115.0,
+            "Pizza hawaiana": 2215.0,
+            "Pizza de bacon, pepperoni y jamon serrano": 2845.0,
+            "Pizza campesina": 2645.0,
+            "Pizza marinera": 3020.0
+        },
+        "Pasta": {
+            "Espaguetis napolitanos ": 925.0,
+            "Espaguetis con jamon ": 1145.0,
+            "Espaguetis a la bolonhesa ": 1800.0,
+            "Espaguetis al pesto": 1265.0,
+            "Espaguetis carbonara ": 2475.0,
+            "Espaguetis con frutos de mar": 3750.0,
+            "Lasanha bolonhesa ": 2245.0
+        },
+        "Seafood": {
+            "Enchilado de cangrejo": 1005.0,
+            "Enchilado de langosta": 3030.0,
+            "Mariscada estelares 5.1": 3800.0,
+            "Pescado enchilado": 2600.0,
+            "Filete de pescado grille": 3625.0,
+            "Filete de pescado canciller ": 3675.0,
+            "Arroz con artistage ": 2800.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Churros con leche condensada ": 300.0,
+            "Tocinillo": 300.0,
+            "Sunday": 470.0,
+            "Churros acompanhado de chocolate caliente": 700.0
+        },
+        "Sides": {},
+        "Other": {
+            "Tamal estilo colesterol": 1925.0
+        },
+        "Drinks": {
+            "Base chelada": 170.0,
+            "Base michelada": 220.0,
+            "Caipiroska": 495.0,
+            "Caipirinha": 495.0,
+            "Cubata": 550.0,
+            "Cuba libre": 550.0,
+            "Daikiri floridita": 600.0,
+            "Tinto verano": 600.0,
+            "Gyntonic": 650.0,
+            "Canchanchara": 660.0,
+            "Pinha colada": 660.0,
+            "Mojito": 720.0,
+            "Sangria especial 5.1": 720.0,
+            "Cafe express": 250.0,
+            "Frapuccino": 450.0,
+            "Agua mineral": 190.0,
+            "Jugos de frutas": 300.0,
+            "Jugos de cajita": 340.0,
+            "Batidos de frutas": 495.0,
+            "Malta": 420.0,
+            "Malteada": 545.0,
+            "Refresco de lata": 350.0,
+            "Refresco pepsi": 420.0,
+            "Refresco seven up": 420.0,
+            "Suero de helado": 610.0,
+            "Energizante": 360.0,
+            "Cerveza nacional": 480.0,
+            "Cerveza importada": 380.0
+        }
+    }
+}

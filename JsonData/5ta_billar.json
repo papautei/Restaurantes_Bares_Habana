@@ -1,0 +1,155 @@
+{
+    "Name": "5ta Billar",
+    "Specialty": [
+        "Variado"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Regla",
+        "Address": "Avenida Rotaria entre Enlace y A"
+    },
+    "Contact": {
+        "Web": "5taBillar",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            600,
+            100
+        ],
+        "Wednesday": [
+            600,
+            100
+        ],
+        "Thursday": [
+            600,
+            100
+        ],
+        "Friday": [
+            600,
+            100
+        ],
+        "Saturday": [
+            1600,
+            100
+        ],
+        "Sunday": [
+            1600,
+            100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Cacahuete picante": 110.0,
+            "Tostones rellenos j&g": 750.0,
+            "Tostones rellenos de atun": 980.0,
+            "Tostones rellenos de carne": 900.0,
+            "Croquetas bola 9": 650.0,
+            "Bolita de queso": 850.0,
+            "Fajitas de pollo": 920.0,
+            "Eperlan": 950.0,
+            "Entremes": 960.0,
+            "Surtido 5tabilla": 1650.0,
+            "Surtido premium": 2950.0,
+            "Rositas de maiz": 600.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo a la gordon blue": 1800.0,
+            "Bistec de pollo encebollado": 1600.0,
+            "Baby chicken": 960.0,
+            "Kings chicken": 1350.0
+        },
+        "Pork": {
+            "Uruguayo de cerdo": 2100.0,
+            "Bistec de pollo encebollado": 1600.0,
+            "Bistec de cerdo encebollado": 1900.0,
+            "Brochetas de cerdo al carbon": 1800.0,
+            "Lomo de cerdo al carbon": 1800.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Focaccia": 700.0,
+            "Pizza napolitana": 1100.0,
+            "Pizza mixta": 1600.0,
+            "Pizza cuatro estaciones": 1900.0
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {
+            "Tacos de cerdo": 950.0,
+            "Chorizada al carbon": 2000.0,
+            "La parrillada": 4950.0
+        },
+        "Drinks": {
+            "Cervezas nacionales": 400.0,
+            "Cerveza corona": 600.0,
+            "Cerveza importada": 320.0,
+            "Margarita": 400.0,
+            "Margarita blue": 400.0,
+            "Tequila sunrise": 400.0,
+            "Medusa": 650.0,
+            "Servicio chelada": 450.0,
+            "Servicio michelada": 350.0,
+            "Jagger bomb": 1200.0,
+            "Mojito corona": 900.0,
+            "Corona sunrise": 800.0,
+            "Sangria": 760.0,
+            "Jarra de sangria": 3720.0,
+            "Alexander": 1000.0,
+            "Eclipse": 1020.0,
+            "Mai tai": 550.0,
+            "Orgasmo": 1080.0,
+            "Aperol sprits": 1650.0,
+            "Italian sunset": 780.0,
+            "Mimosa": 1500.0,
+            "Malteada": 250.0,
+            "San francisco": 350.0,
+            "Refresco": 340.0,
+            "Malta": 400.0,
+            "Red bull": 750.0,
+            "Agua natural": 220.0,
+            "Kermato": 680.0,
+            "Tigon": 400.0,
+            "Jugo": 230.0,
+            "Limonada frappe": 300.0,
+            "Limonada frappe curacao": 350.0,
+            "Limonada frappe granadina": 380.0,
+            "Limonada frappe melocoton": 400.0,
+            "Limonada frappe menta": 380.0,
+            "Limonada frappe mora": 380.0,
+            "Limonada frappe naranja": 470.0,
+            "Limonada frescura (hierbabuena)": 350.0,
+            "Limonada frappe pinha": 350.0,
+            "Limonada frappe tropical blue": 350.0
+        }
+    }
+}

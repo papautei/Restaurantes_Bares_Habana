@@ -1,0 +1,122 @@
+{
+    "Name": "Delicia de la mama",
+    "Specialty": [
+        "Variado"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 19 entre C y D"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            0
+        ],
+        "Tuesday": [
+            0,
+            0
+        ],
+        "Wednesday": [
+            0,
+            0
+        ],
+        "Thursday": [
+            0,
+            0
+        ],
+        "Friday": [
+            0,
+            0
+        ],
+        "Saturday": [
+            0,
+            0
+        ],
+        "Sunday": [
+            0,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Fritura de malanga": 550.0,
+            "Croqueta de jamon": 850.0,
+            "Tostada de mantequilla": 350.0,
+            "Vianda frita": 450.0,
+            "Estaciones de la mama": 850.0,
+            "Fajitas de la mama con salsa x0": 750.0,
+            "Ensalada de la mama (jamon, queso, chorizo y croqueta)": 2500.0,
+            "Ensalada de la mama (jamon, queso, chorizo)": 2000.0,
+            "Alitas de pollo": 950.0,
+            "Albondigas": 950.0
+        },
+        "Bread": {
+            "Hamburguesa sencilla": 800.0,
+            "Hamburguesa de jamon": 1050.0,
+            "Hamburguesa de queso gouda": 1150.0,
+            "Hamburguesa de queso gouda y jamon": 1250.0,
+            "Pan con queso gouda": 700.0,
+            "Pan con jamon y queso gouda": 850.0,
+            "Pan con lomo": 950.0,
+            "Pan con bistec": 980.0,
+            "Pan con atun": 1000.0
+        },
+        "Chicken": {
+            "Pollo frito": 1550.0,
+            "Pollo ahumado": 1550.0,
+            "Pechuga": 1650.0,
+            "Pollo gordon blue": 1800.0
+        },
+        "Pork": {
+            "Lomo ahumado": 1550.0,
+            "Chuleta ahumada": 1800.0,
+            "Bistec de cerdo": 1550.0,
+            "Fricase de cerdo": 1750.0
+        },
+        "Beef": {
+            "Fricase de res": 2300.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Filete de pescado": 1950.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Cafe": 150.0,
+            "Cafe con leche": 450.0
+        }
+    }
+}

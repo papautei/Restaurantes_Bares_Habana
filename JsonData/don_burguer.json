@@ -1,0 +1,131 @@
+{
+    "Name": "Don Burguer",
+    "Specialty": [
+        "comida rapida"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calzada de Diez de Octubre, entre  Aranguren y Santa Isabel, La Palma, Arroyo Naranjo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2300
+        ],
+        "Tuesday": [
+            1000,
+            2300
+        ],
+        "Wednesday": [
+            1000,
+            2300
+        ],
+        "Thursday": [
+            1000,
+            2300
+        ],
+        "Friday": [
+            1000,
+            2300
+        ],
+        "Saturday": [
+            1000,
+            2300
+        ],
+        "Sunday": [
+            1000,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "ensalada fria": 580.0,
+            "aceitunas (racion)": 420.0,
+            "bolitas de queso": 640.0,
+            "frituras de malanga": 510.0,
+            "croquetas": 640.0,
+            "papitas": 640.0,
+            "fajitas de pollo": 940.0,
+            "entremes surtido": 1720.0,
+            "brusquetas": 780.0,
+            "burritos de jamon y queso": 1260.0
+        },
+        "Bread": {
+            "pan c/ bistec de cerdo": 840.0,
+            "pan c/ bistec de pollo": 810.0,
+            "pan c/ lechon": 890.0,
+            "bocadito de atun": 840.0,
+            "sandwich de jamon queso y chorizo": 890.0,
+            "sandwich cubano": 1290.0,
+            "hamburguesa (cerdo)": 740.0,
+            "hamburguesa (pollo)": 740.0,
+            "hamburguesa (res)": 860.0,
+            "doble hamb. (cerdo)": 1040.0,
+            "doble hamb. (pollo)": 1040.0,
+            "doble hamb. (res)": 1480.0,
+            "doble hamburguesa de cerdo(bistec de cerdo y 3 agregos / jamon vicking, queso y chorizo)": 2680.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "3 gracias": 740.0,
+            "ensalada": 1080.0,
+            "suero de helado": 840.0,
+            "casquitos de guayaba": 560.0,
+            "flan": 560.0,
+            "dulce de coco": 460.0,
+            "torrejas": 680.0,
+            "dulce de fruta bomba": 460.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "tacos de vegetales": 620.0,
+            "tacos de cerdo": 1120.0,
+            "tacos de pollo": 1120.0,
+            "tacos de res": 1280.0
+        },
+        "Drinks": {
+            "agua": 150.0,
+            "refresco": 240.0,
+            "batido de frutas": 390.0,
+            "limonada frape": 380.0,
+            "limonada con hierba buena": 460.0,
+            "malta": 400.0
+        }
+    }
+}

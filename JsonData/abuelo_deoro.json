@@ -1,0 +1,141 @@
+{
+    "Name": "Abuelo deOro",
+    "Specialty": [
+        "Cubana",
+        "Internacional",
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calzada Aldabo % 12 y 13, Aldabo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "croquetas": 500.0,
+            "empanadas": 500.0,
+            "frituras": 500.0,
+            "tostones rellenos": 1000.0,
+            "papas bravas": 500.0,
+            "papas doradas": 450.0,
+            "ceviche": 2000.0,
+            "coctel de langosta": 2000.0,
+            "coctel de camarones": 2000.0,
+            "tabla surtida": 3000.0
+        },
+        "Bread": {
+            "sandwich jamon y queso": 1500.0,
+            "sandwich pechuga y queso": 1800.0
+        },
+        "Chicken": {
+            "pechuga grille": 3000.0,
+            "pechuga salteada": 3500.0,
+            "pollo frito": 2500.0
+        },
+        "Pork": {
+            "bistec encebollado": 2500.0,
+            "cerdo salteado": 2800.0,
+            "medalla con jamon y queso": 3800.0,
+            "medalla con ropa vieja y queso": 3800.0,
+            "chuletilla": 3000.0,
+            "1kg cerdo asado": 15000.0,
+            "chuleton cerdo": 6500.0,
+            "chuleta cerdo": 3000.0
+        },
+        "Beef": {
+            "vaca frita": 3000.0,
+            "ropa vieja": 3000.0,
+            "bistec res cazuela": 3500.0,
+            "picadillo habanera": 2900.0
+        },
+        "Pizza": {
+            "pizza napolitana": 1000.0,
+            "pizza jamon": 1300.0,
+            "pizza hawaiana": 1400.0,
+            "pizza cebolla": 1100.0,
+            "pizza pimiento": 1100.0,
+            "pizza pepperoni": 1500.0
+        },
+        "Pasta": {
+            "espaguetis napolitanos": 1200.0,
+            "espaguetis jamon": 1500.0
+        },
+        "Seafood": {
+            "langosta en sus variedades": 4800.0,
+            "camaron variado": 4800.0
+        },
+        "Fishes": {
+            "filete pescado grille": 3000.0,
+            "filete pescado montado": 4000.0,
+            "gratin del mar": 4000.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "mar y tierra": 19000.0,
+            "tacos ropa vieja": 1500.0,
+            "tacos vaca frita": 1450.0,
+            "tacos cerdo": 1200.0
+        },
+        "Drinks": {}
+    }
+}

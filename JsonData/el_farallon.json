@@ -1,0 +1,196 @@
+{
+    "Name": "El Farallon",
+    "Specialty": [
+        "Italian",
+        "Mediterranean",
+        "Fusion",
+        "Healthy"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 22 # 361, esq. 23, Vedado."
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": "https://www.instagram.com/restaurantefarallon/"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": false,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Mariposas chinas": 400.0,
+            "Frituras de malanga": 430.0,
+            "Croquetas de la casa": 530.0,
+            "Tostones naturales": 380.0,
+            "Tostones rellenos": 950.0,
+            "Bolitas de queso": 750.0,
+            "Eperlan de pescado": 950.0,
+            "Fajitas de pollo": 1250.0,
+            "Coctel de langosta": 1200.0,
+            "Coctel de camarones": 1200.0,
+            "Ensalada fria": 950.0,
+            "Cebiche": 1080.0,
+            "Picadera farallon": 2200.0,
+            "Tabla de jamon serrano": 2500.0,
+            "Crema de queso": 400.0,
+            "Crema de virginia": 500.0,
+            "Crema de aurora": 420.0,
+            "Crema de reina": 500.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Paella de mariscos": 2400.0,
+            "Arroz c/ pollo a la chorrera": 1200.0,
+            "Pechuga de pollo grille": 2100.0,
+            "Pechuga c/ j y q gratinado": 2760.0,
+            "Pechuga a la crema": 2650.0,
+            "Fajitas de pollo salteadas": 2180.0,
+            "Bistec de pollo deshuesado": 1320.0,
+            "Pollo a la barbacoa (1/4)": 1710.0,
+            "Pollo asado (1/4)": 1750.0
+        },
+        "Pork": {
+            "Bistec de cerdo grille": 2100.0,
+            "Bistec c/ j y q gratinado": 2760.0,
+            "Bistec de cerdo tropical": 2220.0,
+            "Masa de cerdo frita": 2340.0,
+            "Fricase de cerdo": 2530.0
+        },
+        "Beef": {
+            "Ropa vieja": 2100.0,
+            "Vaca frita": 2100.0
+        },
+        "Pizza": {
+            "Pizza napolitana": 1250.0,
+            "Pizza de jamon": 1450.0,
+            "Pizza de bacon": 1690.0,
+            "Pizza de chorizo": 1590.0,
+            "Pizza de cebolla": 1540.0,
+            "Pizza de pimiento": 1540.0,
+            "Pizza de aceituna": 1610.0,
+            "Pizza de vegetales": 1610.0,
+            "Pizza de champinhones": 1680.0,
+            "Pizza hawaiana": 1570.0,
+            "Pizza de camarones": 1850.0,
+            "Pizza de atun": 1850.0,
+            "Pizza a la bolonhesa": 1550.0,
+            "Pizza desnuda": 2350.0,
+            "Pizza calzone": 1980.0,
+            "Pizza farollon": 2250.0,
+            "Pizzaghetti": 1540.0,
+            "Pizza doble queso": 2330.0
+        },
+        "Pasta": {
+            "Lasanha farallon": 4000.0,
+            "Lasanha a la bolonhesa": 2500.0,
+            "Lasanha de jamon": 2700.0,
+            "Lasanha de atun": 4300.0,
+            "Canelones a la bolonhesa": 2100.0,
+            "Canelones de jamon": 1650.0,
+            "Espagueti napolitano": 900.0,
+            "Espagueti de atun": 1450.0,
+            "Espagueti de jamon": 1100.0,
+            "Espagueti de camarones": 1450.0,
+            "Espagueti a la bolonhesa": 1000.0,
+            "Espagueti al pesto": 1000.0,
+            "Espagueti a la carbonara": 1300.0,
+            "Espagueti frutti de mare": 1900.0
+        },
+        "Seafood": {
+            "Camaron al gusto": 2550.0,
+            "Pulpo al gusto": 2600.0,
+            "Grillada mar": 4100.0
+        },
+        "Fishes": {
+            "Filete de pescado grille": 1800.0,
+            "Filete de pescado c/ j y q gratinado": 2380.0,
+            "Filete de pescado john ville": 2450.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Arroz moro": 300.0,
+            "Arroz blanco": 210.0
+        },
+        "Other": {
+            "Arroz frito especial": 1500.0,
+            "Grillada mar y tierra": 5200.0
+        },
+        "Drinks": {
+            "Mojito": 460.0,
+            "Cuba libre": 590.0,
+            "Cubata": 450.0,
+            "Daiquiri": 490.0,
+            "Canchanchara": 400.0,
+            "Sangria": 610.0,
+            "Tinto de verano": 570.0,
+            "Pinha colada": 580.0,
+            "Screw driver": 400.0,
+            "Caipirinha": 450.0,
+            "Caipisisima": 550.0,
+            "Caiporoska": 450.0,
+            "Michelada base": 430.0,
+            "Agua natural": 200.0,
+            "Refrescos gaseados": 370.0,
+            "Cerveza nacional": 480.0,
+            "Cerveza importada": 480.0,
+            "Malta": 400.0,
+            "Jugo de frutas naturales": 300.0,
+            "Limonada frescura": 500.0,
+            "Sorpresade limon al coco": 600.0
+        }
+    }
+}

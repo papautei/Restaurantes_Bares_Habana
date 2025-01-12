@@ -1,0 +1,132 @@
+{
+    "Name": "Bar Tropicana",
+    "Specialty": [
+        null
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Marianao",
+        "Address": "72A,Avenida 41"
+    },
+    "Contact": {
+        "Web": "Cabaret-Tropicana.com",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Aguas nacionales": 100.0,
+            "Agua saborizada ": 100.0,
+            "Agua natural ": 100.0,
+            "Refresco": 60.0,
+            "Jugos de frutas en conserva ": 100.0,
+            "Jugos de frutas naturales": 100.0,
+            "Cervezas nacionales o importadas": 200.0,
+            "Cerveza dispensada ": 160.0,
+            "Copa de vino de la casa": 300.0,
+            "Havana club 3 anhos ": 100.0,
+            "Especial havana club ": 120.0,
+            "Havana club 7 anhos ": 320.0,
+            "Havana club pacto navio ": 730.0,
+            "Havana club seleccion de maestros": 750.0,
+            "Aguardiente gobernador": 14300.0,
+            "Chiva regal 12 anhos": 995.0,
+            "Ballentinees finest": 500.0,
+            "J&b ": 650.0,
+            "Johnnie walker etiqueta roja": 550.0,
+            "Jameson": 650.0,
+            "Vat": 580.0,
+            "Tequila 3 sombreros": 300.0,
+            "Vodka igor": 395.0,
+            "Brandy napole\u00f3n": 190.0,
+            "Cremas y licores (cacao)": 85.0,
+            "Cremas y licores (cafe)": 85.0,
+            "Cremas y licores(menta)": 85.0,
+            "Cremas y licores(marrasquino)": 85.0,
+            "Cremas y licores(triple sec)": 85.0,
+            "Cremas y licores(curacao azul)": 85.0,
+            "Cremas y licores(pinha)": 85.0,
+            "Daiquiri natural": 450.0,
+            "Daiquiri frapeado natural": 450.0,
+            "Cuba libre": 730.0,
+            "Cubata": 700.0,
+            "Daiquiri mulata": 620.0,
+            "Daiquiri saborizado": 450.0,
+            "Gin cola": 750.0,
+            "Gin tonic": 785.0,
+            "Rom tonic": 550.0,
+            "Vodka cola": 600.0,
+            "Vodka t\u00f3nica": 650.0,
+            "Whisky cola": 500.0,
+            "Tropicana special ": 450.0,
+            "Cocteles internacionales": 500.0,
+            "Canchanchara": 450.0,
+            "Pinha colada ": 450.0
+        }
+    }
+}

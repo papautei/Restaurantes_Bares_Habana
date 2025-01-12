@@ -1,0 +1,158 @@
+{
+    "Name": "Arte chef",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle A entre calle 3 y calle 5"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            700,
+            1900
+        ],
+        "Tuesday": [
+            700,
+            1900
+        ],
+        "Wednesday": [
+            700,
+            1900
+        ],
+        "Thursday": [
+            700,
+            1900
+        ],
+        "Friday": [
+            700,
+            1900
+        ],
+        "Saturday": [
+            700,
+            1900
+        ],
+        "Sunday": [
+            700,
+            1900
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Frituras de malanga": 500.0,
+            "Fajitas de pollo": 700.0,
+            "Croquetas de pollo": 450.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Bistec de pollo grille": 1300.0,
+            "Pechuga de pollo grille": 1500.0
+        },
+        "Pork": {
+            "Bistec de cerdo": 1500.0,
+            "Cerdo asado": 1800.0,
+            "Lomo de cerdo grille": 1900.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Filete de pescado grille": 2000.0,
+            "Langosta grille": 2700.0,
+            "Langosta mariposa": 2700.0,
+            "Enchilado de langosta": 2750.0,
+            "Camarones al ajillo": 2200.0,
+            "Enchilado de camarones": 2600.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Arroz congri": 150.0,
+            "Arroz blanco": 100.0,
+            "Tostones": 150.0,
+            "Tamal": 100.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Agua natural": 200.0,
+            "Refresco importado": 260.0,
+            "Malta importada": 300.0,
+            "Cerveza cristal de lata": 320.0,
+            "Heineken de lata": 350.0,
+            "Michelada": 650.0,
+            "Sangria": 650.0,
+            "Jarra de sangria": 2120.0,
+            "Tinto de verano": 550.0,
+            "Mojito": 600.0,
+            "Cuba libre": 600.0,
+            "Daiquiri": 550.0,
+            "Limonada": 350.0,
+            "Limonada frappe": 350.0,
+            "Habana club 3 anhos": 300.0,
+            "Habana club 7 anhos": 690.0,
+            "Habana club reserva": 530.0,
+            "Habana club seleccion de maestros": 1700.0,
+            "Hc profundo": 800.0,
+            "Hc dark room": 500.0,
+            "Hc edicion especial": 500.0,
+            "Hc spiced": 600.0,
+            "Hc ritual": 600.0,
+            "Ron santiago": 800.0,
+            "Santero aguardiente": 300.0,
+            "Whisky clan campbell": 1400.0,
+            "Whisky jaminson": 1500.0,
+            "Whisky jb": 1500.0,
+            "Chivas regal": 1500.0,
+            "Ballentines": 1500.0,
+            "Vodka absolut": 770.0,
+            "Vodka cirot": 800.0,
+            "Tequila dorado": 530.0,
+            "Tequila blanco": 500.0,
+            "Omega alto": 700.0,
+            "Don julio tequila": 700.0,
+            "Don mateo destilado": 500.0,
+            "Tanqueray": 1600.0,
+            "Vino blanco": 550.0,
+            "Cinzano blanco": 700.0,
+            "Campari": 550.0,
+            "Ron malibu": 700.0,
+            "Ricard 45 anis": 1000.0,
+            "Benedicto penha": 1000.0,
+            "Pisco italia": 500.0,
+            "Licor sambuca": 600.0,
+            "Licor ensena": 600.0,
+            "Pisco quebranta aguardiente": 500.0,
+            "Licor molineri de cafe": 600.0,
+            "Licor khalua de cafe": 600.0
+        }
+    }
+}

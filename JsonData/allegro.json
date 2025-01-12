@@ -1,0 +1,98 @@
+{
+    "Name": "Allegro",
+    "Specialty": [
+        "Comida italiana"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Paseo de la Villa, Villa Panamericana"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2100
+        ],
+        "Tuesday": [
+            1200,
+            2100
+        ],
+        "Wednesday": [
+            1200,
+            2100
+        ],
+        "Thursday": [
+            1200,
+            2100
+        ],
+        "Friday": [
+            1200,
+            2100
+        ],
+        "Saturday": [
+            1200,
+            2100
+        ],
+        "Sunday": [
+            1200,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Crema de queso": 313.0,
+            "Crema Aurora": 315.0,
+            "Crema Virginia": 329.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza napolitana": 390.0,
+            "Pizza de jamon": 540.0,
+            "Pizza de chorizo": 588.0,
+            "Pizza de bacon": 735.0
+        },
+        "Pasta": {
+            "Spaghettis napolitanos": 410.0,
+            "Spaghettis de jamon": 570.0,
+            "Lazagna de jamon": 550.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

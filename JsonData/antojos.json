@@ -1,0 +1,144 @@
+{
+    "Name": "Antojos",
+    "Specialty": [
+        "Caribenha"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Callejon Espada entre Cuarteles y Chacon"
+    },
+    "Contact": {
+        "Web": "null",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            1100,
+            0
+        ],
+        "Wednesday": [
+            1100,
+            0
+        ],
+        "Thursday": [
+            1100,
+            0
+        ],
+        "Friday": [
+            1100,
+            0
+        ],
+        "Saturday": [
+            1100,
+            0
+        ],
+        "Sunday": [
+            1100,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Fritura de temporada": 950.0,
+            "Croquetas de la casa": 1700.0,
+            "Tostones campesinos": 750.0,
+            "Caldosa guajira": 1400.0,
+            "Tacos": 2700.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Trozos de pollo a la mantequilla": 2950.0,
+            "Pollo grille": 2950.0
+        },
+        "Pork": {
+            "Costillas de cerdo barbacoa": 4300.0,
+            "Masas de cerdo frita": 3800.0,
+            "Lomo al carbon": 4500.0,
+            "Bistec de cerdo encebollado": 3550.0
+        },
+        "Beef": {
+            "Ropa vieja con platanitos maduros": 3150.0,
+            "Picadillo a la habanera": 2930.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Camarones al gusto": 3900.0,
+            "Pesca al carbon": 3950.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Postres de la casa": 950.0
+        },
+        "Sides": {
+            "Crema de malanga": 1400.0,
+            "Vianda frita": 800.0,
+            "Potaje": 950.0,
+            "Arroz blanco": 800.0,
+            "Pan artesanal": 1050.0,
+            "Vegetales al carbon": 1400.0
+        },
+        "Other": {
+            "Ensalada campesina": 1800.0,
+            "Arroz a la chorrera": 3500.0,
+            "Pinchos antojos": 3700.0
+        },
+        "Drinks": {
+            "Aguas naturales": 650.0,
+            "Mojito antojos": 1280.0,
+            "Aguas tonicas": 750.0,
+            "Ron collins": 1180.0,
+            "Refrescos": 650.0,
+            "Pinha colada": 1630.0,
+            "Red bull": 850.0,
+            "Cuba libre": 1230.0,
+            "Jugos naturales": 750.0,
+            "Cubata": 1230.0,
+            "Cubanito": 1380.0,
+            "Limonada": 900.0,
+            "Canchanchara": 1150.0,
+            "Cerveza": 800.0,
+            "Daiquiri": 1250.0,
+            "Vino blanco (copa)": 1400.0,
+            "Havana special": 1180.0,
+            "Vino tinto (copa)": 1450.0,
+            "Gin tonic": 1450.0,
+            "Bloody mary": 1500.0,
+            "Negroni": 1550.0,
+            "Martini": 1500.0,
+            "Caipiroska": 1250.0,
+            "Screwdriver": 1200.0,
+            "Margarita": 1380.0,
+            "Mary pickford": 1150.0,
+            "Chelada": 900.0,
+            "Michelada": 1100.0,
+            "Michelada de la casa": 1200.0
+        }
+    }
+}

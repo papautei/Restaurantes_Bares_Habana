@@ -1,0 +1,108 @@
+{
+    "Name": "Cafe boulevard",
+    "Specialty": [
+        "Cubana"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Boulevard de San Refael"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ensalada de estacion": 200.0,
+            "Papas fritas": 150.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Fajitas de pollo": 1300.0
+        },
+        "Pork": {
+            "Fajitas de cerdo": 1350.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Filete de merluza": 550.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {
+            "Caldosa boulevard": 200.0,
+            "Arroz con subproductos": 300.0
+        },
+        "Drinks": {
+            "Jugo de fruta": 100.0,
+            "Cerveza importada": 180.0,
+            "Vino tinto cabernet": 1340.0,
+            "Licor paso pondal (30ml)": 75.0,
+            "Licor fenet blanca (30ml)": 75.0,
+            "Grappa carolina bianca (30ml)": 75.0,
+            "Ron legendario anhejo (45ml)": 90.0,
+            "Ron legendario dorado (45ml)": 100.0,
+            "Trago legendario ronse (45ml)": 75.0,
+            "Licor de cafe (30ml)": 75.0,
+            "Copa de vino blanco (125ml)": 145.0
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "Name": "El Cafe",
+    "Specialty": [
+        "Comida mixta"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "#358, Calle La Amargura,"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1700
+        ],
+        "Tuesday": [
+            800,
+            1700
+        ],
+        "Wednesday": [
+            800,
+            1700
+        ],
+        "Thursday": [
+            800,
+            1700
+        ],
+        "Friday": [
+            800,
+            1700
+        ],
+        "Saturday": [
+            800,
+            1700
+        ],
+        "Sunday": [
+            800,
+            1700
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": "4.5",
+        "Google": "4.6",
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tostadas de tomate": 500.0,
+            "Tortilla con calabaza y cebolla": 950.0,
+            "Galleta de avena y jengibre (c/u)": 40.0,
+            "Ensalada Chikpea": 950.0,
+            "Ensalada Chikpea con cordero": 1200.0,
+            "Plato de frutas frescas": 60.0,
+            "Tostadas de mantequilla": 80.0,
+            "Tostadas de mantequilla con mermelada": 80.0,
+            "Tostadas de mantequilla de mani": 80.0,
+            "Huevos, tomate, aguacate, tostadas y mantequilla": 300.0,
+            "Huevos, tomate, aguacate, tostadas, mantequilla y queso": 350.0,
+            "Huevos, tomate, aguacate, tostadas, mantequilla y bacon": 500.0,
+            "Huevos, tomate, aguacate, tostadas, mantequilla, bacon y queso": 500.0,
+            "Hummus con pepino, tomate, zanahorias y tostadas": 300.0
+        },
+        "Bread": {
+            "Sandwich vegano de hummus, vegetales asados y salsa picante": 300.0,
+            "Sandwich de jamon y queso con tomate, aji y hierba buena": 400.0,
+            "Sandwich de bacon, lechuga, tomate y aguacate": 500.0,
+            "Sandwich de queso, pimenton y cebollino": 350.0,
+            "Sandwich de cerdo asado con yuca, lechuga y mermelada de naranja agria": 450.0,
+            "Sandwich de pollo con tomate, rucula y alioli verde": 400.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Yogurt con frutas frescas": 150.0,
+            "Yogurt con frutas frescas y granola": 180.0,
+            "Pancakes de frutas y miel": 300.0,
+            "Panetela navidena": 120.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Expresso": 60.0,
+            "Cafe cortado": 80.0,
+            "Cafe americano": 100.0,
+            "Cafe con leche": 140.0,
+            "Cappuchino": 150.0,
+            "Cafe frappe": 160.0,
+            "Cafe con leche y hielo": 140.0,
+            "Cafe Clandestina": 80.0,
+            "Long Black": 100.0,
+            "Frappuccino": 160.0,
+            "Jugos frescos": 120.0,
+            "Limonada fresca": 120.0,
+            "Refresco de jengibre": 100.0,
+            "Chocolate caliente": 120.0,
+            "Batidos": 150.0,
+            "Batidos con leche vegana": 180.0,
+            "Te": 60.0,
+            "Agua": 50.0,
+            "Cerveza": 150.0,
+            "Ron Collins": 250.0,
+            "Mojito": 250.0,
+            "Caipirinha": 250.0,
+            "Canchanchara": 250.0,
+            "Dark & Stormy (jengibre y ron)": 250.0
+        }
+    }
+}

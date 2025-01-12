@@ -1,0 +1,128 @@
+{
+    "Name": "Casa del Maiz",
+    "Specialty": [
+        "cubana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2000
+        ],
+        "Tuesday": [
+            1000,
+            2000
+        ],
+        "Wednesday": [
+            1000,
+            2000
+        ],
+        "Thursday": [
+            1000,
+            2000
+        ],
+        "Friday": [
+            1000,
+            2000
+        ],
+        "Saturday": [
+            1000,
+            2000
+        ],
+        "Sunday": [
+            1000,
+            2000
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Fritura de Malte": 350.0,
+            "Fritura de Malanga": 450.0,
+            "Toston Relleno": 450.0,
+            "Chicharron": 500.0,
+            "Garbanzos": 550.0,
+            "Cubito de Maiz": 1070.0,
+            "Garbanzos Fritos": 450.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Fajita de Pollo": 1150.0,
+            "Alitas de Pollo": 1050.0,
+            "Pollo en Cazuela": 1050.0,
+            "Pechuga de Pollo": 1650.0
+        },
+        "Pork": {
+            "Fricase de Cerdo": 1150.0,
+            "Bistec de Cerdo": 1250.0,
+            "Lomo Ahumado": 1450.0,
+            "Costilla Ahumada": 1450.0,
+            "Fajitas de Cerdo": 1150.0
+        },
+        "Beef": {
+            "ropa vieja": 1420.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {
+            "filete de Pescado": 1480.0,
+            "eperlan": 1280.0
+        },
+        "Desserts": {
+            "Helado Pote de 1lt": 850.0,
+            "Helado Pote Pequenno": 490.0,
+            "Arroz con Leche": 200.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Arroz Salteado": 530.0,
+            "Arroz Moro": 250.0,
+            "Arroz Blanco": 180.0,
+            "Tamal Especial": 90.0,
+            "Toston Criollo": 450.0,
+            "Ensalada Mixta": 450.0,
+            "Aji Relleno": 650.0,
+            "Malanga Hervida": 425.0,
+            "Pure de Boniato": 250.0,
+            "Platano Maduro Frito": 400.0,
+            "Yuca con Mojo": 250.0,
+            "Fufu de Platano": 300.0
+        },
+        "Other": {
+            "chilindron de carnero": 1420.0
+        },
+        "Drinks": {}
+    }
+}

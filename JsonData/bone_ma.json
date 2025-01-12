@@ -1,0 +1,232 @@
+{
+    "Name": "Bone Ma",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 21 entre M y L"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {
+            "Waffle, nutellq, queso crema, mermelada, miel y fruta": 1900.0,
+            "Huevos al gusto, pan, mantequilla, mermelada, fruta de temporada, jugo o cafe": 2100.0,
+            "Huevos al gusto, pan, jamon, queso, mantequilla, jugo o cafe": 2300.0
+        },
+        "Appetizers": {
+            "Papas fritas": 1050.0,
+            "Falafel (fritura de garbanzo)": 1050.0,
+            "Fritura de malanga": 970.0,
+            "Sopa de vegetales": 1150.0,
+            "Sopa de pollo": 1350.0,
+            "Sopa de lentejas": 1200.0
+        },
+        "Bread": {
+            "Hamburguesa natural smash": 2150.0,
+            "Hamburguesa del falafel": 1900.0,
+            "Hamburguesa smash con bacon y huevo frito": 2500.0,
+            "Hamburguesa smash con aguacate": 2250.0,
+            "Sandwich de vegetales": 1300.0,
+            "Jamon y queso": 1650.0,
+            "Res": 1800.0,
+            "Atun": 1700.0,
+            "Jamon serrano": 2250.0
+        },
+        "Chicken": {
+            "Pechuga de pollo grille": 2350.0,
+            "Pechuga de pollo enchilada": 2450.0,
+            "Schnitzel de pollo (pechuga de pollo empanizada)": 3000.0
+        },
+        "Pork": {},
+        "Beef": {
+            "Ropa vieja de res": 2800.0
+        },
+        "Pizza": {
+            "Margarita": 2000.0,
+            "Funghi": 2200.0,
+            "Vegetariana": 2300.0,
+            "4 quesos": 2600.0,
+            "Hawaiana": 2600.0,
+            "Diabola/pepperoni": 2700.0,
+            "Jamon serrano, rucula y palmesano": 3200.0,
+            "Atun y cebolla": 2600.0
+        },
+        "Pasta": {
+            "Napolitana": 1900.0,
+            "Arrabiata": 2000.0,
+            "Pesto": 2200.0,
+            "Bolognesa": 2800.0,
+            "A la carbonara": 2650.0
+        },
+        "Seafood": {
+            "Filete de pescado grille": 5500.0,
+            "Langosta grille": 4500.0,
+            "Langosta al ajillo": 4500.0,
+            "Langosta enchilada": 4500.0,
+            "Camarones grille": 4500.0,
+            "Camarones al ajillo": 4500.0,
+            "Camarones enchilados": 4500.0,
+            "Pulpo grille": 6000.0,
+            "Pulpo al ajillo": 6000.0,
+            "Pulpo enchilado": 6000.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Flan": 700.0,
+            "Copa de helado": 900.0,
+            "Copa lolita": 1050.0
+        },
+        "Sides": {
+            "Ensalada mixta": 950.0,
+            "Koban salata": 1200.0,
+            "Caprese": 1450.0,
+            "Ensalada nizarda": 1800.0
+        },
+        "Other": {
+            "Doner kebat (pan, pollo asado doner, vegetales y salsa)": 1700.0,
+            "Durum kebat (trotilla de harina, pollo asado doner, vegetales y salsa)": 1750.0,
+            "Doner falafel (pan, falafel, vegetales y salsa)": 1300.0,
+            "Doner kofte (pan, kofte de res, vegetales y salsa)": 1750.0,
+            "Durum kofte (tortilla de harina, kofte de res, vegetales y salsa)": 1750.0,
+            "Plato de doner kebat (pollo asado doner, pan, papas fritas, vegetales y salsa)": 2300.0,
+            "Plato de iskender kebat (pollo asado doner, pan, mantequilla, salsa de tomate, yogurt y vegetales)": 2400.0,
+            "Plato de kofte de res (kofte de res, pan, papas fritas, vegetales y salsa)": 2500.0
+        },
+        "Drinks": {
+            "Te": 400.0,
+            "Cafe espresso": 380.0,
+            "Cafe crotado": 400.0,
+            "Cafe americano": 420.0,
+            "Cafe capuccino": 650.0,
+            "Frapuccino": 700.0,
+            "Cafe bombom": 750.0,
+            "Cafe con leche": 700.0,
+            "Leche con chocolate": 700.0,
+            "Agua natural": 450.0,
+            "Agua gaseada": 750.0,
+            "Agua tonica": 700.0,
+            "Coca cola/pepsi cola": 600.0,
+            "Sprite": 600.0,
+            "Coca cola zero": 600.0,
+            "Jugo de fruta natural": 600.0,
+            "Batido de fruta natural": 950.0,
+            "Limonada natural": 500.0,
+            "Limonada frappe": 550.0,
+            "Ayran": 500.0,
+            "Suero de helado": 1500.0,
+            "Energy drink": 850.0,
+            "Cerveza cristal": 600.0,
+            "Cerveza bucanero": 600.0,
+            "Heineken": 750.0,
+            "Corona": 800.0,
+            "Servicio de chelada": 250.0,
+            "Servicio de michelada": 300.0,
+            "Cuba libre": 1500.0,
+            "Cubata": 1600.0,
+            "Mojito": 1600.0,
+            "Gin basil smash": 1700.0,
+            "Caipirinha": 1400.0,
+            "Strawberry caipi": 1550.0,
+            "Daiquiri": 1500.0,
+            "Strawberry daiquiri": 1600.0,
+            "Pinha colada": 1700.0,
+            "Strawberry colada": 1800.0,
+            "Margarita": 1600.0,
+            "Whisky sour": 1650.0,
+            "Espresso martini": 1650.0,
+            "Sangria": 1500.0,
+            "Yeni raki": 1300.0,
+            "Aperol spritz": 1700.0,
+            "Campari spritz": 1700.0,
+            "Campari soda": 1600.0,
+            "Absolute vodka soda": 1550.0,
+            "Vino tinta (copa)": 950.0,
+            "Vino blanco(copa)": 950.0,
+            "Bailileys": 1100.0,
+            "Jagermeistir": 1200.0,
+            "Cinzano rosso": 1200.0,
+            "Martini blanco": 1200.0,
+            "Clan cambell": 1200.0,
+            "Jaminson": 1400.0,
+            "Jack daniels": 1650.0,
+            "Jhonny walker red label": 1400.0,
+            "Jonny walker black label": 1600.0,
+            "Chivas regal 12 anhos": 1500.0,
+            "Ballentines": 1100.0,
+            "Ballentines 12 anhos": 1400.0,
+            "Havana club anhejo 3 anhos": 800.0,
+            "Havana club anhejo especial": 1050.0,
+            "Havana club anhejo reserva": 1100.0,
+            "Havana club anhejo 7 anhos": 1400.0,
+            "Ron santiago anhejo": 1200.0,
+            "Ron santiago 8 anhos": 1650.0,
+            "Ron santiago 11 anhos": 2200.0,
+            "Seleccion de maestros": 1800.0,
+            "Tanquerai": 1600.0,
+            "Gin mare": 1500.0,
+            "Beefeather": 1500.0,
+            "London number 1": 1900.0,
+            "The botanist": 2100.0,
+            "Omelca blanco": 750.0,
+            "Omelca reposado": 850.0
+        }
+    }
+}
