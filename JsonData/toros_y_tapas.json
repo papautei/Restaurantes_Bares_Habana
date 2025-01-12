@@ -1,0 +1,233 @@
+{
+    "Name": "Toros y Tapas",
+    "Specialty": [
+        "caribe\u00f1a",
+        "mediterranea",
+        "espa\u00f1ola",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "TOROS & TAPAS",
+        "Instagram": "@torostapashabana"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tabla mixta de quesos importados": 6500.0,
+            "Carpaccio de ternera": 3900.0,
+            "Ceviche tradicional con panka amarillo": 2600.0,
+            "Tabla de jamon iberico con pan tumaca": 9750.0,
+            "Charcuteria iberica de la casa": 9750.0,
+            "Croquetas de la casa": 2600.0,
+            "Piquillos rellenos de morcillo de ternera en salsa ligeramente trufada": 3250.0,
+            "Callos a la madrilena": 3250.0,
+            "Gambas al ajillo": 2600.0,
+            "Huevos rotos con jamon serrano o iberico": 3250.0,
+            "Pimientos del piquillo rellenos de gambas y chipirones en su tinta": 2600.0,
+            "Manitas de cerdo estofada": 2110.0,
+            "Pan rustico": 650.0,
+            "Pan baguette con alioli": 650.0,
+            "Pan chapata con alioli": 650.0,
+            "Coctel de ostiones": 2600.0,
+            "Mini tortilla espanola": 2600.0,
+            "Anchoas de santona sobre queso scarmoza": 3900.0,
+            "Burrata ahumada sobre concasse de tomate natural marinado": 5200.0,
+            "Patatas braviolis con crujiente de jamon serrano": 2600.0,
+            "Tentaculo de pulpo (importado) a la plancha": 2600.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Zarzuela de mariscos": 11375.0,
+            "Parrillada de mariscos": 9750.0,
+            "Calamares a la plancha": 5200.0,
+            "Solomillo de ternera importado": 9750.0
+        },
+        "Fishes": {
+            "Pesca del dia": 4875.0
+        },
+        "Desserts": {
+            "Crema catalana": 1300.0,
+            "Coulant de chocolate con helado": 1950.0,
+            "Mini tarta vasca de queso y turron de jijona": 1950.0,
+            "Flan de la casa": 1300.0,
+            "Infusion de arandanos con helado de cereza negra": 1950.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Arroz blanco": 650.0,
+            "Pure de malanga con crujiente de jamon serrano": 975.0,
+            "Patatas fritas": 1950.0
+        },
+        "Other": {
+            "Arroz meloso o paella con verduras": 3900.0,
+            "Fideua con costillitas de cerdo y guisantes": 4550.0,
+            "Paella valenciana": 4550.0,
+            "Paella mixta": 4550.0,
+            "Fideua marinera": 4550.0,
+            "Paella de mariscos": 4550.0,
+            "Arroz negro con calamar y gambas": 5200.0,
+            "Arroz seco trufado de pato con setas": 5200.0,
+            "Arroz meloso con langosta y gambas": 5200.0,
+            "Falso risotto de frutos del mar": 5200.0,
+            "Pierna o paletilla de cabrito lechal al horno con patatas panaderas": 9750.0
+        },
+        "Drinks": {
+            "Agua natural importada": 815.0,
+            "Agua tonica mg": 815.0,
+            "Agua gaseada importada (mondariz)": 1300.0,
+            "Agua gaseada importada (tehuacan)": 815.0,
+            "Agua gaseada importada (perrier)": 975.0,
+            "Mirinda (naranja)": 650.0,
+            "Redbull": 820.0,
+            "Coca cola": 975.0,
+            "7up": 650.0,
+            "Kermato": 975.0,
+            "Zumos naturales": 650.0,
+            "Limonada frappe": 975.0,
+            "Limonada frappe con hierba buena": 1140.0,
+            "Zumo de tomate (mocito)": 650.0,
+            "Cerveza mahou clasica de botella": 650.0,
+            "Cerveza estrella galicia de botella": 815.0,
+            "Cerveza super bock de botella": 815.0,
+            "Cerveza alhambra de botella": 975.0,
+            "Cerveza estrella galicia (grifo) 300 ml": 975.0,
+            "Cerveza estrella galicia (grifo) 500 ml": 1625.0,
+            "Tiojito": 1625.0,
+            "Jarra de sangria": 5850.0,
+            "Sangria nevada (con vino blanco)": 1465.0,
+            "Sangria de la casa": 1465.0,
+            "Pina colada": 1950.0,
+            "Daiquiri": 1140.0,
+            "Chelada (salt and lemon)": 325.0,
+            "Michelada (english sauce, salt and lemon juice)": 650.0,
+            "Gin tonic con agua tonica importada": 1790.0,
+            "Long island": 1950.0,
+            "Caipirinha (black tear, lemon and sugar)": 1300.0,
+            "Caipirisima (white rum, lemon and sugar)": 1300.0,
+            "Caipiroska (vodka, lemon and sugar)": 1300.0,
+            "Mojito": 1300.0,
+            "Cuba libre con refresco importado": 1465.0,
+            "Cubata con refresco importado": 1625.0,
+            "Bloody mary": 1465.0,
+            "Cubanito": 1140.0,
+            "Mary pickford": 1140.0,
+            "Michelada manolete (homemade sauce, english sauce, salt, lemon juice and tajin)": 815.0,
+            "Martini": 1790.0,
+            "Tinto de verano (7up and red wine)": 1300.0,
+            "Copa de vino blanco": 845.0,
+            "Copa de vino tinto": 845.0,
+            "Moscow mule": 1300.0,
+            "Negroni": 1625.0,
+            "Screwdriver": 1300.0,
+            "Toro loco": 1625.0,
+            "Aperol spritz": 1625.0,
+            "Margarita": 1950.0,
+            "Torres 15": 1300.0,
+            "Licor de cafe": 975.0,
+            "Ron escarchado": 975.0,
+            "Tostada escachado": 975.0,
+            "Pazo pondal licor de hierbas de galicia": 1140.0,
+            "Pazo pondal orujo de galicia (blanco)": 1300.0,
+            "Crema ruavieja": 1140.0,
+            "Cointreau": 1300.0,
+            "Sambuca molinari": 1140.0,
+            "Master's": 975.0,
+            "Bulldog": 2600.0,
+            "Hendrick": 2275.0,
+            "Tanqueray ten": 1950.0,
+            "London dry gin no3": 2600.0,
+            "1800 anejo": 3900.0,
+            "Don julio reposado": 3250.0,
+            "Don julio 70": 4875.0,
+            "Havana club anejo anos": 815.0,
+            "Havana club 15 a\u00f1os": 6500.0,
+            "Ron zacapa 23": 4875.0,
+            "Santiago 12 a\u00f1os": 2600.0,
+            "Santiago 8 a\u00f1os": 1140.0,
+            "Santiago 11 a\u00f1os": 1950.0,
+            "Santisima trinidad 7 a\u00f1os": 975.0,
+            "Seleccion de maestros": 2600.0,
+            "J.w. gold label 18 a\u00f1os": 4875.0,
+            "Gentelman jack": 1950.0,
+            "Jack daniels no. 7": 1625.0,
+            "Singleton": 6500.0,
+            "Wood ford (bourbon)": 5850.0,
+            "Glenlivet founder": 1950.0,
+            "Buchanan's 12 a\u00f1os deluxe": 2115.0,
+            "J.w. black label": 1950.0,
+            "J.w. double black": 2600.0,
+            "Stolichnaya": 1140.0,
+            "Prince igor": 975.0,
+            "Infusion/te": 490.0,
+            "Cafe express": 490.0,
+            "Capuchino": 815.0,
+            "Cafe irlandes": 1140.0,
+            "Cafe cortado": 650.0,
+            "Cafe con leche": 650.0,
+            "Cafe carajillo": 650.0,
+            "Cafe americano": 490.0,
+            "Cafe bombon": 975.0
+        }
+    }
+}

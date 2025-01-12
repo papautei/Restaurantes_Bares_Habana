@@ -1,0 +1,125 @@
+{
+    "Name": "Mythos",
+    "Specialty": [
+        "Griega"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Calle Cuba No. 211 entre Empedrado y O'Reilly"
+    },
+    "Contact": {
+        "Web": "@mythos.havana",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2300
+        ],
+        "Tuesday": [
+            800,
+            2300
+        ],
+        "Wednesday": [
+            800,
+            2300
+        ],
+        "Thursday": [
+            800,
+            2300
+        ],
+        "Friday": [
+            800,
+            2300
+        ],
+        "Saturday": [
+            800,
+            2300
+        ],
+        "Sunday": [
+            800,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Solomillo de cerdo en salsa de limon griega": 3500.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "Pasta mediterranea": 3000.0,
+            "Pasta de camaron al anis": 3200.0
+        },
+        "Seafood": {
+            "Risotto de pulpo": 3700.0,
+            "Risotto de frutos del mar": 4100.0,
+            "Pulpo grille": 4200.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Tarta de yogurt griego con reduccion de vino tinto": 1000.0
+        },
+        "Sides": {},
+        "Other": {
+            "Hummus de garbanzo": 700.0,
+            "Melitzanosalata": 800.0,
+            "Tzatziki": 600.0,
+            "Papas fritas con queso feta y oregano": 1300.0,
+            "Tyropitakias": 1000.0,
+            "Aceitunas marinadas con queso feta": 700.0,
+            "Griego pobre": 750.0,
+            "Saganaki": 1500.0,
+            "Souvlaki de cerdo": 2500.0,
+            "Souvlaki de pechuga de pollo": 2100.0,
+            "Souvlaki de res": 2800.0,
+            "Souvlaki vegano": 2000.0,
+            "Souvlaki de queso feta": 2500.0,
+            "Pastitsio": 2300.0,
+            "Imam": 2000.0,
+            "Saganaki de langosta o camaron": 3500.0,
+            "Saganaki de frutos del mar": 4000.0,
+            "Risotto de yogurt griego": 3000.0
+        },
+        "Drinks": {
+            "Demeter (ginebra, mix de pepino y jengibre, zumo de pinha)": 1800.0,
+            "Afrodita (ginebra, mix no. 2, licor de orgeat)": 2000.0,
+            "Persefone (ginebra, licor de grosella, vermouth rosso, jarabe de hibiscus)": 2100.0,
+            "Hades": 2500.0,
+            "Dionisio (ron blanco, reduccion de vino tinto, mix no. 3)": 2800.0,
+            "Poseidon": 2500.0,
+            "Ares (ron oscuro, mix no. 5, tajin, mango)": 2400.0,
+            "Apolo (ron blanco, ruavieja, mix no. 7)": 2300.0,
+            "Freddo expresso (cafe batido servido con hielo)": 450.0,
+            "Freddo capucchino (cafe batido servido con leche, nata y hielo)": 650.0
+        }
+    }
+}

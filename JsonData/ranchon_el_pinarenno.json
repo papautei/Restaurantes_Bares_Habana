@@ -1,0 +1,187 @@
+{
+    "Name": "Ranchon El Pinarenno",
+    "Specialty": [
+        "criollo",
+        "grill"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 16(202) % Calle 9(405) & Calle 7(403), Santiago de las Vegas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "coctel de langosta": 1000.0,
+            "tostones rellenos con carnero": 360.0,
+            "maripositas de la casa": 400.0,
+            "fritura de malanga": 350.0,
+            "croquetas": 400.0,
+            "bolita de carne": 500.0,
+            "coctel de camaron": 600.0,
+            "fajitas de pollo": 700.0,
+            "fajitas de cerdo": 700.0,
+            "eperlan": 600.0,
+            "tamal": 600.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "bistec de pollo": 800.0,
+            "pollo a la juliana": 830.0,
+            "pollo gratinado": 900.0,
+            "golden blue de pollo": 1000.0
+        },
+        "Pork": {
+            "fricase de cerdo": 1200.0,
+            "ropa vieja de cerdo": 500.0,
+            "bistec de cerdo": 800.0,
+            "bistec de cerdo encebollado": 850.0,
+            "escalope de cerdo": 850.0,
+            "fajitas de cerdo salteadas": 700.0,
+            "masa frita": 1200.0,
+            "bistec uruguayo de cerdo": 1200.0,
+            "lonjas de cerdo": 1000.0,
+            "costillas": 1200.0,
+            "costillas al ajillo": 1280.0,
+            "costillas encebolladas": 1300.0,
+            "chuletas": 1200.0,
+            "chuletas al ajillo": 1280.0,
+            "chuleta encebollada": 1300.0,
+            "lonjas de cerdo a la parilla": 1000.0
+        },
+        "Beef": {
+            "ropa vieja de res": 500.0,
+            "bistec de res grille": 900.0,
+            "bistec de res encebollado": 960.0,
+            "uruguayo de res": 1300.0,
+            "estofado de res": 1100.0,
+            "picadillo a la habanera": 650.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "camaron a su eleccion": 1200.0,
+            "langosta enchilada": 2000.0,
+            "langosta a la mariposa": 2000.0
+        },
+        "Fishes": {
+            "pescado grille": 900.0,
+            "pescado empanizado": 950.0,
+            "canciller": 1200.0
+        },
+        "Desserts": {
+            "flan": 250.0,
+            "cake": 350.0
+        },
+        "Additions": {},
+        "Sides": {
+            "ensalada mixta": 200.0
+        },
+        "Other": {
+            "ropa vieja de carnero": 400.0,
+            "chilindron de carnero": 1200.0
+        },
+        "Drinks": {
+            "malta bucanero": 300.0,
+            "limonada frape": 450.0,
+            "limonada frecura": 550.0,
+            "limonada natural": 450.0,
+            "tigon": 300.0,
+            "pepsi": 250.0,
+            "7 up": 250.0,
+            "agua natural": 180.0,
+            "red bull": 500.0,
+            "jugo de lata": 250.0,
+            "jugo de caja": 180.0,
+            "7 Annos Havana Club": 500.0,
+            "Barcelo Annejo": 1000.0,
+            "Barcelo Blanco": 800.0,
+            "Barcelo Dorado": 1000.0,
+            "Barcelo Extra Annejo": 1000.0,
+            "Especial Havana Club": 450.0,
+            "Pacto de Navio Havana Club": 500.0,
+            "Reserva Havana Club": 450.0,
+            "Ritual Havana Club": 450.0,
+            "Ron Blanco Havana Club": 400.0,
+            "Ron Blanco Santiago": 400.0,
+            "Ron Santiago 12 Annos": 1000.0,
+            "Smoky Havana Club": 500.0,
+            "Aguardiente": 500.0,
+            "Ballantines": 1000.0,
+            "Brandy Torres": 1000.0,
+            "Chivas 12 Annos": 1000.0,
+            "Crema de Baileys": 1000.0,
+            "Crema de Wiscky": 600.0,
+            "Ginebra": 500.0,
+            "JW Etiqueta Roja": 1000.0,
+            "Jamerson": 1000.0,
+            "Old Star": 1000.0,
+            "Tequila": 500.0,
+            "Tequila Reposado": 500.0,
+            "Vino Tinto": 400.0,
+            "Vodka": 1000.0,
+            "Blood Mary": 550.0,
+            "Caipirisima": 550.0,
+            "caipirina": 550.0,
+            "Caipiroska": 550.0,
+            "Chelada": 550.0,
+            "Gintonic": 550.0,
+            "Ron collins": 550.0,
+            "Sangria": 550.0,
+            "Cubalibre": 550.0,
+            "Cubanito": 550.0,
+            "Cubata": 550.0,
+            "Malteada": 600.0,
+            "Michelada": 600.0,
+            "Cafe Carajillo": 350.0,
+            "Rocio Criollo": 350.0,
+            "Cristal Lata": 300.0,
+            "Cristal botella": 300.0,
+            "Corono botella": 380.0,
+            "Sol": 350.0,
+            "Bucanero Botella": 300.0,
+            "cafe americano": 150.0,
+            "cafe bombom": 350.0,
+            "cafe con leche": 300.0,
+            "cafe cortadito": 250.0,
+            "cafe expreso": 150.0,
+            "cafe frapuchino": 350.0
+        }
+    }
+}

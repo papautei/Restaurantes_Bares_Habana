@@ -1,0 +1,200 @@
+{
+    "Name": "Restaurante_Los_Hermanos",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            1200
+        ],
+        "Tuesday": [
+            900,
+            1200
+        ],
+        "Wednesday": [
+            900,
+            1200
+        ],
+        "Thursday": [
+            900,
+            1200
+        ],
+        "Friday": [
+            900,
+            1200
+        ],
+        "Saturday": [
+            900,
+            1200
+        ],
+        "Sunday": [
+            900,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Toston Relleno de Jamon y Queso": 950.0,
+            "Fritura de Malanga": 900.0,
+            "Eperlan de Pescado": 1200.0,
+            "Ceviche de Pescado": 1500.0,
+            "Coctel de Camaron": 2000.0,
+            "Tabla de Jamon Serrano": 2700.0,
+            "Fajitas de Pollo": 1100.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo Grille": 1600.0
+        },
+        "Pork": {
+            "Lonjas de Cerdo Asado al Carbon": 1900.0,
+            "Costillas de Cerdo a la Brasa en Aroma de Carbon": 3000.0,
+            "Bistec de Cerdo Encebollado": 1700.0,
+            "Lomo Ahumado": 1700.0
+        },
+        "Beef": {
+            "Bistec Uruguayo": 3000.0
+        },
+        "Pizza": {
+            "Napole": 1250.0,
+            "Con Jamon": 1500.0,
+            "Hawaiana": 1600.0,
+            "Con Chorizo": 1750.0,
+            "Con Atun y Cebolla": 1750.0,
+            "Con Langosta": 1800.0,
+            "Con Camaron": 1800.0
+        },
+        "Pasta": {
+            "Napoles": 1250.0,
+            "Con Jamon": 1500.0,
+            "Con Atun": 1750.0,
+            "Con Camarones": 1900.0,
+            "Con Langosta": 2000.0,
+            "Lasanha": 1300.0
+        },
+        "Seafood": {
+            "Camarones Grille": 2000.0,
+            "Enchilado de Camarones": 2300.0,
+            "Langosta Grille": 2500.0,
+            "Enchilado de Langosta": 2600.0,
+            "Langosta Varadero": 2800.0,
+            "Mariscada Los Hermanos": 3500.0
+        },
+        "Fishes": {
+            "Filete Canciller": 3000.0,
+            "Filete de Pescado Grille": 1900.0,
+            "Pescado Frito Entero": 2500.0
+        },
+        "Desserts": {
+            "Copa de Helado": 600.0,
+            "Flan": 700.0,
+            "Copa Lolita": 800.0,
+            "Mermelada de Mango con Queso": 600.0
+        },
+        "Additions": {
+            "Cebolla": 250.0,
+            "Queso": 600.0,
+            "Jamon Cocido": 350.0,
+            "Jamon Serrano": 950.0,
+            "Chorizo": 600.0,
+            "Pinha": 200.0,
+            "Camaron": 850.0
+        },
+        "Sides": {},
+        "Other": {
+            "Arroz Frito": 1500.0,
+            "Tacos de Cerdo Asado": 1500.0,
+            "Arroz Frito Especial": 1900.0,
+            "Tacos de Fajita de Cerdo": 1500.0,
+            "Tacos de Fajitas de Pollo": 1400.0,
+            "Tacos de Langosta": 2000.0,
+            "Tacos de Camaron": 1900.0,
+            "Grillada Los Hermanos": 3000.0
+        },
+        "Drinks": {
+            "Agua de 500ml": 200.0,
+            "Jugo Natural de Frutas": 400.0,
+            "Jugo de Frutas(Cajita)": 300.0,
+            "Malta Importada": 350.0,
+            "Malta Nacional": 400.0,
+            "Bebidas Energizantes": 400.0,
+            "Refrescos Importados": 350.0,
+            "Batido de Helado": 950.0,
+            "Malteada": 950.0,
+            "Limonada Frappe": 700.0,
+            "Limonada Frescura": 800.0,
+            "Cristal(Lata)": 400.0,
+            "Cristal(Botella)": 450.0,
+            "Bucanero": 400.0,
+            "Colonia": 250.0,
+            "Havana Club 3 Anhos": 370.0,
+            "Havana Club Anhejo Especial": 480.0,
+            "Anhejo Reserva": 500.0,
+            "Havana Club 7 Anhos": 500.0,
+            "Whisky Ballantine": 800.0,
+            "Whisky Johnnie Walker Red Lavel": 800.0,
+            "Whisky Johnnie Walker Swing": 1000.0,
+            "Whisky Chivas Regal 12": 900.0,
+            "Tequila Blanco": 800.0,
+            "Tequila Reposado": 900.0,
+            "Jagermeifter": 600.0,
+            "Crema Baileys": 600.0,
+            "Aguardiente": 400.0,
+            "Vodka Absolute": 700.0,
+            "Ginebra Ginmaster": 700.0,
+            "Mojito": 800.0,
+            "Mojito de Fruta": 1000.0,
+            "Ginc Tonic": 1500.0,
+            "Cuba Libre": 900.0,
+            "Cubata": 1000.0,
+            "Daiquiri": 850.0,
+            "Pinha Colada": 850.0,
+            "Pinha con Ron": 950.0,
+            "Sangria": 900.0,
+            "Sangria Tinto Verano": 950.0,
+            "Caipirinha/...Caipiroshka": 1000.0,
+            "Canchanchara": 800.0,
+            "Canchanchara 7 Anhos": 1000.0,
+            "Margarita": 950.0,
+            "Tekila Sunrise": 950.0,
+            "Agrego de Michelada": 350.0,
+            "Agrego de Chelada": 250.0,
+            "Copa de vino Tinto": 700.0,
+            "Copa de Vino Blanco": 700.0
+        }
+    }
+}

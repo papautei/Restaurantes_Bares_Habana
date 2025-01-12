@@ -1,0 +1,144 @@
+{
+    "Name": "Pechatniky",
+    "Specialty": [
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Pechatniky",
+        "Instagram": "@pechatniky"
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            2400
+        ],
+        "Tuesday": [
+            0,
+            2400
+        ],
+        "Wednesday": [
+            0,
+            2400
+        ],
+        "Thursday": [
+            0,
+            2400
+        ],
+        "Friday": [
+            0,
+            2400
+        ],
+        "Saturday": [
+            0,
+            2400
+        ],
+        "Sunday": [
+            0,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {
+            "Desayuno pechatniky": 900.0
+        },
+        "Appetizers": {
+            "Croquetas de la casa": 950.0,
+            "Frituras de malanga": 820.0,
+            "Fajitas de pollo": 950.0,
+            "Tostones rellenos": 700.0,
+            "Garbanzo": 1000.0,
+            "Papas fritas": 800.0,
+            "Picadera pechatniky": 2900.0
+        },
+        "Bread": {
+            "Baguette de atun": 950.0,
+            "Baguette jamon y queso": 750.0,
+            "Baguette de pollo": 780.0,
+            "Hamburguesa clasica": 750.0
+        },
+        "Chicken": {
+            "Pollo": 1050.0
+        },
+        "Pork": {
+            "Cerdo": 1800.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Pizza": 1050.0
+        },
+        "Pasta": {
+            "Pastas": 1300.0
+        },
+        "Seafood": {
+            "Mariscos": 3000.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Copa 2 bolas": 320.0,
+            "Copa 3 bolas": 380.0,
+            "Tarta pechatniky": 590.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Jamon": 250.0,
+            "Queso": 300.0,
+            "Pollo": 350.0,
+            "Huevo": 300.0,
+            "Atun": 500.0
+        },
+        "Other": {
+            "Vegetales sarteados al carbon": 900.0,
+            "Ensalada vegetales": 700.0,
+            "Arroz frito": 1500.0,
+            "Pelmeni": 1100.0,
+            "Shawarma": 1000.0
+        },
+        "Drinks": {
+            "Agua natural": 170.0,
+            "Refresco importando": 350.0,
+            "Refresco nacional": 250.0,
+            "Malta": 330.0,
+            "Malteda": 420.0,
+            "Energizantes": 350.0,
+            "Jugo natural": 280.0,
+            "Jugo de lata": 350.0,
+            "Cerveza nacional": 350.0,
+            "Cerveza importada": 290.0,
+            "Expreso": 200.0,
+            "Cortado": 280.0,
+            "Capuchino": 350.0,
+            "Americano": 200.0,
+            "Pechatniky": 680.0,
+            "Te o infusion": 180.0
+        }
+    }
+}

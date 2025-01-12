@@ -1,0 +1,136 @@
+{
+    "Name": "Villarino",
+    "Specialty": [
+        "criolla",
+        "italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "http://linktr.ee/restaurantevillarino",
+        "Facebook": "Restaurante Club Villarino",
+        "Instagram": "@villarino.restaurantehabana"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Crujientes de yuca con aderezo agridulce": 480.0,
+            "Croquetas de la casa": 520.0,
+            "Bolitas de queso crujientes": 720.0,
+            "Sandwich clasico": 520.0,
+            "Eperlan de pescado": 720.0,
+            "Fajitas de pollo": 680.0,
+            "Cazuelita de garbanzos a la criolla": 680.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza napolitana": 700.0,
+            "Pizza cebolla": 750.0,
+            "Pizza chorizo": 780.0,
+            "Pizza doble queso": 950.0,
+            "Pizza jamon": 800.0,
+            "Pizza vegetales": 800.0,
+            "Pizza hawaiana": 880.0,
+            "Pizza de pollo": 800.0,
+            "Pizza del mar": 1200.0,
+            "Pizza de atun": 950.0,
+            "Pizza de ropa vieja": 950.0,
+            "Pizza de camarones": 1200.0,
+            "Pizza al gusto": 1000.0
+        },
+        "Pasta": {
+            "Pasta de queso": 850.0,
+            "Pasta de jamon": 920.0,
+            "Pasta de chorizo": 880.0,
+            "Pasta carbonara": 950.0,
+            "Pasta villarino": 1200.0,
+            "Lasagna de carne": 850.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Arroz con pollo a la campesina": 800.0,
+            "Arroz frito especial": 800.0,
+            "Risotto": 2250.0
+        },
+        "Drinks": {
+            "Agua natural": 150.0,
+            "Agua tonica": 300.0,
+            "Malta importada": 280.0,
+            "Malteada": 480.0,
+            "Red bull": 220.0,
+            "Refrescos nacionales": 220.0,
+            "Refrescos importados": 235.0,
+            "Limonada frappe": 200.0,
+            "Jugos naturales": 180.0,
+            "Jugos importados": 210.0,
+            "Cocteles nacionales": 475.0,
+            "Cocteles internacionales": 550.0,
+            "Copa de vino": 350.0,
+            "Cervezas nacionales (cristal/bucanero)": 260.0,
+            "Cervezas importadas": 380.0
+        }
+    }
+}

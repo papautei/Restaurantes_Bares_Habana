@@ -1,0 +1,126 @@
+{
+    "Name": "San Rafael 1051",
+    "Specialty": [
+        "americana",
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "https://sanrafael1051.carrta.app",
+        "Facebook": "san_rafael1051",
+        "Instagram": "@san_rafael1051"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas de la casa": 850.0,
+            "Tabla de serrano y queso": 1450.0,
+            "Nuggets de pollo": 950.0,
+            "Tacos": 1150.0,
+            "Brusquetas mixtas": 850.0,
+            "Ensalada de atun": 1100.0,
+            "Ensalada de pollo": 1100.0,
+            "Ensalada del mar": 1300.0
+        },
+        "Bread": {
+            "Entrepan clasico": 1300.0,
+            "Entrepan cubano": 1500.0,
+            "Entrepan marinero": 1300.0,
+            "Entrepan iberico": 1500.0,
+            "Entrepan vaquero": 1300.0,
+            "Entrepan de crispy chicken": 1500.0,
+            "Hamburguesa black panther": 2400.0,
+            "Hamburguesa megaburger": 2750.0,
+            "Hamburguesa hawaiana": 1650.0,
+            "Hamburguesa 1051": 2000.0,
+            "Hamburguesa parrillera": 1920.0,
+            "Hamburguesa sweet burger": 1100.0,
+            "Hamburguesa deluxe": 1550.0,
+            "Hamburguesa cheese burger": 1790.0,
+            "Hamburguesa cubana": 2140.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Agua natural": 300.0,
+            "Refresco importado": 380.0,
+            "Jugo natural": 390.0,
+            "Caipirinha": 580.0,
+            "Caipiroska": 580.0,
+            "Gin tonic": 650.0,
+            "Sangria": 650.0,
+            "Mojito": 580.0,
+            "Cuba libre": 580.0,
+            "Vodka tonic": 650.0,
+            "Cerveza": 450.0,
+            "Cerveza cristal, heineken, corona": 650.0,
+            "Servicio michelada": 250.0
+        }
+    }
+}

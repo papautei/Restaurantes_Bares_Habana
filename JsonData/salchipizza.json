@@ -1,0 +1,102 @@
+{
+    "Name": "Salchipizza",
+    "Specialty": [
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Salchipizza",
+        "Instagram": "@salchipizza"
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            1300,
+            2300
+        ],
+        "Wednesday": [
+            1300,
+            2300
+        ],
+        "Thursday": [
+            1300,
+            2300
+        ],
+        "Friday": [
+            1300,
+            2300
+        ],
+        "Saturday": [
+            1300,
+            2300
+        ],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.2,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tabla de panes artesanales": 1500.0,
+            "Terrina de pescado": 2700.0,
+            "Tinaja de carbon con crema parmentier de verduras de estacion": 2500.0,
+            "Ensalada de cerdo guayaba y fruta bomba": 2000.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Masa de cerdo con verduras al gratin": 2300.0,
+            "Senhorita de cerdo con verduras al gratin": 3000.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "Lasanha de carne a la bolonhesa": 1600.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Recuerdos de la infancia": 2000.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Carreton de boniato, rueda de quimbombo y y latigo de carnero ahumado": 3000.0,
+            "Volcan de maiz, lava de pescado ardiente y cenizas de pulpo": 3500.0
+        },
+        "Drinks": {
+            "Agua": 200.0,
+            "Copa de vino": 750.0,
+            "Copa de champagne": 800.0,
+            "Cerveza nacional": 350.0,
+            "Cerveza importada": 400.0,
+            "Cafe": 150.0
+        }
+    }
+}

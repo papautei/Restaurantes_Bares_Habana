@@ -1,0 +1,224 @@
+{
+    "Name": "Torre_de_Marfil",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ceviche": 1450.0,
+            "Bruschettas": 950.0,
+            "Ensalada de Vegetales": 750.0,
+            "Ensalada de Verduras y Pollo": 1350.0,
+            "Coctel de Langosta": 1850.0,
+            "Coctel de Camarones": 1350.0,
+            "Maripositas Chinas": 500.0,
+            "Vegetales Salteados": 750.0,
+            "Pulpo al Pimenton": 2900.0,
+            "Shop Suey de Marisco": 1250.0,
+            "Sopa Estilo Oriental": 750.0,
+            "Croquetas de la Casa": 750.0,
+            "Fritura de Malanga": 780.0,
+            "Crema de Calabaza y Malanga": 850.0,
+            "Tacos de Cerdo": 980.0,
+            "Tacos de Vegetales": 980.0,
+            "Tacos de Pollo": 980.0,
+            "Tacos de Ropa Vieja": 980.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo al Estilo Torre de Marfil": 1750.0,
+            "Pollo Grille": 1550.0,
+            "Pescado Grille": 1980.0
+        },
+        "Pork": {
+            "Cerdo al estilo Torre de Marfil": 2300.0,
+            "Cerdo Asado con Salsa de Mostaza y Romero": 2100.0
+        },
+        "Beef": {
+            "Estofado de Res con Zanahoria confitadas": 3200.0,
+            "Ropa Vieja": 1950.0,
+            "Vaca Frita": 1850.0
+        },
+        "Pizza": {
+            "Pizza de Queso": 1200.0,
+            "Pizza Especial de la Casa": 2100.0
+        },
+        "Pasta": {
+            "Pastas Cortas Rigatonni Frutti di Mare": 2700.0,
+            "Espaguetis con Salsa Napoles": 1100.0,
+            "Espaguetis a la Bolognesa": 1750.0,
+            "Espaguetis con Vegetales": 1440.0,
+            "Espaguetis al Alioli con Camarones": 1950.0
+        },
+        "Seafood": {
+            "Combinacion Marinera a la baracoesa": 3100.0,
+            "Langosta al Gusto": 4800.0,
+            "Camarones al Gusto": 2200.0,
+            "Cazuela Caribenha Frutos del Mar": 4300.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Helado con Frutas Confitadas": 750.0,
+            "Flan de Leche y Huevos": 850.0,
+            "Tarta Semifria": 750.0,
+            "Brownie con Helado": 1100.0,
+            "Postre Mixto Cubano": 750.0,
+            "Postres Caseros": 650.0,
+            "Boniatillo con Coco Estilo Omara Portuondo": 750.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Arroz Frito al Estilo de la Casa": 1200.0,
+            "Arroz Caldoso de la Tierra": 1950.0,
+            "Arroz Caldoso Marinero": 3550.0,
+            "Arroz Caldoso Mar y Tierra": 4550.0,
+            "Grillada del Mar": 5800.0,
+            "Grillada de Mar y Tierra": 8500.0,
+            "Grillada de Carne": 3500.0
+        },
+        "Drinks": {
+            "Agua Mineral Natural 0,5l": 320.0,
+            "Agua Mineral Natural 0,33l": 280.0,
+            "Agua Tonica MG": 650.0,
+            "Agua Tonica ME": 850.0,
+            "Refresco Cola(Pepsi)": 450.0,
+            "Refrescos": 350.0,
+            "Jugos de Fruta": 650.0,
+            "Batidos de Fruta": 850.0,
+            "Malta": 450.0,
+            "Malteada": 950.0,
+            "Limonada": 750.0,
+            "Limonada Frescura": 850.0,
+            "Cerveza-Belga Star Lemon": 350.0,
+            "Cerveza-Belga Star Botella de 250ml": 450.0,
+            "Cerveza-Estrella Damm Botella 33cl": 650.0,
+            "Cerveza-Heineken Botella": 750.0,
+            "Cerveza-Unlaguer": 350.0,
+            "Cerveza-Cristal": 550.0,
+            "Cerveza-Bucanero": 550.0,
+            "Fernet": 350.0,
+            "Aguardiente Black Tears": 330.0,
+            "Bebida Energetica Time Flies": 650.0,
+            "Limoncello": 550.0,
+            "Jagger": 750.0,
+            "Amaretto": 450.0,
+            "Crema Bailey's": 850.0,
+            "Licor de Cafe": 400.0,
+            "Cognac Martel VS": 750.0,
+            "Brandy Armagnac VS": 1200.0,
+            "Vodka Absolut": 850.0,
+            "Vodka Tito's Handmade": 1200.0,
+            "Vodka Belvedere": 1800.0,
+            "Tequila Los Corrales": 600.0,
+            "Tequila Reposado Arraigo": 950.0,
+            "Tequila Jimador Reposado": 1050.0,
+            "Tequila Volcan de mi tierra Blanco": 2800.0,
+            "Whisky J.W. Black Label": 1350.0,
+            "Whisky Jamenson Original": 700.0,
+            "Whisky J.W. Red Label": 750.0,
+            "Whisky Chivas Real 12": 850.0,
+            "Whisky Buchanans": 1950.0,
+            "Whisky Johnnie Walker Swing": 1900.0,
+            "Whisky Sir Albert": 550.0,
+            "Whisky Bourbon Jim Beam Black": 950.0,
+            "Ron Santiago Blanco": 600.0,
+            "Ron Santiago 8 Anhos": 1050.0,
+            "Ron Santiago 11 Anhos": 1300.0,
+            "Ron Santiago 12 Anhos": 1600.0,
+            "Ron Santiago Extra Seco": 1050.0,
+            "Habana Club Reserva": 650.0,
+            "Habana Club 7 Anhos": 750.0,
+            "Habana Club Smoky": 950.0,
+            "Habana Club Seleccion de Maestros": 1650.0,
+            "Habana Club Pacto Navio": 1500.0,
+            "Mojito": 890.0,
+            "Daiquiri": 890.0,
+            "Cuba Libre/Cubata": 950.0,
+            "Caipirska/Caipirissima": 890.0,
+            "Caipirinha": 890.0,
+            "Caipiroska/Caipirissima Sabor": 1050.0,
+            "Caipirinha de Sabor": 1050.0,
+            "Pinha Colada": 1150.0,
+            "Pinha Colada sin Alcohol": 890.0,
+            "Negroni": 1200.0,
+            "Manhattan": 1200.0,
+            "Presidente": 950.0,
+            "Screwdriver": 850.0,
+            "Margarita": 950.0,
+            "Dry Martini": 900.0,
+            "Tequila Sunrise": 850.0,
+            "Tinto de Verano": 850.0,
+            "Sangria": 950.0,
+            "San Francisco": 750.0,
+            "Canchanchara": 950.0,
+            "Ron Collins": 890.0,
+            "Bloody Mary": 1050.0,
+            "Servicio de Michelada": 350.0,
+            "Servicio de Chelada": 250.0
+        }
+    }
+}

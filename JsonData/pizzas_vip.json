@@ -1,0 +1,137 @@
+{
+    "Name": "Pizzas Vip",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "Pizza VIP",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas de la casa": 400.0,
+            "Fritura de malanga": 300.0,
+            "Bolita de queso": 650.0,
+            "Fajita de pechuga": 1100.0,
+            "Ensalada fria": 370.0,
+            "Papa frita": 580.0,
+            "Fajita de cerdo": 1200.0,
+            "Crema de queso": 500.0,
+            "Crema virginia": 550.0,
+            "Crema aurora": 520.0,
+            "Crema mixta": 600.0,
+            "Tacos de jamon": 1030.0,
+            "Tacos de res": 1350.0,
+            "Tacos de cangrejo": 1380.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de queso": 800.0,
+            "Pizza de cebolla": 1000.0,
+            "Pizza de pimiento": 1000.0,
+            "Pizza de jamon": 1000.0,
+            "Pizza de chorizo": 1050.0,
+            "Pizza hawaiana": 1260.0,
+            "Pizza de bacon": 1240.0,
+            "Pizza doble queso": 1250.0,
+            "Pizza de camaron": 1700.0,
+            "Pizza de res": 1300.0,
+            "Pizza de at\u00fan con cebolla": 1450.0,
+            "Pizza de jamon serrano": 1570.0,
+            "Pizza de aceituna": 1200.0
+        },
+        "Pasta": {
+            "Espaguetis napolitano": 720.0,
+            "Espaguetis bolonhesa": 1350.0,
+            "Espaguetis carbonara": 1350.0,
+            "Espaguetis alfredo": 1150.0,
+            "Espaguetis de at\u00fan": 1270.0,
+            "Espaguetis pollo": 1120.0,
+            "Espaguetis de camarones": 1400.0,
+            "Espaguetis chorizo": 1150.0,
+            "Espaguetis negro di mare": 1500.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Henike": 360.0,
+            "Cerveza importada": 250.0,
+            "Cerveza de lata cristal": 300.0,
+            "Cerveza de botella": 300.0,
+            "Pomitos de agua": 150.0,
+            "Refresco de pomito": 180.0,
+            "Refresco de lata": 220.0,
+            "Malta": 300.0,
+            "Jugos de lata": 280.0,
+            "Jugos de cajita": 180.0,
+            "Tigon": 300.0,
+            "Refresco importado": 280.0,
+            "Malta importada": 270.0
+        }
+    }
+}

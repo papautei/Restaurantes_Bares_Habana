@@ -1,0 +1,127 @@
+{
+    "Name": "Vale & Vane",
+    "Specialty": [
+        "italiana",
+        "criolla"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": ""
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            900,
+            2100
+        ],
+        "Wednesday": [
+            900,
+            2100
+        ],
+        "Thursday": [
+            900,
+            2100
+        ],
+        "Friday": [
+            900,
+            2100
+        ],
+        "Saturday": [
+            900,
+            2100
+        ],
+        "Sunday": [
+            900,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {
+            "bistec princesa": 1920.0,
+            "pollo frito": 1000.0,
+            "suprema grille": 1400.0,
+            "suprema encebollada": 1650.0
+        },
+        "Pork": {
+            "chuleta de cerdo": 1100.0,
+            "bistec cerdo grille": 1200.0,
+            "masa de cerdo frita": 1300.0,
+            "bistec encebollado": 1450.0,
+            "costilla cerdo": 1650.0,
+            "lomo ahumado": 1400.0
+        },
+        "Beef": {
+            "uruguayo": 1600.0,
+            "vaca frita": 1600.0,
+            "ropa vieja": 1600.0
+        },
+        "Pizza": {
+            "pizza napolitana": 650.0,
+            "pizza familiar": 2500.0
+        },
+        "Pasta": {
+            "spaghetti napolitano": 650.0,
+            "spaghetti con jamon": 900.0,
+            "spaghetti con chorizo": 900.0,
+            "spaghetti doble queso": 920.0
+        },
+        "Seafood": {
+            "camaron grille": 1800.0,
+            "enchilado camaron": 1850.0
+        },
+        "Fishes": {
+            "filete pescado grille": 1800.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "mar y tierra": 2500.0,
+            "garbanzo frito": 1300.0
+        },
+        "Drinks": {
+            "tigon": 280.0,
+            "agua natural": 180.0,
+            "refresco lata": 250.0,
+            "malta hyper malta": 270.0,
+            "malta bucanero": 300.0,
+            "jugo natural (cajita)": 200.0,
+            "jugo natural (lata)": 270.0,
+            "cerveza cristal (lata)": 280.0,
+            "cerveza cristal (botella)": 380.0,
+            "cerveza hollandia": 250.0,
+            "cerveza wild hill": 250.0
+        }
+    }
+}

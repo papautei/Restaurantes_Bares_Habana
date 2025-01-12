@@ -1,0 +1,108 @@
+{
+    "Name": "Pal'Karajo",
+    "Specialty": [
+        "rapida"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Avenida 101 Esquina 16 Centro Cotorro"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "chicarrita de boniato": 200.0
+        },
+        "Bread": {
+            "pan Pal'Karajo": 790.0,
+            "pan con lech\u00f3n": 450.0,
+            "pan con jam\u00f3n": 300.0,
+            "pan con chorizo": 250.0,
+            "pan con jam\u00f3n y chorizo": 400.0
+        },
+        "Chicken": {},
+        "Pork": {
+            "tacos de cerdo mechados": 890.0,
+            "tacos de cerdo estofados": 990.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "jugo de mango": 200.0,
+            "jugo de pi\u00f1a": 200.0,
+            "batido de mango": 380.0,
+            "batido de mamey": 400.0,
+            "batido de trigo": 380.0,
+            "batido de mani": 400.0,
+            "batido de mani con chocolate": 450.0,
+            "pi\u00f1a colada": 400.0,
+            "malteada": 500.0,
+            "limonada": 400.0,
+            "michelada con cristal": 550.0,
+            "chelada con cristal": 550.0,
+            "expresso": 100.0,
+            "cortado": 150.0,
+            "capuccino": 300.0,
+            "frapuccino": 400.0,
+            "bomb\u00f3n": 300.0
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "Name": "Venami",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1130,
+            2200
+        ],
+        "Tuesday": [
+            1130,
+            2200
+        ],
+        "Wednesday": [
+            1130,
+            2200
+        ],
+        "Thursday": [
+            1130,
+            2200
+        ],
+        "Friday": [
+            1130,
+            2200
+        ],
+        "Saturday": [
+            1130,
+            2200
+        ],
+        "Sunday": [
+            1130,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.7,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Focaccia a las Hierbas": 300.0,
+            "Brusquetas": 350.0,
+            "Melanzane Bolonhesa": 450.0,
+            "Melanzane Vegetales": 400.0,
+            "Ensalada Capresi": 650.0,
+            "Ensalada Vegetales": 650.0,
+            "Focaccia Rellena": 1350.0,
+            "Estrofollino Vegetal": 850.0,
+            "Estrofollino Jamon": 900.0,
+            "Estrofollino Natural": 650.0,
+            "Focaccia c/ Jamon Serrano": 1100.0,
+            "Crema de Queso": 600.0,
+            "Crema Virginia": 630.0,
+            "Crema Champignon": 650.0,
+            "Al Fungi": 1100.0,
+            "Al Fruto de Mar": 1350.0,
+            "Al Venami": 1050.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo al Limon": 1210.0,
+            "Pollo a la Piazzola": 1250.0
+        },
+        "Pork": {
+            "Cerdo al Limon": 1300.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Pizza Venami": 1600.0,
+            "Pizza Deliciosa": 1300.0,
+            "Pizza Jamon Serrano": 1500.0,
+            "Pizza Jamon y Cebolla": 1150.0,
+            "Pizza Hawaiana": 1150.0,
+            "Pizza 4 Estaciones": 1250.0,
+            "Pizza Atun y Alcaparras": 1050.0,
+            "Pizza Fruto de Mar": 1450.0,
+            "Pizza Margarita": 700.0,
+            "Calzone Bolonhesa": 1100.0,
+            "Pizza Diabola": 1100.0,
+            "Pizza Bacon y Cebolla": 1100.0,
+            "Pizza Champignon": 1000.0,
+            "Pizza 4 Quesos": 1200.0,
+            "Pizza Habanera": 1350.0,
+            "Pizza Caribenha": 1500.0,
+            "Pizza de Pollo": 1100.0,
+            "Pizza Vegetariana": 910.0
+        },
+        "Pasta": {
+            "Lazanha": 1200.0,
+            "Fetuccine Bolonhesa": 1050.0,
+            "Cenelones": 1050.0,
+            "Penne Champignon/Serrano": 1380.0,
+            "Spaghetty Amatriciana": 1100.0,
+            "Spaghetty Alfredo(Jamon)": 1050.0,
+            "Spaghetty A la Carbonara": 1200.0,
+            "Penne Arrabiatta": 950.0,
+            "Penne a la Bolonhesa": 1050.0,
+            "Spaghetty de Atun/Alcaparras": 1000.0,
+            "Spaghetty Pomodoro Basilico": 800.0,
+            "Spaghetty Fruto de Mar": 1450.0,
+            "Spaghetty al Pesto": 950.0,
+            "Spaghetty al Venami": 1250.0,
+            "Spaghetty Ajo/Peperonchino": 850.0,
+            "Spaghetty al Camaron": 1250.0,
+            "Timbal de Pollo": 1200.0,
+            "Timbal de Bolonhesa": 1100.0
+        },
+        "Seafood": {},
+        "Fishes": {
+            "Pescado Livonnesa": 1310.0,
+            "Pescado al Camaron": 1400.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

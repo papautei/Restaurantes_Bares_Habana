@@ -1,0 +1,218 @@
+{
+    "Name": "San giovanni",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Linea entre paseo y A"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            0
+        ],
+        "Tuesday": [
+            800,
+            0
+        ],
+        "Wednesday": [
+            800,
+            0
+        ],
+        "Thursday": [
+            800,
+            0
+        ],
+        "Friday": [
+            800,
+            0
+        ],
+        "Saturday": [
+            800,
+            0
+        ],
+        "Sunday": [
+            800,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {
+            "Desayuno cuabno (cafe con leche, tostada, mantequilla y jalea)": 1000.0,
+            "Desayuno americano (bacon, queso, huevo, tostadas, mantequilla, jalea, jugo natural)": 2900.0,
+            "Desayuno europeo (ensalada de frutas, tostadas, mnantequilla, jalea, dulce y jugo natural)": 2900.0,
+            "Desayuno especial": 3500.0,
+            "Pan, cakes con frutas y jugo natural": 2500.0,
+            "Crepes rellenas de chocolate con bola de helado y jugo natural": 2900.0
+        },
+        "Appetizers": {
+            "Papaps fritas": 900.0,
+            "Frituras de malanga": 900.0,
+            "Croquetas de la casa": 900.0,
+            "Fajitas de pollo": 1500.0,
+            "Eperlan": 1000.0,
+            "Queso frito": 1200.0,
+            "Tostones rellenos": 900.0,
+            "Bruchettas": 1000.0,
+            "Coctel de mariscos": 2500.0,
+            "Ceviche de pescado": 1900.0,
+            "Crema de queso": 1800.0,
+            "Tabla de jamon serrano": 4200.0,
+            "Picadera napolitana": 4000.0,
+            "Tabla especial": 4600.0,
+            "Picadera mixta": 3800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pechuga grillada": 2500.0,
+            "Pechuga a la genovesa": 3200.0
+        },
+        "Pork": {
+            "Bistec de cerdo encebollado": 2600.0,
+            "Masas fritas de cerdo": 2600.0,
+            "Fricase de cerdo": 2900.0,
+            "Bistec uruguayo": 4000.0
+        },
+        "Beef": {
+            "Ropa vieja de res": 3600.0,
+            "Vaca frita": 3600.0,
+            "Grillada de tierra": 3900.0
+        },
+        "Pizza": {
+            "Pizza margerita": 1900.0,
+            "Pizza napoli": 1900.0,
+            "Pizza diavola": 2500.0,
+            "Pizza tonno e cipolla": 2600.0,
+            "Pizza hawaiana": 2600.0,
+            "Pizza procciutto e funghi": 2800.0,
+            "Pizza capricciosa": 3200.0,
+            "Pizza primavera": 1600.0,
+            "Pizza wurstel e patatine": 2300.0,
+            "Pizza 4 queso": 2900.0,
+            "Pizza de mozzarella y jamon serrano": 3300.0
+        },
+        "Pasta": {
+            "Espaguetti bolognesa": 2800.0,
+            "Espaguetti carbnonara": 3000.0,
+            "Espaguetti amatriciana": 2700.0,
+            "Espaguetti pesto": 2900.0,
+            "Espaguetti sabor del mar": 4500.0,
+            "Espaguetti de langosta": 4000.0,
+            "Lasagna bolognesa": 3700.0,
+            "Lasagna napolitana": 4600.0,
+            "Raviolis de jamon y queso": 3200.0
+        },
+        "Seafood": {
+            "Pescado frito entero": 3000.0,
+            "Filete de pescado grille": 2500.0,
+            "Jhon bill": 2900.0,
+            "Filete canciller": 3600.0,
+            "Langosta al gusto": 3500.0,
+            "Camaron al gusto": 3300.0,
+            "Grillada del mar": 4000.0,
+            "Grillada de mar y tierra": 7300.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Copa de helado": 450.0,
+            "Dulce de la casa": 500.0
+        },
+        "Sides": {
+            "Ensalada de la estacion": 1500.0,
+            "Ensalada vegana": 2500.0,
+            "Ensalada cesar": 2500.0,
+            "Ensalada mediterranea": 2500.0,
+            "Ensalada iberica": 2500.0,
+            "Arroz moro": 550.0,
+            "Arroz blanco": 450.0,
+            "Arroz pilaf": 700.0
+        },
+        "Other": {
+            "Tacos de pollo": 2000.0,
+            "Tacos de cerdo": 2200.0,
+            "Tacos de res": 2500.0,
+            "Tacos de pescado": 2300.0,
+            "Tacos de vegetales": 1800.0
+        },
+        "Drinks": {
+            "Mojito": 1200.0,
+            "Daiquiri": 900.0,
+            "Cuba libre": 900.0,
+            "Cubata": 1100.0,
+            "Canchanchara": 950.0,
+            "Pinha colada": 1300.0,
+            "Caipirinha": 950.0,
+            "Cubanito": 1250.0,
+            "Screw driver": 900.0,
+            "Bloddy mary": 1250.0,
+            "Margarita": 1000.0,
+            "Tequila sunrise": 1100.0,
+            "Mimosa": 1200.0,
+            "Aperol spritz": 2000.0,
+            "Sangria": 1600.0,
+            "Long island ice tea": 2000.0,
+            "Old fashioned": 2000.0,
+            "Negroni": 2000.0,
+            "Martini": 1300.0,
+            "Pinha colada  sin alcohol": 1200.0,
+            "San francisco": 1000.0,
+            "Virgen maria": 1150.0,
+            "Malteada": 900.0,
+            "Batido de frutas": 800.0,
+            "Servicio de chelada": 350.0,
+            "Servicio de michelada": 450.0,
+            "Servicio de tonic": 1200.0,
+            "Agua natural": 300.0,
+            "Agua carbonatada": 300.0,
+            "Agua tonica": 1000.0,
+            "Refresco": 400.0,
+            "Malta": 500.0,
+            "Jugo natural": 450.0,
+            "Limonada natural": 500.0,
+            "Limonada frappe": 550.0,
+            "Energizantes": 500.0,
+            "Red bull": 800.0,
+            "Cerveza nacional": 400.0,
+            "Cerveza importada": 300.0,
+            "Cerveza heineken": 600.0,
+            "Cerveza corona": 600.0,
+            "Cafe espresso": 300.0,
+            "Cafe americano": 300.0,
+            "Cafecortado": 350.0,
+            "Cafe bombom": 400.0,
+            "Leche": 400.0,
+            "Cafe con leche": 650.0,
+            "Frapuccino": 800.0,
+            "Carajillo": 500.0
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "Name": "MMCafeteria",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Marianao",
+        "Address": "Avenida 41"
+    },
+    "Contact": {
+        "Web": "Cafeteria MM",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            1000
+        ],
+        "Tuesday": [
+            900,
+            1000
+        ],
+        "Wednesday": [
+            900,
+            1000
+        ],
+        "Thursday": [
+            900,
+            1000
+        ],
+        "Friday": [
+            900,
+            1000
+        ],
+        "Saturday": [
+            1000,
+            0
+        ],
+        "Sunday": [
+            1000,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Papas fritas": 650.0,
+            "Croquetas": 550.0,
+            "Fritura de malanga": 550.0,
+            "Tostones rellenos": 650.0,
+            "Ensalada fria de jamon": 800.0,
+            "Ensalada fria de atun": 900.0,
+            "Fajitas de pechuga salteada": 1200.0,
+            "Fajitas de pechuga empanada": 1450.0,
+            "Fajitas de cerdo salteadas": 1300.0,
+            "Fajitas de cerdo empanada": 1350.0,
+            "Eperlan": 1350.0,
+            "Coctel de camarones": 2100.0
+        },
+        "Bread": {
+            "Hamburguesa clasica": 400.0,
+            "Hamburguesa de queso": 600.0,
+            "Hamburguesa de jamon": 550.0,
+            "Hamburguesas jamon y queso": 700.0
+        },
+        "Chicken": {
+            "Bistec de pollo gordon blue": 1900.0,
+            "Bistec de pechuga gordon blue": 1900.0,
+            "Pechuga de pollo grille": 1500.0,
+            "Pechuga de pollo empanada": 1400.0
+        },
+        "Pork": {
+            "Bistec de cerdo grille": 1400.0,
+            "Cerdo bistec empanizado": 1600.0,
+            "Bistec de cerdo uruguayo": 1950.0,
+            "Masa de cerdo salteada": 1350.0,
+            "Lomo de cerdo": 1500.0,
+            "Fricase de cerdo ": 1400.0
+        },
+        "Beef": {
+            "Vaca frita": 1900.0,
+            "Ropa vieja": 1900.0
+        },
+        "Pizza": {
+            "Pizzas napolitanas, 32 cm": 750.0,
+            "Pizzas jamon": 1100.0,
+            "Pizzas bacon": 1650.0,
+            "Pizzas pimiento": 1050.0,
+            "Pizzas cebolla": 950.0,
+            "Pizzas hawaiana": 1350.0,
+            "Pizzas at\u00fan": 1650.0,
+            "Pizzas camaron": 1350.0,
+            "Pizzas ropa vieja": 1500.0,
+            "Pizzas de chorizo": 1100.0,
+            "Pizzas mm": 1800.0
+        },
+        "Pasta": {
+            "Crema de queso": 800.0,
+            "Lasagnha bolonhesa": 1700.0,
+            "Espaguettis napolitano": 700.0
+        },
+        "Seafood": {
+            "Pescado grille": 1500.0,
+            "Pescado empanizado": 1900.0,
+            "Enchilado de camaron": 1400.0,
+            "Camaron al ajillo": 1700.0,
+            "Camaron empanado": 2000.0,
+            "Canciller 190grs": 2000.0,
+            "Langosta": 2100.0,
+            "Cazuela de mariscos": 2100.0,
+            "Canciller 180 grs": 2000.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Helado cid": 850.0
+        },
+        "Sides": {
+            "Arroz blanco": 200.0,
+            "Arroz congri": 300.0,
+            "Arroz frito": 1550.0,
+            "Arroz imperial": 1650.0,
+            "Paella": 2100.0,
+            "Arroz frito de cerdo,pollo y mejillon": 1450.0
+        },
+        "Other": {
+            "Taco de cerdo": 1200.0,
+            "Taco de camaron": 1400.0,
+            "Taco de pollo": 1100.0,
+            "Taco de res": 1300.0
+        },
+        "Drinks": {
+            "Agua": 130.0,
+            "Refresco santa": 200.0,
+            "Sprite": 450.0,
+            "Santa isabel": 250.0,
+            "Energizante": 260.0,
+            "Cristal v": 245.0,
+            "Cristal b": 200.0,
+            "Bucanero": 240.0,
+            "Jugo lata": 265.0
+        }
+    }
+}

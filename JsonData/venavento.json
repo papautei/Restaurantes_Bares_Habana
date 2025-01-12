@@ -1,0 +1,173 @@
+{
+    "Name": "VenaVento",
+    "Specialty": [
+        "cubana",
+        "internacional"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 10, esq. Vento"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "ensalada tibia de langosta": 1600.0,
+            "tabla iberica mix": 3600.0,
+            "tabla iberica": 2600.0,
+            "coctel de gambas": 1300.0,
+            "coctel de anzuelos": 1300.0,
+            "ensalada caprese": 1250.0,
+            "ensalada cesar": 1250.0,
+            "quesadillas": 1200.0,
+            "tacos de camaron": 1800.0,
+            "tostones de cangrejo": 1650.0,
+            "tortillas rellenas": 1500.0,
+            "frituras de malanga": 1400.0,
+            "garbanzos fritos": 1500.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pollo grille": 1600.0,
+            "suprema de pollo": 2500.0,
+            "pollo al carbon": 1850.0
+        },
+        "Pork": {
+            "brocheta de pollo": 2020.0,
+            "brocheta de cerdo": 2170.0,
+            "cachopo de cerdo": 2600.0,
+            "cochino al jugoso": 2420.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {
+            "pasta veranennto": 2600.0,
+            "pasta carbonara": 2500.0,
+            "fruti de mare": 3200.0,
+            "nero di sejia": 3000.0
+        },
+        "Seafood": {
+            "grillada de fruta de mar": 7600.0,
+            "langosta mariscossa": 3600.0,
+            "brocheta de langosta": 2700.0,
+            "paella de mariscos (pax 1)": 2770.0,
+            "paella de mariscos (pax 2)": 4600.0,
+            "cacerola de pescado y marisco": 3500.0,
+            "zarzuela de pescado y mariscos": 3500.0,
+            "camarones al gusto": 3500.0,
+            "congrejo enchilado": 3000.0,
+            "langosta enchilada": 3100.0,
+            "langosta batabano": 3300.0
+        },
+        "Fishes": {
+            "salmon al ajillo": 3500.0,
+            "salmon de cerdo": 3800.0,
+            "salmon a la parrilla": 4500.0,
+            "filete de pescado montadoro": 2620.0,
+            "filete de pescado carriller": 2770.0,
+            "filete de pescado don pello": 2770.0,
+            "filete de pescado flor blue": 2800.0,
+            "cacerola de pescado y marisco": 3500.0,
+            "zarzuela de pescado y mariscos": 3500.0
+        },
+        "Desserts": {
+            "copa de helado": 500.0,
+            "crema volia": 850.0,
+            "flan de caramelo": 750.0,
+            "flanada": 1000.0
+        },
+        "Additions": {},
+        "Sides": {
+            "ensalada estacion": 750.0,
+            "arroz blanco": 580.0,
+            "frijoles de la casa": 800.0,
+            "ensalada de tomate": 1000.0,
+            "moros y cristianos": 800.0,
+            "fufuce platano": 1200.0,
+            "pure de papa": 1500.0
+        },
+        "Other": {
+            "brocheta mixta de carne": 2220.0,
+            "paella de carne (pax 1)": 2600.0,
+            "paella de carne (pax 2)": 4400.0,
+            "mar y tierra ( pax 1)": 4000.0,
+            "paella mixta (pax 1)": 2800.0,
+            "paella mixta (pax 2)": 4800.0
+        },
+        "Drinks": {
+            "aguas naturales": 400.0,
+            "batido de frutas": 500.0,
+            "san francisco": 850.0,
+            "refresco": 300.0,
+            "energizante tacon": 480.0,
+            "cerveza nacional": 250.0,
+            "cerveza importada": 290.0,
+            "servicio de chinchada": 350.0,
+            "servicio de vinireda": 350.0,
+            "cafe expresso": 200.0,
+            "cafe nespreso": 220.0,
+            "cafe cortadito": 280.0,
+            "cafe con leche": 280.0,
+            "cafe frappucino": 400.0,
+            "cafe amaretto": 550.0,
+            "cafe espannol": 500.0
+        }
+    }
+}

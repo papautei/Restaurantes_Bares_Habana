@@ -1,0 +1,168 @@
+{
+    "Name": "Restaurante_Kopas",
+    "Specialty": [
+        "Parrilladas"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2300
+        ],
+        "Tuesday": [
+            1000,
+            2300
+        ],
+        "Wednesday": [
+            1000,
+            2300
+        ],
+        "Thursday": [
+            1000,
+            2300
+        ],
+        "Friday": [
+            1000,
+            2300
+        ],
+        "Saturday": [
+            1000,
+            2300
+        ],
+        "Sunday": [
+            1000,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.3,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {
+            "Brocheta de Pollo": 1550.0,
+            "Bistec de Pollo Grille": 1350.0,
+            "Fajitas de Pollo a la Pinha y Miel": 1375.0,
+            "Fajitas de Pollo Empanada": 1550.0,
+            "Pechuga de Pollo en Salsa de Jengibre y Ajonjoli": 1450.0,
+            "Pollo a la Crema": 1650.0,
+            "Pollo al Ajo y Vino Blanco": 1450.0,
+            "Pollo a la Parmesana": 1650.0,
+            "Pollo al Limon y al Oregano": 1450.0,
+            "Pollo Caribenho": 2100.0,
+            "Pollo Cordon Blue": 2250.0,
+            "Pollo Princesa": 1750.0
+        },
+        "Pork": {
+            "Lomo de Cerdo Ahumado con Salsa Agridulce": 1875.0,
+            "Lomo de Cerdo Ahumado con Salsa Basbecue": 1850.0,
+            "Lomo de Cerdo Ahumado Encebollado": 1775.0,
+            "Lomo de Cerdo Encebollado": 1750.0,
+            "Lomo de Cerdo en Salsa Roquefort": 1975.0,
+            "Chuleta de Cerdo al Carbon": 1975.0,
+            "Chuleta de Cerdo al Grill en Salsa Chimichurri": 1975.0,
+            "Bistec de Cerdo Encebollado": 1650.0,
+            "Bistec de Cerdo Princesa": 2000.0,
+            "Escalope de Cerdo": 2250.0,
+            "Fajitas de Cerdo a la Pinha y Miel": 1875.0,
+            "Brocheta de Cerdo": 1850.0
+        },
+        "Beef": {
+            "Brocheta de Res": 1950.0,
+            "Masa de Res en Cazuela": 1875.0
+        },
+        "Pizza": {
+            "Pizza Aceitunas": 1590.0,
+            "Pizza Caballo": 1975.0,
+            "Pizza de Atun": 1975.0,
+            "Pizza de Bacon": 1850.0,
+            "Pizza de Camaron": 1995.0,
+            "Pizza de Cebolla": 1250.0,
+            "Pizza de Chorizo": 1550.0,
+            "Pizza de Jamon": 1650.0,
+            "Pizza de Pimiento": 1250.0,
+            "Pizza Diablo": 1850.0,
+            "Pizza Hawaiana": 1700.0,
+            "Pizza Jamon Serrano": 2700.0,
+            "Pizza Kopas": 2200.0,
+            "Pizza Margarita": 1500.0,
+            "Pizza Marinera": 2575.0,
+            "Pizza Mixta": 2000.0,
+            "Pizza Napolitana": 1275.0,
+            "Pizza Ropa Vieja": 2000.0,
+            "Pizza Vegetariana": 1650.0,
+            "Pizza Vikinga": 2000.0
+        },
+        "Pasta": {
+            "Pasta a la Carbonara": 1100.0,
+            "Pasta Amatriciana": 1300.0,
+            "Pasta de Atun": 1450.0,
+            "Pasta de Camaron": 1550.0,
+            "Pasta de Jamon": 1275.0,
+            "Pasta Napolitana": 975.0,
+            "Calzone Mixto": 1975.0,
+            "Focaccia": 790.0
+        },
+        "Seafood": {
+            "Camaron Empanado": 2300.0,
+            "Camaron Enchilado": 2300.0,
+            "Camarones al Ajillo": 2200.0,
+            "Camaron Grille": 2000.0,
+            "Camaron Tropical": 3250.0,
+            "Brocheta de Camaron": 2100.0
+        },
+        "Fishes": {
+            "Dados de Pescado al Ajillo": 1850.0,
+            "Filete de Pescado al Estilo Kopas": 2750.0,
+            "Filete de Pescado al Olivo": 1750.0,
+            "Filete de Pescado Empanado": 2100.0,
+            "Filete de Pescado en Salsa de Limon": 1975.0,
+            "Filete de Pescado Grille": 1475.0,
+            "Filete de Pescado Montetoro": 2450.0,
+            "Filete de Pescado Princesa": 2150.0,
+            "Filete de Pescado Canciller": 2550.0,
+            "Filete de Pescado Costa Sur": 2650.0,
+            "Rueda de Albacora a la Veracruz": 1995.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Brocheta de Pollo y Cerdo": 1950.0,
+            "Arroz Frito Especial": 1750.0,
+            "Paella Mixta": 2850.0,
+            "Tres Reyes": 1950.0
+        },
+        "Drinks": {}
+    }
+}

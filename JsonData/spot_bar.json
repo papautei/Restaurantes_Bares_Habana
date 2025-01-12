@@ -1,0 +1,142 @@
+{
+    "Name": "Spot Bar",
+    "Specialty": "mixto",
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "23 y 12, Vedado, Plaza"
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": null,
+        "Instagram": "https://www.instagram.com/sportbar_23y12/"
+    },
+    "Schedule": {
+        "Monday": [
+            2400,
+            0
+        ],
+        "Tuesday": [
+            2400,
+            0
+        ],
+        "Wednesday": [
+            2400,
+            0
+        ],
+        "Thursday": [
+            2400,
+            0
+        ],
+        "Friday": [
+            2400,
+            0
+        ],
+        "Saturday": [
+            2400,
+            0
+        ],
+        "Sunday": [
+            2400,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": false,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {
+            "Waffles": 600.0,
+            "Americano": 1000.0
+        },
+        "Appetizers": {
+            "Brusquetas": 500.0,
+            "Croquetas del dia": 550.0,
+            "Fritura de malanga": 450.0,
+            "Papas fritas": 550.0,
+            "Picadera 23 y 12": 2500.0
+        },
+        "Bread": {
+            "Emparedado de atun": 1400.0,
+            "Emparedado de pollo": 1400.0,
+            "Emparedado de lechon": 1600.0,
+            "Emparedado de jamon y queso": 1000.0,
+            "Emparedado de 23 y 12": 2000.0,
+            "Hamburguesa clasica de cerdo": 1450.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza napoles": 1250.0,
+            "Pasta bolonhesa": 1800.0,
+            "Pasta pesto": 950.0,
+            "Pasta napoles": 1200.0,
+            "Pasta aljillo": 1000.0
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Tacos de pollo, 3 unidades": 2000.0,
+            "Tacos de pollo, 8 unidades": 3000.0,
+            "Tacos de cerdo, 3 unidades": 2500.0,
+            "Tacos de camaron, 3 unidades": 2500.0
+        },
+        "Drinks": {
+            "Cr7": 700.0,
+            "Messi": 600.0,
+            "Lakers": 600.0,
+            "Habana mule": 600.0,
+            "Canchancara habana": 600.0,
+            "Michelada 23 y 12": 500.0,
+            "Zombie": 650.0,
+            "Vampiro": 700.0,
+            "Cerveza cristal": 400.0,
+            "Cerveza cristal extra": 500.0,
+            "Cerveza bucanero": 400.0,
+            "Cerveza bucanero max": 500.0,
+            "Cerveza dispensada": 350.0,
+            "Agua nacional": 250.0,
+            "Agua importada": 450.0,
+            "Refresco nacional": 280.0,
+            "Refresco importado": 300.0,
+            "Malta": 400.0,
+            "Energizante": 600.0,
+            "Limonada natural": 400.0,
+            "Limonada c/ hierba buena": 425.0,
+            "Jugo natural": 350.0,
+            "Cafe americano": 250.0,
+            "Cafe espresso": 250.0,
+            "Cafe espresso c/ coffemate": 300.0,
+            "Cafe cortadito": 300.0,
+            "Cafe bombom": 400.0,
+            "Cafe cappuccino": 500.0,
+            "Cafe affocato": 500.0,
+            "Cafe frapuccino": 550.0,
+            "Cafe frapuccino 23 y 12": 650.0
+        }
+    }
+}

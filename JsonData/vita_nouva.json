@@ -1,0 +1,289 @@
+{
+    "Name": "Vita Nouva",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle L esquina 21"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1130
+        ],
+        "Tuesday": [
+            800,
+            1130
+        ],
+        "Wednesday": [
+            800,
+            1130
+        ],
+        "Thursday": [
+            800,
+            1130
+        ],
+        "Friday": [
+            800,
+            1130
+        ],
+        "Saturday": [
+            800,
+            1130
+        ],
+        "Sunday": [
+            800,
+            1130
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas": 950.0,
+            "Tostones rellenos": 950.0,
+            "Tostones rellenos con atun": 1050.0,
+            "Picadera vita nuova": 1850.0,
+            "Frituras de malanga": 950.0,
+            "Eperlan de pescado": 1050.0,
+            "Fajitas de pollo": 1050.0,
+            "Desayuno vita nuova": 1450.0,
+            "Pan de la casa": 450.0,
+            "Coctel de camarones": 1450.0,
+            "Ensalada fria de jamon": 950.0,
+            "Ensalada fria de atun": 950.0,
+            "Barenjena a la parmesana": 930.0,
+            "Papas fritas": 850.0,
+            "Canape de jamon serrano y queso": 850.0,
+            "Crema de queso": 650.0,
+            "Crema aurora": 700.0,
+            "Crema virginia": 700.0,
+            "Sopa de la casa": 600.0,
+            "Fajitas de cerdo": 1200.0
+        },
+        "Bread": {
+            "Queso": 1300.0,
+            "Jamon": 1300.0,
+            "Jamon y queso": 1450.0,
+            "Pechuga de pollo": 1400.0,
+            "Atun": 1450.0,
+            "Jamon serrano": 1600.0,
+            "Bistec": 1450.0,
+            "Cubano": 1600.0,
+            "Hamburguesa": 1250.0,
+            "Hamburguesa con jamon y queso": 1600.0,
+            "Hamburguesa con queso": 1500.0,
+            "Hamburguesa especial": 1850.0,
+            "Hamburguesa con jamon": 1500.0,
+            "Tortilla al plato": 750.0
+        },
+        "Chicken": {
+            "Pollo gordon blue": 3200.0,
+            "Pollo a la parmesana": 3200.0,
+            "Pollo a la milanesa": 3200.0,
+            "Pechuga de pollo grille": 2800.0
+        },
+        "Pork": {
+            "Chuleta de cerdo": 3200.0,
+            "Bistec uruguayo": 3300.0,
+            "Costillas de cerdo al jugo": 3200.0,
+            "Bistec de cerdo": 3000.0,
+            "Fricase de cerdo": 3400.0
+        },
+        "Beef": {
+            "Punta de filete de res": 7000.0,
+            "Ropa vieja de res": 3200.0,
+            "Picadillo de res a la habanera": 2800.0,
+            "Solomillo de res": 9000.0
+        },
+        "Pizza": {
+            "Napolitana": 1400.0,
+            "Margarita": 1700.0,
+            "Jamon de la casa": 1700.0,
+            "Tonatta": 1900.0,
+            "4 quesos": 1900.0,
+            "Hawaiana": 1750.0,
+            "4 estaciones": 2500.0,
+            "Tentacion": 2500.0,
+            "Vita nuova": 3000.0
+        },
+        "Pasta": {
+            "Espaguetti napolitano": 1250.0,
+            "Espaguetti pesto": 1250.0,
+            "Espaguetti tonatta": 2000.0,
+            "Espaguetti amatriciana": 1850.0,
+            "Espaguetti vita nuova": 2050.0,
+            "Espaguetti agli oli": 1850.0,
+            "Espaguetti a la carbonara": 1850.0,
+            "Espaguetti a la bolonesa": 1850.0,
+            "Lasagna bolonesa": 1650.0
+        },
+        "Seafood": {
+            "Enchilado de camaron": 3200.0,
+            "Camaron grille": 3200.0,
+            "Camaron al ajillo": 3200.0,
+            "Langosta grille o enchilada": 3300.0,
+            "Pescado grille": 3100.0,
+            "Canciller": 4500.0,
+            "Pescado john bill": 4500.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Semifrio v sabores": 1200.0,
+            "Flan de caramelo": 500.0,
+            "Copa lolita": 850.0,
+            "Helados de la casa": 850.0,
+            "Brownie con helado": 900.0,
+            "Pie de limon": 850.0,
+            "Vaca negra": 720.0
+        },
+        "Sides": {
+            "Yuca con mojo": 550.0,
+            "Yuca frita": 550.0,
+            "Arroz moro": 450.0,
+            "Arroz blanco": 450.0,
+            "Toston natural": 450.0,
+            "Pure de malanga": 550.0,
+            "Ensalada de vegetales": 850.0
+        },
+        "Other": {
+            "Bistec de palomilla grille": 3850.0,
+            "Estofado de cordero": 3600.0,
+            "Risotto de pollo": 1650.0,
+            "Risotto de champinon": 2000.0,
+            "Risotto de vegetales": 1900.0,
+            "Risotto de gamba": 2000.0
+        },
+        "Drinks": {
+            "Refresco importado": 350.0,
+            "Jugo de frutas naturales": 300.0,
+            "Agua natural 500ml": 300.0,
+            "Agua natural 1500ml": 450.0,
+            "Agua con gas": 300.0,
+            "Agua tonica": 330.0,
+            "Suero de helado": 750.0,
+            "Batido de helado": 700.0,
+            "Limonada frappe": 400.0,
+            "Red bull": 400.0,
+            "Malta": 400.0,
+            "Jarra de cerveza": 500.0,
+            "Cerveza importada": 440.0,
+            "Cerveza nacional": 500.0,
+            "Cerveza sol": 500.0,
+            "Chelada": 800.0,
+            "Michelada": 950.0,
+            "Cubetazo cerveza importada": 3850.0,
+            "Cubetazo corona, cristal, bucanero": 4800.0,
+            "Cuba libre": 550.0,
+            "Daiquiri": 550.0,
+            "Ron collins": 490.0,
+            "Mary pickford": 490.0,
+            "Cubata": 650.0,
+            "Margarita": 880.0,
+            "Canchanchara": 550.0,
+            "Caipirina": 550.0,
+            "Caipirisima": 550.0,
+            "Caipiroska": 550.0,
+            "Gin tonic": 550.0,
+            "Cubanito": 600.0,
+            "Pinha colada": 950.0,
+            "Pinha colada sin alcohol": 750.0,
+            "Gin con tanqueray": 800.0,
+            "Bloody mary": 710.0,
+            "Scholdriver": 450.0,
+            "Sex on the beach": 750.0,
+            "Martini": 1000.0,
+            "Negroni": 710.0,
+            "Orgasmo": 820.0,
+            "Mojito": 550.0,
+            "Mojito moreno": 600.0,
+            "Presidente": 550.0,
+            "Tequila sunrise": 770.0,
+            "Tinto verano": 700.0,
+            "Ton collins": 490.0,
+            "Havana special": 550.0,
+            "Sangria": 710.0,
+            "Long island": 930.0,
+            "Black russian": 490.0,
+            "Coctel vita nuova": 770.0,
+            "Coctel vita nuova sin alcohol": 550.0,
+            "Manhattan": 1500.0,
+            "Blue laboon": 900.0,
+            "T.heminguay": 490.0,
+            "Havana club 3 anhos": 390.0,
+            "Havana club anejo especial": 440.0,
+            "Havana club anhejo reserva": 550.0,
+            "Havana club anhejo 7 anos": 660.0,
+            "Havana club seleccion de maestros": 820.0,
+            "Pacto navio": 820.0,
+            "Whisky clan macgregor": 330.0,
+            "Whisky red label": 800.0,
+            "Whisky black label": 1000.0,
+            "Whisky buchanas": 1100.0,
+            "Whisky jamenson": 490.0,
+            "Vodka grey groose": 800.0,
+            "Vodka ciroc": 600.0,
+            "Vodka stollchanaya": 700.0,
+            "Tequila jose cuervo": 820.0,
+            "Tequila patron": 1210.0,
+            "Tequila olmeca": 600.0,
+            "Baileys": 820.0,
+            "Ballantines": 550.0,
+            "Tanqueray": 550.0,
+            "Jagger": 550.0,
+            "Santiago 8 anhos": 600.0,
+            "Santiago 12 anhos": 850.0,
+            "Chivas regal 12 anhos": 900.0,
+            "Beefeater": 500.0,
+            "Copa de vino frontera": 550.0,
+            "Copa de vino sangre de toro": 770.0,
+            "Copa de vino acantus tinto": 660.0,
+            "Copa de vino crin roja": 750.0,
+            "Copa de vino gato negro": 750.0,
+            "Copa de vino de la casa": 550.0,
+            "Copa de vino vinas del vero": 850.0,
+            "Copa de vino santa julia": 850.0,
+            "Copa de vino federico": 850.0,
+            "Copa de vino vineyard": 750.0,
+            "Copa de vino acantus blanco": 750.0,
+            "Expresso": 250.0,
+            "Americano": 300.0,
+            "Cortado": 350.0,
+            "Capuccino": 450.0,
+            "Frapuccino": 500.0,
+            "Cafe con leche": 450.0,
+            "Cafe bombon": 500.0,
+            "Te de infusion": 170.0,
+            "Chocolate caliente": 330.0,
+            "Malta con leche": 650.0
+        }
+    }
+}

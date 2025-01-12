@@ -1,0 +1,99 @@
+{
+    "Name": "Restaurante_Europa",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.7,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Bistec de Cerdo Grille": 850.0,
+            "Lonjas de Cerdo Asada": 775.0,
+            "Fajitas de Cerdo": 990.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Pizza Napolitana": 650.0
+        },
+        "Pasta": {
+            "Spaguetti Napolitano": 350.0
+        },
+        "Seafood": {
+            "Langosta Entera Grille": 4500.0,
+            "Camaron Grille": 1900.0,
+            "Camaron Enchilado": 1740.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Gelatina": 75.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

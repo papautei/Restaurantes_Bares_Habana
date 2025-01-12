@@ -1,0 +1,127 @@
+{
+    "Name": "Otra manera",
+    "Specialty": [
+        "caribe\u00f1a",
+        "internacional",
+        "espa\u00f1ola",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Otramaneralahabana",
+        "Instagram": "@otramanera.lahabana"
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            1230,
+            2300
+        ],
+        "Wednesday": [
+            1230,
+            2300
+        ],
+        "Thursday": [
+            1230,
+            2300
+        ],
+        "Friday": [
+            1230,
+            2300
+        ],
+        "Saturday": [
+            1230,
+            2300
+        ],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ceviche del dia": 2400.0,
+            "Bniato marinado y frito con ali oli de cachucha": 2050.0,
+            "Falafel con salsa tzatziki": 1900.0,
+            "Croquetas de chuleton de cerdo al carbon": 2050.0,
+            "Nachos mexicanos con picadillo de cerdo picanton": 2400.0,
+            "Tacos de lechon asado": 2400.0,
+            "Huevos de codorniz trufados al horno, con papas y chorizo frito": 2050.0,
+            "Mini hamburguesas de cordero con queso de cabra": 3200.0,
+            "Wok de pulpo": 3200.0,
+            "Ensalada de aguacate asado, tomate, pepino y remolacha crujiente": 2050.0,
+            "Tartar de mozzarella fresca, aguacate y tomate": 2050.0,
+            "Ensalada verde con queso de cabra y reduccion de frutas": 1900.0,
+            "Ensalada verde con pollo marinado en nuestra salsa de pi\u00f1a y cilantro": 2050.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro": 3400.0,
+            "Costillas asadas en salsa barbacoa, pastel de yuca y verduritas": 4050.0
+        },
+        "Beef": {
+            "New york steak con papas asadas y salsa chimichurri": 4000.0,
+            "Albondiga de res rellena de setas y papas asadas": 4500.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Langosta al horno con mantequilla, limon y mole negro": 5100.0
+        },
+        "Fishes": {
+            "Pescado del dia a la plancha con mole verde y boniatos asados": 3400.0,
+            "Dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco": 3400.0
+        },
+        "Desserts": {
+            "Biscocho breton, crema de limon y toffe": 1700.0,
+            "Coulant de chocolate con helado": 2100.0,
+            "Baba al ron con helado": 1700.0,
+            "Arroz con leche": 1800.0,
+            "Helado": 1350.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Arroz blanco": 700.0,
+            "Matajibaro": 700.0,
+            "Vegetales salteados": 700.0,
+            "Cesta de pan": 700.0
+        },
+        "Other": {
+            "Cordero en salsa de chocolate con verduras grilladas": 4050.0,
+            "Canelon de pollo asado con setas": 3500.0,
+            "Canelon de cangrejo xl con doble salsa": 3400.0,
+            "Wok de atun, vegetales y salsa teriyaki": 2400.0,
+            "Wok de tallarines con cerdo, vegetales, pi\u00f1a y teriyaki": 2400.0,
+            "Risotto de zanahoria con mozzarella y hierbas aromaticas": 4050.0,
+            "Arroz de marisco": 4500.0
+        },
+        "Drinks": {}
+    }
+}

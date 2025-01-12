@@ -1,0 +1,110 @@
+{
+    "Name": "Yesterday Habana",
+    "Specialty": [
+        "internacional",
+        "criolla",
+        "italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "calle Rita entre Calzada de Guines y Blanchy"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            0
+        ],
+        "Saturday": [
+            1200,
+            0
+        ],
+        "Sunday": [
+            1200,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "picadera Yesterday": 1300.0,
+            "eperlan": 780.0,
+            "coctel de camarones": 750.0,
+            "entremes de jamon,queso y chorizo": 800.0,
+            "ceviche": 650.0,
+            "ensalada fria": 650.0,
+            "tostones rellenos": 600.0,
+            "fritura de malanga": 350.0,
+            "croquetas de la casa": 380.0,
+            "fajitas de pollo": 750.0,
+            "fajitas de cerdo": 750.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "pizza napolitana": 550.0
+        },
+        "Pasta": {
+            "spaghetti napolitano": 600.0
+        },
+        "Seafood": {
+            "camarones al ajillo": 1500.0,
+            "camarones grille": 1500.0,
+            "enchilado de camarones": 1500.0
+        },
+        "Fishes": {
+            "filete de pescado": 1100.0,
+            "filete de pescado Jhonbill": 1500.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

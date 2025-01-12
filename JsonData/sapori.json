@@ -1,0 +1,193 @@
+{
+    "Name": "Sapori",
+    "Specialty": [
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": "@sapori_oficial"
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [
+            800,
+            2200
+        ],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {
+            "Tostadas de mantequilla y mermelada": 400.0,
+            "Tostadas de aguacate, chia, aceite de oliva y tomate": 800.0,
+            "Ensalada de frutas": 1000.0,
+            "Yogurt con cereal": 650.0,
+            "Yogurt con frutas": 650.0,
+            "Leche con cereal": 650.0,
+            "Crepes": 800.0,
+            "Crepes de nutella": 1000.0,
+            "Tostadas francesas": 1000.0,
+            "Waffles": 1000.0,
+            "Huevos al gusto": 1000.0,
+            "Huevos benedictos": 1500.0,
+            "Desayuno continental": 2000.0,
+            "Desayuno americano": 2000.0,
+            "Desayuno sapori": 2200.0,
+            "Desayuno healthy": 2500.0
+        },
+        "Appetizers": {
+            "Croissant natural": 600.0,
+            "Baguette natural peque\u00f1o": 180.0,
+            "Barra de baguette natural": 650.0,
+            "Pan briochi": 1500.0,
+            "Pan boom": 250.0,
+            "Pan rustico": 1100.0,
+            "Bolitas de queso (5u)": 1200.0,
+            "Croquetas (6u)": 1200.0,
+            "Papas fritas": 900.0,
+            "Brusquetas clasicas (4u)": 800.0,
+            "Brusquetas de jamon serrano (4u)": 950.0,
+            "Nuggets de pollo (6u)": 2000.0,
+            "Tacos de pechuga (3u)": 2200.0,
+            "Tacos de cerdo (3u)": 2200.0,
+            "Picadera sapori": 4000.0,
+            "Ensalada cesar": 2200.0,
+            "Ensalada capresse": 2700.0,
+            "Ensalada estaci\u00f3n": 1800.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Dulce de chocolate": 750.0,
+            "Dulce de fresa": 700.0,
+            "Dulce de vainilla": 700.0,
+            "Dulce de avellana": 700.0,
+            "Dulce de lim\u00f3n": 700.0,
+            "Dulce de tiramis\u00fa": 750.0,
+            "Dulce de tres leches": 750.0,
+            "Dulce de yogurt con frutos del bosque": 700.0,
+            "Dulce de pistacho": 750.0,
+            "Tartaleta de chocolate": 700.0,
+            "Tartaleta de pistacho con lim\u00f3n": 750.0,
+            "Cheesecake de fresa": 700.0,
+            "Ferrero rocher": 700.0,
+            "Panna cotta": 500.0,
+            "Matilda": 600.0,
+            "Tarta de yogurt y frutos del bosque": 6500.0,
+            "Tarta de chocolate": 6500.0,
+            "Tarta de fresa": 6500.0,
+            "Tarta de vainilla": 6500.0,
+            "Tarta de avellana": 6500.0,
+            "Tarta de lim\u00f3n": 6500.0,
+            "Tarta tres leches": 5000.0,
+            "Tarta cheesecake fresa": 6500.0,
+            "Tarta matilda": 8000.0,
+            "Tarta de tiramis\u00fa": 8000.0,
+            "Tarta tres leches con frutos rojos": 8000.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Carpaccio de res": 3250.0,
+            "Ceviche de pescado": 2000.0
+        },
+        "Drinks": {
+            "Agua natural": 250.0,
+            "Agua gaseada": 650.0,
+            "Agua t\u00f3nica": 600.0,
+            "Refresco gaseado": 550.0,
+            "Malta": 600.0,
+            "Red bull": 750.0,
+            "Jugo de caja": 250.0,
+            "Jugo natural": 450.0,
+            "Limonada": 1000.0,
+            "Cerveza cristal botella": 650.0,
+            "Cerveza crona botella": 650.0,
+            "Cerveza stella artois": 650.0,
+            "Servicio michelada": 500.0,
+            "Servicio chelada": 400.0,
+            "Tinto de verano": 1000.0,
+            "Sangria": 1200.0,
+            "Pi\u00f1a colada": 1400.0,
+            "Aperol spritz": 1200.0,
+            "Daiquiri": 1000.0,
+            "Mojito": 1100.0,
+            "Caipiroska": 1100.0,
+            "Margarita": 1300.0,
+            "Gin tonic": 1300.0,
+            "San francisco": 1000.0,
+            "Cafe expresso": 400.0,
+            "Cafe cubano": 400.0,
+            "Cafe cortadito": 430.0,
+            "Cafe americano": 400.0,
+            "Cafe bombon": 550.0,
+            "Cafe moca": 550.0,
+            "Cafe capuchino": 650.0,
+            "Cafe escoses": 650.0,
+            "Cafe chantilly": 450.0,
+            "Cafe affogato": 650.0,
+            "Cafe latte": 850.0,
+            "Frapuccino": 1200.0,
+            "Cafe ice latte": 850.0,
+            "Chocolate caliente": 850.0,
+            "Te caliente": 250.0,
+            "Te frio": 250.0
+        }
+    }
+}

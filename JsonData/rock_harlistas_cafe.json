@@ -1,0 +1,174 @@
+{
+    "Name": "Rock_Harlistas_Cafe",
+    "Specialty": [
+        "Comida Rapida"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "Clasica": 1260.0,
+            "Doble": 1700.0,
+            "Harlistas": 2500.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza Napoles": 1250.0,
+            "Pizza Hawaiana": 1500.0
+        },
+        "Pasta": {
+            "Napolitana": 1250.0,
+            "Pesto": 1300.0,
+            "Carbonara": 1550.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Batidos Tropicales": 700.0,
+            "Jugos Tropicales": 550.0,
+            "Limonada Natural": 450.0,
+            "Limonada Frappe": 450.0,
+            "Limonada Frescura": 550.0,
+            "Refrescos Nacionales": 400.0,
+            "Refrescos Importados": 550.0,
+            "Agua Mineral": 450.0,
+            "Agua Gaseada": 500.0,
+            "Agua Tonica": 600.0,
+            "Kermato": 650.0,
+            "Batido de Helado": 1100.0,
+            "Copa de Helado Montano": 900.0,
+            "Hendrick's": 1300.0,
+            "Tanqueray": 900.0,
+            "Bombay Sapphire": 900.0,
+            "Ungava Premium": 1100.0,
+            "Beefeater": 550.0,
+            "Beefeater 24": 800.0,
+            "Van Gogh": 1100.0,
+            "Mezcal Amaras Reposado": 900.0,
+            "Olmeca Silver": 800.0,
+            "Olmeca Reposado": 900.0,
+            "Patron Reposado": 2300.0,
+            "Patron Silver": 2100.0,
+            "Don Julio Reposado": 2900.0,
+            "Tromba Reposado": 1700.0,
+            "Vino Tinto D' la Casa": 700.0,
+            "Vino Tinto Partager": 900.0,
+            "Vino Blanco Marques d' Caceres": 750.0,
+            "Moet y Chandom Imperial": 10000.0,
+            "Sidra Riano Palacio": 4000.0,
+            "Ballantines": 950.0,
+            "Jameson": 900.0,
+            "Chivas 12": 1250.0,
+            "JW Red Label": 1000.0,
+            "JW Black Label": 1250.0,
+            "Jack Daniels No. 7": 2100.0,
+            "Jack Daniels Gentleman": 1900.0,
+            "Crown Royal": 1900.0,
+            "Scottman": 700.0,
+            "Bucanero": 550.0,
+            "Cristal": 500.0,
+            "Cristal B": 600.0,
+            "H.C. 3 Anhos": 550.0,
+            "H.C. 7 Anhos": 700.0,
+            "H.C Seleccion Maestro": 1450.0,
+            "Cubay Anhejo 10 Anhos": 800.0,
+            "Santiago 11": 1200.0,
+            "Santiago Extra Anhejo 12": 1100.0,
+            "Mojito": 900.0,
+            "Mojito Tropical": 1000.0,
+            "Daiquiri": 900.0,
+            "Daiquiri Tropical": 1000.0,
+            "Cuba Libre": 800.0,
+            "Cubata": 800.0,
+            "Ron Collins": 900.0,
+            "Tom Collins": 950.0,
+            "Bloody Mary": 1100.0,
+            "Cubanito": 1100.0,
+            "Caipirinha": 800.0,
+            "Caipirissima": 800.0,
+            "Caipiroska": 850.0,
+            "CaipiJagger": 900.0,
+            "Canchanchara": 850.0,
+            "Espresso Martini": 1000.0,
+            "Dry Martini": 1000.0,
+            "Sweet Martini": 1000.0,
+            "Perfect Martini": 1150.0,
+            "Gin Tonic": 1000.0,
+            "Margarita": 900.0,
+            "Negroni": 1150.0,
+            "Old Fashioned": 1150.0,
+            "Pinha Colada": 1100.0,
+            "Sangria": 950.0,
+            "Tinto de Verano": 950.0,
+            "Calimocho": 900.0,
+            "Screwdriver": 1000.0,
+            "Michelada": 1100.0,
+            "Chelada": 900.0
+        }
+    }
+}

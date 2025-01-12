@@ -1,0 +1,239 @@
+{
+    "Name": "Perla Negra",
+    "Specialty": [
+        "Cocina mixta y cocteleria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#114, Calle Milagros entre Heredia y Felipe Poey, Santos Suarez"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            0
+        ],
+        "Tuesday": [
+            1200,
+            0
+        ],
+        "Wednesday": [
+            1200,
+            0
+        ],
+        "Thursday": [
+            1200,
+            0
+        ],
+        "Friday": [
+            1200,
+            0
+        ],
+        "Saturday": [
+            1200,
+            200
+        ],
+        "Sunday": [
+            1200,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Maripositas chinas": 550.0,
+            "Frituras de malanga": 650.0,
+            "Toston Salazar": 750.0,
+            "Croquetas de la casa": 800.0,
+            "Coctel de langosta": 1850.0,
+            "Coctel de camaron": 1950.0,
+            "Eperlan": 1950.0,
+            "Picadera Perla Negra": 2950.0
+        },
+        "Bread": {
+            "Hamburguesa de cerdo": 650.0
+        },
+        "Chicken": {
+            "Pechuga Isla Tortuga": 2750.0
+        },
+        "Pork": {
+            "Bistec decerdo grille": 2350.0,
+            "Uruguayo de cerdo": 2975.0,
+            "Chuletazo": 3150.0
+        },
+        "Beef": {
+            "Vaca frita": 2100.0,
+            "Ropa vieja": 2350.0,
+            "Filete de res": 5300.0,
+            "Punta de filete de res": 5300.0,
+            "Filete Mignon": 5850.0
+        },
+        "Pizza": {
+            "Pizza napolitana": 1550.0,
+            "Pizza Kraken": 2550.0
+        },
+        "Pasta": {
+            "Espaghettis napolitanos": 1100.0,
+            "Lasagna Bolognesa": 2250.0
+        },
+        "Seafood": {
+            "Camaron al gusto": 2900.0,
+            "Langosta al gusto": 3100.0
+        },
+        "Fishes": {
+            "Filete de pescado grille": 2550.0,
+            "Kalipsus": 3100.0,
+            "Filete Canciller": 2750.0,
+            "Pescado Elizabeth": 2800.0
+        },
+        "Desserts": {
+            "Flan de la casa": 450.0,
+            "Tres Gracias": 950.0,
+            "Copa Lolita": 1050.0,
+            "Crepes Tortuga": 700.0,
+            "Waffles Eroticos": 750.0
+        },
+        "Additions": {
+            "Pina": 150.0,
+            "Cebolla": 200.0,
+            "Pimiento": 250.0,
+            "Aceituna": 300.0,
+            "Jamon": 300.0,
+            "Chorizo": 300.0,
+            "Champignon": 500.0,
+            "Queso Gouda": 600.0,
+            "Atun": 675.0,
+            "Camaron": 750.0,
+            "Langosta": 950.0,
+            "Huevo frito": 200.0
+        },
+        "Sides": {
+            "Arroz blanco": 200.0,
+            "Arroz moro": 250.0,
+            "Frijol negro": 500.0,
+            "Ensalada de vegetales del dia": 575.0,
+            "Vianda frita": 500.0,
+            "Papas fritas": 650.0,
+            "Pure de malanga con tropezones de bacon": 675.0
+        },
+        "Other": {
+            "Arroz frito": 2400.0,
+            "Arroz frito especial": 3250.0,
+            "Taco de ropa vieja": 1650.0,
+            "Tesoro Pirata": 4850.0,
+            "Jack Sparrow": 5950.0,
+            "Venganza de la Reina": 7150.0,
+            "Paella Ana Maria": 4150.0,
+            "Grillada Perla Negra": 5575.0,
+            "Taco Pastor": 1850.0
+        },
+        "Pizzas": {},
+        "Drinks": {
+            "Refresco": 350.0,
+            "Malta importada": 375.0,
+            "Malta Perla Negra": 400.0,
+            "Agua": 225.0,
+            "Agua gaseada": 225.0,
+            "Cerveza importada": 375.0,
+            "Cerveza Cristal": 500.0,
+            "Agua tonica": 600.0,
+            "Red Bull": 650.0,
+            "Kermato": 650.0,
+            "Limonada Frappe": 450.0,
+            "Limonada Frescura": 600.0,
+            "Jugo natural": 450.0,
+            "Batido de frutas": 550.0,
+            "Batido de helado": 850.0,
+            "Chelada": 175.0,
+            "Michelada": 275.0,
+            "Label 5": 750.0,
+            "J&B": 875.0,
+            "Jameson": 875.0,
+            "Chivas Regal 12 anos": 1100.0,
+            "JW Red Label": 1100.0,
+            "Jaggermeister": 750.0,
+            "Vodka Absolut": 650.0,
+            "Vino tinto": 500.0,
+            "Vino blanco": 500.0,
+            "Tequila Monte de la Rosa": 550.0,
+            "Tequila Olmeca Reposado": 750.0,
+            "Cremas de sabores": 350.0,
+            "Patty'Os": 400.0,
+            "Reytor (crema)": 500.0,
+            "Ruavieja (crema)": 525.0,
+            "Baileys (crema)": 750.0,
+            "Havana Club Profundo": 350.0,
+            "Havana Club 3 anos": 375.0,
+            "Ron Ritual": 425.0,
+            "Havana Club Spiced": 450.0,
+            "Havana Club Smoky": 475.0,
+            "Havana Club 7 anos": 550.0,
+            "Santiago 11 anos": 650.0,
+            "Santiago 12 anos": 750.0,
+            "Pacto Navio": 700.0,
+            "Seleccion de Maestro": 750.0,
+            "Boltran Reserva": 700.0,
+            "Appleton State": 800.0,
+            "Coctel Perla Negra": 1550.0,
+            "Coctel Perla Rosa": 650.0,
+            "Coctel Perla Blue": 650.0,
+            "Mojito Perla": 850.0,
+            "Pina Colada": 950.0,
+            "Margarita Pirata": 800.0,
+            "Margarita Reposado": 950.0,
+            "Gin tonic": 1275.0,
+            "Gin Collins": 700.0,
+            "Ron Collins": 490.0,
+            "Vodka Tonic": 750.0,
+            "Daiquiri": 575.0,
+            "Caipirinha": 675.0,
+            "Caipiroska Absolut": 900.0,
+            "Canchanchara": 950.0,
+            "Sangria": 950.0,
+            "Sangria Asturiana": 900.0,
+            "Cafe Expresso": 150.0,
+            "Cafe Cortado": 180.0,
+            "Cappuccino": 250.0,
+            "Cafe Bombon": 450.0,
+            "Frappuccino": 550.0,
+            "Botella de Havana Club 7 anos": 5500.0,
+            "Botella Ritual": 6000.0,
+            "Botella de Seleccion de Maestro": 11000.0,
+            "Botella Ron Santiago 11 anos": 11500.0,
+            "Botella de Monte de la Rosa": 5500.0,
+            "Botella de vodka Absolut": 7800.0,
+            "Botella de Jaggermeister": 8500.0,
+            "Botella de Label 5": 9500.0,
+            "Botella de Jameson": 9800.0,
+            "Botella de Ballantine's": 10500.0,
+            "Botella de Chivas Regal 12 anos": 12500.0
+        }
+    }
+}

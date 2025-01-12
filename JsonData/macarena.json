@@ -1,0 +1,180 @@
+{
+    "Name": "Macarena",
+    "Specialty": [
+        "cocteleria"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "Cafe bar macarena",
+        "Instagram": "@cafe_bar_macarena"
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [
+            1600,
+            300
+        ],
+        "Wednesday": [
+            1600,
+            300
+        ],
+        "Thursday": [
+            1600,
+            300
+        ],
+        "Friday": [
+            1600,
+            300
+        ],
+        "Saturday": [
+            1600,
+            300
+        ],
+        "Sunday": [
+            1600,
+            300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas de la casa": 550.0,
+            "Jamon y queso": 650.0,
+            "Rollitos a la macarena": 700.0,
+            "Tostones rellenos": 750.0,
+            "Surtida queso y embutido": 1200.0,
+            "Mixta la macarena": 2200.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Agua 500 ml": 200.0,
+            "Agua tonica 330 ml": 220.0,
+            "Energizante": 350.0,
+            "Refresco limon": 300.0,
+            "Refresco cola": 200.0,
+            "Limonada frappe": 600.0,
+            "Limonada blue": 600.0,
+            "Limonada roja": 600.0,
+            "Limonada natural": 600.0,
+            "Limonada frescura": 700.0,
+            "Cerveza cristal de botella": 420.0,
+            "Cerveza bucanero de botella": 400.0,
+            "Cerveza importada": 300.0,
+            "Mojitos": 650.0,
+            "Cuba libre": 550.0,
+            "Bello monte": 550.0,
+            "Cuba bella": 750.0,
+            "Mary pickford": 550.0,
+            "Havana especial": 500.0,
+            "Presidente": 500.0,
+            "Pinha colada": 900.0,
+            "Daikiri": 750.0,
+            "Caipirissima": 750.0,
+            "Cubanito": 400.0,
+            "Caipiroska": 750.0,
+            "Sex on the beach": 550.0,
+            "Screw driver": 550.0,
+            "Kamikase": 650.0,
+            "Black russian": 550.0,
+            "Cosmopolitan": 600.0,
+            "Camino al cielo": 550.0,
+            "Blue hawaii": 550.0,
+            "Vodka tonic": 750.0,
+            "Bloody mary": 550.0,
+            "Moscu mule": 500.0,
+            "Long islad": 800.0,
+            "Vodka martini": 700.0,
+            "Charro negro": 550.0,
+            "Margarita": 750.0,
+            "Acapulco de noche": 600.0,
+            "Bloody mariachi": 600.0,
+            "Nieblas del caribe": 650.0,
+            "Submarino": 700.0,
+            "Long island ice tea": 800.0,
+            "Tom collins": 600.0,
+            "Caruso": 600.0,
+            "Gin and sin": 600.0,
+            "Gin tonic": 750.0,
+            "Martini": 800.0,
+            "Santiago 8": 600.0,
+            "Hc pacto de navio": 1000.0,
+            "Santiago 11": 1000.0,
+            "Santiago 12": 1200.0,
+            "Monte de la rosa": 400.0,
+            "Olmeca blanco": 550.0,
+            "Olmeca reposado": 600.0,
+            "Don ramon": 800.0,
+            "Gin beefeater": 500.0,
+            "Gin q spades": 600.0,
+            "Gin q rosse": 600.0,
+            "Gin master": 650.0,
+            "Old fashion": 700.0,
+            "Mini julep": 800.0,
+            "Jhon collins": 800.0,
+            "Sangria": 750.0,
+            "Calimocho": 600.0,
+            "Tinto verano": 600.0,
+            "Medusa": 450.0,
+            "Derrame cerebral": 450.0,
+            "B52": 600.0,
+            "Orgasmo": 600.0,
+            "Orgasmos multiples": 900.0,
+            "Chelada": 620.0,
+            "Michelada": 750.0,
+            "Clan campbell": 550.0,
+            "Jameson": 550.0,
+            "Jw red label": 650.0,
+            "Ballantines": 650.0,
+            "Chiva 12": 800.0,
+            "Jack daniel": 1000.0,
+            "Jw black lavel": 1100.0,
+            "Hc anhejo blanco": 250.0,
+            "Hc anhejo 3 anhos": 300.0,
+            "Hc anhejo 7 anhos": 500.0,
+            "Hc ritual": 400.0,
+            "Expreso": 150.0,
+            "Cortado": 250.0,
+            "Carajillo": 450.0,
+            "Frappuccino": 750.0
+        }
+    }
+}

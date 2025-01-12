@@ -1,0 +1,153 @@
+{
+    "Name": "Mar Adentro",
+    "Specialty": [
+        "Mediterranean",
+        "Fusion",
+        "Cuban"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle C, #15, entre 1\u00aa y 3\u00aa, Havana, Cuba"
+    },
+    "Contact": {
+        "Web": "https://bio.site/maradentro",
+        "Facebook": "https://www.facebook.com/maradentrohabana",
+        "Instagram": "https://www.instagram.com/maradentrohabana"
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            30
+        ],
+        "Tuesday": [
+            900,
+            30
+        ],
+        "Wednesday": [
+            900,
+            30
+        ],
+        "Thursday": [
+            900,
+            30
+        ],
+        "Friday": [
+            900,
+            30
+        ],
+        "Saturday": [
+            900,
+            30
+        ],
+        "Sunday": [
+            900,
+            30
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": true,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {
+            "Ingles": 2000.0,
+            "Continental": 2000.0,
+            "Americano": 2200.0
+        },
+        "Appetizers": {
+            "Cesta de pan": 750.0,
+            "Focaccia al romero": 700.0,
+            "Focaccia de jamon serrano, tomate y rucula": 2000.0,
+            "Bruchettas": 1800.0,
+            "Empanadillas de cangrejo o pinha y queso": 1200.0,
+            "Tostones rellenos": 1300.0,
+            "Chispitas de malanga con camarones": 1100.0,
+            "Croquetas de pescados o pollo": 1200.0,
+            "Casabe taino": 990.0,
+            "Tacos de vaca frita o pescado": 1900.0,
+            "Ceviche maradentro": 2100.0,
+            "Rollitos de salmon": 2200.0,
+            "Carpaccio de tuna": 2300.0,
+            "Sushi/nigiri": 2000.0,
+            "Dumplings de carne": 1800.0,
+            "Carpaccio de res": 2800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo horneado": 2600.0,
+            "Pechuga de pollo grillada": 2800.0
+        },
+        "Pork": {
+            "Masas de cerdo confitadas": 3200.0,
+            "Lonjas de cerdo asadas en cazuela": 3400.0,
+            "Costillas guajiras": 3800.0
+        },
+        "Beef": {
+            "Ropa vieja frita": 2700.0,
+            "Bistec de palomilla": 6800.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Camarones": 3600.0,
+            "Langosta": 4300.0
+        },
+        "Fishes": {
+            "Pesca del dia": 3200.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Arroz blanco": 700.0,
+            "Arroz verde": 700.0,
+            "Frijoles dormidos": 700.0,
+            "Moros y cristianos": 700.0,
+            "Tostones": 700.0,
+            "Maduros": 700.0,
+            "Pure de boniato": 700.0
+        },
+        "Other": {
+            "Chilindron de cordero al tinto": 3500.0,
+            "Chivito uruguayo": 8200.0
+        },
+        "Drinks": {
+            "Limonada natural": 950.0,
+            "Limonada frescura": 950.0,
+            "Maradentro": 950.0,
+            "Clarete": 950.0,
+            "Vino blanco de verano": 950.0,
+            "Licor marejada": 950.0,
+            "Rubi": 950.0,
+            "Limonada pepino y jengibre": 950.0,
+            "Agua nacional": 450.0,
+            "Agua importada": 500.0,
+            "Agua tonica nacional": 700.0,
+            "Agua tonica importada": 800.0,
+            "Refresco nacional": 450.0,
+            "Refresco importado": 600.0,
+            "Malta": 500.0,
+            "Energizantes": 600.0,
+            "Batido de frutas": 750.0,
+            "Batido de helado": 900.0
+        }
+    }
+}

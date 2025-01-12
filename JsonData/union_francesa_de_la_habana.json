@@ -1,0 +1,197 @@
+{
+    "Name": "Union Francesa de la Habana",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "ONG",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 17 entre 23 y 21"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            0
+        ],
+        "Tuesday": [
+            800,
+            0
+        ],
+        "Wednesday": [
+            800,
+            0
+        ],
+        "Thursday": [
+            800,
+            0
+        ],
+        "Friday": [
+            800,
+            0
+        ],
+        "Saturday": [
+            800,
+            0
+        ],
+        "Sunday": [
+            800,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tostones rellenos": 750.0,
+            "Eperlan de pescado": 1000.0,
+            "Frituras de malanga": 500.0,
+            "Caldo del dia": 600.0,
+            "Fajitas de pollo": 600.0,
+            "Picadera de la casa": 3000.0,
+            "Entremes surtido": 3000.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo grille": 1200.0,
+            "Pechuga grille": 1500.0
+        },
+        "Pork": {
+            "Bistec de cerdo encebollado": 800.0,
+            "Lomo ahumado": 2000.0,
+            "Ropa vieja": 2000.0,
+            "Chuleton": 4800.0
+        },
+        "Beef": {
+            "Ropa vieja": 2500.0
+        },
+        "Pizza": {
+            "Pizza napolitana": 400.0
+        },
+        "Pasta": {
+            "Pasta napole": 800.0
+        },
+        "Seafood": {
+            "Filete de pescado grille": 2000.0,
+            "Filete de emperador": 4000.0,
+            "Empedrado": 4000.0,
+            "Salmon": 4000.0,
+            "Marisco enchilado": 2800.0,
+            "Marisco mariposa": 2500.0,
+            "Marisco reina": 3200.0,
+            "Camaron al gusto": 2300.0,
+            "Mariscada": 5000.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Helado": 450.0,
+            "Otros postres": 500.0
+        },
+        "Sides": {
+            "Arroz blanvo": 150.0,
+            "Arroz moro": 200.0,
+            "Ensalada mixta": 350.0,
+            "Vegetal salteado": 400.0,
+            "Tostones tradicionales": 400.0,
+            "Papas fritas": 600.0
+        },
+        "Other": {
+            "Mar y tierra": 4800.0,
+            "Arroz a la marinera": 4800.0
+        },
+        "Drinks": {
+            "Agua natural": 250.0,
+            "Agua gaseada": 280.0,
+            "Agua tonica": 350.0,
+            "Jugos naturales": 300.0,
+            "Jugos en conserva": 350.0,
+            "Limonada natural": 350.0,
+            "Limonada frappe": 350.0,
+            "Limonada frescura": 400.0,
+            "Malta": 400.0,
+            "Refresco": 400.0,
+            "Cerveza": 400.0,
+            "Cerveza parranda 500ml": 350.0,
+            "Cerveza parranda 1.500ml": 1000.0,
+            "Cerveza nacional": 450.0,
+            "Servicio de michelada/chelada": 150.0,
+            "Copa de vino": 500.0,
+            "Vino de la casa": 2500.0,
+            "Otros vinos(botella)": 3800.0,
+            "Ron collins": 450.0,
+            "Tom collins": 500.0,
+            "Mojito": 400.0,
+            "Cuba libre": 450.0,
+            "Pinha colada": 550.0,
+            "Cubata": 500.0,
+            "Daiquiri": 500.0,
+            "Sangria tropical": 900.0,
+            "Dri helada": 800.0,
+            "Daiquiri frutal": 700.0,
+            "Zombie": 800.0,
+            "Habana club anhejo blanco": 200.0,
+            "Habana club 3 anhos": 250.0,
+            "Habana club anhejo especial": 280.0,
+            "Habana club anhejo 7 anhos": 400.0,
+            "Habana club anhejo reserva": 300.0,
+            "Ritual": 300.0,
+            "Whiskey chivas regal 12 anhos": 550.0,
+            "Whiskey chivas regal 18 anhos": 1000.0,
+            "Whiskey valentine": 380.0,
+            "Whiskey clan cambell": 350.0,
+            "Otros whiskies economico": 250.0,
+            "Tequila blanco": 350.0,
+            "Tequila reposado": 450.0,
+            "Tres sombreros": 500.0,
+            "Vodka absolut": 450.0,
+            "Ginebra": 350.0,
+            "Seleccion de maestros": 650.0,
+            "Pacto de navio": 650.0,
+            "Crema y licores": 250.0,
+            "Smocky cubana": 450.0,
+            "Black jaret": 350.0,
+            "Ron conde cuba": 500.0,
+            "Mama juana": 500.0,
+            "Gin tonic": 600.0,
+            "Caipiroska": 550.0,
+            "Sangria": 600.0,
+            "Limonada paris": 450.0,
+            "San francisco": 700.0,
+            "Mary pick foard": 700.0,
+            "Limonada clarete": 700.0,
+            "Mojito de frutas": 700.0,
+            "Long island": 800.0,
+            "Fires man daiquiri": 800.0,
+            "Cafe expresso": 200.0,
+            "Cafe americano": 200.0,
+            "Cafe cortado": 250.0,
+            "Capuccino": 300.0,
+            "Frapuccino": 500.0
+        }
+    }
+}

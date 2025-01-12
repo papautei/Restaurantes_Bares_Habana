@@ -1,0 +1,172 @@
+{
+    "Name": "Ranchon Las Vegas",
+    "Specialty": [],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 409 % 182 & Avenida Independencia, Santiago de las Vegas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2200
+        ],
+        "Tuesday": [
+            1100,
+            2200
+        ],
+        "Wednesday": [
+            1100,
+            2200
+        ],
+        "Thursday": [
+            1100,
+            2200
+        ],
+        "Friday": [
+            1100,
+            2200
+        ],
+        "Saturday": [
+            1100,
+            2200
+        ],
+        "Sunday": [
+            1100,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "brusquetas de serrano y queso": 600.0,
+            "montaditos de cerdo": 700.0,
+            "papas fritas": 800.0,
+            "patacon de cerdo": 900.0,
+            "croquetas rancho": 1000.0,
+            "papas fritas y chorizos": 1000.0,
+            "tamal en cazuela": 1000.0,
+            "tacos de pollo": 1100.0,
+            "tacos de cerdo": 1200.0,
+            "tabla de queso": 1900.0,
+            "tabla de serrano, quesos y frutos secos": 2000.0,
+            "la tranka": 2500.0
+        },
+        "Bread": {
+            "bagutte guajiro": 1300.0,
+            "sandwich cubano": 1500.0,
+            "hamburguesa clasica": 800.0
+        },
+        "Chicken": {
+            "pollo grille al carbon": 1600.0,
+            "brochetas de pollo": 1800.0
+        },
+        "Pork": {
+            "brocheta de cerdo": 2200.0,
+            "costillas bbq": 2500.0,
+            "fricase de cerdo": 2500.0,
+            "bistec de cerdo": 1600.0,
+            "cerdo asado": 1800.0,
+            "lomo ahumado": 1900.0
+        },
+        "Beef": {
+            "uruguayo": 2200.0,
+            "ropa vieja de res": 1800.0,
+            "vaca frita": 1800.0,
+            "entrecot": 5000.0,
+            "steak new york": 6000.0,
+            "steak ribeye": 6500.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "enchilado de cangrejo": 2200.0,
+            "enchilado de camaron": 2500.0,
+            "pescado 1 pax": 2500.0,
+            "atun de aleta amarilla": 7000.0
+        },
+        "Fishes": {
+            "super fish + copa de vino": 4500.0,
+            "pescado 1 pax": 2500.0,
+            "atun de aleta amarilla": 7000.0
+        },
+        "Desserts": {
+            "helado": 450.0,
+            "flan": 450.0,
+            "copa lolita": 850.0
+        },
+        "Additions": {},
+        "Sides": {
+            "arroz blanco": 300.0,
+            "arroz moro": 350.0,
+            "ensalada de estacion": 350.0,
+            "pure del dia": 350.0,
+            "verduras grilladas": 400.0
+        },
+        "Other": {},
+        "Drinks": {
+            "pinna colada virgen": 800.0,
+            "energizante importado": 400.0,
+            "agua natural": 200.0,
+            "refresco cola": 250.0,
+            "refresco limon": 250.0,
+            "refresco naranja": 250.0,
+            "pinna": 250.0,
+            "jugos": 250.0,
+            "coca cola": 350.0,
+            "sprite": 350.0,
+            "malta": 300.0,
+            "malta bucanero": 350.0,
+            "pepsi cola": 350.0,
+            "Cuba Libre": 750.0,
+            "Caipirinna": 750.0,
+            "Caipiroska": 750.0,
+            "Caipirisima": 750.0,
+            "Mojito": 750.0,
+            "Daiquiri": 800.0,
+            "Pinna Colada": 900.0,
+            "Bloody Mary": 900.0,
+            "Tinto de Verano": 900.0,
+            "Sangria": 900.0,
+            "Cubanito": 900.0,
+            "Margarita": 1250.0,
+            "Cerveza Importada": 250.0,
+            "Cheladas": 300.0,
+            "Cristal": 350.0,
+            "Micheladas": 400.0,
+            "Cristal de Botella": 450.0,
+            "Corona": 600.0,
+            "Cerveza Modelo": 700.0,
+            "Vino Blanco": 700.0,
+            "Vino Tinto": 700.0,
+            "cafe": 350.0
+        }
+    }
+}

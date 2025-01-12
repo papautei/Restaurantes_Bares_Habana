@@ -1,0 +1,245 @@
+{
+    "Name": "Razones y Motivos",
+    "Specialty": [
+        "Comida Caribenha",
+        "Latina",
+        "Cubana",
+        "criolla",
+        "Sudamericana",
+        "Centroamericana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle F No.63 entre 3era y 5ta, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Friturita de malanga": 630.0,
+            "Croquetas de la casa": 650.0,
+            "Coctel de Mariscos": 1380.0,
+            "Cesta de pan": 500.0,
+            "Eperlan de pescado": 1900.0,
+            "Escabeche de Pescado": 1900.0,
+            "Entrante Razones y Motivos": 1750.0,
+            "Tostones rellenos con jamon y queso": 1100.0,
+            "Tostones rellenos con atun cebolla y mayones": 1200.0,
+            "Chiviricos con salsa al gusto": 600.0,
+            "Ensalada fria de pollo o jamon": 1080.0,
+            "Garbanzos fritos": 1400.0,
+            "Bolitas de queso con salsa aal gusto": 1100.0,
+            "Crema de calabaza": 450.0,
+            "Sopa China Especial": 880.0,
+            "Sopa de pollo": 600.0
+        },
+        "Bread": {
+            "Baguette de jamon y queso": 1150.0,
+            "Baguette de atun": 1250.0,
+            "Baguette de pollo": 1040.0
+        },
+        "Chicken": {
+            "Pollo asado al carbon": 1750.0,
+            "Suprema de pollo grille": 1790.0,
+            "Suprema de pollo empanada": 2000.0,
+            "Pollo cordon bleu": 2350.0,
+            "Pollo grille con camarones y punta de ajo": 2400.0
+        },
+        "Pork": {
+            "Bistec de cerdo grille encebollado": 1950.0,
+            "Rscalope de cerdo": 2170.0,
+            "Bistc de cerdo uruguayo": 2570.0,
+            "Lomo de cerdo ahumado con salsa al gusto": 2000.0,
+            "Chuletas de cerdo asadas": 2000.0,
+            "Costillas de cerdo asadas con salsa barbacoa": 2700.0,
+            "Masas de cerdo fritas": 2170.0
+        },
+        "Beef": {
+            "Bistec de res encebollado": 2350.0,
+            "Ropa vieja de res": 2190.0
+        },
+        "Pizza": {
+            "Pizza con tomate y queso": 1380.0,
+            "Pizza razones": 2190.0
+        },
+        "Pasta": {
+            "Espaguetis con tomate y queso": 1100.0,
+            "Espaguetis a la carbonara": 1650.0,
+            "Espaguetis salteados con verduras al estilo chino": 1280.0,
+            "Espaguetis al pesto": 1350.0
+        },
+        "Seafood": {
+            "Camarones grille": 2350.0,
+            "Camarones salteados con vegetales": 2400.0,
+            "Camarones empanados con salsa al gusto": 2650.0,
+            "Camarones enchilados": 2550.0,
+            "Camaron batabano": 2950.0
+        },
+        "Fishes": {
+            "Filete de pescado grille": 2190.0,
+            "Filete de pescado grille con camarones y punta de ajo": 2600.0,
+            "Filete de pescado canciller": 2800.0,
+            "Filete de pescado con salsa sofia": 2350.0,
+            "Filete de pesado con salsa de mariscos": 2500.0,
+            "Filete de pescado Joinville": 2950.0
+        },
+        "Desserts": {
+            "Copa de helado": 790.0,
+            " Copa de helado italiano artesanal": 1190.0,
+            " Dulce casero de queso": 590.0,
+            "Pastel de limon": 980.0,
+            "Tarta de mousse de vainilla chip": 980.0,
+            "Tarta de mousse de dulce de leche": 980.0,
+            "Cheescake": 1080.0,
+            "Cunha de cake": 520.0,
+            "Cake a la moda": 1090.0
+        },
+        "Additions": {
+            "pina ": 450.0,
+            "caebolla": 460.0,
+            "Aji pimiento": 460.0,
+            "Jamon": 550.0,
+            "Queso": 660.0,
+            "Atun": 650.0,
+            "Chorizo": 550.0,
+            "Aceitunas": 590.0,
+            "Camaron": 950.0,
+            "Champinon": 720.0,
+            "Ropa vieja": 990.0
+        },
+        "Sides": {
+            "Arroz blanco": 580.0,
+            "Arroz moro": 620.0,
+            "Frijoles negros dormidos": 620.0,
+            "Vianda hervida con mojo criollo": 630.0,
+            "Vianda frita": 640.0,
+            "Ensalada de vegetales frescos": 630.0,
+            "Pure de malanga": 640.0,
+            "Vegetales salteao": 640.0
+        },
+        "Other": {
+            "Arroz primavera": 950.0,
+            "Arroz frito especial": 1450.0,
+            "Arroz Salteado": 1280.0
+        },
+        "Drinks": {
+            "Cubanito": 600.0,
+            "Bloody Mary": 650.0,
+            "Cuba libre": 550.0,
+            "Cubata": 600.0,
+            "Daiquiri frappe": 550.0,
+            "Daiquiri rebelde": 580.0,
+            "Pina colada": 700.0,
+            "Mojito tradicional": 550.0,
+            "Mojito mulatico": 700.0,
+            "Sangria espanola": 700.0,
+            "Caipirinha": 600.0,
+            "Tequila Sunrise": 600.0,
+            " Screwdriver": 550.0,
+            "Margarita": 600.0,
+            " Gin tonic": 600.0,
+            "Michelada": 600.0,
+            "Michelada nacional": 650.0,
+            "Michelada plus": 700.0,
+            "Cocteles del autor": 650.0,
+            "Limonada frappe": 400.0,
+            "Coctel San Francisco": 450.0,
+            "Malteada": 700.0,
+            "Limonada razones": 550.0,
+            "Cerveza economica": 400.0,
+            "Cerveza nacional": 480.0,
+            " Cerveza plus": 580.0,
+            "Refrescos": 380.0,
+            "Malta nacional": 480.0,
+            "Malta importada": 450.0,
+            "Agua natural": 300.0,
+            "Agua gaseada": 450.0,
+            "Jugos naturales": 350.0,
+            "Jugos en conserva": 450.0,
+            "Energizante": 420.0,
+            "Cremas/Licores importados ": 900.0,
+            "Cremas/Licores nacionales": 400.0,
+            "Havana Club anejo blanco": 350.0,
+            "Havana Club anejo 3 anos": 430.0,
+            "Havana Club anejo reserva": 500.0,
+            "Havana Club anejo 7 anos": 550.0,
+            "Havana Club pacto de navio": 800.0,
+            "Ron Santiago 8 anos": 700.0,
+            "Ron santiago 11/12 anos ": 800.0,
+            "Havana Club seleccion de maestros ": 800.0,
+            "Chivas regal": 750.0,
+            "Jameson ": 600.0,
+            "Ballantines": 550.0,
+            "Clan Campbell": 530.0,
+            "Jonnie walker e.roja ": 650.0,
+            "Jonnie walker e.negra ": 750.0,
+            "Jonnie walker e.dorada": 1500.0,
+            "Buchanans": 850.0,
+            "JyB": 600.0,
+            "Vodka": 450.0,
+            "Ginebra": 500.0,
+            " Tequila blanco": 500.0,
+            "Tequila reposado": 550.0,
+            "Vino blanco": 600.0,
+            "Vino rosado": 600.0,
+            "Vino tinto": 600.0
+        }
+    }
+}

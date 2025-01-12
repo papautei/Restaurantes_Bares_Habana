@@ -1,0 +1,115 @@
+{
+    "Name": "Pacomeralgo",
+    "Specialty": [
+        [
+            "Italian"
+        ]
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "La Lisa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "entremes de jamon y queso": 450,
+            "entremes de aceitunas": 300,
+            "croquetas": 300,
+            "papas fritas": 333,
+            "picadera paco": 850
+        },
+        "Bread": {
+            "Sandwich de queso": 400,
+            "sandwich de jamon": 400,
+            "Sandwich de jamon y queso": 450,
+            "Sandwich de atun": 450,
+            "Pan con hamburguesa": 450
+        },
+        "Chicken": {
+            
+            
+            
+            
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de queso": 600,
+            "Pizza de Jamon": 770,
+            "Pizza de Chorizo": 770,
+            "Pizza de Cebolla": 750,
+            "Pizza de Aji": 730,
+            "Pizza de Aceituna": 780,
+            "Pizza hawaiana": 820,
+            "Pizza de pasas con pinas": 730,
+            "pizza de atun": 840,
+            "pizza paco": 1000
+        },
+        "Pasta": {
+            "espaguetis napolitanos": 600,
+            "espaguetis de jamon": 720,
+            "espaguetis de chorizo": 720,
+            "Lasagna": 615,
+            "espaguetis de atun": 790
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Cervezas": 250,
+            "expresso": 150,
+            "americano": 150,
+            "cortadito": 220,
+            "Bombon": 350,
+            "Refresco de Cola": 250,
+            "Refresco de limon": 250,
+            "refresco de naranja": 250,
+            "jugo pequeno": 250,
+            "jugo grande": 900,
+            "malta": 350,
+            "malteada": 650,
+            "energizante": 350,
+            "Yogurt vaso": 200
+        }
+    }
+}

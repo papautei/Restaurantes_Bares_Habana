@@ -1,0 +1,90 @@
+{
+    "Name": "Shapuseros",
+    "Specialty": [
+        "Hamburgusera"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calzada de Ayestaran entre San Pedro y Ayuntamineto"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2100
+        ],
+        "Tuesday": [
+            900,
+            2100
+        ],
+        "Wednesday": [
+            900,
+            2100
+        ],
+        "Thursday": [
+            900,
+            2100
+        ],
+        "Friday": [
+            900,
+            2100
+        ],
+        "Saturday": [
+            900,
+            2100
+        ],
+        "Sunday": [
+            900,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "hamburguesa de pollo": 500.0,
+            "hamburguesa de cerdo": 550.0,
+            "hamburguesa de res": 600.0,
+            "hamburguesa Shapusero": 1200.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

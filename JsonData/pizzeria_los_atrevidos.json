@@ -1,0 +1,116 @@
+{
+    "Name": "Pizzeria Los Atrevidos",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2100
+        ],
+        "Tuesday": [
+            1000,
+            2100
+        ],
+        "Wednesday": [
+            1000,
+            2100
+        ],
+        "Thursday": [
+            1000,
+            2100
+        ],
+        "Friday": [
+            1000,
+            2100
+        ],
+        "Saturday": [
+            1000,
+            2100
+        ],
+        "Sunday": [
+            1000,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "pizza napolitana": 1100.0,
+            "pizza de cebolla": 1250.0,
+            "pizza de champinnones": 1300.0,
+            "pizza de pimiento": 1250.0,
+            "pizza de jamon": 1350.0,
+            "pizza de aceitunas": 1400.0,
+            "pizza de chorizo": 1350.0,
+            "pizza de chorizo vela": 1150.0,
+            "pizza hawaiana": 1400.0,
+            "pizza de bacon": 1400.0,
+            "pizza de atun": 1500.0,
+            "pizza bolonesa": 1600.0,
+            "pizza de jamon serrano": 1550.0,
+            "pizza de camarones": 1650.0,
+            "pizza 4 quesos": 1500.0,
+            "pizza atrevida": 1800.0,
+            "pizza jamon pierna": 1500.0
+        },
+        "Pasta": {
+            "lasagna": 1100.0,
+            "spaghettis napolitanos": 1000.0,
+            "spaghettis de parmesano": 1200.0,
+            "spaghettis de jamon": 1250.0,
+            "spaghettis de atun": 1350.0,
+            "spaghettis de chorizo": 1250.0,
+            "spaghettis de aceituna": 1300.0,
+            "spaghettis de cebolla": 1150.0,
+            "spaghettis hawaianos": 1300.0,
+            "spaghettis 4 quesos": 1400.0,
+            "spaghettis atrevidos": 1050.0,
+            "spaghettis bolonnesa": 1450.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

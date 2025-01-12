@@ -1,0 +1,141 @@
+{
+    "Name": "The Place",
+    "Specialty": [],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "calle 100, pasando Aldabo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            300
+        ],
+        "Tuesday": [
+            800,
+            300
+        ],
+        "Wednesday": [
+            800,
+            300
+        ],
+        "Thursday": [
+            800,
+            300
+        ],
+        "Friday": [
+            800,
+            300
+        ],
+        "Saturday": [
+            800,
+            300
+        ],
+        "Sunday": [
+            800,
+            300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "croquetas": 600.0,
+            "eperlan": 900.0,
+            "tostones": 500.0,
+            "frituras malanga": 500.0,
+            "garbanzos fritos": 1950.0,
+            "sopon imperial": 1300.0,
+            "picadera the place": 2300.0,
+            "papas fritas": 800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pechuga pollo grille": 1400.0,
+            "pollo frito": 1200.0
+        },
+        "Pork": {
+            "chuleta cerdo": 1750.0,
+            "chuleton": 3000.0,
+            "costilla cerdo": 1700.0,
+            "masa cerdo frita": 1700.0,
+            "chilindron cordero": 1950.0,
+            "bistec cerdo grille": 1600.0
+        },
+        "Beef": {
+            "ropa vieja": 1500.0,
+            "bistec res": 1800.0,
+            "bistec uruguayo": 1800.0
+        },
+        "Pizza": {
+            "Pizza napolitana": 800.0
+        },
+        "Pasta": {
+            "Espaguetis napolitanos": 800.0
+        },
+        "Seafood": {
+            "langosta en sus variedades": 1950.0
+        },
+        "Fishes": {
+            "pescado": 1500.0,
+            "canciller": 1800.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "malta bucanero": 300.0,
+            "lata refresco": 290.0,
+            "caja jugos": 260.0,
+            "pomo agua": 200.0,
+            "energizante": 330.0,
+            "limonada frappe": 600.0,
+            "jarra cerveza cristal": 300.0,
+            "termo cerveza cristal": 2000.0,
+            "cerveza cristal": 300.0,
+            "cerveza importada": 250.0,
+            "caipiroska": 500.0,
+            "caipirisima": 500.0,
+            "mojito": 520.0,
+            "gin tonic": 500.0,
+            "sangria": 600.0,
+            "michelada": 900.0,
+            "chelada": 500.0,
+            "margarita": 550.0,
+            "red label": 550.0,
+            "old pard": 950.0,
+            "jamerson": 600.0,
+            "tequila": 450.0,
+            "tequila reposado": 500.0,
+            "seleccion maestro": 1150.0,
+            "pacto navio": 1150.0
+        }
+    }
+}

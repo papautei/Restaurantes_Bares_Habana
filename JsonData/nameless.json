@@ -1,0 +1,91 @@
+{
+    "Name": "Nameless",
+    "Specialty": [],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Avenida Independencia % 407A & 409, Santiago de las Vegas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "picadera mixta": 1600.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pollo frito": 1000.0,
+            "pechuga": 1200.0,
+            "gordem blue": 1700.0
+        },
+        "Pork": {
+            "chuleta de cerdo natural": 1000.0,
+            "lomo de cerdo natural": 1000.0,
+            "bistec de cerdo": 1000.0,
+            "costilla de cerdo ahumada": 1000.0,
+            "costilla de cerdo a la barbacoa ": 1200.0
+        },
+        "Beef": {
+            "bistec de res": 1300.0,
+            "uruguayo de res": 1700.0,
+            "fricase de res": 1000.0
+        },
+        "Pizza": {
+            "pizza napolitana": 600.0,
+            "pizza de jamon": 700.0,
+            "pizza de aceitunas": 900.0,
+            "pizza de cebolla": 700.0,
+            "pizza marinera": 1500.0,
+            "pizza doble via": 1500.0,
+            "pizza hawaiana": 850.0,
+            "pizza de chorizo": 900.0
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {
+            "canciller": 1700.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "arroz frito": 700.0
+        },
+        "Other": {},
+        "Drinks": {}
+    }
+}

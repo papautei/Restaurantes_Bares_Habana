@@ -1,0 +1,137 @@
+{
+    "Name": "Wapa",
+    "Specialty": [
+        "Cuban",
+        "Centroamerican"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 4 entre 15 y 17, Vedado, Plaza"
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": "https://www.facebook.com/Wapa537/?locale=es_LA",
+        "Instagram": "https://www.instagram.com/wapa537/?hl=es"
+    },
+    "Schedule": {
+        "Monday": [
+            1130,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": true,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {
+            "Combo 1": 1500.0,
+            "Combo 2": 1900.0,
+            "Combo 3 infantil": 1100.0,
+            "Omelette jardinera": 1200.0,
+            "Omelette tentacion": 1200.0,
+            "Omelette del campo": 1100.0,
+            "Omelette": 600.0
+        },
+        "Appetizers": {
+            "Croquetas de la abuela": 700.0,
+            "Croquetas de jamon serrano": 1000.0,
+            "Bolitas de queso": 1000.0,
+            "Crema de queso": 600.0,
+            "Ceviche de pescado": 2000.0,
+            "Ceviche mixto tropical": 2600.0,
+            "Ceviche de camaron": 2900.0,
+            "Coctel de camaron": 2000.0,
+            "Baston de pollo": 1900.0,
+            "Daditos de pescado": 2100.0,
+            "Fritura de malanga": 500.0,
+            "Brusquetas": 900.0,
+            "Tartaleta de jamon y queso": 900.0,
+            "Tartaleta de pollo": 1350.0,
+            "Tartaleta de atun": 1100.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza": 1200.0
+        },
+        "Pasta": {
+            "Lasanha": 1300.0,
+            "Canelon de jamon": 1200.0,
+            "Canelon bolonhesa": 1750.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Agua natural": 300.0,
+            "Refresco importado": 400.0,
+            "Malta": 500.0,
+            "Malteada": 800.0,
+            "Cerveza importada": 450.0,
+            "Cerveza nacional": 550.0,
+            "Michelada": 600.0,
+            "Sangria": 1000.0,
+            "Copa de vino": 800.0,
+            "Cuba libre": 800.0,
+            "Cubata": 850.0,
+            "Mojito": 800.0,
+            "Caipirinha": 500.0,
+            "Caipiroska": 500.0,
+            "Caipirisima": 550.0,
+            "Ron collins": 850.0,
+            "Pinha colada": 850.0,
+            "Barbie": 700.0,
+            "Canchanchara": 550.0,
+            "Daiquiri": 650.0
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "Name": "Ristorante_San_Francesco",
+    "Specialty": [
+        "Italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2300
+        ],
+        "Tuesday": [
+            800,
+            2300
+        ],
+        "Wednesday": [
+            800,
+            2300
+        ],
+        "Thursday": [
+            800,
+            2300
+        ],
+        "Friday": [
+            800,
+            2300
+        ],
+        "Saturday": [
+            800,
+            2300
+        ],
+        "Sunday": [
+            800,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Antipasto di Montagna Maxi": 3500.0,
+            "Bruschetta": 850.0,
+            "Bruschetta di Pate": 900.0,
+            "Prosciuto Crudo": 2500.0,
+            "Raz. Pane": 450.0,
+            "Frittata": 700.0,
+            "Frittata con Cipolle": 750.0,
+            "Tostones": 700.0,
+            "Tostones Especiales": 1500.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo con Salciccia": 2400.0,
+            "Fajitas de Pollo": 1850.0,
+            "Pollo Frito": 1800.0,
+            "Pollo Asado": 1800.0,
+            "Fajitas de Pollo con Vegetales": 2100.0
+        },
+        "Pork": {
+            "Chuleta de Cerdo(Segun Gramaje del Plato)": 2850.0,
+            "Ropa Vieja de Cerdo": 2100.0,
+            "Salciccia": 2100.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Pizza Gorgonzola": 1700.0,
+            "Pizza Fior di Latte": 1900.0,
+            "Pizza Fior di Latte e Prosciutto": 2100.0,
+            "Pizza Frutti di Mare": 2600.0,
+            "Pizza Pomodoro e Basilico": 1400.0,
+            "Pizza Prosciutto Crudo": 1900.0,
+            "Pizza Margherita": 1400.0,
+            "Pizza Capricciosa": 2000.0,
+            "Pizza con Jamon Vicky": 1700.0,
+            "Pizza con Atun": 1900.0,
+            "Pizza con Camarones": 2100.0,
+            "Pizza con Salciccia": 1900.0,
+            "Pizza Hawaiana": 1800.0,
+            "Pizza con Vegetales": 1700.0,
+            "Focaccia": 1300.0,
+            "Focaccia con Prosciutto Crudo": 1700.0,
+            "Focaccia con Prosciutto Crudo y Agrego de Fior di Latte": 2600.0
+        },
+        "Pasta": {
+            "Spaghetti Napoli": 1500.0,
+            "Spaghetti Jamon Vicky": 1600.0,
+            "Spaghetti Tonno": 1700.0,
+            "Spaghetti Jamon Serrano": 1800.0,
+            "Spaghetti Pomodoro e Basilico": 1550.0,
+            "Spaghetti Aglio-Olio-Peperoncino": 1350.0,
+            "Spaghetti Al Pesto": 1600.0,
+            "Spaghetti Puttanesca": 1900.0,
+            "Spaghetti Amatriciana": 1700.0,
+            "Spaghetti Carbonara": 1700.0,
+            "Spaghetti con Gamberetti": 2600.0,
+            "Pasta con Verdure": 1500.0,
+            "Pasta Risotto Bolognese": 1700.0,
+            "Pasta Risotto Fruti di Mare": 3200.0,
+            "Risotto Bolognese": 1650.0,
+            "Risotto con Vegetale": 1500.0,
+            "Pasta con Salciccia": 1800.0,
+            "Pasta con Salciccia e Funghi": 2000.0,
+            "Raz. di Rizo": 600.0,
+            "Raz. di Pane": 550.0
+        },
+        "Seafood": {
+            "Aragosta Maxi": 3800.0,
+            "Camaron en Salsa": 2200.0,
+            "Gamberetti": 2200.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Dolce San Francesco": 500.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Cerveza Cristal": 350.0,
+            "Cerveza Bucanero": 400.0,
+            "Cervezas Importadas": 350.0,
+            "Refrescos Importados": 350.0,
+            "Red Bull": 400.0,
+            "Refrescos Energizantes": 400.0,
+            "Maltas": 400.0,
+            "Limonada Frappe": 500.0,
+            "Copa de Vino de la Casa": 1200.0,
+            "Whisky": 900.0,
+            "Trago de Ron": 600.0,
+            "Sambuca": 800.0,
+            "Mojito": 850.0,
+            "Cuba Libre": 800.0,
+            "Cubanito": 800.0,
+            "Pinha Colada": 900.0,
+            "Michelada": 1200.0,
+            "Chelada": 800.0,
+            "Limoncello": 900.0,
+            "Tequila": 900.0,
+            "Daiquiri": 900.0,
+            "Grappa": 900.0,
+            "Caffe Miscela Illy Kimbo": 350.0,
+            "Cafe Cortado": 380.0,
+            "Cafe Americano": 500.0
+        }
+    }
+}

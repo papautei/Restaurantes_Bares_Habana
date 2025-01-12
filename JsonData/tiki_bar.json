@@ -1,0 +1,117 @@
+{
+    "Name": "Tiki_Bar",
+    "Specialty": [
+        "Mariscos"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2200
+        ],
+        "Tuesday": [
+            900,
+            2200
+        ],
+        "Wednesday": [
+            900,
+            2200
+        ],
+        "Thursday": [
+            900,
+            2200
+        ],
+        "Friday": [
+            900,
+            2200
+        ],
+        "Saturday": [
+            900,
+            2200
+        ],
+        "Sunday": [
+            900,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.9,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tostones de Jamon y Queso": 1200.0,
+            "Tostones de Chorizo y Queso": 1200.0,
+            "Tostones de Cangrejo": 2300.0,
+            "Tostones de Langosta": 4000.0,
+            "Tostones de Camaron": 4000.0,
+            "Taco de Cangrejo": 2500.0,
+            "Taco de Camaron": 4000.0,
+            "Taco de Langosta": 4000.0,
+            "Papas Tiki": 1300.0,
+            "Ceviche de Pescado": 2000.0,
+            "Ceviche de Langosta": 3000.0,
+            "Coctel de Camaron": 3500.0,
+            "Coctel de Langosta": 2900.0,
+            "Fajita de Cerdo": 2250.0,
+            "Fajita de Pollo": 2100.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Bistec de Cerdo": 2500.0
+        },
+        "Beef": {
+            "Ribeye": 12500.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Camaron al Gusto": 4000.0,
+            "Langosta al Gusto": 4000.0,
+            "Enchilado de Cangrejo": 2500.0,
+            "Pulpo al Gusto": 3800.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Red Bull": 700.0,
+            "Energizante": 420.0,
+            "Malta": 500.0,
+            "Cerveza": 500.0,
+            "Refresco": 450.0,
+            "Malteada": 1000.0
+        }
+    }
+}

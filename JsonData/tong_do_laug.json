@@ -1,0 +1,112 @@
+{
+    "Name": "Tong Do Laug",
+    "Specialty": [
+        "Comida china"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Cuchillo entre San Nicolas y Rayo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2100
+        ],
+        "Tuesday": [
+            1000,
+            2100
+        ],
+        "Wednesday": [
+            1000,
+            2100
+        ],
+        "Thursday": [
+            1000,
+            2100
+        ],
+        "Friday": [
+            1000,
+            2100
+        ],
+        "Saturday": [
+            1000,
+            2100
+        ],
+        "Sunday": [
+            1000,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {
+            "Fajitas de pechuga": 2200.0
+        },
+        "Pork": {
+            "Lomo ahumado": 2000.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Mariscos": 2500.0,
+            "Mar y tierra": 3850.0,
+            "Camarones": 3600.0,
+            "Pescado": 1650.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {},
+        "Other": {
+            "Jiaozi ravioles": 1350.0,
+            "Bao": 700.0,
+            "Mia especial tallarines": 1100.0,
+            "Arroz frito especial": 1100.0,
+            "Siumi": 1200.0,
+            "Chunkun rollitos de primavera": 1050.0,
+            "Sopa china": 990.0
+        },
+        "Drinks": {
+            "Cerveza": 300.0,
+            "Cerveza nacional": 500.0,
+            "Refresco": 300.0,
+            "Jugo": 330.0,
+            "Frapeado": 330.0,
+            "Cocteles": 660.0,
+            "Cafe": 390.0,
+            "Te": 170.0,
+            "Agua": 220.0,
+            "Agua caliente": 220.0
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "Name": "Rico Rico",
+    "Specialty": [
+        "Comida Italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calle Ayestaran entre Perfecto Lacoste y Aranguren"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ensalada fria de atun (pequenna)": 645.0,
+            "Ensalada fria de atun (mediana)": 1200.0,
+            "Ensalada fria de atun (grande)": 2205.0,
+            "Ensalada fria de jamon y queso (pequenna)": 495.0,
+            "Bastones de Queso": 780.0,
+            "Empanadas Gallegas": 380.0,
+            "Tequennos": 350.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizzeta de Napole": 230.0,
+            "Pizzeta de Chorizo": 325.0
+        },
+        "Pasta": {
+            "Pasta Napoles": 920.0,
+            "Pasta Carbonara": 1000.0,
+            "Calzone Napoles": 1090.0,
+            "Megacalzone": 1440.0,
+            "lasagna Bolonnesa": 1550.0,
+            "lasagna de Jamon": 1490.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Pastelito de ojaldre de guayaba o coco": 260.0,
+            "Pastelito de ojaldre de jamon y queso": 280.0,
+            "Flan": 590.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Frappi Rico": 180.0,
+            "Mega Bati Bati": 990.0,
+            "Super Bati Bati": 785.0,
+            "Bati Frutas": 675.0
+        }
+    }
+}

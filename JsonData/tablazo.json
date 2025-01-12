@@ -1,0 +1,307 @@
+{
+    "Name": "Tablazo",
+    "Specialty": [
+        "Italiana",
+        "caribenha",
+        "latina",
+        "internacional",
+        "cubana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 1era entre C y D, Vedado."
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            200
+        ],
+        "Tuesday": [
+            900,
+            200
+        ],
+        "Wednesday": [
+            900,
+            200
+        ],
+        "Thursday": [
+            900,
+            200
+        ],
+        "Friday": [
+            900,
+            200
+        ],
+        "Saturday": [
+            900,
+            200
+        ],
+        "Sunday": [
+            900,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": false,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Desayuno Tablazo": 1100.0,
+            "Desayuno Pura Vida": 850.0,
+            "Tostadas Francesas": 900.0,
+            "Cesta de pan ": 490.0,
+            "Frituras de Malanga ": 790.0,
+            "Croquetas de la Casa": 495.0,
+            "Papas Fritas": 890.0,
+            "Empanadas de espinacas y queso trufado ": 750.0,
+            "Eperlan de pescado ": 1300.0,
+            "Empanadas de la casa ": 890.0,
+            "Cremosa de la casa": 1300.0,
+            "Tamal en Cazuela": 890.0,
+            "Tostones rellenos de cangrejo": 950.0,
+            "Tostones rellenos de atun y pico de gallo": 1200.0,
+            "Ensalada rio arriba": 2100.0,
+            "Ensalada tablazo": 1700.0,
+            "Ensalada ranchera": 1450.0,
+            "Ensalada Capresse": 900.0,
+            "Ensalada estacion": 900.0,
+            "Ceviche de Pescado": 950.0,
+            "Ensalada fria": 700.0,
+            "Montaditos de Cangrejo": 750.0,
+            "Coctel de Langosta": 1300.0,
+            "Garbanzo Tablazo": 1200.0,
+            "Carbanzo de pulpo": 2700.0,
+            "Carpaccio de res mi chef": 2300.0,
+            "Picadera Tablazo": 2900.0,
+            "Tabla de jamon serrano y queso": 3000.0,
+            "Montaditos de salmon ahumado": 2800.0,
+            "Tabla cimarrona": 2500.0
+        },
+        "Bread": {
+            "Baguete de jamon y queso": 950.0,
+            "Baguete con atun": 1200.0,
+            "Sandwich son cubano": 1950.0,
+            "Sandwich Salvaje": 2100.0,
+            "Pepito Ternera": 2300.0,
+            "Baguete catalan": 1600.0,
+            "Hamburguesa de res con queso": 1700.0,
+            "Hamburgues de res tablazo": 2100.0,
+            "Sandwich Club": 1500.0,
+            "Sandwich Elena Ruth": 1500.0,
+            "Sandwich Medio Oriente": 1950.0
+        },
+        "Chicken": {
+            "Supremo de pollo con salsa cazadora": 2400.0,
+            "Cordon Bleu de pollo y agridulce de yogurt": 2700.0,
+            "Pechuga rellena con jamon y queso  con salsa ahumada": 2600.0,
+            "Pollo grille deshuesado con mantequilla de ajo": 2400.0
+        },
+        "Pork": {
+            "Bistec de cerdo con mojo criollo": 2500.0,
+            "Masas de cerdo frita con salsa chimichurri": 3100.0,
+            "Lomo de cerdo ahumado con salsa agridulce de yogurt": 2600.0,
+            "Costilla de cerdo con salsa barbacoa": 3600.0,
+            "Lomo salteado de cerdo": 2600.0,
+            "Cordon bleu de cerdo y salsa ahumada": 3000.0
+        },
+        "Beef": {
+            "Ropa vieja entomatadad": 2400.0,
+            "Bistec de res encebollado con cilantro y aceite de oliva": 2850.0,
+            "Mignon de res con salsa cazadora": 4950.0,
+            "Solomillo de res con salsa de pimienta, champinones y trufas": 4950.0,
+            "Lomo saltado de res": 4500.0
+        },
+        "Pizza": {
+            "Margarita": 1300.0,
+            "Habana 500": 1850.0,
+            "Calzone Tablazo": 2200.0,
+            "4 quesos": 1850.0,
+            "Pizza Top": 2400.0,
+            "Focaccia de jamon serrano": 1380.0
+        },
+        "Pasta": {
+            "Pomodoro": 990.0,
+            "Amatriciana": 1200.0,
+            "Bolognesa": 1290.0,
+            "Carbonara": 1690.0,
+            "Cangrejo y camarones": 1750.0,
+            "Pasta Harakiri": 2100.0
+        },
+        "Seafood": {
+            "Cola de langosta a su eleccion": 3600.0,
+            "Causa de Calamar": 1950.0,
+            "Langostinos salteados en salsa cajun": 2200.0,
+            "Wok de mariscos": 4000.0,
+            "Calamar Recuerdo": 3500.0,
+            "Camarones a su eleccion": 3300.0
+        },
+        "Fishes": {
+            "Pescado grille con salsa maitre hotel": 2500.0,
+            "Maleconazo": 3000.0,
+            "Papillote de pescado": 2600.0
+        },
+        "Desserts": {
+            "Flan": 800.0,
+            "Copa Lolita": 990.0,
+            "Helado": 500.0,
+            "tarta de la casa": 800.0,
+            "Brownie con helado": 850.0
+        },
+        "Additions": {
+            "Jamon vicking": 400.0,
+            "Jamon pierna": 450.0,
+            "Jamon serrano": 850.0,
+            "Chorizo": 550.0,
+            "Cebolla": 250.0,
+            "Champinon": 450.0,
+            "Pimiento": 200.0,
+            "Aaceitunas": 400.0,
+            "Pina Glaseada": 250.0,
+            "Queso gouda": 500.0,
+            "Queso parmesano": 550.0,
+            "Tomate natural": 200.0,
+            "Pollo": 500.0,
+            "Atun": 550.0,
+            "Bacon": 550.0,
+            "Bolonesa": 600.0,
+            "Camarones": 800.0
+        },
+        "Sides": {
+            "Arroz moro": 350.0,
+            "arroz blanco": 300.0,
+            "Frijoles del dia": 350.0,
+            "Yuca": 350.0,
+            "Ensalada de Vegetales": 3900.0,
+            "Pisto de Vegetales": 350.0,
+            "Vegetales grille": 350.0,
+            "Chicharritas de Boniato": 450.0,
+            "Tostones criollos": 500.0,
+            "Platano maduro frito": 500.0,
+            "Chicharritas de platano": 500.0
+        },
+        "Other": {
+            "Indeciso": 2500.0,
+            "Suprema solo en casa": 2700.0,
+            "Cordero estilo tablazo": 2700.0,
+            "Cordero Estofado": 2600.0,
+            "Ropa vieja de cordero": 2300.0,
+            "Paisa Cubana": 2300.0,
+            "Grill-Mar": 3400.0,
+            "Risotto de res y hongos": 3350.0,
+            "Arroz toque profundo": 3200.0,
+            "Jarrete de cordero en salsa de curry, leche de coco y aceitunas verdes": 2500.0
+        },
+        "Drinks": {
+            "Cuba libre": 690.0,
+            "Caipiroska": 690.0,
+            "Ron Collins": 690.0,
+            "Sangria": 750.0,
+            "Havana especial": 650.0,
+            "Caipirinha": 650.0,
+            "Cubata": 790.0,
+            "Aperol spritz": 1300.0,
+            "Cubanito": 750.0,
+            "Expresso Martini": 800.0,
+            "Margarita Rose": 1100.0,
+            "Margarita": 950.0,
+            "Mojito": 690.0,
+            "Mojito de frutas": 720.0,
+            "Pina colada sin alcohol": 850.0,
+            "Pina colada con alcohol": 950.0,
+            "Canchanchara": 690.0,
+            "Daiquiri": 690.0,
+            "Daiquiri de frutas": 720.0,
+            "Mimosa": 700.0,
+            "Bloody Mary": 750.0,
+            "Sangria Tablazo": 850.0,
+            "Refrescos": 420.0,
+            "Malta": 450.0,
+            "Malteada": 650.0,
+            "Limonada": 520.0,
+            "Limonada con hierba buena": 550.0,
+            "Limonada frescura": 580.0,
+            "Agua Natural": 350.0,
+            "Agua gaseada": 500.0,
+            "Juego Natural": 300.0,
+            "Jugo en conserva": 350.0,
+            "Batido de frutas": 650.0,
+            "Batido de galletas de chocolate": 890.0,
+            "Suero de Helado": 890.0,
+            "Cerveza": 600.0,
+            "Servicio Michelada": 300.0,
+            "Servicio Chelada": 150.0,
+            "Bebida energetica": 700.0,
+            "Kermato": 750.0,
+            "Beefeater": 600.0,
+            "Gordons": 700.0,
+            "Tanqueray": 800.0,
+            "Havana Club 3 anhos": 450.0,
+            "Havana Club 7 anhos": 600.0,
+            "Havana Club reserva": 550.0,
+            "Seleccion de Maestros": 800.0,
+            "Santiago 12 anhos": 950.0,
+            "Santiago 11 anhos": 900.0,
+            "Santiago 8 anhos": 650.0,
+            "Santiago Tradicion": 600.0,
+            "Clan Campbell": 600.0,
+            "Jameson": 600.0,
+            "JB": 600.0,
+            "Ballantines": 650.0,
+            "Ballentine 12s": 900.0,
+            "Chivas Regal 12": 800.0,
+            "Jack Daniels": 950.0,
+            "Jonnie walker Etiqueta Roja": 700.0,
+            "Jonnie walker Etiqueta negra": 1000.0,
+            "Jonnie walker doble etiqueta negra": 1100.0,
+            "Jonnie walker etiqueta verde": 4000.0,
+            "Jonnie walker Etiqueta azul": 8000.0,
+            "Copa de vino tinto": 800.0,
+            "Copa de vino blanco": 800.0,
+            "Copa de vino rosado": 800.0,
+            "Botella de la casa": 3200.0,
+            "Botella premium": 4200.0,
+            "Licor Cointreau": 600.0,
+            "Crema baileys": 850.0,
+            "Sambuca": 550.0,
+            "Amareto": 600.0,
+            "Crema de Whisky": 600.0,
+            "Cinzano rojo": 500.0,
+            "Cinzano blanco": 500.0,
+            "Campari": 750.0,
+            "Crema Catalana": 650.0,
+            "Olmeca dorado": 850.0,
+            "Olmeca blanco": 800.0,
+            "Patron blanco": 1500.0,
+            "Patron Reposado": 1600.0,
+            "Vodka de la casa": 600.0,
+            "Absolut": 650.0,
+            "Absolut Raspberry": 700.0
+        }
+    }
+}

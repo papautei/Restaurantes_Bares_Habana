@@ -1,0 +1,186 @@
+{
+    "Name": "Restaurante Esquina-D-Fraile",
+    "Specialty": [
+        "American",
+        "Caribean",
+        "Latin",
+        "International",
+        "Mediterranean",
+        "Spain",
+        "Cuban"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Esquina 3ra y D (D entre 1ra y 3ra), Vedado, Plaza"
+    },
+    "Contact": {
+        "Web": "https://linktr.ee/esquina_d_fraile?fbclid=PAZXh0bgNhZW0CMTEAAaaaCdk4kYbgOidUW9xXBK6cSr1tmiJ7K6Ng_ZEZGAjUcCk1wgIH3qvK5Ug_aem_XOIeKk9U-AhMLVJrM2cPNw",
+        "Facebook": "https://www.facebook.com/p/Esquina-D-Fraile-100087679216837/",
+        "Instagram": "https://www.instagram.com/esquina_d_fraile?fbclid=IwY2xjawHBlulleHRuA2FlbQIxMAABHZZgOEu75gKPWpMtioNecKiM01pP04TQaiTfV33hGscw48xHz-aGBW5mow_aem_zjYxU6xWCn64PlZgea10Wg"
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": true,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croqueta de pescado": 950.0,
+            "Empanadas de la casa": 950.0,
+            "Frituras de malanga": 850.0,
+            "Pulpo encebollado al pimenton": 2995.0,
+            "Carpaccio de res": 2900.0,
+            "Ceviche": 2100.0,
+            "Ensalada de langosta": 2800.0,
+            "Coctel tropical de cameron": 1800.0,
+            "Tataki fraile": 2100.0,
+            "Tartar de atun": 2100.0,
+            "Ensalada cesar de pollo": 1800.0,
+            "Surtido de productos ibericos": 3500.0,
+            "Fritos del mar 450g": 2995.0,
+            "Sopa del pescador": 850.0,
+            "Garbanzo frito al estilo cubano": 2100.0,
+            "Manito de cerdo guisada": 1800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Arroz con pollo a la chorrera": 2200.0,
+            "Pollo a la brasa con mojo criollo": 1800.0
+        },
+        "Pork": {
+            "Solomillo de cerdo con salsa de hongos y frutos secos": 3300.0,
+            "Chuleta de cerdo con mojo criollo": 2800.0
+        },
+        "Beef": {
+            "Entrecot de res 300g": 7000.0,
+            "Solomillo de res": 5800.0,
+            "Ropa vieja": 2400.0
+        },
+        "Pizza": {
+            "Pizza de queso fresco y tomate": 1500.0,
+            "Pizza de jamon": 2100.0,
+            "Pizza de bacon": 2400.0,
+            "Pizza de chorizo": 2400.0,
+            "Pizza de vegetales": 2000.0,
+            "Pizza de cuatro estaciones": 2800.0,
+            "Pizza hawaiana": 2400.0,
+            "Pizza marinera": 3200.0,
+            "Pizza de jamon serrano": 2990.0,
+            "Pizza focaccia de jamon serrano y aceitunas": 2500.0,
+            "Pizza calzone habanero": 2500.0
+        },
+        "Pasta": {
+            "Pasta de tomate y parmesano": 2200.0,
+            "Pasta de frutos del mar": 2990.0,
+            "Pasta de ajo, camaron y peperoncino": 2700.0,
+            "Pasta de camaron al pesto": 2700.0,
+            "Pasta de amatriciana": 2200.0,
+            "Pasta a la bolonhesa": 2800.0,
+            "Pasta a la carbonara": 2800.0
+        },
+        "Seafood": {
+            "Camarones al gusto": 2800.0,
+            "Langosta al gusto": 3800.0,
+            "Arroz negro": 2990.0,
+            "Langosta grille": 3800.0,
+            "Parrillada marinera": 3500.0,
+            "Caldereta de mariscos": 3500.0,
+            "Arroz meloso de langosta y camaron": 3000.0
+        },
+        "Fishes": {
+            "Pescado al tomate y olivo al limon": 2800.0,
+            "Pescado con salsa de mostaza a las finas hierbas": 2900.0,
+            "Pescado con alcaparra y cebolla": 2900.0,
+            "Pescado en refrito de ajo": 2800.0,
+            "Filete de pescado grille": 2800.0,
+            "Pescado con mojo iberico": 3200.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Ensalada de vegetales": 650.0,
+            "Vegetal salteado": 700.0,
+            "Vegetales a la brasa": 600.0,
+            "Pure de viandas": 700.0,
+            "Papas fritas": 900.0,
+            "Vianda frita": 450.0,
+            "Arroz blanco": 300.0,
+            "Arroz pilaf": 1000.0
+        },
+        "Other": {
+            "Cordero a la cazuela": 2990.0,
+            "Teriyaki": 2000.0,
+            "Parrillada mar y tierra": 3500.0,
+            "Paella marinera (2 pax)": 5800.0
+        },
+        "Drinks": {
+            "Daiquiri": 1000.0,
+            "Daiquiri de frutas": 1200.0,
+            "Cuba libre": 1000.0,
+            "Havana especial": 1000.0,
+            "Mojito": 1000.0,
+            "Mojito de frutas": 1200.0,
+            "Caipirisima": 1000.0,
+            "Caipirinha": 1000.0,
+            "Pinha colada": 1600.0,
+            "Pinha colada sin alcohol": 1400.0,
+            "Cubata": 1000.0,
+            "Margarita": 1500.0,
+            "Tequila sunrise": 1800.0,
+            "Screwdriver": 1600.0,
+            "Expresso martini": 2000.0,
+            "Negroni": 2000.0,
+            "Martini": 2000.0,
+            "Manhattan": 2000.0,
+            "Whisky sour": 1800.0,
+            "Long island ice tea": 2000.0,
+            "Sangria": 1500.0,
+            "Orgasmo": 2000.0,
+            "Agua gaseada": 900.0,
+            "Agua importada": 400.0,
+            "Agua tonica nacional": 500.0,
+            "Agua tonica importada": 1200.0,
+            "Refrescos importados": 500.0,
+            "Limonada": 600.0,
+            "Limonada c/ hierba buena": 700.0,
+            "Cerveza tonel 480ml": 500.0,
+            "Cerveza tonel 250ml": 280.0,
+            "Servicio de chelada": 250.0,
+            "Servicio de michelada": 350.0,
+            "Energizantes": 1000.0,
+            "Maltas": 500.0,
+            "Jugos naturales": 400.0,
+            "Cerveza heineken": 800.0,
+            "Copa de vino blanco": 1200.0,
+            "Copa de vino tinto": 1200.0
+        }
+    }
+}

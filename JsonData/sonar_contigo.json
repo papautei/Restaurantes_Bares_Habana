@@ -1,0 +1,139 @@
+{
+    "Name": "Sonar contigo",
+    "Specialty": [
+        "Desayunos",
+        "Cafes"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Esquina Ave 23 y Calle C"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            100,
+            0
+        ],
+        "Tuesday": [
+            100,
+            0
+        ],
+        "Wednesday": [
+            100,
+            0
+        ],
+        "Thursday": [
+            100,
+            0
+        ],
+        "Friday": [
+            100,
+            0
+        ],
+        "Saturday": [
+            100,
+            0
+        ],
+        "Sunday": [
+            100,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.9,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Racion de Mani": 150.0,
+            "Racion de chacharrita": 150.0,
+            "Saladitas con jamon": 220.0,
+            "Saladitas con atun": 250.0,
+            "Racion de croquetas": 350.0,
+            "Frituras de malanga": 330.0,
+            "Racion de tostones": 250.0,
+            "Racion de tostones rellenos de jamon": 400.0,
+            "Racion de tostones rellenos de atun": 450.0,
+            "Picadera de la casa": 1000.0
+        },
+        "Bread": {
+            "Sandwich de jamon y queso": 450.0,
+            "Sandwich de jamon ahumado y queso": 600.0,
+            "Sandwich de atun": 500.0,
+            "Sandwich de cerdo": 600.0,
+            "Brusquetta de tomate, albahaca y queso": 400.0,
+            "Brusquetta de atun, cebolla y mayonesa": 480.0,
+            "Brusquetta de jamon, queso y especias": 450.0,
+            "Brusquetta de cerdo agridulce": 550.0,
+            "Sandwich Especial ": 720.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Pastel con leche condensada": 450.0,
+            "Pastel con helado": 420.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Tacos de vegetales": 550.0,
+            "Tacos de cerdo asado": 720.0,
+            "Tacos de cerdo con vegetales": 750.0,
+            "Tacos de cerdo agridulce": 800.0,
+            "Tacos Mixtos": 850.0
+        },
+        "Drinks": {
+            "Cuba libre": 350.0,
+            "Mojito": 420.0,
+            "Ron Collins": 300.0,
+            "Canchanchara": 400.0,
+            "Daiquiri": 400.0,
+            "Caipirisima": 400.0,
+            "Pina colada": 550.0,
+            "Agua embotellada": 200.0,
+            "Limonada natural": 350.0,
+            "Limonada con Hierba buena": 380.0,
+            "Limonada con pinha": 420.0,
+            "Batido de helado": 600.0,
+            "Malteada": 500.0,
+            "Refresco": 260.0,
+            "Jugo": 220.0,
+            "Copa de vino": 380.0,
+            "Smoothie de platano": 530.0,
+            "Cerveza importada": 300.0,
+            "Servicio de chelada": 130.0,
+            "Havana Club Especial": 250.0,
+            "Havana Club Reserva": 280.0,
+            "Havana Club 7 anos": 330.0
+        }
+    }
+}

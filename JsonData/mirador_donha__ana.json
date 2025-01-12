@@ -1,0 +1,177 @@
+{
+    "Name": "Mirador_Donha _Ana",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            830,
+            2200
+        ],
+        "Tuesday": [
+            830,
+            2200
+        ],
+        "Wednesday": [
+            830,
+            2200
+        ],
+        "Thursday": [
+            830,
+            2200
+        ],
+        "Friday": [
+            830,
+            2200
+        ],
+        "Saturday": [
+            830,
+            2200
+        ],
+        "Sunday": [
+            830,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Coctel de Camarones": 1500.0,
+            "Ensalada de Pollo": 1100.0,
+            "Ensalada de Pescado": 1200.0,
+            "Ensalada Mixta": 900.0,
+            "Croquetas de la Abuela": 660.0,
+            "Chicharritas de Platano": 660.0,
+            "Tostones Rellenos": 880.0,
+            "Tamal en Hojas": 660.0,
+            "Sopa de Pollo": 800.0,
+            "Frituras de Malanga": 660.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo Grille": 2000.0,
+            "Pollo en Salsa": 2800.0,
+            "Pollo a la Pinha": 2800.0,
+            "Brocheta de Pollo": 2800.0,
+            "Pechuga de Pollo a la Juliana": 4200.0
+        },
+        "Pork": {
+            "Cerdo Grille": 2000.0,
+            "Cerdo Agridulce": 2200.0,
+            "Chuleta de Cerdo": 2900.0,
+            "Bistec de Cerdo con Champinhon": 2900.0,
+            "Milanesa de Cerdo": 2900.0
+        },
+        "Beef": {
+            "Ropa Vieja": 2800.0,
+            "Picadillo a la Habanera": 2500.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Langosta Batabano": 2000.0,
+            "Langosta Donha Ana": 3400.0,
+            "Degustacion de la Casa Mariscada": 3800.0,
+            "Pulpo: Grille, Ajillo o en Salsa": 3600.0,
+            "Langosta Grille": 2900.0,
+            "Langosta en Salsa": 3000.0,
+            "Langosta al Ron": 3000.0,
+            "Camaron Grille": 3400.0,
+            "Camaron al Ajillo": 3500.0,
+            "Camaron en Salsa": 3500.0
+        },
+        "Fishes": {
+            "Enchilado de Pescado": 2700.0,
+            "Filete de Pescado Grille": 2200.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Jugos Naturales": 220.0,
+            "Agua Natural 500ml": 330.0,
+            "Agua Natural 600ml": 330.0,
+            "Agua Tonica": 330.0,
+            "Agua Gaseada": 220.0,
+            "Refresco Nacional": 330.0,
+            "Refresco Importado": 330.0,
+            "Malta": 330.0,
+            "Cerveza Nacional": 500.0,
+            "Cerveza Importada": 350.0,
+            "Red Bull": 330.0,
+            "Tigon": 330.0,
+            "Kermato": 330.0,
+            "Vino Tinto": 550.0,
+            "Vino Blanco": 550.0,
+            "Cabernet Suavignon": 660.0,
+            "Vodka Abssolut": 660.0,
+            "Ballantines": 550.0,
+            "Clan Campbell": 550.0,
+            "Chivas Regal 12 Anhos": 770.0,
+            "Johnnie Walker": 770.0,
+            "Olmeca Reposado": 660.0,
+            "Jose Cuervo": 660.0,
+            "Havana Club 3 Anhos": 440.0,
+            "Havana Club 7 Anhos": 550.0,
+            "Havana Club Profundo": 440.0,
+            "Havana Club Especial": 550.0,
+            "Havana Club Reserva": 550.0,
+            "Hav. Club Selec. de Maestros": 660.0,
+            "Ritual": 440.0,
+            "Santiago": 550.0,
+            "Santiago 12 Anhos": 660.0,
+            "Ron Pacto Navio": 660.0,
+            "Ron Cubay Extra Anhejo": 880.0,
+            "Ron Cubay Extra Viejo": 880.0,
+            "Cuba Libre": 660.0,
+            "Mojito": 660.0,
+            "Daiquiri": 660.0,
+            "Limonada Frappe": 485.0,
+            "Pinha Colada": 880.0,
+            "Cubanito": 770.0,
+            "Michelada": 770.0,
+            "Margarita": 770.0,
+            "Gin Tonic": 880.0,
+            "Vodka Tonic": 770.0,
+            "Sangria": 770.0,
+            "Caipirinha": 770.0,
+            "Caipiroska": 770.0,
+            "Caipirissima": 770.0,
+            "Bloody Mary": 770.0,
+            "Cubata": 770.0
+        }
+    }
+}
