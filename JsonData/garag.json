@@ -1,0 +1,143 @@
+{
+    "Name": "GaraG",
+    "Specialty": [
+        "italiana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "Calzada de Guanabacoa entre B y C"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "picadera GaraG": 3500.0,
+            "toston Alfredo": 750.0,
+            "eperlan": 1650.0,
+            "fajitas de pollo": 1225.0,
+            "fajitas de cerdo": 1550.0,
+            "croquetas de Mima": 750.0,
+            "ceviche": 900.0,
+            "tacos de carne": 1205.0,
+            "tacos marineros": 1295.0,
+            "ensalada fria": 750.0,
+            "coctel de camaron": 1250.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pollo frito": 1350.0,
+            "bistec de pollo grille": 1350.0,
+            "pollo empanado": 1450.0,
+            "pollo gordon blue": 1925.0
+        },
+        "Pork": {
+            "bistec de cerdo encebollado": 1950.0,
+            "bistec de cerdo grille": 1700.0,
+            "bistec de cerdo empanado": 1750.0,
+            "bistec de cerdo uruguayo": 1955.0,
+            "masa de cerdo frita": 2200.0,
+            "cerdo asado": 2150.0
+        },
+        "Beef": {
+            "aporreado de res": 1950.0,
+            "ropa vieja": 1930.0
+        },
+        "Pizza": {
+            "pizza napolitana": 930.0,
+            "pizza antihawaiana": 1555.0,
+            "pizza lechoncito": 1595.0,
+            "pizza 5 quesos": 1650.0
+        },
+        "Pasta": {
+            "spaghetti napolitano": 930.0
+        },
+        "Seafood": {
+            "camaron al ajillo": 2300.0,
+            "camaron grille": 2105.0,
+            "enchilado de camaron": 2230.0,
+            "camaron empanado": 2290.0
+        },
+        "Fishes": {
+            "filete de pescado grille": 1920.0,
+            "filete de pescado empanado": 1980.0,
+            "filete de pescado GaraG": 2225.0,
+            "pescado canciller": 2150.0,
+            "filete Alfredo": 2195.0,
+            "masa de pescado al ajillo": 1920.0,
+            "pargo frito": 2150.0
+        },
+        "Desserts": {
+            "copa de helado": 400.0,
+            "copa lolita": 650.0,
+            "cake a la moda": 850.0,
+            "batido de helado": 750.0
+        },
+        "Additions": {},
+        "Sides": {
+            "ensalada estacion": 350.0,
+            "vegetales salteados": 350.0
+        },
+        "Other": {
+            "arroz frito especial": 1350.0,
+            "arroz frito": 1200.0
+        },
+        "Drinks": {}
+    }
+}

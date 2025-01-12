@@ -1,0 +1,204 @@
+{
+    "Name": "KMPARY",
+    "Specialty": [
+        "comida rapida",
+        "internacional"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 184, #28511, e/ 285 A y 289, Baluarte"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            2200,
+            500
+        ],
+        "Tuesday": [
+            2200,
+            500
+        ],
+        "Wednesday": [
+            2200,
+            500
+        ],
+        "Thursday": [
+            2200,
+            500
+        ],
+        "Friday": [
+            2200,
+            500
+        ],
+        "Saturday": [
+            2200,
+            500
+        ],
+        "Sunday": [
+            2200,
+            500
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "croquetas": 700.0,
+            "frituras de malanga": 500.0,
+            "fajitas de pollo": 1020.0,
+            "fajitas de cerdo": 1400.0,
+            "eperlan de pescado": 1150.0,
+            "brusquetas": 450.0,
+            "brusquetas de atun": 800.0,
+            "ensalada fria de jamon": 690.0,
+            "ensalada fria de atun": 780.0,
+            "aros de cebolla rebosado": 550.0,
+            "coctel de camarones": 1600.0,
+            "camaron rebosado": 2050.0,
+            "papas fritas": 700.0,
+            "picadera km": 2800.0,
+            "bolitas de queso": 850.0,
+            "entremes surtido": 1150.0,
+            "maripositas chinas": 470.0,
+            "tostones natural": 550.0,
+            "tostones r/ jamon": 670.0,
+            "tostones r/ res": 780.0,
+            "tostones r/ atun": 920.0,
+            "ceviche de peruano": 1200.0,
+            "ceviche km (camaron y pescado)": 1700.0,
+            "finos cortes de jamon serrano": 1700.0,
+            "carpacio de pulpo": 3000.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "gordon blue": 2200.0,
+            "pechuga grille encebollada": 1400.0,
+            "pechuga al curri": 1260.0,
+            "pechuga a la crema c/ chocolate": 1280.0,
+            "rollo de pechuga rellena": 1850.0
+        },
+        "Pork": {
+            "bistec de cerdo encebollado": 1800.0,
+            "rollo de filete de cerdo relleno": 2800.0,
+            "bruschetta de cerdo": 2500.0,
+            "solomillo de cerdo": 2300.0,
+            "lonjas de cerdo asada": 2000.0,
+            "bistec de filete de cerdo": 2300.0,
+            "fricase de cerdo": 1850.0,
+            "chuleta de cerdo": 2500.0,
+            "filete de cerdo salteado": 1600.0,
+            "filete de cerdo a la doch": 1800.0,
+            "lomo de cerdo ahumado": 1800.0
+        },
+        "Beef": {
+            "tamal de res km": 1800.0,
+            "uruguayo": 2300.0,
+            "vaca frita de res": 1950.0,
+            "masa de cerdo frita": 1980.0,
+            "ropa vieja de res": 1700.0,
+            "bistec de rinnonada encebollado": 1800.0,
+            "entrecot": 3900.0,
+            "churrasco de res": 3850.0,
+            "chatteubriano": 3500.0,
+            "sirloin": 3000.0,
+            "corte wagyu con queso azul": 3050.0,
+            "corte wagyu a la pimienta": 2800.0,
+            "corte wagyu al grill": 2800.0,
+            "corte wagyu al vino": 2800.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "cazuela de marisco": 4000.0,
+            "camaron enchilado": 2300.0,
+            "camaron al ajillo": 2300.0,
+            "langosta batabano": 2800.0,
+            "langosta grille": 2300.0,
+            "langosta termidor": 2800.0,
+            "langosta jonville": 3400.0,
+            "langosta enchilada": 2400.0
+        },
+        "Fishes": {
+            "papilot de pescado": 1820.0,
+            "filete de  pescado canciller": 2200.0,
+            "filete de pescado grille": 1390.0,
+            "filete de pescado": 1390.0,
+            "filete de pescado napado": 1700.0,
+            "filete jonville": 2300.0,
+            "rueda pescado - plancha": 1760.0,
+            "rueda pescado - ajillo": 1870.0,
+            "rueda pescado - en salsa criolla": 1870.0
+        },
+        "Desserts": {
+            "Pote de Helado 400 ml": 560.0,
+            "Pote de Helado 1L": 930.0
+        },
+        "Additions": {},
+        "Sides": {
+            "arroz blanco": 170.0,
+            "arroz moro": 340.0,
+            "arroz pilaf": 380.0
+        },
+        "Other": {
+            "mar y tierra": 5700.0,
+            "grillada mixta": 5700.0,
+            "garbanzo frito": 1550.0,
+            "tamal en casuela": 1150.0,
+            "tamal con carne": 1500.0,
+            "tacos de cerdo": 1300.0,
+            "tacos de res": 1400.0,
+            "tacos de camarones": 1800.0,
+            "arroz frito": 1300.0,
+            "arroz frito especial": 2050.0
+        },
+        "Drinks": {
+            "refresco nacional": 305.0,
+            "refresco importado": 370.0,
+            "red bull": 700.0,
+            "agua natural": 250.0,
+            "agua tonica": 230.0,
+            "malta bucanero": 370.0,
+            "malta importada": 370.0,
+            "malteada": 280.0,
+            "kermato": 560.0,
+            "limonada": 560.0,
+            "jugo de frutas": 155.0,
+            "batido de helado": 830.0,
+            "jugo de caja": 280.0,
+            "leche condensada malteada": 255.0,
+            "cerveza cristal": 420.0,
+            "cerveza blue": 300.0,
+            "cerveza sol": 700.0,
+            "cerveza corona": 700.0,
+            "cafe expreso": 100.0,
+            "cafe cortado": 130.0,
+            "cafe con leche": 280.0
+        }
+    }
+}

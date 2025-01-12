@@ -1,0 +1,119 @@
+{
+    "Name": "La Mia Pizza",
+    "Specialty": [
+        [
+            "Italian"
+        ]
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "La Lisa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Entremes de Jamon y Queso": 1440,
+            "Entremes de Jamon": 500,
+            "Entremes de ahumados": 440,
+            "Entremes de aceitunas": 300,
+            "Dados de Queso": 300,
+            "Croquetas de embutidos": 220,
+            "Crema de Queso": 250,
+            "Crema Aurora": 300,
+            "Crema Virginia": 430
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza Napolitana": 700,
+            "Pizza La Mia": 2500,
+            "Pizza La Mia de Queso": 1900,
+            "Pizza Tres Quesos": 1700,
+            "Pizza La Mia Familiar": 4800,
+            "Pizza La Mia Familiar de Queso": 4000,
+            "Pizza Familiar Napolitana": 2500
+        },
+        "Pasta": {
+            "Lasagna de Jamon": 500,
+            "Lasagna de Jamon y Chorizo": 610,
+            "Espaguetis Napolitanos": 700,
+            "Espaguetis a la carbonara": 860
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {
+            "Queso": 320,
+            "Jamon": 300,
+            "Chorizo": 220,
+            "Atun": 280,
+            "Aji pimiento": 120,
+            "Cebolla": 120,
+            "Pina": 100,
+            "Ahumados": 300,
+            "Aceitunas": 200,
+            "Queso azul": 500
+        },
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Havana Club 3 anos": 175,
+            "Havana Club 7 anos": 225,
+            "Pina Colada": 250,
+            "Cerveza": 270,
+            "Michelada": 420,
+            "Vodka": 340,
+            "Whisky": 340,
+            "Jugo de Frutas Naturales": 200,
+            "Batido de Frutas Naturales": 250,
+            "Suero de Helado": 350,
+            "Helado Montado": 350,
+            "Limonada Frappe": 1500,
+            "Refresco": 220,
+            "Refresco de Pomo": 280,
+            "Malta": 250,
+            "Agua": 160,
+            "Agua Saborizada": 170,
+            "Bebida Energizante": 250
+        }
+    }
+}

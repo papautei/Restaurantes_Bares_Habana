@@ -1,0 +1,168 @@
+{
+    "Name": "Fenix dorado",
+    "Specialty": [
+        "Comida China"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Cuchillo entre San Nicolas y Rayo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": 3.5,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Picadera Fenix": 1785.0,
+            "Entremes jamon y aceite": 535.0,
+            "Entremes jamon y queso": 835.0,
+            "Entremes aceitunas": 555.0,
+            "Coctel camarones": 1200.0,
+            "Ensalada fria jamon": 595.0,
+            "Ensalada fria atun": 850.0,
+            "Vianda c/mojo": 315.0,
+            "Tostones nat. ajillo": 495.0,
+            "Tost. rellenos jamoniquesos": 695.0,
+            "Tost. rellenos c/camaron": 835.0,
+            "Mariposas chinas": 375.0,
+            "Ensalada mixta": 360.0,
+            "Sopa Fenix": 895.0,
+            "Fritura malanga": 510.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Chop suey pollo": 1995.0,
+            "Pollo grille": 3975.0
+        },
+        "Pork": {
+            "Bistec cerdo grille": 1625.0,
+            "Bistec cerdo encebollado": 1885.0,
+            "Chop suey cerdo": 2205.0,
+            "Mucho cerdo (3 lb)": 8550.0,
+            "Masas cerdo ftas (1.5b)": 4550.0,
+            "Brochetas cerdo (1.56)": 4650.0
+        },
+        "Beef": {
+            "Ropa vieja": 2535.0
+        },
+        "Pizza": {
+            "Pizza c/queso gouda": 1120.0,
+            "Pizza c/queso blanco": 695.0,
+            "Pizza Haw. queso blanco": 1145.0,
+            "Pizza Haw. queso gouda": 1570.0
+        },
+        "Pasta": {
+            "Espag. nap. c/queso gouda": 995.0,
+            "Espag. nap. c/queso bco": 645.0
+        },
+        "Seafood": {
+            "Chop suey camaron": 2970.0,
+            "Camaron grille": 2785.0,
+            "Camaron al ajillo": 2950.0,
+            "Camaron enchilado": 3120.0,
+            "Zarzuela de mariscos": 5455.0,
+            "Plancha de mar": 5255.0
+        },
+        "Fishes": {
+            "Filete pescado grille": 2675.0,
+            "Filete sensacion": 3000.0,
+            "Filete terraza": 3940.0
+        },
+        "Desserts": {},
+        "Additions": {
+            "Pimiento": 200.0,
+            "Cebolla": 200.0,
+            "Pinha": 200.0,
+            "Jamon": 250.0,
+            "Chorizo": 300.0,
+            "Queso bco": 295.0,
+            "Queso gouda": 520.0
+        },
+        "Sides": {
+            "Arroz frito Fenix": 1120.0,
+            "Arroz frito Fenix especial": 1540.0,
+            "Arroz frito Fenix esp. familiar": 2810.0,
+            "Paella Fenix": 2920.0,
+            "Arroz moro": 335.0,
+            "Arroz blanco": 265.0
+        },
+        "Other": {
+            "Plancha mar y tierra": 5255.0,
+            "Corona fenix": 5965.0
+        },
+        "Drinks": {
+            "Cerveza Corona": 480.0,
+            "Cerveza Nacional": 360.0,
+            "Cerveza Importada": 280.0,
+            "Refresco Nacional": 310.0,
+            "Refresco Importado": 350.0,
+            "Malta": 340.0,
+            "Energizante": 500.0,
+            "Nectar frutas": 340.0,
+            "Aquia Nat, importada 500ml": 250.0,
+            "Ama Nat. Nacional 500ml": 210.0,
+            "Cafe expreso": 220.0,
+            "Cafe americano": 220.0,
+            "Cafe carajillo": 320.0,
+            "Vino (bot)": 2500.0,
+            "Copa heilada": 500.0,
+            "Malteada": 600.0,
+            "Batido helado": 540.0
+        }
+    }
+}

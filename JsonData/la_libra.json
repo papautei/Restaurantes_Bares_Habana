@@ -1,0 +1,129 @@
+{
+    "Name": "La Libra",
+    "Specialty": [
+        "criolla"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cotorro",
+        "Address": "calle 105 entre 20 y 26, Cotorro"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            1200
+        ],
+        "Tuesday": [
+            1100,
+            1200
+        ],
+        "Wednesday": [
+            1100,
+            1200
+        ],
+        "Thursday": [
+            1100,
+            1200
+        ],
+        "Friday": [
+            1100,
+            1200
+        ],
+        "Saturday": [
+            1100,
+            1200
+        ],
+        "Sunday": [
+            1100,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "fajitas de pollo": 1700.0,
+            "fajitas de cerdo": 1600.0,
+            "alitas de pollo": 1300.0,
+            "croquetas": 550.0,
+            "tostones naturales": 300.0,
+            "tostones al ajillo": 350.0,
+            "tostones rellenos": 1100.0,
+            "tostones campesinos": 1100.0,
+            "papas fritas": 900.0,
+            "fritura de malanga": 500.0,
+            "entremes de jamon, queso y aceituna": 1500.0,
+            "camaron empanado": 1200.0,
+            "eperlan": 2100.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "filete de cerdo": 3400.0,
+            "masa de cerdo frita": 2400.0,
+            "brocheta": 2000.0,
+            "bistec de cerdo": 2000.0,
+            "fricase de cerdo": 2300.0,
+            "costilla de cerdo frita": 2300.0,
+            "costilla de cerdo asada": 2400.0,
+            "costilla de cerdo en salsa": 2500.0
+        },
+        "Beef": {
+            "bistec de res grille": 3000.0,
+            "bistec uruguayo": 2900.0
+        },
+        "Pizza": {
+            "pizza napolitana": 1500.0
+        },
+        "Pasta": {
+            "spaghetti napolitano": 1200.0
+        },
+        "Seafood": {
+            "camaron grille": 1700.0,
+            "camaron enchilado": 2200.0,
+            "camaron al ajillo": 1500.0,
+            "calamar en su tinta": 4000.0,
+            "pulpo al ajillo": 3200.0,
+            "pulpo grille": 3300.0,
+            "langosta grille": 2000.0
+        },
+        "Fishes": {
+            "filete de pescado": 2100.0,
+            "pescado canciller": 3300.0,
+            "filete de salmon": 2500.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "chilindron de cordero": 3500.0
+        },
+        "Drinks": {}
+    }
+}

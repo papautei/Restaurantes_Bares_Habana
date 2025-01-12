@@ -1,0 +1,142 @@
+{
+    "Name": "La Esquinita",
+    "Specialty": [
+        "Cocina mixta"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "Calle Juan Lefont entre Libertad y Johnson"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2100
+        ],
+        "Tuesday": [
+            900,
+            2100
+        ],
+        "Wednesday": [
+            900,
+            2100
+        ],
+        "Thursday": [
+            900,
+            2100
+        ],
+        "Friday": [
+            1000,
+            2300
+        ],
+        "Saturday": [
+            1000,
+            2300
+        ],
+        "Sunday": [
+            1000,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Picadera La Esquinita": 1000.0,
+            "Tostones": 400.0
+        },
+        "Bread": {
+            "Hamburguesa sencilla": 500.0,
+            "Hamburguesa de jamon": 500.0,
+            "Hamburguesa de queso Gouda": 550.0,
+            "Hamburguesa de chorizo": 500.0,
+            "Hamburguesa de jamon y Gouda": 650.0,
+            "Hamburguesa La Esquinita": 750.0
+        },
+        "Chicken": {
+            "Bistec Gordon Blue": 1300.0,
+            "Pollo Chiflado": 650.0
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de queso blanco": 400.0,
+            "Pizza de queso Gouda": 300.0,
+            "Pizza de queso blanco y jamon": 300.0,
+            "Pizza de queso Gouda y jamon": 400.0,
+            "Pizza de queso blanco y chorizo": 300.0,
+            "Pizza de queso Gouda y chorizo": 400.0,
+            "Pizza de queso blanco y atun": 500.0,
+            "Pizza de queso Gouda y atun": 600.0,
+            "Pizza de queso blanco y cebolla": 300.0,
+            "Pizza de queso Gouda y cebolla": 400.0,
+            "Pizza de queso blanco y pimiento": 300.0,
+            "Pizza de queso Gouda y pimiento": 400.0,
+            "Pizza de queso blanco Hawaiana": 400.0,
+            "Pizza de queso Gouda Hawaiana": 500.0,
+            "Pizza Especial La Esquinita": 600.0,
+            "Pizza grande de queso Gouda": 650.0,
+            "Pizza grande de queso blanco y jamon": 500.0,
+            "Pizza grande de queso Gouda y jamon": 750.0,
+            "Pizza grande de queso blanco y chorizo": 500.0,
+            "Pizza grande de queso Gouda y chorizo": 750.0,
+            "Pizza grande de queso blanco y atun": 700.0,
+            "Pizza grande de queso Gouda y atun": 950.0,
+            "Pizza grande de queso blanco y cebolla": 500.0,
+            "Pizza grande de queso Gouda y cebolla": 750.0,
+            "Pizza grande de queso blanco y pimiento": 500.0,
+            "Pizza grande de queso Gouda y pimiento": 750.0,
+            "Pizza grande de queso blanco Hawaiana": 550.0,
+            "Pizza grande de queso Gouda Hawaiana": 800.0,
+            "Pizza grande Especial La Esquinita": 1200.0,
+            "Pizza grande Familiar La Esquinita": 3000.0
+        },
+        "Pasta": {
+            "Espaghettis blancos": 300.0,
+            "Espaghettis de queso Gouda": 450.0,
+            "Espaghettis blancos de jamon": 400.0,
+            "Espaghettis de queso Gouda con jamon": 550.0,
+            "Espaghettis blancos con chorizo": 400.0,
+            "Espaghettis de queso Gouda con chorizo": 550.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Papas fritas": 100.0
+        },
+        "Other": {
+            "Arroz frito": 500.0,
+            "Arroz frito con mariscos": 950.0
+        },
+        "Pizzas": {},
+        "Drinks": {}
+    }
+}

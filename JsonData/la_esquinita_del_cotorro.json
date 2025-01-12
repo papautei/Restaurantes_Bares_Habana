@@ -1,0 +1,94 @@
+{
+    "Name": "La esquinita del Cotorro",
+    "Specialty": [
+        "rapida"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cotorro",
+        "Address": "Avenida 71"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2000
+        ],
+        "Tuesday": [
+            1000,
+            2000
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            1000,
+            2000
+        ],
+        "Friday": [
+            1000,
+            2000
+        ],
+        "Saturday": [],
+        "Sunday": [
+            1000,
+            2000
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": false,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "tostones": 200.0,
+            "tortilla natural": 220.0,
+            "tortilla de queso blanco": 280.0,
+            "tortilla de jam\u00f3n": 320.0,
+            "tortilla de chorizo": 320.0,
+            "tortilla mixta": 410.0
+        },
+        "Bread": {
+            "pan con jam\u00f3n": 240.0,
+            "pan con jam\u00f3n y chorizo": 270.0,
+            "pan con chorizo": 160.0,
+            "hamburguesa simple": 250.0,
+            "hamburguesa doble": 380.0,
+            "hamburguesa esquinita": 480.0,
+            "hamburguesa esquinita plus": 580.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

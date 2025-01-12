@@ -1,0 +1,99 @@
+{
+    "Name": "Hamburgo",
+    "Specialty": [
+        "americana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": false
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            1900
+        ],
+        "Tuesday": [
+            900,
+            1900
+        ],
+        "Wednesday": [
+            900,
+            1900
+        ],
+        "Thursday": [
+            900,
+            1900
+        ],
+        "Friday": [
+            900,
+            1900
+        ],
+        "Saturday": [
+            900,
+            1900
+        ],
+        "Sunday": [
+            900,
+            1900
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "Hamburguesa de cerdo (220g)": 275.0,
+            "Hamburguesa de res (220g)": 275.0,
+            "Hamburguesa vegetal con aderezos (235g)": 300.0,
+            "Super hamburguesa (435g)": 550.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Queso gouda (50g)": 150.0,
+            "Jamon bravo (50g)": 120.0,
+            "Jamon serrano (50g)": 250.0,
+            "Aceitunas (50g)": 120.0,
+            "Vegetales encurtidos (50g)": 80.0,
+            "Papas fritas (50g)": 75.0,
+            "Papas fritas (100g)": 150.0
+        },
+        "Other": {},
+        "Drinks": {}
+    }
+}

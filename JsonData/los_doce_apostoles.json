@@ -1,0 +1,118 @@
+{
+    "Name": "Los Doce Apostoles",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana del Este",
+        "Address": "Complejo Morro Cabana,Via Monumental"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [
+            1200,
+            2400
+        ],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": false,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Entremes de jamon y queso": 400.0,
+            "Eperlan de pescado": 550.0,
+            "Anillas de calamar": 550.0,
+            "Alitas de pollo": 450.0,
+            "Nuggets de pollo": 250.0,
+            "Picadera especial": 600.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo grille": 700.0
+        },
+        "Pork": {
+            "Fajitas de cerdo": 800.0,
+            "Masas de cerdo": 900.0
+        },
+        "Beef": {
+            "Fajitas de res": 950.0,
+            "Steak de res": 950.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Gambas al grill": 1200.0
+        },
+        "Fishes": {
+            "Filete de pescado": 900.0,
+            "Pescado del Chef": 1100.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Cerveza dispensada": 190.0,
+            "Cerveza importada": 220.0,
+            "Cerveza nacional": 215.0,
+            "Maltas": 210.0,
+            "Maltina Perla Negra": 180.0,
+            "Jugo natural en caja": 300.0,
+            "Refrescos nacionales": 280.0,
+            "Vino tinto (copa)": 200.0,
+            "Ron Habana Club Anejo Blanco (shot)": 80.0,
+            "Ron Habana Club profundo (shot)": 160.0,
+            "Ron Habana Club Seleccion de Maestro (shot)": 350.0,
+            "Ron Cubay carta blanca (shot)": 100.0
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "Name": "Jorgito's Pizzas",
+    "Specialty": [
+        "Pizzeria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Pedroso entre Infanta y Cruz del Pader"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2300
+        ],
+        "Tuesday": [
+            1100,
+            2300
+        ],
+        "Wednesday": [
+            1100,
+            2300
+        ],
+        "Thursday": [
+            1100,
+            2300
+        ],
+        "Friday": [
+            1100,
+            2300
+        ],
+        "Saturday": [
+            1100,
+            2300
+        ],
+        "Sunday": [
+            1100,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "pizza de queso gouda": 750.0,
+            "pizza 2 quesos": 990.0,
+            "pizza hawaiana": 1110.0,
+            "pizza 3 quesos": 1320.0,
+            "pizza 4 quesos": 1500.0,
+            "pizza de vegetales": 1650.0
+        },
+        "Pasta": {
+            "spaghettis con queso gouda": 690.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

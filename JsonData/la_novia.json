@@ -1,0 +1,159 @@
+{
+    "Name": "La Novia",
+    "Specialty": [
+        [
+            "Caribbean"
+        ]
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "La Lisa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas de la Casa": 600,
+            "Frituras de Malanga": 400,
+            "Bolitas de yuca y queso": 350,
+            "Fajitas de cerdo": 1000,
+            "Fajitas de pollo": 1000,
+            "Picadera Mixta": 2200,
+            "Chips de Vianda": 200,
+            "Milanesa de Pollo": 1200,
+            "Sandwich de Jamon": 580,
+            "Sandwich de Jamon y Queso": 730,
+            "Sandwich Cubano con cerdo asado": 1300,
+            "Ensaladita de aceitunas, queso y peperoni": 1100
+        },
+        "Bread": {},
+        "Chicken": {
+            
+            
+            
+            
+            
+            
+            "Pollo frito": 1300,
+            "Pollo asado": 1300,
+            
+            
+            
+            
+            
+            "Bistec de Pechuga": 1600
+            
+           
+            
+            
+        },
+        "Pork": {
+            "Cerdo asado": 1500,
+            "Bistec de Cerdo": 1200,
+            "Chuleta de Cerdo": 1600,
+            "Brochetas de Cerdo": 1800,
+            "Masas fritas de cerdo": 1700
+        },
+        "Beef": {
+            "Ropa Vieja": 1900
+        },
+        "Pizza": {
+            "Pizza Napolitana": 280,
+            "Pizza de Peperoni": 400
+        },
+        "Pasta": {
+            "Espaguetis Napolitanos": 700
+        },
+        "Seafood": {
+            "Completa de enchilado de Cangrejo": 1500
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Copa de Helado": 550,
+            "Flan": 270
+        },
+        "Additions": {
+            "Vegetales": 180,
+            "Jamon": 250,
+            "Queso": 300,
+            "Cebolla": 120,
+            "Chorizo": 200,
+            "Pina glaseada": 150,
+            "Pimiento": 150,
+            "Huevos": 120,
+            "Peperoni": 300
+        },
+        "Sides": {
+            "Tostones criollos": 300,
+            "Tostones Rellenos": 850,
+            "Racion de Arroz Moro": 300,
+            "Racion de Ensalada": 300
+        },
+        "Other": {
+            "Tacos de cerdo": 1100,
+            "Tacos de pollo": 1100,
+            "Tacos de jamon y queso": 1100,
+            "Tacos marineros": 1100,
+            "Tacos de ropa vieja": 1300
+        },
+        "Drinks": {
+            "Jarra de Cerveza dispensada": 300,
+            "cerveza importada": 250,
+            "cerveza nacional": 290,
+            "Michelada mexicana": 250,
+            "Michelada": 230,
+            "Sangria": 550,
+            "Cuba Libre": 250,
+            "Caipiroska": 300,
+            "Caipirinha": 300,
+            "Pina Colada": 550,
+            "Agua": 150,
+            "Limonada Frappe": 340,
+            "Limonada Natural": 340,
+            "Jugos Naturales": 160,
+            "Batido de Frutas": 350,
+            "Batido de Helado": 700,
+            "Malta importada": 290,
+            "Refresco importado": 260,
+            "Energizante": 260,
+            "Cafe expresso": 100,
+            "Cafe frapuccino": 450
+        }
+    }
+}

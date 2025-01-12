@@ -1,0 +1,95 @@
+{
+    "Name": "El Sauce",
+    "Specialty": [
+        "pizza"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 403 % 180 & 184, Santiago de las Vegas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "bocadito de jamon": 200.0,
+            "bocadito de queso": 250.0,
+            "bocadito de jamon y queso": 300.0,
+            "hamburguesa simple": 400.0,
+            "hamburguesa con jamon": 500.0,
+            "hamburguesa con queso": 550.0,
+            "hamburguesa con bacon": 550.0,
+            "hamburguesa con jamon y queso": 600.0,
+            "hamburguesa sauce": 850.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "pizza napole": 500.0,
+            "pizza de jamon": 700.0,
+            "pizza de chorizo": 700.0,
+            "pizza de cebolla": 600.0,
+            "pizza de pimiento": 600.0,
+            "pizza hawaiana": 750.0,
+            "pizza de bacon": 750.0,
+            "pizza de atun": 800.0,
+            "pizza de aceitunas": 700.0,
+            "pizza sauce": 900.0
+        },
+        "Pasta": {
+            "lasagna de jamon": 900.0,
+            "canelon": 700.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "refresco": 220.0,
+            "malta": 250.0,
+            "suero de helado": 550.0,
+            "Cerveza": 280.0,
+            "cafe expreso": 100.0,
+            "cafe cortadito": 150.0
+        }
+    }
+}

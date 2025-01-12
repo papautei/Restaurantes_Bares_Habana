@@ -1,0 +1,240 @@
+{
+    "Name": "La_Barca",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana del Este",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            1200,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.1,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Cesta de Panes de la Casa": 300.0,
+            "Ensalada Fria de Pollo": 450.0,
+            "Ensaladilla de Atun": 500.0,
+            "Brosquettas": 800.0,
+            "Fritura de Malanga": 600.0,
+            "Croqueticas de la Casa": 750.0,
+            "Fajitas de Pechuga": 450.0,
+            "Surtido La Barca": 3500.0,
+            "Tostones Rellenos de Jamon y Queso": 450.0,
+            "Tostones Rellenos de Atun": 500.0,
+            "Tabla de Jamon Serrano": 2000.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo Asado": 1000.0
+        },
+        "Pork": {
+            "Brocheta de Solomillo y Bacon": 1500.0,
+            "Lonjas de Cerdo": 1800.0,
+            "Solomillo de Cerdo": 2500.0,
+            "Masas de Cerdo Cubanas": 2000.0
+        },
+        "Beef": {
+            "Entrecot de Res": 2000.0,
+            "Filete Minhon": 2500.0,
+            "Filete Chateaubriand": 3500.0,
+            "Timbal de Ropa Vieja": 1500.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "Espaguetis Bolognesa": 1000.0,
+            "Espaguetis Napoles": 600.0,
+            "Espaguetis Carbonara": 1200.0
+        },
+        "Seafood": {},
+        "Fishes": {
+            "Filete de Pescado Grille": 2000.0
+        },
+        "Desserts": {
+            "Copa de Helado": 500.0,
+            "Arroz con Leche de la Abuela": 600.0,
+            "Flan Caramelizado": 600.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Brocheta Campesina": 1500.0
+        },
+        "Drinks": {
+            "Cerveza Nacional": 200.0,
+            "Cerveza Importada": 250.0,
+            "Refresco Nacional": 90.0,
+            "Refresco Importado": 100.0,
+            "Malta Importada": 170.0,
+            "Jugo Importado": 100.0,
+            "Jugo Natural": 200.0,
+            "Agua Natural": 150.0,
+            "Copa de Vino de la Casa": 450.0,
+            "Te Frio/Caliente": 120.0,
+            "Brandy Gran Reserva Carlos": 600.0,
+            "Brandies Torres 5 Anhos": 350.0,
+            "Brandies Torres 10 Anhos": 400.0,
+            "Brandies Torres 15 Anhos": 600.0,
+            "Anis Marie Brizard": 150.0,
+            "Anis Chinchon Dulce": 150.0,
+            "Anis Seco Chinchon": 150.0,
+            "Crema Bailey's": 250.0,
+            "Crema Amarula 17%": 200.0,
+            "Crema Ruavieja": 350.0,
+            "Crema Barcelo Destileria Mg": 250.0,
+            "Crema Catalana Sentric": 20.0,
+            "Licor Jarabe Kiwi Trial": 250.0,
+            "Licor Anis Mono Dulce": 250.0,
+            "Licor Anis Mono Seco": 500.0,
+            "Licor de Menta Mints Marie Brizard": 180.0,
+            "Licor de Litchi Litchao Marie Brizard": 150.0,
+            "Licor Sheridans": 250.0,
+            "Licor Tia Maria Coffee": 250.0,
+            "Licor Campari": 250.0,
+            "Licor Luxardo Marraschino Originale": 250.0,
+            "Licor Disaronno Amaretto": 250.0,
+            "Licor Sambuca Molinari": 250.0,
+            "Licor Aperol": 250.0,
+            "Licor Frangelico": 250.0,
+            "Licor Fernet Branca": 200.0,
+            "Licor Limoncello Golmar": 250.0,
+            "Licor Limoncello": 150.0,
+            "Licor Zoco Pacharan": 150.0,
+            "Licor Triple Sec Sorel": 150.0,
+            "Licor de Cafe": 150.0,
+            "Licor de Manzana": 150.0,
+            "Ginebra Citadelle": 250.0,
+            "Ginebra Gordon": 150.0,
+            "Ginegra Tanqueray": 200.0,
+            "Ginebra Hendrick": 300.0,
+            "Ginebra Gin MG Master": 200.0,
+            "Ginebra Gin Mare": 350.0,
+            "Ginebra Tonic": 150.0,
+            "Vodka Belvedere": 300.0,
+            "Vodka Ciroc(Destileria MG)": 400.0,
+            "Vodka Wiborowa": 600.0,
+            "Vodka Ciroc Melocoton": 400.0,
+            "Vodka Ciroc Cereza": 400.0,
+            "Vodka Ciroc Manzana": 400.0,
+            "Vodka Youri Dolgorouki": 400.0,
+            "Vodka Sobieski": 150.0,
+            "Vodka Starotorunska": 250.0,
+            "Vodka Finlandia Classic": 250.0,
+            "Vodka Nord": 200.0,
+            "Vodka Ciroc": 400.0,
+            "Tequila Blanco Don Julio MG": 250.0,
+            "Tequila El Jimador Blanco MG": 200.0,
+            "Tequila Olmeca Blanco": 180.0,
+            "Tequila Olmeca Reposado": 200.0,
+            "Tequila Herradura Blanco": 130.0,
+            "Tequila Don Julio Reposado": 150.0,
+            "Tequila Don Julio 70 Aniversario": 150.0,
+            "Tequila el Jimador Reposado": 300.0,
+            "Vermouth Yzaguirre Rosado": 400.0,
+            "Vermouth Rosso Totino": 150.0,
+            "Vermouth Blanco Cinsano": 180.0,
+            "Vermouth Ross Cinsano": 180.0,
+            "Vermouth Dry Cinsano": 180.0,
+            "Vermouth de Jerez La Copa": 250.0,
+            "Vermouth Yzaguirre Blanco": 150.0,
+            "Vermouth Yzaguirre Tinto": 150.0,
+            "Ron Havana Club Anhejo Blanco": 190.0,
+            "Ron Havana Club Pacto Navio": 175.0,
+            "Ron Havana Cuban Spice": 235.0,
+            "Ron Havana Club Edicicion Prof A": 200.0,
+            "Ron Havana Club Edicicion Prof C": 135.0,
+            "Ron Havana Club Union": 3500.0,
+            "Ron Havana Club Smoki": 280.0,
+            "Ron Isla del Tesoro": 3000.0,
+            "Ron Havana Club Anhejo Reserva": 220.0,
+            "Ron Havana Club Profundo": 200.0,
+            "Ron Havana Club Ritual": 180.0,
+            "Ron Havana Club Anhejo 3 Anhos": 150.0,
+            "Ron Havana Club Anhejo 7 Anhos": 260.0,
+            "Ron Havana Club Anhejo Especial Oro": 150.0,
+            "Ron Havana Club Gran Reserva 15 Anhos": 900.0,
+            "Ron Havana Club Seleccion de Maestro": 395.0,
+            "Ron Havana Club Tributo": 2500.0,
+            "Ron Varadero 3 Anhos": 120.0,
+            "Ron Varadero 5 Anhos": 130.0,
+            "Ron Varadero 7 Anhos": 180.0,
+            "Ron Santero 15 Anhos": 500.0,
+            "Ron Vigia Tears Dorado": 180.0,
+            "Ron Vigia Black Tears Super Dry": 180.0,
+            "Ron Vigia Black Tears Aguardiente": 200.0,
+            "Legendario Anhejo Blanco": 250.0,
+            "Legendario Rouse": 220.0,
+            "Espresso": 95.0,
+            "Capuchino": 140.0,
+            "Cortadito": 100.0,
+            "Bombon": 120.0,
+            "Americano": 95.0,
+            "Canelado": 100.0,
+            "Rocio de Gallo": 130.0,
+            "Irlandes": 190.0,
+            "Mama Ines": 150.0,
+            "Al Licor": 100.0,
+            "Mazagran": 160.0,
+            "Carajillo": 150.0,
+            "Con Vodka": 200.0,
+            "Mexicano": 150.0,
+            "Cohiba Habanero": 125.0
+        }
+    }
+}

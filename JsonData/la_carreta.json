@@ -1,0 +1,242 @@
+{
+    "Name": "La Carreta",
+    "Specialty": [
+        "Caribean",
+        "Latin",
+        "International",
+        "Cuban"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 21 entre J y K, Vedado, Plaza"
+    },
+    "Contact": {
+        "Web": "https://carretacubana.com/",
+        "Facebook": "Restaurant La Carreta Cuba",
+        "Instagram": "lacarreta_cuba"
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2245
+        ],
+        "Tuesday": [
+            1100,
+            2245
+        ],
+        "Wednesday": [
+            1100,
+            2245
+        ],
+        "Thursday": [
+            1100,
+            2245
+        ],
+        "Friday": [
+            1100,
+            2245
+        ],
+        "Saturday": [
+            1100,
+            2245
+        ],
+        "Sunday": [
+            1100,
+            2245
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": true,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Cesta de panes de la casa": 600.0,
+            "Coctel colage de frutas tropicales": 600.0,
+            "Ensaladas de frutas tropicales": 600.0,
+            "Coctel de langosta": 2100.0,
+            "Tabla mediterranea": 3600.0,
+            "Ensalada de la huerta": 600.0,
+            "Vegetales salteados": 650.0,
+            "Vianda hervida": 500.0,
+            "Tamal en hojas": 500.0,
+            "Ajiaco criollo": 500.0,
+            "Fritura": 750.0,
+            "Croquetas de la casa": 750.0,
+            "Toston de punhetazo": 600.0,
+            "Tostones rellenos": 900.0,
+            "Vianda frita": 600.0,
+            "Picando con guahiro": 2400.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Paletilla de cordero al vino tinto y romero": 7500.0,
+            "Cantio de gallo": 4000.0,
+            "Pollo asado al estilo carreta": 2000.0,
+            "Pechuga grille": 2100.0,
+            "Pollo al curry": 2000.0,
+            "Pechuga de pollo con arroz, vianda frita y jugo natural": 1350.0
+        },
+        "Pork": {
+            "Lonjas de cerdo al estribo": 2000.0,
+            "Bistec del yunta": 2000.0,
+            "Masas fritas a lo campestre": 3000.0,
+            "Costillas tentadoras al gusto": 4000.0,
+            "Lomo ahumado al gusto": 2400.0
+        },
+        "Beef": {
+            "Vaca frita a la tradicion": 2400.0,
+            "Ropa vieja carretera": 2400.0,
+            "Tasajo": 5000.0,
+            "Picadillo a la habanera": 1300.0
+        },
+        "Pizza": {
+            "Pizza napolitana y jugo natural": 1350.0
+        },
+        "Pasta": {
+            "Spaguetis napolitano y jugo natural": 1350.0
+        },
+        "Seafood": {
+            "Camarones grille": 3500.0,
+            "Camarones al ajillo": 3550.0,
+            "Enchilado de camarones": 3550.0,
+            "Enchilado de langosta": 4000.0,
+            "Langosta grille": 4000.0,
+            "Grillada del mar": 9000.0
+        },
+        "Fishes": {
+            "Filete de pescado grille": 2700.0,
+            "Filete de pescado enchilado": 2900.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Arroz blanco": 250.0,
+            "Moros y cristianos": 300.0,
+            "Arroz primavera": 350.0,
+            "Frijoles negros": 300.0
+        },
+        "Other": {
+            "Grilladar del corral": 8000.0,
+            "Cordero chilindron a lo montuno": 4000.0,
+            "Cordero al curry": 4000.0,
+            "Grillada mar y tierra": 10000.0
+        },
+        "Drinks": {
+            "Agua nacional": 250.0,
+            "Agua gaseada": 250.0,
+            "Agua tonica nacional": 300.0,
+            "Agua importada": 500.0,
+            "Refrescos nacionales": 300.0,
+            "Refrescos importados": 450.0,
+            "Malta": 400.0,
+            "Malteada": 500.0,
+            "Cafe expresso": 250.0,
+            "Cafe cortado": 300.0,
+            "Cafe americano": 300.0,
+            "Capuchino": 400.0,
+            "Cafe con leche": 450.0,
+            "Cafe bombon": 500.0,
+            "Frapuchino": 500.0,
+            "Te": 150.0,
+            "Vino blanco": 600.0,
+            "Vino rosa": 600.0,
+            "Vino tinto": 600.0,
+            "Cervezas nacionales": 600.0,
+            "Cervezas importadas": 600.0,
+            "Cerveza en vaso": 210.0,
+            "Cerveza en jarra": 420.0,
+            "Jugos naturales": 300.0,
+            "San francisco": 300.0,
+            "Jugos en conserva": 400.0,
+            "Limonada frape": 450.0,
+            "Limonada frescura": 500.0,
+            "Naranjada": 400.0,
+            "Mojito tradicional": 600.0,
+            "Mojito tropical": 700.0,
+            "Daiquiri frappe": 550.0,
+            "Daiquiri natural": 550.0,
+            "Cubanito": 550.0,
+            "Cuba libre": 550.0,
+            "Canchanchara": 925.0,
+            "Caipirisima": 550.0,
+            "Caipirinha": 550.0,
+            "Caipiroska": 550.0,
+            "Screw driver": 750.0,
+            "Bloody mary": 950.0,
+            "Pinha colada": 950.0,
+            "Chelada": 600.0,
+            "Michelada": 600.0,
+            "Mega mojito": 1250.0,
+            "Gin tonic con imagin": 900.0,
+            "Gin tonic con beefeater": 1000.0,
+            "Gin tonic con tanqueray": 1100.0,
+            "Vodka tonic con belvedere": 1100.0,
+            "Vodka tonic con absolut": 1100.0,
+            "Sangria": 900.0,
+            "Tinto de verano": 850.0,
+            "Ron havana club 3 anhos": 300.0,
+            "Ron havana club especial": 330.0,
+            "Ron havana club reserva": 360.0,
+            "Ron havana club ritual": 390.0,
+            "Ron havana club 7 anhos": 500.0,
+            "Ron havana club seleccion de maestros": 1000.0,
+            "Ron havana club profundo": 350.0,
+            "Santiago anhejo": 500.0,
+            "Santiago anhejo 8a": 750.0,
+            "Santiago anhejo 11a": 1000.0,
+            "Santiago anhejo 12a": 1000.0,
+            "Santiago extra seco": 1100.0,
+            "Santiago extra 15a": 1200.0,
+            "Mulata 15a": 1200.0,
+            "Santero 11a": 1000.0,
+            "Cognac hennessy": 1000.0,
+            "Whiskie ballantine": 625.0,
+            "Whiskie chiva regal 12a": 1500.0,
+            "Whiskie clan campbell": 700.0,
+            "Whiskie jameson": 815.0,
+            "Whiskie buchanans": 2200.0,
+            "Whiskie jw red label": 900.0,
+            "Whiskie jw black label": 2000.0,
+            "Vermouth rosso": 525.0,
+            "Vermouth bianco": 525.0,
+            "Vermouth extra dry": 525.0,
+            "Brandies torres 5": 500.0,
+            "Brandie napoleon": 500.0,
+            "Ginebra beefeater": 525.0,
+            "Ginebra imagin": 450.0,
+            "Ginebra reythor": 475.0,
+            "Vodka absolut": 950.0,
+            "Vodka belvedere": 1050.0,
+            "Tequila olmeca blanco": 500.0,
+            "Tequila olmeca reposado": 550.0,
+            "Licor sambuca": 450.0,
+            "Licor anis seco": 450.0,
+            "Licor campari": 450.0,
+            "Licor limoncello": 550.0,
+            "Licor aperol": 700.0,
+            "Licor grappa": 500.0,
+            "Aguardiente de la casa": 300.0
+        }
+    }
+}

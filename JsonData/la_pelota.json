@@ -1,0 +1,105 @@
+{
+    "Name": "La Pelota",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Esquina 23 y 12"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            945,
+            2145
+        ],
+        "Tuesday": [
+            945,
+            2145
+        ],
+        "Wednesday": [
+            945,
+            2145
+        ],
+        "Thursday": [
+            945,
+            2145
+        ],
+        "Friday": [
+            945,
+            2145
+        ],
+        "Saturday": [
+            945,
+            2145
+        ],
+        "Sunday": [
+            945,
+            2145
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Chicharron 58g": 120.0,
+            "Croqueta 36g": 150.0,
+            "Entrante de jamon": 300.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo grille": 550.0,
+            "Pollo asado": 550.0
+        },
+        "Pork": {
+            "Bistec de cerdo": 600.0,
+            "Masa de cerdo frita": 600.0,
+            "Costilla de credo frito": 600.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Arroz moro": 100.0,
+            "Vianda hervida": 40.0
+        },
+        "Other": {
+            "Picadillo": 250.0
+        },
+        "Drinks": {
+            "Energizante": 200.0,
+            "Refresco de cola": 190.0,
+            "Jugo de frutas": 180.0,
+            "Cerveza importada": 200.0
+        }
+    }
+}

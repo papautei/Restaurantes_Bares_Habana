@@ -1,0 +1,149 @@
+{
+    "Name": "La Catedral",
+    "Specialty": [
+        "Spanish",
+        "Cuban"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolucion, La Habana 10400 Cuba"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": "https://www.facebook.com/mirestaurantencuba",
+        "Instagram": "https://www.instagram.com/lacatedralcuba"
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2300
+        ],
+        "Tuesday": [
+            800,
+            2300
+        ],
+        "Wednesday": [
+            800,
+            2300
+        ],
+        "Thursday": [
+            800,
+            2300
+        ],
+        "Friday": [
+            800,
+            2300
+        ],
+        "Saturday": [
+            800,
+            2300
+        ],
+        "Sunday": [
+            800,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": true,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Bombones de queso y pescado": 499.0,
+            "Mariquitas de yuca": 350.0,
+            "Brusquetas": 350.0,
+            "Garbanzos fritos": 700.0,
+            "Entremeses surtido": 799.0,
+            "Picadera obispo": 1350.0,
+            "Fuente de eperlan": 1400.0,
+            "Tabla de embutidos": 1500.0,
+            "Tacos de cerdo y pollo": 1500.0,
+            "Fajitas de pollo frito": 1500.0,
+            "Tabla de jamon serrano, chorizo y queso": 1900.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo deshuesado a la plancha": 1400.0,
+            "Fajitas de pollo salteadas": 1400.0,
+            "Milanesa de pollo con espaguettis": 1400.0,
+            "Arroz con pollo a la chorrera": 1500.0
+        },
+        "Pork": {
+            "Bistec de cerdo al mojo criollo": 1500.0,
+            "Fajita de cerdo al grill": 1500.0,
+            "Lonjas de pierna ahumado salsa agridulce": 1700.0,
+            "Lonjas de pierna ahumado con queso y pinha": 1800.0,
+            "Milanesa de cerdo con espaguettis": 1500.0
+        },
+        "Beef": {
+            "Lasanha de res": 1600.0,
+            "Ropa vieja": 1800.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Arroz frito especial con camarones": 1700.0
+        },
+        "Fishes": {
+            "Filete de pescado maitre de hotel": 1700.0,
+            "Filete de pescado frito": 1800.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Arroz frito": 1500.0
+        },
+        "Drinks": {
+            "Refrescos": 199.0,
+            "Limonada de fresas": 250.0,
+            "Jugos de frutas": 199.0,
+            "Agua natural": 199.0,
+            "Malta perla negra": 350.0,
+            "Cristal (barril) 500ml": 350.0,
+            "Cristal (botella)": 350.0,
+            "Bucanero (barril) 500ml": 350.0,
+            "Bucanero (botella)": 350.0,
+            "Cubetazo 4+1": 1500.0,
+            "Michelada clasica": 425.0,
+            "Michelada al mojito": 425.0,
+            "Michelada vampira": 425.0,
+            "Michelada salsanera": 425.0,
+            "Mojito": 340.0,
+            "Daiquiri": 340.0,
+            "Daiquiri de fresas": 499.0,
+            "Cubalibre": 340.0,
+            "Cubanito": 399.0,
+            "Blody mary": 499.0,
+            "Sangria": 499.0,
+            "Screw driver": 599.0,
+            "Caipirinha": 599.0,
+            "Pinha colada": 599.0,
+            "Martini": 599.0,
+            "Old fashioned": 599.0,
+            "Whiskey sour": 599.0,
+            "Manhatan": 599.0,
+            "Negroni": 599.0
+        }
+    }
+}

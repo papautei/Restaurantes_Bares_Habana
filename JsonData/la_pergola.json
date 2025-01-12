@@ -1,0 +1,116 @@
+{
+    "Name": "La pergola",
+    "Specialty": [
+        "variada"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Obispo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1000
+        ],
+        "Tuesday": [
+            1200,
+            1000
+        ],
+        "Wednesday": [
+            1200,
+            1000
+        ],
+        "Thursday": [
+            1200,
+            1000
+        ],
+        "Friday": [
+            1200,
+            1000
+        ],
+        "Saturday": [
+            1200,
+            1000
+        ],
+        "Sunday": [
+            1200,
+            1000
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Bistec de cerdo": 850.0,
+            "Cerdo estofado": 875.0,
+            "Fajita de cerdo": 990.0,
+            "Brochetas de cerdo": 900.0
+        },
+        "Beef": {
+            "Res estofada": 875.0,
+            "Lonjas de res": 975.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "Espaguettis a la salsa": 125.0,
+            "Espaguettis margarita": 350.0
+        },
+        "Seafood": {
+            "Camaron enchilado": 1740.0,
+            "Camaron grille": 1900.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Arroz moro": 135.0,
+            "Ensalada de vegetales": 200.0,
+            "Vianda hervida": 175.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Malta importada": 135.0,
+            "Vasos de jugos importados": 80.0,
+            "Taoro": 90.0,
+            "Parranda": 180.0,
+            "Cerveza importada": 175.0,
+            "Dispensada cristal": 190.0,
+            "Cocteles cubanos": 300.0,
+            "Cafe expresso": 125.0,
+            "Cafe americano": 150.0,
+            "Cafe bombom": 175.0,
+            "Rotmans red": 150.0,
+            "Rotmans original": 220.0,
+            "Rotmans ice": 240.0
+        }
+    }
+}

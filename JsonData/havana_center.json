@@ -1,0 +1,225 @@
+{
+    "Name": "Havana Center",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Lagunas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [
+            800,
+            2200
+        ],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {
+            "Huevo revuelto natural": 500.0,
+            "Huevo revuelto con vegetales.": 550.0,
+            "Huevo revuelto con queso": 600.0,
+            "Huevo revuelto con jamon": 600.0,
+            "Huevo revuelto con jamon y queso": 650.0,
+            "Tortilla natural": 425.0,
+            "Tortilla con vegetales": 475.0,
+            "Tortilla con queso": 475.0,
+            "Tortilla con jamon": 475.0,
+            "Tortilla con jamon y queso": 540.0
+        },
+        "Appetizers": {
+            "Croquetas de la casa": 750.0,
+            "Bolitas de queso": 750.0,
+            "Fajitas de pollo": 1300.0,
+            "Fajitas de cerdo": 1500.0,
+            "Quesadilla de pollo": 1100.0,
+            "Quesadilla de cerdo": 1300.0,
+            "Tostones chatinos": 400.0,
+            "Tostones rellenas con jamon y queso": 750.0,
+            "Tostones rellenos con at\u00fan": 1200.0,
+            "Dedos de queso": 750.0
+        },
+        "Bread": {
+            "Hamburguesas sencillas": 380.0,
+            "Hamburguesas con vegetales": 400.0,
+            "Hamburguesas con queso": 450.0,
+            "Hamburguesas con jamon": 460.0,
+            "Hamburguesas con jamon y queso": 500.0,
+            "Hamburguesas s\u00faper": 750.0,
+            "Hamburguesas s\u00faper al burro": 850.0,
+            "Sandwich de jamon": 300.0,
+            "Sandwich de jamon y queso": 350.0,
+            "Pan con lechon": 600.0
+        },
+        "Chicken": {
+            "Bistec de pollo grille": 1250.0,
+            "Bistec de pollo encebollado": 1300.0,
+            "Bistec gordon blue": 1700.0,
+            "Fajitas de pollo a la pinha": 1300.0,
+            "Fajitas de pollo a la campesina": 1350.0,
+            "Fajitas de pollo empanadas": 1400.0,
+            "Fajitas de pollo encebollado": 1350.0,
+            "Pollo asado": 1500.0,
+            "Pollo frito": 1500.0
+        },
+        "Pork": {
+            "Lomo ahumado": 1400.0,
+            "Bistec de cerdo": 1500.0,
+            "Bistec de cerdo encebollado": 1550.0,
+            "Bistec de cerdo milanesa": 1650.0,
+            "Fajitas de cerdo encebollado": 1600.0,
+            "Fajitas de cerdo a la campesina": 1600.0,
+            "Fajitas de cerdo empanadas": 1600.0,
+            "Ropa vieja de cerdo": 1600.0,
+            "Lonjas de cerdo asado": 1600.0,
+            "Masa de cerdo frita": 1850.0,
+            "Bistec de cerdo uruguayo": 1800.0,
+            "Fricase de cerdo": 1850.0,
+            "Chuleta de cerdo": 1600.0,
+            "Solomillo al jugo": 1850.0,
+            "Fricase de costilla de cerdo": 1800.0,
+            "Chuleton de cerdo asado": 2300.0,
+            "Chuleton de cerdo asado con cebolla": 2500.0,
+            "Chuleton de cerdo gratinado con queso": 2800.0
+        },
+        "Beef": {
+            "Fricase de res": 2300.0,
+            "Bistec uruguayo": 2300.0
+        },
+        "Pizza": {
+            "Pizza napolitana": 750.0,
+            "Pizza jamon": 900.0,
+            "Pizza cebolla": 900.0,
+            "Pizza vegetales": 1000.0,
+            "Pizza hawaiana": 1200.0
+        },
+        "Pasta": {
+            "Espaguetis napolitano": 800.0,
+            "Espaguetis con jamon": 850.0,
+            "Espaguetis de la casa": 1000.0
+        },
+        "Seafood": {
+            "Pescado frito entero": 2000.0,
+            "Filete de pescado grille": 1200.0,
+            "Filete de pescado encebollado": 1250.0,
+            "Filete de pescado canciller": 1400.0,
+            "Ceviche": 1350.0,
+            "Langosta enchilada": 2500.0,
+            "Langosta a la diabla": 2800.0,
+            "Tabla del mar": 2500.0,
+            "Eperlan": 1400.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Arroz moro": 350.0,
+            "Arroz": 300.0,
+            "Vianda frita": 350.0,
+            "Vegetales salteados": 350.0,
+            "Arroz amarillo": 350.0,
+            "Papas fritas": 600.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Agua natural ciego montero / natural 500ml": 150.0,
+            "Agua natural ciego montero / natural 1500ml": 300.0,
+            "Jugos naturales": 250.0,
+            "Batidos frutas naturales": 400.0,
+            "Jugos de cajitas": 260.0,
+            "Refrescos": 300.0,
+            "Refrescos nacionales": 260.0,
+            "Maltas nacionales ": 300.0,
+            "Maltas importadas": 320.0,
+            "Malteada/ malta con leche": 500.0,
+            "Energizantes": 300.0,
+            "Cerveza nacional": 300.0,
+            "Cerveza importada": 250.0,
+            "Licor triple": 150.0,
+            "Licor de menta": 150.0,
+            "Licor de granadina": 250.0,
+            "Licor de cacao": 150.0,
+            "Licor de curasao": 250.0,
+            "Cremas": 350.0,
+            "Beefeather": 350.0,
+            "Aguardiente": 250.0,
+            "Chivas regal 12 anhos": 300.0,
+            "Black & white": 350.0,
+            "Ballentine's": 350.0,
+            "Ballentine's 12 anhos": 400.0,
+            "Jameson": 350.0,
+            "Clan campbell": 400.0,
+            "Old partner": 180.0,
+            "Blend seven": 200.0,
+            "Samarskaya": 250.0,
+            "Iganoff": 200.0,
+            "Kriloff red": 200.0,
+            "Kriloff black": 200.0,
+            "Absolut": 450.0,
+            "Tequila especial": 600.0,
+            "Olmeca reposado": 600.0,
+            "Tequila silver": 450.0,
+            "Limonada": 250.0,
+            "Cherry temple": 250.0,
+            "San francisco": 350.0,
+            "Pinha colada": 450.0,
+            "Cuba libre": 450.0,
+            "Sangria": 450.0,
+            "Mojito": 450.0,
+            "Cubata": 450.0,
+            "Gin tonic ": 500.0,
+            "Vodka tonic": 500.0,
+            "Screw driver": 450.0,
+            "Caipirinha": 450.0,
+            "Caipiroska": 450.0,
+            "Daiquiri": 500.0
+        }
+    }
+}

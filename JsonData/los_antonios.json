@@ -1,0 +1,190 @@
+{
+    "Name": "Los antonios",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Paseo entre calle 3 y calle 5"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            0,
+            0
+        ],
+        "Tuesday": [
+            0,
+            0
+        ],
+        "Wednesday": [
+            0,
+            0
+        ],
+        "Thursday": [
+            0,
+            0
+        ],
+        "Friday": [
+            0,
+            0
+        ],
+        "Saturday": [
+            0,
+            0
+        ],
+        "Sunday": [
+            0,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tostones": 600.0,
+            "Pure de viandas": 700.0,
+            "Croquetas": 600.0,
+            "Papas fritas": 750.0,
+            "Sopa": 1350.0,
+            "Tacos mexicanos": 1100.0,
+            "Tacos marineros": 1750.0,
+            "Ensalada de vegetales": 1300.0
+        },
+        "Bread": {
+            "Hamburguesa": 590.0,
+            "Super hamburguesa": 950.0,
+            "Sandwich de vegetal": 550.0,
+            "Sandwich tradicional": 850.0,
+            "Sandwich de ropa vieja": 1000.0,
+            "Super sandwich": 1400.0,
+            "Rebanadas de pan": 180.0,
+            "Tostadas de pan": 200.0,
+            "Pan con tortilla": 600.0,
+            "Pan con huevo frito": 600.0,
+            "Pan con huevo revuelto": 600.0
+        },
+        "Chicken": {
+            "Pechuga grille": 1590.0,
+            "Fricase de pollo": 1790.0,
+            "Fajita de pollo": 1800.0,
+            "Pollo frito": 1590.0,
+            "Gordon blue": 1950.0
+        },
+        "Pork": {
+            "Bistec de cerdo": 1590.0,
+            "Masas fritas": 1690.0,
+            "Fricase de cerdo": 1750.0,
+            "Lomo ahumado": 1800.0,
+            "Bistec uruguayo": 1950.0
+        },
+        "Beef": {
+            "Ropa vieja": 1850.0,
+            "Bistec de res": 1950.0
+        },
+        "Pizza": {
+            "Bambina": 400.0,
+            "Pizza grande": 890.0,
+            "Pizza especial": 2200.0
+        },
+        "Pasta": {
+            "Lasagna": 1500.0,
+            "Crema de quesop": 750.0,
+            "Crema aurora": 700.0,
+            "Crema virginia": 700.0,
+            "Canelones": 1100.0,
+            "Espaguettis": 890.0
+        },
+        "Seafood": {
+            "Filete de pescado": 2100.0,
+            "Filete canciller": 2950.0,
+            "Camarones": 2850.0,
+            "Langosta": 3500.0,
+            "Paella aire y tierra": 3600.0,
+            "Paella aire, mar y tierra": 4600.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Dulces finos": 600.0,
+            "Bola de helado": 200.0,
+            "Cake a la moda": 850.0,
+            "Postre del dia": 500.0
+        },
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Cafe con leche": 600.0,
+            "Leche fria": 500.0,
+            "Leche caliente": 500.0,
+            "Jugos naturales": 350.0,
+            "Limonada frappe": 600.0,
+            "Leche con chocolate": 650.0,
+            "Batido de helado": 600.0,
+            "Cervezas nacionales": 290.0,
+            "Cervezas importadas": 260.0,
+            "Agua": 150.0,
+            "Agua gaseada": 300.0,
+            "Energizante": 350.0,
+            "Red bull": 550.0,
+            "Refresco": 250.0,
+            "Refrescos importados": 300.0,
+            "Maltas": 300.0,
+            "Malta bucanero": 350.0,
+            "Jugos naturales de caja": 250.0,
+            "Jugos naturales con agua": 350.0,
+            "Jugos naturales sin agua": 1200.0,
+            "Te": 200.0,
+            "Linea ron corriente": 100.0,
+            "Havana club 3 anhos": 300.0,
+            "Anhejo especial": 300.0,
+            "Havana club 7 anhos": 800.0,
+            "Havana club gama alta": 900.0,
+            "Whisky corriente": 150.0,
+            "Whisky gama media": 350.0,
+            "Whisky gama alta": 800.0,
+            "Agua ardiente": 150.0,
+            "Tequila": 500.0,
+            "Copa vino corriente": 400.0,
+            "Copa vino gama alta": 900.0,
+            "Vodka": 200.0,
+            "Michelada": 600.0,
+            "Cuba libre": 600.0,
+            "Cubata": 600.0,
+            "Sangria": 600.0,
+            "Caipirinha": 600.0,
+            "Caipiroska": 600.0,
+            "Caipirissima": 600.0,
+            "Mojito": 800.0,
+            "Pinha colada": 800.0,
+            "Daiquiri": 800.0,
+            "Licores": 400.0,
+            "Cremas": 800.0
+        }
+    }
+}

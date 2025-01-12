@@ -1,0 +1,176 @@
+{
+    "Name": "Kimera",
+    "Specialty": [
+        "Cocina mixta"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Diez de Octubre",
+        "Address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            100
+        ],
+        "Tuesday": [
+            1200,
+            100
+        ],
+        "Wednesday": [
+            1200,
+            100
+        ],
+        "Thursday": [
+            1200,
+            100
+        ],
+        "Friday": [
+            1200,
+            100
+        ],
+        "Saturday": [
+            1200,
+            100
+        ],
+        "Sunday": [
+            1200,
+            100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ensalada de vegetales": 450.0,
+            "Croquetas": 500.0,
+            "Frituras": 500.0,
+            "Ceviche": 800.0,
+            "Ensalada fria": 900.0,
+            "Eperlan": 1000.0,
+            "Baston de pollo": 1000.0,
+            "Picadera de pollo o cerdo": 1200.0,
+            "Combo Kimera": 4000.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Fajitas de pollo": 1500.0,
+            "Fajitas de pescado": 1500.0,
+            "Rueda de pescado": 1600.0,
+            "Pollo grille": 1600.0,
+            "Pollo frito": 1700.0,
+            "Pollo Princesa": 1700.0,
+            "Gordon Blue": 2000.0
+        },
+        "Pork": {
+            "Lonjas de cerdo": 1800.0,
+            "Estofado de cerdo": 1800.0,
+            "Uruguayo de cerdo": 2300.0
+        },
+        "Beef": {
+            "Ropa vieja": 2000.0
+        },
+        "Pizza": {
+            "Pizza napolitana": 900.0,
+            "Pizza de aji o cebolla": 1200.0,
+            "Pizza de jamon": 1400.0,
+            "Pizza Hawaiana": 1500.0,
+            "Pizza de aceitunas": 1500.0,
+            "Pizza de pollo": 1500.0,
+            "Pizza Doble Queso": 1700.0,
+            "Pizza de atun": 1800.0,
+            "Pizza de cerdo": 1900.0,
+            "Pizza de Ropa Vieja": 2000.0,
+            "Pizza del mar Kimera": 2500.0
+        },
+        "Pasta": {
+            "Lasagna": 1400.0,
+            "Espaghettis napolitano": 800.0,
+            "Espaghettis de jamon": 1300.0,
+            "Espaghettis Doble Queso": 1400.0,
+            "Espaghettis Carbonara": 1600.0,
+            "Espaghettis del mar Kimera": 2500.0
+        },
+        "Seafood": {},
+        "Fishes": {
+            "Filete de pescado": 1800.0,
+            "Pescado Kimera": 2000.0,
+            "Canciller": 2100.0,
+            "Pescado entero frito": 1600.0
+        },
+        "Desserts": {
+            "Helado": 320.0,
+            "Flan": 350.0,
+            "Tartaleta": 250.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Crema Aurora": 500.0,
+            "Crema de queso": 600.0,
+            "Crema Virginia": 600.0,
+            "Crema Reina": 650.0,
+            "Plato Kimera": 4500.0
+        },
+        "Pizzas": {},
+        "Drinks": {
+            "Michelada": 300.0,
+            "Cuba Libre": 500.0,
+            "Mojito": 550.0,
+            "Cubanito": 500.0,
+            "Cubata": 550.0,
+            "Destornillador": 550.0,
+            "Daiquiri": 600.0,
+            "Caipiroska": 600.0,
+            "Caipirinha": 600.0,
+            "Caipirissima": 600.0,
+            "Canchanchara": 600.0,
+            "Vodka Tonic": 600.0,
+            "Whisky Tonic": 600.0,
+            "Gin Tonic": 700.0,
+            "Pina Colada": 700.0,
+            "Sangria": 800.0,
+            "Margarita": 900.0,
+            "Agua": 250.0,
+            "Refresco": 300.0,
+            "Cerveza": 320.0,
+            "Energizante": 400.0,
+            "Malta": 400.0,
+            "Malteada": 600.0,
+            "Batido de frutas": 400.0,
+            "Batido de helado": 500.0,
+            "Jugos": 250.0,
+            "Cafe Expresso": 150.0,
+            "Cafe Cortadito": 200.0,
+            "Cafe Cappuccino": 220.0,
+            "Cafe Bombon": 300.0,
+            "Cafe Frappuccino": 350.0
+        }
+    }
+}

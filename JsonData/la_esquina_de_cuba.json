@@ -1,0 +1,123 @@
+{
+    "Name": "La Esquina de Cuba",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Esquina de Calle Cuba y Empedrado"
+    },
+    "Contact": {
+        "Web": "La Esquina de Cuba",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2200
+        ],
+        "Tuesday": [
+            1100,
+            2200
+        ],
+        "Wednesday": [
+            1100,
+            2200
+        ],
+        "Thursday": [
+            1100,
+            2200
+        ],
+        "Friday": [
+            1100,
+            2200
+        ],
+        "Saturday": [
+            1100,
+            2200
+        ],
+        "Sunday": [
+            1100,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Fritura de malanga": 750.0,
+            "Patacon de la esquina": 1050.0,
+            "Montadito de tamal": 1080.0,
+            "Ceviche de pescado": 1450.0,
+            "Taquitos de la casa": 1580.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo al vino tinto": 2050.0
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Pescado grille con crema de malanga": 2950.0,
+            "Camarones enchilados": 3050.0,
+            "Frutos del mar": 3150.0,
+            "Ensalada del mar": 3450.0,
+            "Cazuela del mar": 3550.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Postre del dia": 595.0
+        },
+        "Sides": {},
+        "Other": {
+            "Almuerzo campesino (cerdo asado, arroz, frijoles, tostones)": 2350.0,
+            "Habanero con sabor (ropa vieja, arroz, frijoles, platano macho)": 2380.0,
+            "Guajiro con tumbao (masas de cerdo fritas, arroz, frijoles, matajibaro)": 2580.0,
+            "Arroz con pollo": 2250.0,
+            "Ribeye a la esquinita": 8450.0
+        },
+        "Drinks": {
+            "Aguas": 250.0,
+            "Refrescos": 375.0,
+            "Cerveza nacional": 450.0,
+            "Copa de vino": 650.0,
+            "Pina colada": 950.0,
+            "Margarita": 950.0,
+            "Sangria": 950.0,
+            "Mojito": 750.0,
+            "Cuba libre": 750.0,
+            "Daiquiri": 750.0,
+            "Caipirinha": 750.0,
+            "Daiquiri de frutas": 850.0,
+            "Cubata": 850.0,
+            "Mojito de frutas": 850.0,
+            "Gin tonic": 850.0,
+            "Caipiroska": 850.0
+        }
+    }
+}

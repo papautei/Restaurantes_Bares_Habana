@@ -1,0 +1,158 @@
+{
+    "Name": "La_Pinha_de_Plata",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Coctel de Camarones": 600.0,
+            "Croquetas del Chef": 450.0,
+            "Brochetas del Mar": 500.0,
+            "Tapitas al estilo Pinha de Plata": 450.0,
+            "Ensalada de Vegetales": 360.0,
+            "Sopa de Vegetales": 300.0,
+            "Crema de Queso": 350.0,
+            "Crema Aurora": 350.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Lonjas de Pollo Salteadas": 750.0,
+            "Pollo en Salsa de Pinha de Plata": 800.0
+        },
+        "Pork": {
+            "Masas de Cerdo Fritas": 1300.0,
+            "Bistec de Cerdo en Mojo Criollo": 850.0
+        },
+        "Beef": {
+            "Ropa Vieja de Res": 850.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Camarones Pinha de Plata": 950.0,
+            "Langosta Grille": 1450.0,
+            "Langosta a la Cubana": 1450.0
+        },
+        "Fishes": {
+            "Filete de Pescado y Camarones": 1300.0,
+            "Filete de Pescado a la Plancha": 1200.0
+        },
+        "Desserts": {
+            "Flan al Caramelo": 300.0,
+            "Postres Cubanos": 300.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Agua Natural Nacional 500ml": 50.0,
+            "Jugos Naturales 200ml": 60.0,
+            "Cervezas Nacionales": 200.0,
+            "Cervezas Importadas": 220.0,
+            "Cerveza Presidente Lata 237ml": 120.0,
+            "Licores Nacionales": 100.0,
+            "Licores Importados": 350.0,
+            "Vino Espumoso Canal Nubiola": 1950.0,
+            "Vino Blanco Botella Frontera": 2200.0,
+            "Vinos por Copas(Tinto y Blanco)": 350.0,
+            "Brandy Torres 15": 750.0,
+            "Brandy Torres 10": 600.0,
+            "Brandy Torres 5": 450.0,
+            "Whisky Ballentines": 350.0,
+            "Whisky Jamenson": 300.0,
+            "Whisky Chivas Regal 12 Anhos": 525.0,
+            "Whisky J. Walker Etiqueta Roja": 450.0,
+            "Ginebra Mon Lovers": 425.0,
+            "Ginebra Beefeater": 300.0,
+            "Tequila Olmeca Blanco": 250.0,
+            "Tequila Olmeca Dorado": 300.0,
+            "Vodka Peach Ciroc": 350.0,
+            "Vodka Navegante": 250.0,
+            "Vodka Absolut": 350.0,
+            "Seleccion de Maestros": 500.0,
+            "Havana Club 7 Anhos": 350.0,
+            "Havana Club Anhejo Especial": 200.0,
+            "Havana Club 3 Anhos": 150.0,
+            "Pacto de Navio": 600.0,
+            "Havana Club Spiced": 425.0,
+            "Havana Club Reserva": 275.0,
+            "Santiago 8 Anhos": 450.0,
+            "Black Tears Aguardiente": 100.0,
+            "Daiquiri Floridita": 450.0,
+            "Pinha Colada": 600.0,
+            "Pinha Colada Saborizada": 600.0,
+            "Caipirinha": 500.0,
+            "Margarita": 500.0,
+            "Whisky Sour": 500.0,
+            "Gin Tonic": 500.0,
+            "Vodka Tonic": 500.0,
+            "Sangria": 500.0,
+            "Limonada": 250.0,
+            "Limonada Saborizada": 250.0,
+            "Virgen Colada": 400.0
+        }
+    }
+}

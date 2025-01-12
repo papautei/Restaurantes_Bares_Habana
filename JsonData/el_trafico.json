@@ -1,0 +1,120 @@
+{
+    "Name": "El Trafico",
+    "Specialty": [
+        "italiana",
+        "criolla"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "San Miguel del Padron",
+        "Address": "Calzada de Guines entre 90 y 94"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            2200
+        ],
+        "Tuesday": [
+            1000,
+            2200
+        ],
+        "Wednesday": [
+            1000,
+            2200
+        ],
+        "Thursday": [
+            1000,
+            2200
+        ],
+        "Friday": [
+            1000,
+            2200
+        ],
+        "Saturday": [
+            1000,
+            2200
+        ],
+        "Sunday": [
+            1000,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": true,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {
+            "bistec de pollo": 1500.0,
+            "pechuga de pollo": 1950.0
+        },
+        "Pork": {
+            "bistec de cerdo": 1950.0,
+            "cerdo guisado": 2000.0,
+            "lomo ahumado": 2000.0,
+            "costilla de cerdo": 2000.0,
+            "chuleta de cerdo": 1950.0,
+            "masa de cerdo frita": 2000.0
+        },
+        "Beef": {
+            "bistec de res": 1950.0,
+            "ropa vieja": 2000.0
+        },
+        "Pizza": {
+            "pizza de queso blanco": 280.0,
+            "pizza de queso blanco XL": 770.0,
+            "pizza de queso gouda": 320.0,
+            "pizza de queso gouda XL": 830.0,
+            "pizza de queso parmesano": 350.0,
+            "pizza de queso parmesano XL": 850.0
+        },
+        "Pasta": {
+            "espaguetti con queso blanco": 400.0,
+            "espaguetti con queso gouda": 420.0,
+            "espaguetti con queso parmesano": 450.0
+        },
+        "Seafood": {
+            "filete de merluza": 2000.0
+        },
+        "Fishes": {
+            "filete de merluza": 2000.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "arroz moro": 300.0,
+            "vianda": 150.0,
+            "ensalada": 200.0,
+            "tamal": 200.0,
+            "papas fritas": 600.0
+        },
+        "Other": {},
+        "Drinks": {}
+    }
+}

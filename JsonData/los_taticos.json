@@ -1,0 +1,122 @@
+{
+    "Name": "Los taticos",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Marianao",
+        "Address": "27 y 27A"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            0
+        ],
+        "Tuesday": [
+            800,
+            0
+        ],
+        "Wednesday": [
+            800,
+            0
+        ],
+        "Thursday": [
+            800,
+            0
+        ],
+        "Friday": [
+            800,
+            0
+        ],
+        "Saturday": [
+            800,
+            0
+        ],
+        "Sunday": [
+            800,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Picadera tatico": 2800.0,
+            "Entremes surtido": 800.0,
+            "Tostones rellenos": 800.0,
+            "Bolitas de queso": 800.0,
+            "Bolitas de carne": 800.0,
+            "Croquetas caseras": 800.0
+        },
+        "Bread": {
+            "Super hamburguesa tatico": 900.0,
+            "Hamburguesa tatico": 750.0,
+            "Super hamburguesa queso": 800.0,
+            "Hamburguesa queso": 650.0,
+            "Super hamburguesa sencilla": 700.0,
+            "Hamburguesa sencilla": 600.0,
+            "Sandwich tatico": 650.0,
+            "Bocadito de atun": 600.0,
+            "Pan con lechon": 650.0,
+            "Pan con croqueta": 240.0
+        },
+        "Chicken": {
+            "Pollo al carbon": 1200.0
+        },
+        "Pork": {
+            "Taco de cerdo": 650.0
+        },
+        "Beef": {
+            "Taco de carne": 800.0
+        },
+        "Pizza": {
+            "Pizza tatico": 1200.0,
+            "Pizza mixta": 680.0,
+            "Pizza hawaiana": 680.0,
+            "Pizza jamon": 680.0,
+            "Pizza de queso": 680.0
+        },
+        "Pasta": {
+            "Lasagnha": 1250.0
+        },
+        "Seafood": {
+            "Taco de atun": 800.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Arroz blanco": 0.0,
+            "Frijoles": 0.0,
+            "Arroz moro": 0.0
+        },
+        "Other": {},
+        "Drinks": {}
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "Name": "Ivonne cafe",
+    "Specialty": [],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "San Lazaro entre Espada y Hospital"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2200
+        ],
+        "Tuesday": [
+            900,
+            2200
+        ],
+        "Wednesday": [
+            900,
+            2200
+        ],
+        "Thursday": [
+            900,
+            2200
+        ],
+        "Friday": [
+            900,
+            2200
+        ],
+        "Saturday": [
+            900,
+            2200
+        ],
+        "Sunday": [
+            900,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza  queso blanco": 350.0,
+            "Pizza Grande queso blanco": 500.0,
+            "Pizza Pequenha Gouda": 600.0,
+            "Pizza Grande Gouda": 850.0
+        },
+        "Pasta": {
+            "Espagueti Blanco": 700.0,
+            "Espagueti Gouda": 850.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Tartaleta": 350.0,
+            "Donut": 170.0,
+            "Coffee cake": 160.0,
+            "Empanada": 250.0,
+            "Cangrejitos": 250.0,
+            "Rollitos": 200.0,
+            "Pasteles": 100.0,
+            "Cakes": 4500.0
+        },
+        "Additions": {
+            "Cebolla": 200.0,
+            "Jamon": 200.0,
+            "Aceituna": 200.0
+        },
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Expreso": 100.0,
+            "Cortado": 150.0,
+            "Con leche": 100.0,
+            "Americano": 100.0,
+            "Capuchino": 300.0,
+            "Bombon": 300.0,
+            "Frapuccino": 750.0,
+            "Aguas": 250.0,
+            "Refrescos": 250.0,
+            "Cervezas": 300.0,
+            "Limonada Frappe": 850.0,
+            "Batido Helado": 850.0,
+            "Batido Fruta": 550.0
+        }
+    }
+}

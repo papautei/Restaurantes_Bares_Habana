@@ -1,0 +1,202 @@
+{
+    "Name": "Leyendhabana",
+    "Specialty": [
+        "Comida Caribenna"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tartaletas mixtas": 1254.0,
+            "Pulpitos al ajillo": 1287.0,
+            "Pimientos de piquillo rellenos": 1320.0,
+            "Frituras de malanga": 594.0,
+            "Rollitos de salmon rellenos de queso crema y uvas pasas": 1650.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Suprema de pollo a la crema": 2145.0
+        },
+        "Pork": {
+            "Filete mignon con salsa a eleccion": 3927.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Langosta grille": 3795.0,
+            "Camarones Leyendhabana perfumados al vino blanco": 2557.0
+        },
+        "Fishes": {
+            "Filete de salmon rosa grille": 3382.0,
+            "Filete de pescado con crema de limon, uvas pasas y frutos secos": 2359.0
+        },
+        "Desserts": {
+            "Tarta de crema": 1270.0,
+            "Brownie": 1270.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Cordero asado al romero": 2244.0
+        },
+        "Drinks": {
+            "Agua Ciego Montero mineral gaseada": 330.0,
+            "Agua Ciego Montero mineral natural": 330.0,
+            "Agua Ciego Montero tonica": 330.0,
+            "Agua Fever Tree tonic": 1650.0,
+            "Agua MG tonic": 990.0,
+            "Agua Panna": 825.0,
+            "Agua San Pellegrino": 825.0,
+            "Agua Schweppes tonic": 1320.0,
+            "Jugo La Estancia": 495.0,
+            "Jugos Naturales": 495.0,
+            "Malta Imp.": 495.0,
+            "Malta nac.": 396.0,
+            "Refresco Coca Cola": 643.0,
+            "Refresco Fanta": 643.0,
+            "Refresco Ironbeer": 330.0,
+            "Refresco Kermato": 577.0,
+            "Refresco Limon": 330.0,
+            "Refresco Naranja": 330.0,
+            "Refresco Pepsi": 643.0,
+            "Refresco Pinnita": 330.0,
+            "Refresco Sprite": 643.0,
+            "Refresco Tukola": 330.0,
+            "Refresco Tukola Light": 330.0,
+            "Ron Abuelo Annejo Reserva Especial": 1320.0,
+            "Ron Arecha 15 annos": 1650.0,
+            "Ron Bacardi Gold": 1650.0,
+            "Ron Havana Club 15 annos": 4950.0,
+            "Ron Havana Club 3 annos": 511.0,
+            "Ron Havana Club 7 annos": 825.0,
+            "Ron Havana Club Blanco": 330.0,
+            "Ron Havana Club Especial": 627.0,
+            "Ron Havana Club MaXIMO": 66000.0,
+            "Ron Havana Club Reserva": 726.0,
+            "Ron Havana Club Ritual": 660.0,
+            "Ron Legendario Annejo Blanco": 330.0,
+            "Ron Legendario Dorado": 495.0,
+            "Ron Legendario Elixir": 495.0,
+            "Ron Mulata 15 annos": 2640.0,
+            "Ron Santa Teresa Gran Reserva": 1485.0,
+            "Ron Santiago 11 annos": 2145.0,
+            "Ron Santiago 20 annos": 4950.0,
+            "Ron Santiago Annejo": 511.0,
+            "Ron Seleccion de MAESTROS": 1815.0,
+            "Ron Vigia Gran Annejo": 2310.0,
+            "Whisky Ballantine\u00e2\u20ac\u2122s 12 annos": 1980.0,
+            "Whisky Ballantine\u00e2\u20ac\u2122s Finest": 990.0,
+            "Whisky Chivas Regal 12 annos": 1650.0,
+            "Whisky Chivas Regal 18 annos": 4620.0,
+            "Whisky Clan Campbell": 858.0,
+            "Whisky J&B": 990.0,
+            "Whisky Jack Daniel\u00e2\u20ac\u2122s": 1980.0,
+            "Whisky Jameson": 990.0,
+            "Whisky Johnny Walker Black Label": 1980.0,
+            "Whisky Johnny Walker Blue Label": 8250.0,
+            "Whisky Johnny Walker Double Black": 3300.0,
+            "Whisky Johnny Walker Red Label": 990.0,
+            "Whisky The Glenlivet 12 annos": 1980.0,
+            "Brandy Cognac Gautier": 3300.0,
+            "Brandy Torres 10": 2310.0,
+            "Brandy Torres 5": 1485.0,
+            "Ginebra Gordon\u00e2\u20ac\u2122s": 990.0,
+            "Ginebra Master": 990.0,
+            "Ginebra Tanqueray": 1650.0,
+            "Vodka Absolut": 1320.0,
+            "Vodka Absolut Ruby Red": 1650.0,
+            "Vodka Absolut Vanilia": 1650.0,
+            "Vodka Russian Shot": 660.0,
+            "Tequila Jarana Reposado 100% Agave": 990.0,
+            "Tequila Jarana Silver 100% Agave": 660.0,
+            "Tequila Jose Cuervo Reposado": 1320.0,
+            "Tequila Jose Cuervo Silver": 990.0,
+            "Vermouth Cinzano Bianco": 990.0,
+            "Vermouth Cinzano Extra Dry": 990.0,
+            "Vermouth Cinzano Rosso": 990.0,
+            "Vermouth Martini Bianco": 990.0,
+            "Licor Amaretto del Conti": 1320.0,
+            "Licor Amarula": 1320.0,
+            "Licor Anis del Mono dulce": 1320.0,
+            "Licor Bailey\u00e2\u20ac\u2122s": 1320.0,
+            "Licor Crema Catalana": 825.0,
+            "Licor Frangelico": 1650.0,
+            "Licor Kahlua": 990.0,
+            "Licor Malibu": 660.0,
+            "Licor Ricard": 990.0,
+            "Licor Tia Maria": 1485.0,
+            "Vino Blanco": 1155.0,
+            "Vino Rosado": 1155.0,
+            "Vino Tinto": 1155.0,
+            "Coctel Sex on the Beach": 990.0,
+            "Coctel Screwdriver": 990.0,
+            "Coctel Mojito": 825.0,
+            "Coctel Cubanito": 825.0,
+            "Coctel Cubalibre": 825.0,
+            "Cerveza Importada": 825.0,
+            "Cerveza Nacional": 577.0
+        }
+    }
+}

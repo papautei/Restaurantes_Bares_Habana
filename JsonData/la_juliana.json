@@ -1,0 +1,195 @@
+{
+    "Name": "La Juliana",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Esquina de Zanja y San Nicolas"
+    },
+    "Contact": {
+        "Web": "lajulianarestaurant",
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            0
+        ],
+        "Tuesday": [
+            1000,
+            2300
+        ],
+        "Wednesday": [
+            1000,
+            2300
+        ],
+        "Thursday": [
+            1000,
+            2300
+        ],
+        "Friday": [
+            1000,
+            0
+        ],
+        "Saturday": [
+            1000,
+            0
+        ],
+        "Sunday": [
+            1000,
+            0
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Platano maduro frito": 350.0,
+            "Tostones chatinos": 350.0,
+            "Ensalada de vegetales": 400.0,
+            "Maripositas chinas": 530.0,
+            "Caldosa criolla": 750.0,
+            "Papas fritas": 750.0,
+            "Ensalada fria": 800.0,
+            "Frituritas de malanga": 850.0,
+            "Coctel de camarones": 850.0,
+            "Tostones rellenos": 1150.0,
+            "Bolitas de queso": 1100.0,
+            "Croquetas de jamon": 1100.0,
+            "Tamal en casuela": 1150.0,
+            "Potaje de garbanzos fritos": 1300.0,
+            "Tacos de cerdo": 1200.0,
+            "Tacos de pollo": 1400.0,
+            "Tacos ropa vieja": 1700.0,
+            "Bastoncitos de pollo": 1700.0,
+            "Club at\u00fan": 1300.0,
+            "Crema de queso": 780.0,
+            "Crema aurora": 800.0,
+            "Crema virginia": 960.0
+        },
+        "Bread": {
+            "Hamburguesa": 1300.0,
+            "Hamburguesa doble": 2350.0,
+            "Sandwich de jamon y queso": 1050.0,
+            "Sandwich campesino": 1450.0,
+            "Sandwich juliana": 1650.0
+        },
+        "Chicken": {
+            "Pollo frito/asado": 2500.0,
+            "Pechuga de pollo grille": 3000.0,
+            "Pechuga apanada": 3100.0,
+            "Pechuga salt con vegetales": 3000.0,
+            "Rollo de pechuga": 2800.0,
+            "Pechuga a la crema": 3500.0
+        },
+        "Pork": {
+            "Lomo ahumado": 2900.0,
+            "Bistec de cerdo grille": 2470.0,
+            "Gordon blue": 3200.0,
+            "Escalope de cerdo": 2640.0,
+            "Bistec uruguayo": 2800.0,
+            "Cerdo camag\u00fceyano": 2800.0,
+            "Solomillo de cerdo": 3000.0,
+            "Canciller": 3900.0
+        },
+        "Beef": {
+            "Estofado de res": 3100.0,
+            "Bistec encebollado de res": 3000.0,
+            "Entrecote de res": 3000.0,
+            "Ropa vieja": 3300.0,
+            "Costillas de cerdo bbq": 3900.0
+        },
+        "Pizza": {
+            "Pizza de queso": 1120.0,
+            "Pizza de oregano": 1300.0,
+            "Pizza de albahaca": 1270.0,
+            "Pizza de cebolla": 1385.0,
+            "Pizza de pimiento": 1430.0,
+            "Pizza de aceituna": 1550.0,
+            "Pizza de jamon": 1700.0,
+            "Pizza doble de queso": 1800.0,
+            "Pizza de lomo": 1800.0,
+            "Pizza de champinhon": 1685.0,
+            "Pizza de bacon": 2050.0,
+            "Pizza de at\u00fan": 1835.0,
+            "Pizza bolognesa": 1950.0,
+            "Pizza campesina": 1820.0,
+            "Pizza hawaiana": 1950.0,
+            "Pizza de chorizo": 1885.0,
+            "Pizza habanera": 2200.0,
+            "Pizza de serrano": 2400.0,
+            "Pizza de camaron": 1985.0,
+            "Pizza juliana": 2250.0
+        },
+        "Pasta": {
+            "Media lasagna": 1500.0,
+            "Lasagna doble": 3800.0,
+            "Canelon": 1150.0,
+            "Espagetti de queso": 1100.0,
+            "Espagetti de jamon": 1300.0,
+            "Espagueti bolognesa": 1600.0,
+            "Espagueti alfredo": 1800.0,
+            "Espagueti juliana": 1780.0,
+            "Espagueti carbonara": 1900.0
+        },
+        "Seafood": {
+            "Camarones grille": 3000.0,
+            "Camarones al ajillo": 3150.0,
+            "Rueda de pescado empanado": 3400.0,
+            "Arroz marinero": 3000.0,
+            "Camarones enchilado": 3600.0,
+            "Enchilado de pescado": 3050.0,
+            "Camaron a la crema": 3800.0,
+            "Rueda de pescado a la crema con camaron": 3650.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Tres gracias": 400.0,
+            "Flan al caramelo": 650.0,
+            "Copa lolita": 950.0,
+            "Cunha de chocolate": 800.0,
+            "Cunha de chocolate con helado": 950.0
+        },
+        "Sides": {},
+        "Other": {
+            "Arroz imperial": 2100.0,
+            "Arroz a la chorrera": 2450.0,
+            "Arroz frito": 2750.0
+        },
+        "Drinks": {
+            "Malteada": 850.0,
+            "Jugos naturales": 270.0,
+            "Jugo de mango": 300.0,
+            "Jugo de pinha": 300.0,
+            "Coctel de frutas": 250.0,
+            "Limonadas": 350.0,
+            "Batidos de frutas": 600.0,
+            "Suero de helado": 730.0,
+            "Batido de helado": 735.0
+        }
+    }
+}

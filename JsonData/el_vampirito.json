@@ -1,0 +1,160 @@
+{
+    "Name": "El Vampirito",
+    "Specialty": [
+        "Pizza",
+        "Comida italiana",
+        "Sandwiches"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle 6 entre 19 y 21, Vedado"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1000,
+            1100
+        ],
+        "Tuesday": [
+            1000,
+            1100
+        ],
+        "Wednesday": [
+            1000,
+            1100
+        ],
+        "Thursday": [
+            1000,
+            1100
+        ],
+        "Friday": [
+            1000,
+            1100
+        ],
+        "Saturday": [
+            1000,
+            1100
+        ],
+        "Sunday": [
+            1000,
+            1100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Bruschettas naturales": 780.0,
+            "Bruchettas con atun, carne o ropa vieja": 930.0,
+            "Entremes de queso, jamon y bruschettas": 1180.0,
+            "Picadera de la casa": 2620.0,
+            "Crema de queso": 570.0,
+            "Crema Aurora": 600.0
+        },
+        "Bread": {
+            "Hamburguesa sencilla": 1090.0,
+            "Hamburguesa doble": 2000.0,
+            "Sandwich de queso gouda": 960.0,
+            "Sandwich de ropa vieja": 960.0,
+            "Sandwich de bacon, huevo y queso": 1390.0,
+            "Sandwich de lechon asado": 1050.0,
+            "Sandwich de atun": 1390.0,
+            "Sandwich de pechuga de pollo con queso": 1260.0,
+            "Sandwich de crema y jalea de fresa": 1260.0
+        },
+        "Chicken": {
+            "Ensalada de vegetales salteados": 520.0
+        },
+        "Pork": {
+            "Solomillo de cerdo": 2340.0
+        },
+        "Beef": {
+            "Carne asada en cazuela": 2340.0
+        },
+        "Pizza": {
+            "Pizza de queso": 1220.0,
+            "Pizza pequenha": 590.0
+        },
+        "Pasta": {
+            "Lasanha de jamon": 1530.0,
+            "Lasanha de carne": 1530.0,
+            "Lasanha hawaiana": 1570.0,
+            "Espaguetis": 1090.0,
+            "Media racion de espaguetis y media racion de lasanha": 1310.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Helado montado": 300.0,
+            "Canoa de helado": 1500.0,
+            "Postre del dia": 780.0,
+            "Tarta": 975.0,
+            "Torrejas": 700.0,
+            "Media racion de torrejas": 360.0,
+            "Torrejas con helado": 550.0
+        },
+        "Additions": {
+            "Tomate": 200.0,
+            "Cebolla": 200.0,
+            "Pimiento": 200.0,
+            "Jamon": 320.0,
+            "Bacon": 420.0,
+            "Atun": 535.0,
+            "Chorizo": 490.0,
+            "Queso": 370.0,
+            "Pina glaseada": 200.0,
+            "Bolonhesa": 535.0,
+            "Aceituna": 280.0
+        },
+        "Sides": {},
+        "Other": {
+            "Garbanzos fritos": 1290.0
+        },
+        "Drinks": {
+            "Limonada frappe": 620.0,
+            "Limonada con Hierba buena": 700.0,
+            "Caipirina": 750.0,
+            "Daiquiri": 750.0,
+            "Sangria": 750.0,
+            "Mojito frappe": 750.0,
+            "Jugo natural": 250.0,
+            "Refresco": 400.0,
+            "Agua natural/ glaseada": 200.0,
+            "Malteada": 700.0,
+            "Malta": 460.0,
+            "Suero de helado": 1200.0,
+            "Copa de vino": 550.0,
+            "Cerveza importada": 400.0,
+            "Cerveza nacional": 500.0,
+            "Red Bull": 500.0,
+            "Michelada con cerveza importada": 500.0,
+            "Michelada con cerveza nacional": 600.0
+        }
+    }
+}

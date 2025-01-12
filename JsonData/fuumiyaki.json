@@ -1,0 +1,178 @@
+{
+    "Name": "Fuumiyaki",
+    "Specialty": "japanesse",
+    "Ownership": null,
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Ave 26/23 y 25, Vedado"
+    },
+    "Contact": {
+        "Web": "https://www.fuumiyaki.com/",
+        "Facebook": "https://www.facebook.com/fuumiyaki.cuba/",
+        "Instagram": "https://www.instagram.com/fuumiyaki/?hl=es"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2350
+        ],
+        "Tuesday": [
+            1200,
+            2350
+        ],
+        "Wednesday": [
+            1200,
+            2350
+        ],
+        "Thursday": [
+            1200,
+            2350
+        ],
+        "Friday": [
+            1200,
+            2350
+        ],
+        "Saturday": [
+            1200,
+            2350
+        ],
+        "Sunday": [
+            1200,
+            2350
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": false,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Ceviche de pescado": 1000.0,
+            "Ceviche mixto": 1500.0,
+            "Gyozas": 850.0,
+            "Rice paper camarones/langosta/pulpo": 1400.0,
+            "Rice paper pescado": 1400.0,
+            "Rice paper pollo/cerdo": 900.0,
+            "Rollitos primavera": 500.0,
+            "Sashimi de pescado": 1200.0,
+            "Sopa de miso": 750.0,
+            "Tartar de pescado": 1200.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Bocados de tempura de pollo": 1600.0,
+            "Chop suey de pollo": 1500.0,
+            "Chow mein de pollo": 1550.0,
+            "Tacos de pollo": 1100.0,
+            "Tacos de ropa vieja": 1300.0,
+            "Teriyaki de pollo": 1700.0,
+            "Yaki tori de pollo": 1500.0,
+            "Yakisoba de pollo": 1550.0
+        },
+        "Pork": {
+            "Bocados de tempura de cerdo": 1900.0,
+            "Chop suey de cerdo": 1800.0,
+            "Chow mein de cerdo": 1850.0,
+            "Shogayaki de cerdo": 2200.0,
+            "Tacos de cerdo": 1400.0,
+            "Teriyaki de cerdo": 2000.0,
+            "Yaki tori de cerdo": 1800.0,
+            "Yakisoba de cerdo": 1850.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Bocados de tempura de camarones": 2500.0,
+            "Chop suey de camarones": 2000.0,
+            "Chow mein de camarones": 2000.0,
+            "Enchilado de camarones": 2700.0,
+            "Tacos de camarones": 1600.0,
+            "Teriyaki de camarones": 2600.0,
+            "Yaki tori de camarones": 2500.0,
+            "Yakisoba de camarones": 2000.0,
+            "Chop suey de langosta": 2000.0,
+            "Chow mein de langosta": 2000.0,
+            "Enchilado de langosta": 2700.0,
+            "Tacos de langosta": 1500.0,
+            "Teriyaki de langosta": 2600.0,
+            "Yaki tori de langosta": 2500.0,
+            "Yakisoba de langosta": 2000.0,
+            "Bocados de langosta en tempura": 2500.0
+        },
+        "Fishes": {
+            "Bocados de tempura de pescado": 2200.0,
+            "Shioyaki de pescado": 2500.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "Kanji bol": 2200.0,
+            "Ramen": 2200.0,
+            "Danza de la reina": 2800.0
+        },
+        "Drinks": {
+            "Agua mineral carbonatada ciego montero": 150.0,
+            "Agua natural ciego montero": 350.0,
+            "Cerveza bucanero": 500.0,
+            "Cerveza cristal": 500.0,
+            "Refresco santa isabel": 350.0,
+            "Refresco santa limon": 350.0,
+            "Refresco santa naranja": 350.0,
+            "Vino tinto casillero del diablo reserva": 10000.0,
+            "Vino tinto trapiche reserva": 8000.0,
+            "Havana club 7 anhos": 600.0,
+            "Seleccion de maestros": 750.0,
+            "Pacto navio": 750.0,
+            "Santiago anhejo": 550.0,
+            "Santiago 11 anhos": 800.0,
+            "Clan campbell": 550.0,
+            "Jameson": 650.0,
+            "Ballantines": 600.0,
+            "Chivas 12 anhos": 750.0,
+            "Chivas xv": 1000.0,
+            "Chivas 18 anhos": 1150.0,
+            "Mojito": 700.0,
+            "Daiquiri": 700.0,
+            "Caipirinha": 750.0,
+            "Caipiroska": 750.0,
+            "Cubanito": 800.0,
+            "Bloody mary": 850.0,
+            "Pinha colada": 850.0,
+            "Mimosa": 500.0,
+            "Gin tonic": 850.0,
+            "Sangria": 850.0,
+            "Tequila sunrise": 600.0,
+            "Margarita": 850.0,
+            "Old fashion": 800.0,
+            "Sake": 650.0,
+            "Mojito sake": 650.0,
+            "Umeshu mojito": 600.0,
+            "Matcha highball": 750.0,
+            "Chuchai": 650.0,
+            "Cafe expresso": 200.0,
+            "Cafe cortado": 300.0,
+            "Te": 300.0
+        }
+    }
+}

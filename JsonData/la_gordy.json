@@ -1,0 +1,123 @@
+{
+    "Name": "La Gordy",
+    "Specialty": [],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Boyeros",
+        "Address": "Calle 184 #41308 % 413 & 415"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [
+            1130,
+            2100
+        ],
+        "Thursday": [
+            1130,
+            2100
+        ],
+        "Friday": [
+            1130,
+            2100
+        ],
+        "Saturday": [
+            1130,
+            2100
+        ],
+        "Sunday": [
+            1130,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "tostones criollos": 350.0,
+            "fritura de malanga": 400.0,
+            "garbanzos fritos": 750.0,
+            "garbanzos fritos la gordy": 800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "fajitas de pollo encebollada": 950.0,
+            "fajitas de pollo empanadas": 110.0,
+            "fajitas de pollo grille": 950.0,
+            "pollo a la pinna": 1100.0,
+            "pollo deshuesado empanado": 1050.0,
+            "pollo deshuesado gratinado": 1250.0,
+            "fajitas de pechuga encebolladas": 1200.0,
+            "fajitas de pechuga empanadas": 1350.0,
+            "pechuga de pollo grille": 1200.0,
+            "pechuga de pollo a la pinna": 1300.0,
+            "pechuga de pollo empanada": 1350.0,
+            "pechuga de pollo gratinada": 1500.0,
+            "pechuga gordon blue": 2000.0
+        },
+        "Pork": {
+            "bistec de higado de cerdo": 800.0,
+            "higado de cerdo a la italiana": 850.0,
+            "fricase de cerdo": 1200.0,
+            "fajitas de cerdo encebolladas": 1200.0,
+            "fajitas de cerdo empanadas": 1350.0,
+            "masa de cerdo fritas": 1250.0,
+            "bistec de cerdo grille": 1200.0,
+            "bistec de cerdo a la pinna": 1300.0,
+            "bistec de cerdo empanado": 1350.0,
+            "bistec de cerdo gratinado": 1500.0,
+            "bistec uruguayo de cerdo": 2000.0,
+            "chuleta ahumada de cerdo": 1300.0,
+            "chuleta ahumada de cerdo gratinada": 1500.0
+        },
+        "Beef": {
+            "ropa vieja de res": 1300.0,
+            "vaca frita": 1300.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {
+            "eperlan de pescado": 1400.0,
+            "filete de pescado grille": 1250.0,
+            "filete de pescado empanado": 1400.0,
+            "filete de pescado gratinado": 1800.0,
+            "filete canciller": 2000.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "arooz moro": 400.0
+        },
+        "Other": {
+            "ropa vieja de cordero": 950.0
+        },
+        "Drinks": {}
+    }
+}

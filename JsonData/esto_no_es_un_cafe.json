@@ -1,0 +1,154 @@
+{
+    "Name": "Esto_no_es_un_cafe",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            1200
+        ],
+        "Tuesday": [
+            800,
+            1200
+        ],
+        "Wednesday": [
+            800,
+            1200
+        ],
+        "Thursday": [
+            800,
+            1200
+        ],
+        "Friday": [
+            800,
+            1200
+        ],
+        "Saturday": [
+            800,
+            1200
+        ],
+        "Sunday": [
+            800,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.8,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": false,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {
+            "Huevos Fritos": 450.0,
+            "Tortilla Natural": 450.0
+        },
+        "Appetizers": {
+            "Croquetas de la Casa": 1050.0,
+            "Tostones Rellenos": 1050.0,
+            "Ratatouille": 1200.0,
+            "Cuarteto de Camarones": 2100.0,
+            "Pimientos Rellenos con Farsa de Atun": 1350.0,
+            "Bruschettas de Berenjena, Tomate y mozzarella": 1200.0,
+            "Tempura de Vegetales": 1350.0,
+            "De Vegetales Tiernos y Queso Fresco": 1050.0,
+            "De vegetales con Pollo": 1350.0,
+            "De Vegetales y Atun": 1440.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "La Fuentede Duchamp": 2400.0,
+            "Pollo Pollock": 2550.0,
+            "Tercer Mundo de Lam": 3150.0
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {
+            "El Pez de Christo": 3300.0,
+            "Azul Klein": 3900.0
+        },
+        "Desserts": {
+            "Postre de la Casa": 1200.0,
+            "Brownie": 1500.0,
+            "Copa de Helado": 1350.0,
+            "Crepe de Frutas": 1200.0,
+            "Crepe de Chocolate": 1050.0,
+            "Crepe de Limon": 600.0,
+            "Crepe Franz": 1350.0
+        },
+        "Additions": {
+            "Queso Gouda": 540.0,
+            "Vegetales Salteados": 300.0,
+            "Aceitunas": 600.0,
+            "Bacon": 600.0,
+            "Jamon Serrano": 750.0,
+            "Pan y Mantequilla": 600.0
+        },
+        "Sides": {},
+        "Other": {
+            "La Cacerola de Broodthaers": 5400.0
+        },
+        "Drinks": {
+            "Jugo de Frutas": 450.0,
+            "Jugo Verde": 450.0,
+            "Jugo de Vegetales": 600.0,
+            "Jugos Mixtos": 750.0,
+            "Havana Club Anhejo 7 Anhos": 1200.0,
+            "Havana Club Seleccion de Maestros": 2400.0,
+            "Ron Santiago de Cuba 11 Anhos": 1950.0,
+            "Cafe Espresso": 300.0,
+            "Doble Espresso": 600.0,
+            "Descafeinado": 480.0,
+            "Cafe Americano": 450.0,
+            "Cafe Cortado": 450.0,
+            "Capuchino": 600.0,
+            "Cafe con Leche": 600.0,
+            "Cafe con Hielo": 450.0,
+            "Cafe Americano con Leche": 750.0,
+            "Cafe Bombon": 900.0,
+            "Cafe Carajillo": 750.0,
+            "Cafe Brasilenho": 1050.0,
+            "Cafe Espanhol": 1050.0,
+            "Cafe Irlandes": 1050.0,
+            "Cafe Frances": 1050.0,
+            "Frapuchino": 1050.0,
+            "Chocolate Frio": 1050.0,
+            "Chocolate Caliente": 1050.0,
+            "Batido de Helado": 1200.0,
+            "Te Negro": 450.0,
+            "Te Rojo": 540.0,
+            "Te Verde": 540.0,
+            "Infusion de Hierba Buena o Albahaca": 300.0
+        }
+    }
+}

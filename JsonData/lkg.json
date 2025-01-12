@@ -1,0 +1,97 @@
+{
+    "Name": "LKG",
+    "Specialty": [
+        [
+            "Caribbean"
+        ]
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "La Lisa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {},
+        "Chicken": {
+            "Bistec": 900,
+            "Fricase": 900,
+            "Pollo": 1200
+            
+            
+            
+            
+            
+            
+            
+            
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de Jamon": 300,
+            "Pizza de Queso": 200,
+            "Pizza de doble queso": 250,
+            "Pizza de queso gouda": 250
+        },
+        "Pasta": {},
+        "Seafood": {
+            "Cangrejo": 550,
+            "Langosta": 1400
+        },
+        "Fishes": {
+            "Rueda Pescado": 950,
+            "Pescado Entero": 950
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Arroz Frito": 600
+        },
+        "Other": {},
+        "Drinks": {
+            "espresso": 20,
+            "Agua mineral": 150,
+            "Cerveza": 250,
+            "Refresco importado": 230,
+            "Batidos de frutas": 235
+        }
+    }
+}

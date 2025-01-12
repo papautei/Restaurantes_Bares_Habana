@@ -1,0 +1,153 @@
+{
+    "Name": "Las Clavellinas ",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "MIPPIME",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Villegas entre Obrapia y Obispo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            1000
+        ],
+        "Tuesday": [
+            900,
+            1000
+        ],
+        "Wednesday": [
+            900,
+            1000
+        ],
+        "Thursday": [
+            900,
+            1000
+        ],
+        "Friday": [
+            900,
+            1000
+        ],
+        "Saturday": [
+            900,
+            1000
+        ],
+        "Sunday": [
+            900,
+            1000
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Racion de croquetas": 900.0,
+            "Tostones de ajo y queso": 900.0,
+            "Entremes de la casa": 1500.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo": 3500.0
+        },
+        "Pork": {
+            "Cerdo": 3500.0
+        },
+        "Beef": {
+            "Carne roja": 3500.0
+        },
+        "Pizza": {
+            "Pizza napoles": 3000.0
+        },
+        "Pasta": {},
+        "Seafood": {
+            "Pescado": 3500.0,
+            "Mariscos": 3500.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Vianda frita": 600.0,
+            "Vianda hervida": 600.0,
+            "Ensalada de vegetales": 600.0,
+            "Vegetales salteados": 600.0,
+            "Arroces del dia": 600.0
+        },
+        "Other": {
+            "Paella mixta al estilo rieumont": 3500.0,
+            "Paella de carne": 3500.0,
+            "Paella de marisco": 3500.0,
+            "Risotto mixto": 3500.0,
+            "Risotto de carne": 3500.0,
+            "Risotto de marisco": 3500.0
+        },
+        "Drinks": {
+            "Cafe cubano": 300.0,
+            "Cafe cortado": 300.0,
+            "Cafe capuccino": 300.0,
+            "Cafe carajillo": 600.0,
+            "Infusiones": 600.0,
+            "Agua natural": 300.0,
+            "Agua importada": 600.0,
+            "Batidos": 900.0,
+            "Sueros de helado": 900.0,
+            "Jugos naturales": 600.0,
+            "Limonada frappe": 600.0,
+            "Jarra de limonada frappe": 2100.0,
+            "Limonada frappe con hierba buena": 600.0,
+            "Jarra de limonada frappe con hierba buena": 2100.0,
+            "Refresco": 600.0,
+            "Cerveza importada": 600.0,
+            "Chelada importada": 600.0,
+            "Michelada importada": 600.0,
+            "Cerveza nacional": 600.0,
+            "Chelada nacional": 900.0,
+            "Michelada nacional": 900.0,
+            "Mojito": 2400.0,
+            "Daiquiri": 2400.0,
+            "Cuba libre": 2400.0,
+            "Cubata": 2400.0,
+            "Caipirisima": 2400.0,
+            "Habana especial": 2400.0,
+            "Cubanito": 2400.0,
+            "Presidente": 2400.0,
+            "Gin tonic": 2700.0,
+            "Pinha colada": 2700.0,
+            "Bloody mary": 2700.0,
+            "Margarita": 2700.0,
+            "Caipirinha": 2700.0,
+            "Caipiroska": 2700.0,
+            "Screw driver": 2700.0,
+            "Martini": 2700.0,
+            "Sangria": 2700.0,
+            "Jarra de sangria": 9000.0,
+            "Copa de vino": 1200.0
+        }
+    }
+}

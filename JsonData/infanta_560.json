@@ -1,0 +1,107 @@
+{
+    "Name": "Infanta 560",
+    "Specialty": [
+        "italiana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": false,
+        "Facebook": false,
+        "Instagram": false
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [
+            800,
+            2200
+        ],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Picadera (300g)": 550.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Fajas de pollo (300g)": 600.0
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza napolitana (250g)": 200.0,
+            "Pizza hawaiana (300g)": 300.0,
+            "Pizza queso gouda (250g)": 320.0,
+            "Pizza familiar napolitana (500g)": 380.0,
+            "Pizza familiar hawaiana (600g)": 700.0,
+            "Pizza familiar queso gouda (500g)": 700.0
+        },
+        "Pasta": {
+            "Spaghetti (470g)": 300.0,
+            "Spaghetti queso gouda (470g)": 420.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "Jamon": 80.0,
+            "Pinha": 80.0,
+            "Pimiento": 80.0,
+            "Queso": 80.0,
+            "Queso gouda": 100.0,
+            "Cebolla": 80.0
+        },
+        "Other": {},
+        "Drinks": {}
+    }
+}

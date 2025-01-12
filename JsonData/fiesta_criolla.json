@@ -1,0 +1,129 @@
+{
+    "Name": "Fiesta Criolla",
+    "Specialty": [
+        "cubana"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Arroyo Naranjo",
+        "Address": "Calle 100 #1003 (despues del puente de calabazar), Arroyo Naranjo"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2400
+        ],
+        "Tuesday": [
+            1200,
+            2400
+        ],
+        "Wednesday": [
+            1200,
+            2400
+        ],
+        "Thursday": [],
+        "Friday": [
+            1200,
+            2400
+        ],
+        "Saturday": [
+            1200,
+            2400
+        ],
+        "Sunday": [
+            1200,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "toston criollo": 500.0,
+            "toston relleno con jamon y queso": 600.0,
+            "toston relleno con atun": 700.0,
+            "eperlan": 1300.0,
+            "fajitas de pollo": 1300.0,
+            "caldo de mariscos": 1000.0,
+            "camaron rebosado": 2000.0,
+            "tamal en hojas": 90.0,
+            "fritura de malanga": 500.0,
+            "platano frito": 350.0,
+            "alitas de pollo": 850.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pollo asado": 1150.0,
+            "pechuga grille": 1450.0,
+            "pechuga gratinada jamon y queso": 1600.0,
+            "pechuga salteada con vegetales": 1550.0,
+            "lomo ahumado": 1350.0,
+            "lomo deshuesado ahumado": 1550.0,
+            "camaron grille": 1900.0
+        },
+        "Pork": {
+            "chuleta": 1350.0,
+            "costillas fritas": 1400.0,
+            "masa frita": 1550.0,
+            "bistec grille": 1450.0,
+            "bistec gratinado de jamon y queso": 1600.0
+        },
+        "Beef": {
+            "ropa vieja": 1500.0
+        },
+        "Pizza": {},
+        "Pasta": {
+            "spaghettis napolitanos": 1000.0,
+            "spaghettis con Jamon y Queso": 1250.0
+        },
+        "Seafood": {
+            "langosta grille": 1900.0,
+            "pulpo grille": 2000.0,
+            "masa de cangrejo": 1050.0,
+            "caldero de mariscos": 3500.0,
+            "mariscada": 2500.0
+        },
+        "Fishes": {
+            "pulpo grille": 2000.0,
+            "pescado grille": 1300.0,
+            "rueda pescado grille": 1300.0,
+            "pescado grille gratinado con jamon y queso": 1450.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "mar y tierra": 3950.0,
+            "paella": 2300.0,
+            "suprema carnero": 1800.0,
+            "fricase de carnero": 1500.0
+        },
+        "Drinks": {}
+    }
+}

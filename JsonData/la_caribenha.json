@@ -1,0 +1,246 @@
+{
+    "Name": "La_Caribenha",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.1,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {
+            "Desayuno 1": 1300.0,
+            "Desayuno 2": 1400.0,
+            "Desayuno 3": 1300.0
+        },
+        "Appetizers": {
+            "Crema de Queso": 800.0,
+            "Crema Aurora": 900.0,
+            "Crema Virginia": 950.0,
+            "Brusquetas de Jamon y Queso": 750.0,
+            "Chicharrita Boniato": 500.0,
+            "Chicharrita de Platano": 500.0,
+            "Tostones Rellenos de Jamon": 850.0,
+            "Tostones Rellenos de Atun": 900.0,
+            "Croquetas de la Casa": 600.0,
+            "Frituras de Malanga": 600.0,
+            "Eperlan": 2100.0,
+            "Coctel de Camarones": 1500.0,
+            "Entremes de Jamon,Queso y Chorizo": 2100.0,
+            "Picadera Caribenha": 2600.0
+        },
+        "Bread": {
+            "Sandwich de Jamon": 1000.0,
+            "Sandwich de Queso": 1050.0,
+            "Sandwich de Jamon y Queso": 1100.0,
+            "Sandwich Cubano": 1450.0,
+            "Sandwich de Atun": 1250.0,
+            "Sandwich de Cerdo": 1300.0,
+            "Sandwich de Pollo": 1250.0,
+            "Sandwich Caribenho": 1300.0,
+            "Hamburguesa de Cerdo": 1250.0,
+            "Hamburguesa de Res": 1250.0,
+            "Hamburguesa Doble de Cerdo": 1600.0,
+            "Hamburguesa Doble de Res": 1600.0,
+            "Hamburguesa Doble Mixta": 1650.0,
+            "Hamburguesa Caribenha": 2300.0
+        },
+        "Chicken": {
+            "Pollo Grillet": 1950.0,
+            "Brochetas de Pollo": 2100.0,
+            "Pollo Gratinado": 2300.0,
+            "Golden Blue": 2300.0,
+            "Fajitas de Pollo": 2100.0
+        },
+        "Pork": {
+            "Lonjas de Cerdo": 2300.0,
+            "Lomo Ahumado": 2300.0,
+            "Chuletas de Cerdo": 2400.0,
+            "Fajitas de Cerdo": 2250.0,
+            "Brochetas de Cerdo": 2350.0
+        },
+        "Beef": {
+            "Ropa Vieja de Res": 2250.0,
+            "Vaca Frita": 2200.0,
+            "Estraccetti de Ternera": 2800.0
+        },
+        "Pizza": {
+            "Pizza Napole": 1500.0,
+            "Pizza de Jamon": 1850.0,
+            "Pizza de Chorizo": 1850.0,
+            "Pizza de Cebolla": 1750.0,
+            "Pizza de Pimiento": 1750.0,
+            "Pizza Hawaiana": 1900.0,
+            "Pizza de Aceituna": 1850.0,
+            "Pizza de Atun": 2000.0,
+            "Pizza de Jamon Pierna": 1900.0,
+            "Pizza de Bacon": 1900.0,
+            "Pizza de Champinhones": 1850.0,
+            "Pizza Campestre": 2300.0,
+            "Pizza de Camaron": 2450.0,
+            "Pizza de Langosta": 2450.0,
+            "Pizza Frutti D'Mare": 3000.0,
+            "Pizza 4 Quesos": 2000.0,
+            "Pizza Caribenha": 2700.0
+        },
+        "Pasta": {
+            "Espaguetis Napoles": 1400.0,
+            "Espaguetis Carbonara": 1700.0,
+            "Espaguetis a la Espanhola": 1700.0,
+            "Espaguetis Frutti D'Mare": 2100.0,
+            "Espaguetis al Pesto": 1700.0,
+            "Lasanha Bolonhesa": 1700.0,
+            "Lasanha de Jamon": 1800.0,
+            "Lasanha a la Guajira": 1800.0
+        },
+        "Seafood": {
+            "Camarones al Gusto": 2700.0,
+            "Langosta al Gusto": 2700.0,
+            "Cazuela de Mariscos": 4500.0
+        },
+        "Fishes": {
+            "Filete de Pescado Grille": 2650.0,
+            "Canciller": 2850.0,
+            "Filete de Pescado Gratinado": 2850.0
+        },
+        "Desserts": {
+            "Pie de Limon": 700.0,
+            "Tres Leches": 900.0,
+            "Copa de Helado": 550.0,
+            "Cheesecake": 850.0,
+            "Torta de Chocolate": 900.0,
+            "Brownie": 800.0
+        },
+        "Additions": {
+            "Queso": 500.0,
+            "Jamon": 350.0,
+            "Chorizo": 350.0,
+            "Cebolla": 250.0,
+            "Pimiento": 250.0,
+            "Pinha": 250.0,
+            "Aceituna": 350.0,
+            "Huevo al Gusto": 600.0,
+            "Atun": 600.0,
+            "Jamon Pierna": 450.0,
+            "Bacon": 450.0,
+            "Champinhones": 350.0,
+            "Camaron": 900.0,
+            "Langosta": 900.0,
+            "Palmesano": 400.0
+        },
+        "Sides": {},
+        "Other": {
+            "Taco de Pollo": 1900.0,
+            "Taco de Cerdo": 2100.0,
+            "Taco de Res": 2200.0,
+            "Taco Mixto": 2350.0,
+            "Arroz Frito": 1600.0,
+            "Paella": 5000.0,
+            "Risotto": 3200.0
+        },
+        "Drinks": {
+            "Jugos Naturales": 300.0,
+            "Batido de Frutas Naturales": 420.0,
+            "Batido de Helado": 750.0,
+            "Limonada Natural": 250.0,
+            "Malteada": 600.0,
+            "Agua Natural 500ml": 200.0,
+            "Agua Natural 1500ml": 300.0,
+            "Agua Importada": 250.0,
+            "Agua Tonica": 450.0,
+            "Agua Tonica Importada": 500.0,
+            "Malta": 450.0,
+            "Refresco Nacional": 280.0,
+            "Refresco Importado": 400.0,
+            "Cerveza Nacional": 500.0,
+            "Cerveza Importada": 400.0,
+            "Cerveza Mexicana": 500.0,
+            "Energizante": 400.0,
+            "Red Bull": 550.0,
+            "Kermato": 350.0,
+            "Michelada Nacional": 700.0,
+            "Chelada Nacional": 680.0,
+            "Michelada Importada": 600.0,
+            "Chelada Importada": 580.0,
+            "Cuba Libre": 700.0,
+            "Mojito": 700.0,
+            "Mojito Caribenho": 750.0,
+            "Mojito Frappe": 750.0,
+            "Run Collins": 800.0,
+            "Daiquiri": 850.0,
+            "Caipirinha": 750.0,
+            "Caipiroska": 750.0,
+            "Canchanchara": 850.0,
+            "Cubata": 700.0,
+            "Pinha Colada": 1200.0,
+            "Daiquiri de Fruta": 800.0,
+            "Caipirisima": 750.0,
+            "Margarita": 800.0,
+            "Gin Tonic": 1200.0,
+            "Tinto de Verano": 1000.0,
+            "Sangria": 1000.0,
+            "Bloody Mary": 600.0,
+            "Calimocho": 800.0,
+            "Vodkatonic": 800.0,
+            "Vodka Ricky": 600.0
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "Name": "El Pellizco",
+    "Specialty": [
+        "criolla"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Guanabacoa",
+        "Address": ""
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2400
+        ],
+        "Tuesday": [
+            1100,
+            2400
+        ],
+        "Wednesday": [
+            1100,
+            2400
+        ],
+        "Thursday": [
+            1100,
+            2400
+        ],
+        "Friday": [
+            1100,
+            2400
+        ],
+        "Saturday": [
+            1100,
+            2400
+        ],
+        "Sunday": [
+            1100,
+            2400
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "caldoza de la casa": 250.0,
+            "platano maduro frito": 80.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "pollo asado": 450.0
+        },
+        "Pork": {
+            "higado a la italiana": 450.0,
+            "bistec de cerdo": 600.0,
+            "masa de cerdo": 650.0,
+            "chuleta de cerdo": 650.0,
+            "lomo ahumado": 650.0,
+            "costilla asada": 650.0,
+            "lonjas de cerdo asada": 600.0,
+            "fricase de costilla": 650.0
+        },
+        "Beef": {
+            "ropa vieja de cerdo": 650.0
+        },
+        "Pizza": {
+            "pizza napolitana": 200.0
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {
+            "racion de chicharron": 150.0,
+            "racion de empella": 100.0,
+            "racion de tostones": 80.0,
+            "racion de mariquitas": 80.0
+        },
+        "Other": {
+            "bistec de higado": 400.0
+        },
+        "Drinks": {
+            "jugo de caja": 150.0,
+            "jugo de botella": 120.0,
+            "malta": 150.0,
+            "agua natural": 100.0,
+            "energizante": 220.0,
+            "cerveza nacional": 220.0,
+            "cerveza importada": 220.0
+        }
+    }
+}

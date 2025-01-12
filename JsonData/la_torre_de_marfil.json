@@ -1,0 +1,246 @@
+{
+    "Name": "La Torre de Marfil",
+    "Specialty": [
+        "Variado"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Mercaderes entre Obispo y Obrapia"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1100,
+            2100
+        ],
+        "Tuesday": [
+            1100,
+            2100
+        ],
+        "Wednesday": [
+            1100,
+            2100
+        ],
+        "Thursday": [
+            1100,
+            2100
+        ],
+        "Friday": [
+            1100,
+            2100
+        ],
+        "Saturday": [
+            1100,
+            2100
+        ],
+        "Sunday": [
+            1100,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Cebiche": 1450.0,
+            "Brushettas": 950.0,
+            "Ensalada de vegetales": 750.0,
+            "Ensalada de verdura y pollo": 1350.0,
+            "Coctel de langosta": 1850.0,
+            "Coctel de camarones": 1350.0,
+            "Maripositas chinas": 500.0,
+            "Vegetales salteados": 750.0,
+            "Pulpo al pimenton": 2900.0,
+            "Shop suey de marisco": 1250.0,
+            "Sopa estilo oriental": 750.0,
+            "Croquetas de la casa": 750.0,
+            "Fritura de malanga": 780.0,
+            "Crema de calabaza y malanga": 850.0,
+            "Tacos de cerdo": 980.0,
+            "Tacos de pollo": 980.0,
+            "Tacos de vegetales": 980.0,
+            "Tacos de ropa vieja": 980.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo al estilo torre de marfil": 1750.0,
+            "Pollo grille": 1550.0
+        },
+        "Pork": {
+            "Cerdo al estilo torre de marfil": 2300.0,
+            "Cerdo asado con salsa de mostaza y romero": 2100.0
+        },
+        "Beef": {
+            "Grillada de carne": 3500.0,
+            "Estofado de res con zanahorias confitadas": 3200.0,
+            "Ropa vieja": 1950.0,
+            "Vaca frita": 1850.0
+        },
+        "Pizza": {
+            "Pizza de queso": 1200.0,
+            "Pizza especial de la casa": 2100.0
+        },
+        "Pasta": {
+            "Pastas cortas rigatonni frutti di mare": 2700.0,
+            "Espaguettis con salsa napoles": 1100.0,
+            "Espaguettis a la bolognesa": 1750.0,
+            "Espaguettis con vegetales": 1440.0,
+            "Espaguettis alioli con camarones": 1950.0
+        },
+        "Seafood": {
+            "Combinacion marinera a la barbacoesa": 3100.0,
+            "Pescado grille": 1980.0,
+            "Grillada del mar": 5800.0,
+            "Grillada de mar y tierra": 8500.0,
+            "Langosta al gusto": 4800.0,
+            "Camarones al gusto": 2200.0,
+            "Casuela caribenha frutos del mar": 4300.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Helados con frutas confitadas": 750.0,
+            "Flan de leche y huevos": 850.0,
+            "Tarta semi fria": 750.0,
+            "Brownie con helado": 1100.0,
+            "Poste mixto cubano": 750.0,
+            "Postres caseros": 650.0,
+            "Boniatillo con coco estilo omara portuondo": 750.0
+        },
+        "Sides": {
+            "Arroz frito al estilo de la casa": 1200.0,
+            "Arroz caldoso de la tierra": 1950.0,
+            "Arroz caldoso marinero": 3550.0,
+            "Arroz caldoso mar y tierra": 4550.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Agua mineral natural": 320.0,
+            "Agua tonica mg": 650.0,
+            "Agua tonica me": 850.0,
+            "Refresco cola pepsi": 450.0,
+            "Refresco de lata": 350.0,
+            "Jugos de fruta": 650.0,
+            "Batidos de fruta": 850.0,
+            "Malta": 450.0,
+            "Malteada": 950.0,
+            "Limonada": 750.0,
+            "Limonada frescura": 850.0,
+            "Cerveza belga star lemon": 350.0,
+            "Cerveza belga star botella": 450.0,
+            "Cerveza estrella dawm": 650.0,
+            "Heinecken botella": 750.0,
+            "Cerveza unlaguer": 350.0,
+            "Cerveza cristal": 550.0,
+            "Cerveza bucanero": 550.0,
+            "Capuccino": 450.0,
+            "Cafe bombom": 680.0,
+            "Frapuccino": 850.0,
+            "Cafe irlandes": 750.0,
+            "Cafe con leche": 400.0,
+            "Cafe espresso": 150.0,
+            "Cafe americano": 150.0,
+            "Infusiones": 250.0,
+            "Fernet": 350.0,
+            "Aguardiente black tears": 330.0,
+            "Bebida energetica": 650.0,
+            "Limoncello": 550.0,
+            "Jagger": 750.0,
+            "Amaretto": 450.0,
+            "Crema baily's": 850.0,
+            "Licor de cafe": 400.0,
+            "Cognac martel vs ": 750.0,
+            "Brandy armagnac vs": 1200.0,
+            "Ron santiago blanco": 600.0,
+            "Ron santiago 8anhos": 1050.0,
+            "Ron santiago 11 anhos": 1300.0,
+            "Ron santiago 12anhos": 1600.0,
+            "Ron santiago extra seco": 1050.0,
+            "Habana club reserva": 650.0,
+            "Habana club 7 anhos": 750.0,
+            "Habana club smoky": 950.0,
+            "Habana club seleccion de maestros": 1650.0,
+            "Habana club pacto navio": 1500.0,
+            "Whisky jw black label": 1350.0,
+            "Whisky jamenson original": 700.0,
+            "Whisky jw red label": 750.0,
+            "Whisky chivas regal 12": 850.0,
+            "Ginebra master dry": 740.0,
+            "Ginebra reythor/ginebra after work": 480.0,
+            "Whisky buchanan master": 1950.0,
+            "Whisky jhonny walker swing": 1900.0,
+            "Whisky sir albert": 550.0,
+            "Whisky bourbon jim beam black": 950.0,
+            "Vodka absolut": 850.0,
+            "Vodka tito's handmade": 1200.0,
+            "Vodka belvedere": 1800.0,
+            "Tequila los corrales": 600.0,
+            "Tequila reposado arraigo": 950.0,
+            "Tequila jimador reposado": 1050.0,
+            "Tequila bolcan de mi tierra blanco": 2800.0,
+            "Mojito": 890.0,
+            "Daiquiri": 890.0,
+            "Ron collins": 750.0,
+            "Cuba libre/ cubata": 950.0,
+            "Caipiroska/ caipirissima": 890.0,
+            "Caipirinha": 890.0,
+            "Caipiroska/ caipirissima sabor": 1050.0,
+            "Caipirinha de sabor": 1050.0,
+            "Pinha colada": 1150.0,
+            "Pinha colada sin alcohol": 890.0,
+            "Negroni": 1200.0,
+            "Manhattan": 1200.0,
+            "Presidente": 950.0,
+            "Screwdriver": 850.0,
+            "Margarita": 950.0,
+            "Dry martini": 900.0,
+            "Tequila sunrise": 850.0,
+            "Tinto de verano": 950.0,
+            "Sangria": 950.0,
+            "San francisco": 750.0,
+            "Canchanchara": 950.0,
+            "Bloody mary": 1050.0,
+            "Servicio de michelada": 350.0,
+            "Servicio de chelada": 250.0,
+            "Casillero del diablo cabernet sauvignon": 6800.0,
+            "Varon de chirel reserva 2005 rioja": 120000.0,
+            "Petit rojo reserva merlot": 5700.0,
+            "Senhorio de valcunia d.o rioja": 5800.0,
+            "Oporto  ruby borges": 7800.0,
+            "La planta rivera del duero 2020": 80000.0,
+            "Minuti": 18500.0,
+            "Frontera sauvignon blanc": 3800.0,
+            "Pirovano soave": 5200.0,
+            "Casa coller moscato dolce": 6800.0,
+            "Champagne moet et chandon imperial": 28700.0,
+            "Vino blanco por copa": 750.0,
+            "Vino tinto por copa": 750.0,
+            "Vino rosado por copa": 800.0
+        }
+    }
+}

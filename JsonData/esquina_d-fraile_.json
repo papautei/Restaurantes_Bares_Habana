@@ -1,0 +1,203 @@
+{
+    "Name": "Esquina D-Fraile ",
+    "Specialty": [
+        "Comida Americana",
+        "caribenha",
+        "latina",
+        "criolla",
+        "internacional"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Plaza de la Revolucion",
+        "Address": "Calle D entre 1era y 3era, Vedado."
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            1200
+        ],
+        "Tuesday": [
+            1200,
+            1200
+        ],
+        "Wednesday": [
+            120,
+            1200
+        ],
+        "Thursday": [
+            1200,
+            1200
+        ],
+        "Friday": [
+            1200,
+            1200
+        ],
+        "Saturday": [
+            1200,
+            1200
+        ],
+        "Sunday": [
+            1200,
+            1200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Croquetas de pescado": 950.0,
+            "Empanadas de la casa": 950.0,
+            "Frituritas de malanga": 850.0,
+            "Pulpo encebollado al pimenton": 3000.0,
+            "Calamar a la romana": 3000.0,
+            "Ceviche": 2100.0,
+            "Ensalada de langosta": 2800.0,
+            "Coctel tropical de camaron": 1800.0,
+            "Tataki fraile": 2100.0,
+            "Tartar de la pesca del dia": 2100.0,
+            "Ensalada Cesar de pollo": 1800.0,
+            "Jamon serrano y productos ibericos": 3500.0,
+            "Fritos del mar": 3000.0,
+            "Sopa del pescador": 850.0,
+            "Garbanzo frito al estilo cubano": 1900.0,
+            "Manito de cerdo guisada": 1800.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Pollo al curry o teriyaki": 2000.0
+        },
+        "Pork": {
+            "Solomillo de cerdo con salsa de hongos y frutos seco": 3300.0
+        },
+        "Beef": {
+            "Solomillo de res con salsa de 5 pimientos/champinones/queso azul": 6000.0,
+            "Ropa vieja": 2100.0
+        },
+        "Pizza": {
+            "Queso fresco y tomate": 1500.0,
+            "Jamon": 2100.0,
+            "Bacon": 2400.0,
+            "Chorizo": 2400.0,
+            "Vegetales": 2000.0,
+            "Cuatro Estaciones": 2800.0,
+            "Hawaiana": 2400.0,
+            "Marinera": 3200.0,
+            "Jamon Serrano": 3000.0,
+            "Focaccia de jamon serrano y aceitunas": 2500.0,
+            "Calzone habanero": 3000.0
+        },
+        "Pasta": {
+            "Tomate y parmesano": 2000.0,
+            "Frutos del mar": 3000.0,
+            "Ajo, camaron y Parmesano": 2700.0,
+            "Amatriciana": 3000.0,
+            "Bolonesa": 2000.0,
+            "Carbonara": 2300.0,
+            "Nero de seppia": 3000.0
+        },
+        "Seafood": {
+            "Camarones al gusto": 2600.0,
+            "Langosta al gusto": 3200.0
+        },
+        "Fishes": {
+            "Pescado al tomate y olivo": 2900.0,
+            "Pescado con salsa de mostaza a las finas hierba": 2900.0,
+            "Pescado con alcaparra y cebolla": 3000.0,
+            "Pescado en refrito de ajo": 2800.0,
+            "Pescado con mojo iberico": 3200.0
+        },
+        "Desserts": {
+            "Helado": 750.0,
+            "Flan": 800.0,
+            "Copa lolita": 1000.0,
+            "Brownie con helado": 1000.0,
+            "Tarta tres leches": 800.0,
+            "Cheesecake": 1200.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Ensalada de vegetales": 600.0,
+            "Vegetal salteado": 700.0,
+            "Vegetales a la brasa": 600.0,
+            "Pure de viandas": 700.0,
+            "Vianda frita": 450.0,
+            "Arroz blanco": 300.0,
+            "Arroz pilaf": 500.0,
+            "Arroz moro": 350.0
+        },
+        "Other": {
+            "Paella Marinera": 6000.0,
+            "Arroz negro": 3000.0,
+            "Arroz meloso con langosta y camaron": 3000.0,
+            "Cordero a la cazuela": 3000.0,
+            "Arroz con pollo a la chorrera": 2200.0
+        },
+        "Drinks": {
+            "Daiquiri": 1000.0,
+            "Daiquiri de frutas": 1200.0,
+            "Cuba libre": 1000.0,
+            "Havana Especial": 1000.0,
+            "Mojito": 1000.0,
+            "Mojito de frutas": 1200.0,
+            "Caipirisima": 1000.0,
+            "Caipiroska": 1000.0,
+            "Pina colada": 1600.0,
+            "Pina colada sin alcohol": 1400.0,
+            "Cubata": 1000.0,
+            "Margarita": 1500.0,
+            "Tequilla sunrise": 1800.0,
+            "Screwdriver": 1600.0,
+            "Expresso Martini": 2000.0,
+            "Negroni": 2000.0,
+            "Martini": 2000.0,
+            "Manhattan": 2000.0,
+            "Whisky Sour": 1800.0,
+            "Sangria": 1500.0,
+            "Orgasmo": 2000.0,
+            "Agua gaseada importada": 800.0,
+            "Agua importada": 400.0,
+            "Agua tonica nacional": 500.0,
+            "Agua tonica importada": 1200.0,
+            "Refrescos importados": 500.0,
+            "Limonada": 6000.0,
+            "Limonada con hierba buena": 700.0,
+            "Cerveza de tonel 480ml": 450.0,
+            "Cerveza de tonel 250l": 250.0,
+            "Servicio de chelada": 250.0,
+            "Servicio de michelada": 350.0,
+            "Energizantes": 1000.0,
+            "Maltas": 500.0,
+            "Jugos naturales": 400.0,
+            "Cerveza Heineken": 800.0,
+            "Copa de vino tinto": 1200.0,
+            "Copa de vino blanco": 1200.0
+        }
+    }
+}

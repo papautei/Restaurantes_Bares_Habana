@@ -1,0 +1,148 @@
+{
+    "Name": "La Baronesa",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Centro Habana",
+        "Address": "Lagunas"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            800,
+            2200
+        ],
+        "Tuesday": [
+            800,
+            2200
+        ],
+        "Wednesday": [
+            800,
+            2200
+        ],
+        "Thursday": [
+            800,
+            2200
+        ],
+        "Friday": [
+            800,
+            2200
+        ],
+        "Saturday": [
+            800,
+            2200
+        ],
+        "Sunday": [
+            800,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": false,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": false,
+        "Post": null,
+        "Credit Card": false
+    },
+    "Menu": {
+        "Breakfast": {
+            "Frito natural": 450.0,
+            "Revuelto con vegetales": 500.0,
+            "Revuelto con jamon": 550.0,
+            "Revuelto con queso": 550.0,
+            "Revuelto con jamon y queso": 600.0,
+            "Natural": 330.0,
+            "Con vegetales": 380.0,
+            "Con queso": 400.0,
+            "Con jamon": 400.0,
+            "Con jamon y queso": 450.0
+        },
+        "Appetizers": {
+            "Croquetas de la casa": 600.0,
+            "Croquetas con jamon y queso": 750.0,
+            "Fajitas de jamon y queso": 950.0
+        },
+        "Bread": {
+            "Sencilla": 300.0,
+            "Con vegetales": 350.0,
+            "Con jamon": 400.0,
+            "Con queso": 400.0,
+            "Con jamon y queso": 500.0,
+            "S\u00faper": 650.0,
+            "S\u00faper al burro ": 800.0,
+            "Pan con bistec pollo": 600.0,
+            "Pan con bistec cerdo": 750.0,
+            "Pan con jamon y queso": 350.0
+        },
+        "Chicken": {
+            "Chiflado": 750.0,
+            "Parrilla bistec": 1200.0,
+            "A la campesina": 1250.0,
+            "Fajitas con vegetales": 1250.0,
+            "Fajitas empanizadas": 1350.0
+        },
+        "Pork": {
+            "Bistec de cerdo": 1500.0,
+            "Bistec de cerdo encebollado": 1550.0,
+            "Cerdo a la campesina (picante)-": 1550.0,
+            "Ropa vieja ": 1650.0,
+            "Fajitas con vegetales": 1550.0,
+            "Fajitas empanizadas": 1600.0,
+            "Lonjas de cerdo": 1500.0,
+            "Lomo ahumado": 1350.0,
+            "Fricase de cerdo ": 1850.0,
+            "Solomillo al jugo": 1750.0,
+            "Bistec uruguayo": 1800.0,
+            "Chuleton de cerdo": 1850.0
+        },
+        "Beef": {
+            "Fricase de res": 2300.0,
+            "Ropa vieja de res": 2300.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Filete de pescado": 1500.0,
+            "Camarones": 1600.0,
+            "Langosta": 2500.0,
+            "Canciller": 1800.0
+        },
+        "Fishes": {},
+        "Desserts": {},
+        "Sides": {
+            "Vegetales salteados": 350.0,
+            "Moro": 250.0,
+            "Fritura de vianda": 350.0,
+            "Tostones": 450.0
+        },
+        "Other": {},
+        "Drinks": {
+            "Expreso": 100.0,
+            "Cortadito": 150.0,
+            "Americano": 150.0,
+            "Con leche": 200.0,
+            "Capuchino": 300.0
+        }
+    }
+}

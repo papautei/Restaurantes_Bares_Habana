@@ -1,0 +1,166 @@
+{
+    "Name": "La Lola",
+    "Specialty": [
+        "Cocteleria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Calle Ayestaran entre San Pablo y Pedro Perez"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1400,
+            200
+        ],
+        "Tuesday": [
+            1400,
+            200
+        ],
+        "Wednesday": [
+            1400,
+            200
+        ],
+        "Thursday": [
+            1400,
+            200
+        ],
+        "Friday": [
+            1400,
+            200
+        ],
+        "Saturday": [
+            1400,
+            200
+        ],
+        "Sunday": [
+            1400,
+            200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Brusquetas": 700.0,
+            "Croquetas de jamon": 600.0,
+            "Papas fritas": 550.0,
+            "Papas gratinadas": 800.0,
+            "Toston relleno de atun": 1100.0,
+            "Toston relleno de jamon y queso": 800.0,
+            "Bolitas de queso": 730.0,
+            "Frituras de malanga": 500.0,
+            "Picadera Lalola": 4000.0,
+            "Picadera sencilla": 1500.0
+        },
+        "Bread": {
+            "Bocadillo de jamon y queso": 500.0,
+            "Sandwich de jamon y queso/papas": 1200.0,
+            "Sandwich cubano": 1100.0,
+            "Sandwich de jamon y queso": 900.0,
+            "Hamburguesa": 1500.0
+        },
+        "Chicken": {
+            "Nuggets de pollo": 2000.0
+        },
+        "Pork": {
+            "Lonjas de cerdo": 3500.0,
+            "Masas de cerdo": 1750.0
+        },
+        "Beef": {},
+        "Pizza": {
+            "Hamburguesa": 1500.0
+        },
+        "Pasta": {
+            "Canelones": 1350.0,
+            "Penne napolitano": 1100.0,
+            "spaghetti napolitano": 1100.0,
+            "spaghetti a la carbonara": 1970.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Jugo La Estancia": 350.0,
+            "Malteada": 200.0,
+            "Agua natural Cool Heaven": 350.0,
+            "Energizante": 350.0,
+            "Energizante Tigon Drink": 350.0,
+            "Limonada Frape": 450.0,
+            "Kermato": 580.0,
+            "Malta Optimal": 370.0,
+            "Refresco naranja": 300.0,
+            "Refresco de limon": 300.0,
+            "Refresco cola": 300.0,
+            "Refresco": 300.0,
+            "Refresco Pepsi": 350.0,
+            "Pinna Colada": 700.0,
+            "Ron Collins": 450.0,
+            "Sangria": 600.0,
+            "Screw Driver": 475.0,
+            "Daiquiri": 350.0,
+            "Gintonic": 750.0,
+            "John Collins": 450.0,
+            "Mojito": 350.0,
+            "Margarita": 950.0,
+            "Blue Hawai": 550.0,
+            "Blue Lagoon": 550.0,
+            "Caipirinha": 350.0,
+            "Caipirisima": 350.0,
+            "Caipiroska": 600.0,
+            "Cuba Libre": 350.0,
+            "Cubanito": 450.0,
+            "Cubata": 400.0,
+            "Chelada": 150.0,
+            "Michelada": 350.0,
+            "Botella de whisky Ballantines": 10000.0,
+            "Botella de whisky Johnnie Walker Red Label": 13000.0,
+            "Botella de whisky Johnnie Walker Red Label 1LT": 15000.0,
+            "Botella de whisky Jamerson": 10000.0,
+            "Botella de whisky Chivas Regal": 15000.0,
+            "Botella Ron Havana Club Smokey": 5000.0,
+            "Botella Ron Havana Club Reserva": 5000.0,
+            "Whisky Chivas Regal 12 annos (4.5L)": 125440.0,
+            "Cerveza Bucanero lata": 350.0,
+            "Cerveza Heineken botella": 574.0,
+            "Cerveza Cristal lata": 350.0,
+            "Cerveza Cristal botella": 420.0,
+            "Cerveza Super Bock botella": 370.0,
+            "Cerveza Sol": 480.0,
+            "Cubetazo La Lola": 4200.0,
+            "Cubetazo Picadera": 3300.0,
+            "cafe bombon": 350.0,
+            "cafe cortadito": 300.0,
+            "cafe expresso": 200.0
+        }
+    }
+}

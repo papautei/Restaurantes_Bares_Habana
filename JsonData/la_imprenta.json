@@ -1,0 +1,112 @@
+{
+    "Name": "La imprenta",
+    "Specialty": [
+        "Variada"
+    ],
+    "Ownership": "Estatal",
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": "Mercaderes entre Lamparilla y Amargura"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2300
+        ],
+        "Tuesday": [
+            1200,
+            2300
+        ],
+        "Wednesday": [
+            1200,
+            2300
+        ],
+        "Thursday": [
+            1200,
+            2300
+        ],
+        "Friday": [
+            1200,
+            2300
+        ],
+        "Saturday": [
+            1200,
+            2300
+        ],
+        "Sunday": [
+            1200,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": true,
+        "Smokers_Area": false,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": true
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Queso escabechado": 140.0,
+            "Tapas de tomate y queso": 85.0,
+            "Crema de vegetales": 140.0,
+            "Judia imprenta": 195.0,
+            "Garbanzo frito": 45.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Lonjas de cerdo": 1330.0,
+            "Cerdo estofado": 1670.0,
+            "Bistec de cerdo": 1675.0,
+            "Barril de cerdo con jamon y queso": 1500.0,
+            "Rollo de cerdo con jamon y queso": 1350.0
+        },
+        "Beef": {
+            "Tablon de carne": 2300.0,
+            "Res estofada": 875.0,
+            "Ropa vieja imprenta": 800.0,
+            "Entrecot": 850.0,
+            "Chateaubriand": 1700.0,
+            "Filete mignon con salsa espanhola": 1300.0,
+            "Brochetas de res": 1100.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Langosta grille maitre d' hotel": 4200.0,
+            "Anillas de langosta en salsa": 2175.0
+        },
+        "Fishes": {},
+        "Desserts": {
+            "Brochetas de torrejas": 60.0
+        },
+        "Sides": {
+            "Vianda hervida con mojo": 175.0,
+            "Arroz de sustancia ocasion": 105.0
+        },
+        "Other": {},
+        "Drinks": {}
+    }
+}

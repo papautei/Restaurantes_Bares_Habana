@@ -1,0 +1,91 @@
+{
+    "Name": "La Baliza",
+    "Specialty": [
+        [
+            "Fast Food"
+        ]
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "La Lisa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": null,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {},
+        "Bread": {
+            "Sandwich de Jamon y Queso": 500,
+            "Hamburguesa": 490,
+            "Super Hamburguesa": 950
+        },
+        "Chicken": {
+            
+            
+            
+            
+            
+        },
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza con queso gouda (small)": 450,
+            "Pizza con queso gouda (large)": 700,
+            "Pizza de queso blanco (small)": 350,
+            "Pizza de queso blanco(large)": 520
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {
+            "Jamon": 150,
+            "Queso Gou": 200,
+            
+            "Queso gouda": 200
+        },
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Cerveza Importada": 250,
+            "Batido de Mamey": 230,
+            "Refresco importado": 230,
+            "Agua mineral natural": 150
+        }
+    }
+}

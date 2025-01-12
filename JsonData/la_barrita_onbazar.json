@@ -1,0 +1,122 @@
+{
+    "Name": "La Barrita Onbazar",
+    "Specialty": [
+        "Pizzeria"
+    ],
+    "Ownership": "Particular",
+    "Location": {
+        "District": "Cerro",
+        "Address": "Amenida entre Cruz del Pader e Infanta"
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            900,
+            2300
+        ],
+        "Tuesday": [
+            900,
+            2300
+        ],
+        "Wednesday": [
+            900,
+            2300
+        ],
+        "Thursday": [
+            900,
+            2300
+        ],
+        "Friday": [
+            900,
+            2300
+        ],
+        "Saturday": [
+            900,
+            2300
+        ],
+        "Sunday": [
+            900,
+            2300
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": null,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": null,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": null,
+        "Transfermovil": null,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Tostones rellenos": 1300.0,
+            "Jamon ,queso y aceitunas": 750.0,
+            "Mixta": 1600.0,
+            "Brochetas": 2000.0,
+            "Croquetas": 650.0,
+            "Pollo frito": 1500.0,
+            "Pollo chiflado": 1650.0
+        },
+        "Bread": {
+            "entrepan de tortilla": 700.0,
+            "entrepan de tortilla especial": 1000.0,
+            "mini hot dog": 600.0,
+            "Hamburguesa ": 1200.0,
+            "Hamburguesa jamon y queso": 1650.0,
+            "Hamburguesa onbazar": 2700.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza de napolitana": 850.0,
+            "Pizza de chorizo": 1000.0,
+            "Pizza de jamon": 1000.0,
+            "Pizza de hawaiana": 1150.0,
+            "Pizza de cebolla": 1000.0
+        },
+        "Pasta": {
+            "spaghettis": 850.0,
+            "spaghettis de jamon": 1100.0,
+            "spaghettis de chorizo": 1000.0
+        },
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {
+            "garbanzo frito": 1900.0,
+            "arroz frito": 1200.0
+        },
+        "Drinks": {
+            "Pinna colada": 600.0,
+            "Limonada frape": 400.0,
+            "Malteada": 500.0,
+            "Pinna colada (alchol)": 750.0,
+            "Cafe expreso": 180.0,
+            "Cafe cortado": 220.0,
+            "Capuchino": 450.0,
+            "Cafe bombon": 450.0
+        }
+    }
+}

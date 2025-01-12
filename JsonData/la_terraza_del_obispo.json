@@ -1,0 +1,103 @@
+{
+    "Name": "La_Terraza_del_Obispo",
+    "Specialty": [
+        "Criolla"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Habana Vieja",
+        "Address": null
+    },
+    "Contact": {
+        "Web": null,
+        "Facebook": null,
+        "Instagram": null
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            2200
+        ],
+        "Tuesday": [
+            1200,
+            2200
+        ],
+        "Wednesday": [
+            1200,
+            2200
+        ],
+        "Thursday": [
+            1200,
+            2200
+        ],
+        "Friday": [
+            1200,
+            2200
+        ],
+        "Saturday": [
+            1200,
+            2200
+        ],
+        "Sunday": [
+            1200,
+            2200
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 3.5,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": null,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": true,
+        "Smokers_Area": true,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Eperlan de Pescado": 600.0,
+            "Croquetas de la Casa": 250.0
+        },
+        "Bread": {},
+        "Chicken": {},
+        "Pork": {
+            "Chuletas de Cerdo": 900.0,
+            "Masas de Cerdo": 900.0,
+            "Bistec de Cerdo Grille": 850.0,
+            "Fajitas de Cerdo": 850.0,
+            "Lomo Ahumado Grille": 850.0
+        },
+        "Beef": {},
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Langosta Grille": 1200.0,
+            "Langosta Enchilada": 1200.0,
+            "Camaron Grille": 750.0,
+            "Camaron Enchilado": 750.0
+        },
+        "Fishes": {
+            "Rueda de Bonito Grille": 700.0,
+            "Filete de Pescado Empanado": 800.0,
+            "Masas de Pescado Enchiladas": 800.0
+        },
+        "Desserts": {},
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {}
+    }
+}

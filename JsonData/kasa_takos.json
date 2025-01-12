@@ -1,0 +1,239 @@
+{
+    "Name": "Kasa Takos",
+    "Specialty": [
+        "caribenha",
+        "mexicana",
+        "cubana"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Centro Habana",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "https://beacons.ai/kasatakos",
+        "Facebook": "KasaTakos",
+        "Instagram": "@kasatakos_havana"
+    },
+    "Schedule": {
+        "Monday": [
+            1200,
+            30
+        ],
+        "Tuesday": [
+            1200,
+            30
+        ],
+        "Wednesday": [
+            1200,
+            30
+        ],
+        "Thursday": [
+            1200,
+            30
+        ],
+        "Friday": [
+            1200,
+            30
+        ],
+        "Saturday": [
+            1200,
+            30
+        ],
+        "Sunday": [
+            1200,
+            30
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.4,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": false,
+        "Reservation_required": null,
+        "Delivery": false,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": false,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": false
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Nachos": 400.0,
+            "Tostones rellenos r.v": 800.0,
+            "Frituras de malanga": 500.0,
+            "Tostones rellenos camaron": 900.0,
+            "Croquetas de la casa": 600.0,
+            "Pozole": 700.0,
+            "Tostones rellenos jsm": 700.0,
+            "Pica pica que rico": 1600.0
+        },
+        "Bread": {},
+        "Chicken": {
+            "Bistec de pechuga de pollo al graten": 1400.0,
+            "Bistec grille de pollo": 900.0,
+            "Pollo a la mexicana": 950.0,
+            "Fajitas de pollo salteadas": 1000.0,
+            "Ranchero de pollo": 1200.0
+        },
+        "Pork": {
+            "Bistec grille de cerdo encebollado": 1300.0,
+            "Fajitas de cerdo salteadas": 1400.0,
+            "Solomillo de cerdo": 2000.0,
+            "Ranchero de cerdo": 1800.0,
+            "Rollo de la casa (cerdo)": 1850.0
+        },
+        "Beef": {
+            "Solomillo de res": 2000.0,
+            "Vaca frita": 1250.0,
+            "Ropa vieja": 1400.0,
+            "Bistec de res encebollado": 1600.0,
+            "Rollo de la casa (res)": 2000.0
+        },
+        "Pizza": {},
+        "Pasta": {},
+        "Seafood": {
+            "Grille de camaron": 1700.0,
+            "Ajillo de camaron": 2000.0,
+            "Enchilado de camaron": 1850.0,
+            "Grille de pescado": 1300.0,
+            "Grille de langosta": 1700.0,
+            "Ajillo de langosta": 2000.0,
+            "Enchilado de langosta": 1850.0,
+            "Termidor": 2200.0
+        },
+        "Fishes": {
+            "Ajillo de pescado": 1400.0,
+            "Enchilado de pescado": 1500.0,
+            "John ville": 2000.0
+        },
+        "Desserts": {
+            "Flan": 350.0,
+            "Postre de la casa": 250.0
+        },
+        "Additions": {},
+        "Sides": {
+            "Arroz blanco": 150.0,
+            "Arroz moro": 250.0,
+            "Vegetales": 400.0,
+            "Vianda frita": 450.0
+        },
+        "Other": {
+            "Rollo de la casa (res)": 2000.0,
+            "Tacos de vegetales": 800.0,
+            "Tacos de pollo": 950.0,
+            "Tacos de carnita": 1000.0,
+            "Tacos de ropa vieja": 1100.0,
+            "Tacos de cochinita": 1100.0,
+            "Tacos al pastor": 1200.0,
+            "Tacos de camaron": 1600.0,
+            "Tacos de langosta": 1600.0,
+            "Takos combinados": 1600.0,
+            "Quesadillas de vegetales": 850.0,
+            "Quesadillas de pollo": 1000.0,
+            "Quesadillas de carnita": 1050.0,
+            "Quesadillas de ropa vieja": 1150.0,
+            "Quesadillas de cochinita": 1150.0,
+            "Quesadillas al pastor": 1250.0,
+            "Quesadillas de camaron": 1650.0,
+            "Quesadillas de langosta": 1650.0,
+            "Burritos de vegetales": 900.0,
+            "Burritos de pollo": 1150.0,
+            "Burritos de carnita": 1100.0,
+            "Burritos de ropa vieja": 1200.0,
+            "Burritos de cochinita": 1200.0,
+            "Burritos al pastor": 1300.0,
+            "Burritos de camaron": 1700.0,
+            "Burritos de langosta": 1700.0,
+            "Chimichangas de vegetales": 920.0,
+            "Chimichangas de pollo": 1170.0,
+            "Chimichangas de carnita": 1120.0,
+            "Chimichangas de ropa vieja": 1220.0,
+            "Chimichangas de cochinita": 1220.0,
+            "Chimichangas al pastor": 1320.0,
+            "Chimichangas de camaron": 1720.0,
+            "Chimichangas de langosta": 1720.0
+        },
+        "Drinks": {
+            "Agua natural 1.5 l": 350.0,
+            "Agua natural 500 ml": 250.0,
+            "Energizante": 500.0,
+            "Refrescos pepsy y 7up": 300.0,
+            "Refresco santa": 250.0,
+            "Limonada natural": 300.0,
+            "Limonada clarete": 450.0,
+            "Jugos naturales": 300.0,
+            "Limonada frappe": 300.0,
+            "Limonada frescura": 400.0,
+            "Cerveza cristal": 350.0,
+            "Cerveza heineken": 540.0,
+            "Cerveza krombacher": 250.0,
+            "Cerveza 8.6": 370.0,
+            "Mojito": 450.0,
+            "Ron collins": 400.0,
+            "Mojito saborizado": 500.0,
+            "Cubata": 500.0,
+            "Canchanchara": 400.0,
+            "Daiquiri": 450.0,
+            "Havana especial": 500.0,
+            "Daiquiri saborizado": 500.0,
+            "Mary pickford": 400.0,
+            "Cuba libre": 450.0,
+            "Margarita": 600.0,
+            "Caipirinha": 400.0,
+            "Gold margarita": 700.0,
+            "Caipiroska": 450.0,
+            "Calimocho": 400.0,
+            "Caipirissima": 450.0,
+            "Gin tonic": 1300.0,
+            "Screw driver": 400.0,
+            "Vodka tonic": 650.0,
+            "Servicio chelada": 200.0,
+            "Blue lagoon": 600.0,
+            "Servicio michelada": 250.0,
+            "Sangria": 500.0,
+            "Tinto de verano": 600.0,
+            "Pinha colada": 600.0,
+            "Vino tinto": 1000.0,
+            "Black tears aguardiente": 200.0,
+            "Hab club anhejo 7 anhos": 500.0,
+            "Black tears super dry": 260.0,
+            "Ron santiago 11 anhos": 750.0,
+            "Black tears dry spiced": 300.0,
+            "Ron santiago 12 anhos": 800.0,
+            "Hab club anhejo reserva": 300.0,
+            "Pacto navio": 950.0,
+            "Hab club ritual": 500.0,
+            "Olmeca blanco": 400.0,
+            "Dark chocolate": 500.0,
+            "Olmeca reposado": 500.0,
+            "Viuda de romero": 500.0,
+            "Johnnie walker red label": 750.0,
+            "Black & white whisky": 500.0,
+            "Brandy torre 10": 400.0,
+            "Vermouth blanco": 250.0,
+            "Brandy torre 15": 450.0,
+            "Vermouth rosso": 250.0,
+            "Ginebra": 300.0,
+            "Vodka": 250.0,
+            "Cafe express": 150.0,
+            "Cafe americano": 150.0,
+            "Cafe cortado": 170.0,
+            "Cafe con leche": 350.0,
+            "Cafe capuccino": 350.0,
+            "Cafe frapuccino": 350.0
+        }
+    }
+}

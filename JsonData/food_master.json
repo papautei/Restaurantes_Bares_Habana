@@ -1,0 +1,127 @@
+{
+    "Name": "Food Master",
+    "Specialty": [
+        "americana",
+        "mexicana",
+        "internacional"
+    ],
+    "Ownership": null,
+    "Location": {
+        "District": "Playa",
+        "Address": null
+    },
+    "Contact": {
+        "Web": "https://linktr.ee/foodmaster.havana",
+        "Facebook": "Food Master La Habana",
+        "Instagram": "@foodmaster.havana"
+    },
+    "Schedule": {
+        "Monday": [
+            1030,
+            2100
+        ],
+        "Tuesday": [
+            1030,
+            2100
+        ],
+        "Wednesday": [
+            1030,
+            2100
+        ],
+        "Thursday": [
+            1030,
+            2100
+        ],
+        "Friday": [
+            1030,
+            2200
+        ],
+        "Saturday": [
+            1030,
+            2200
+        ],
+        "Sunday": [
+            1030,
+            2100
+        ]
+    },
+    "Rating": {
+        "Tripadvisor": null,
+        "Google": 4.0,
+        "Facebook": null
+    },
+    "Services": {
+        "Bathroom": null,
+        "Reservation_possible": true,
+        "Reservation_required": null,
+        "Delivery": true,
+        "Children": null,
+        "Smokers_Area": null,
+        "Parking": true,
+        "Takeaway": null,
+        "Wifi": null,
+        "takeaway": true
+    },
+    "Payment": {
+        "Cash": true,
+        "Transfermovil": true,
+        "Post": null,
+        "Credit Card": null
+    },
+    "Menu": {
+        "Breakfast": {},
+        "Appetizers": {
+            "Picadera food master": 2700.0,
+            "Salchichas al grill": 1600.0,
+            "Quesadilla": 990.0,
+            "Tacos": 990.0,
+            "Croquetas": 700.0,
+            "Empanadas": 750.0,
+            "Papas fritas": 690.0
+        },
+        "Bread": {
+            "Big master burger": 3500.0,
+            "Hamburguesa suiza": 2950.0,
+            "Hamburguesa max": 2700.0,
+            "Hamburguesa la granja": 2550.0,
+            "Hamburguesa italiana": 2450.0
+        },
+        "Chicken": {},
+        "Pork": {},
+        "Beef": {},
+        "Pizza": {
+            "Pizza margarita": 1900.0,
+            "Pizza margarita con jamon": 2400.0,
+            "Pizza diavola": 2600.0,
+            "Pizza de jamon serrano": 3200.0,
+            "Pizza de atun": 3100.0,
+            "La prohibida en italia": 3200.0
+        },
+        "Pasta": {},
+        "Seafood": {},
+        "Fishes": {},
+        "Desserts": {
+            "Empanadas de pi\u00f1a y queso": 750.0,
+            "Muffin": 550.0,
+            "Helado": 750.0
+        },
+        "Additions": {},
+        "Sides": {},
+        "Other": {},
+        "Drinks": {
+            "Jugo natural": 500.0,
+            "Jugo cajita": 400.0,
+            "Fresh de pepino": 300.0,
+            "Vino por copa": 900.0,
+            "Gin & tonic": 1200.0,
+            "Chelada": 900.0,
+            "Michelada": 1000.0,
+            "Sangria": 1100.0,
+            "Sangria blanca": 1100.0,
+            "Tinto de verano": 900.0,
+            "Spirit coctel": 800.0,
+            "Cerveza": 600.0,
+            "Cerveza gama alta": 800.0
+        }
+    }
+}
